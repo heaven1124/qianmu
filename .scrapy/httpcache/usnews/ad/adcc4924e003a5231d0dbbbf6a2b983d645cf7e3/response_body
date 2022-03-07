@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>舍布鲁克大学-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="舍布鲁克大学" />
+<meta name="description"  id="description"  content="舍布鲁克大学:舍布鲁克大学（Université de Sherbrooke）是一所大型公立大学，成立于1954年，位于加拿大魁北克省舍布鲁克（Sherbrooke）、隆格伊（Longueuil）市，在麦考林排名中被归类为医博类大学。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">舍布鲁克大学 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p>排名</p>
+			</td>
+			<td>
+			<p>15</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>国家</p>
+			</td>
+			<td>
+			<p>加拿大</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>州省</p>
+			</td>
+			<td>
+			<p><a href="http://www.qianmu.org/魁北克省" target="_blank">魁北克省</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>城市</p>
+			</td>
+			<td>
+			<p>舍布鲁克、隆格伊</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>性质</p>
+			</td>
+			<td>
+			<p>公立，男女合校</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>成立年份</p>
+			</td>
+			<td>
+			<p>1954年</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>宗教信仰</p>
+			</td>
+			<td>
+			<p>无</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>学生人数</p>
+			</td>
+			<td>
+			<p>35,000</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>学校分类</p>
+			</td>
+			<td>
+			<p>医博类大学</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>网址</p>
+			</td>
+			<td>
+			<p>www.usherbrooke.ca</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+					<div id="content"><p>舍布鲁克大学（Universit&eacute; de Sherbrooke）是一所大型公立大学，成立于1954年，位于加拿大<a  href='http://www.qianmu.org/魁北克省' target='_blank'>魁北克省</a>舍布鲁克（Sherbrooke）、隆格伊（Longueuil）市，在麦考林排名中被归类为医博类大学。</p>
+
+<p><strong>国内高校排名</strong><br />
+2014年麦考林<a  href='http://www.qianmu.org/加拿大大学排名' target='_blank'>加拿大大学排名</a> 15<br />
+全球高校网(4ICU)国家高校排名 第26名<br />
+加拿大《麦克林》大学综合排名 第9名</p>
+
+<p><strong>全球高校排名</strong></p>
+
+<p>2014<a  href='http://www.qianmu.org/QS世界大学排名' target='_blank'>QS世界大学排名</a>:441-450<br />
+韦伯麦特里克斯网(Webometrics)世界大学排名 第471名<br />
+法国巴黎高等矿业学院世界大学排名 第212名<br />
+<strong>国内MBA排名</strong><br />
+全球教育商学院排名网国家商学院排名 第17名</p>
+
+<h1>本科申请</h1>
+
+<p><strong>基本信息：</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:622px">
+	<tbody>
+		<tr>
+			<td>
+			<p>麦考林排名</p>
+			</td>
+			<td style="width:85px">
+			<p>15</p>
+			</td>
+			<td style="width:133px">
+			<p>学费（/年）</p>
+			</td>
+			<td style="width:75px">
+			<p>$20,412</p>
+			</td>
+			<td style="width:114px">
+			<p>申请截止日期</p>
+			</td>
+			<td style="width:114px">
+			<p>1月15日</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><a  href='http://www.qianmu.org/TOEFL' target='_blank'>TOEFL</a>要求</p>
+			</td>
+			<td style="width:85px">
+			<p>-</p>
+			</td>
+			<td style="width:133px">
+			<p>申请费</p>
+			</td>
+			<td style="width:75px">
+			<p>$90</p>
+			</td>
+			<td style="width:114px">
+			<p>开学时间</p>
+			</td>
+			<td style="width:114px">
+			<p>每年8-9月</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><a  href='http://www.qianmu.org/IELTS' target='_blank'>IELTS</a>要求</p>
+			</td>
+			<td style="width:85px">
+			<p>-</p>
+			</td>
+			<td style="width:133px">
+			<p>是否认可高考成绩</p>
+			</td>
+			<td style="width:75px">
+			<p>No</p>
+			</td>
+			<td style="width:114px">
+			<p>可申请学期</p>
+			</td>
+			<td style="width:114px">
+			<p>秋季、冬季</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><a  href='http://www.qianmu.org/IB' target='_blank'>IB</a>分数要求</p>
+			</td>
+			<td style="width:85px">
+			<p>-</p>
+			</td>
+			<td style="width:133px">
+			<p>是否提供<a  href='http://www.qianmu.org/语言课程' target='_blank'>语言课程</a></p>
+			</td>
+			<td style="width:75px">
+			<p>Yes</p>
+			</td>
+			<td style="width:114px">
+			<p>是否提供<a  href='http://www.qianmu.org/双录取' target='_blank'>双录取</a></p>
+			</td>
+			<td style="width:114px">
+			<p>Yes</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>师生比</p>
+			</td>
+			<td style="width:85px">
+			<p>1：12</p>
+			</td>
+			<td style="width:133px">
+			<p>录取率</p>
+			</td>
+			<td style="width:75px">
+			<p>-</p>
+			</td>
+			<td style="width:114px">
+			<p>是否要求<a  href='http://www.qianmu.org/面试' target='_blank'>面试</a></p>
+			</td>
+			<td style="width:114px">
+			<p>No</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>注：</p>
+
+<p>（1）舍布鲁克大学主要以<a  href='http://www.qianmu.org/法语' target='_blank'>法语</a>教学为主，只有少量的<a  href='http://www.qianmu.org/英语' target='_blank'>英语</a>课程，要求学生递交TFI（<a  href='http://www.qianmu.org/国际法' target='_blank'>国际法</a>语水平测试）成绩</p>
+
+<p>（2）冬季学期通常在1月份开学，9月1日申请截止</p>
+
+<p>（3）舍布鲁克大学开设有法语语言课程</p>
+
+<h2>申请说明</h2>
+
+<p>舍布鲁克大学通过舍布鲁克大学在线或纸质申请，必需的<a  href='http://www.qianmu.org/申请材料' target='_blank'>申请材料</a>包括：</p>
+
+<p>（1）舍布鲁克大学申请表；</p>
+
+<p>（2）TFI（国际法语水平测试）；</p>
+
+<p>（3）IB成绩（非必需）；</p>
+
+<p>（4）<a  href='http://www.qianmu.org/推荐信' target='_blank'>推荐信</a>和ESSAY；</p>
+
+<p>（5）高中<a  href='http://www.qianmu.org/成绩单' target='_blank'>成绩单</a>；</p>
+
+<p>（6）高中毕业证/高中<a  href='http://www.qianmu.org/在读证明' target='_blank'>在读证明</a>；</p>
+
+<p>（7）<a  href='http://www.qianmu.org/资金证明' target='_blank'>资金证明</a></p>
+
+<p>注：舍布鲁克大学无需面试</p>
+
+<p><strong>费用与奖学金</strong></p>
+
+<p>学费分为三等：16792、20412和22641加元/年；一年个人生活费约13,656加元（含食宿）。算上医疗保险费、交通费、个人其它花费等，国内学生约需担保金23万人民币。</p>
+
+<p>&nbsp;</p>
+
+<p>参考资料：</p>
+
+<p>本文数据主要采自舍布鲁克大学官网</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2014-09-04</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1208;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1208' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1208;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

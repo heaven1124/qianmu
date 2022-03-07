@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>内华达大学雷诺分校-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="内华达大学雷诺分校" />
+<meta name="description"  id="description"  content="内华达大学雷诺分校:内华达大学雷诺分校（University of Nevada,Reno）是一所中等大小的公立综合性全国大学，成立于1874年，位于美国西部小城雷诺（Reno,NV），提供本科、硕士、博士、文凭课程（Certificate）四种学位类型。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">内华达大学雷诺分校 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:130px">			<p>排名</p>			</td>			<td style="width:293px">			<p>227*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国家</p>			</td>			<td style="width:293px">			<p>美国</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>州省</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/内华达州" target="_blank">内华达州</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>城市</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/雷诺（内华达州）" target="_blank">雷诺</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校训</p>			</td>			<td style="width:293px">			<p>Omnia Pro Patria(All for our Country) (1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>汉译</p>			</td>			<td style="width:293px">			<p>一切为了祖国</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>性质</p>			</td>			<td style="width:293px">			<p>公立，男女合校</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>成立年份</p>			</td>			<td style="width:293px">			<p>1874年*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>宗教信仰</p>			</td>			<td style="width:293px">			<p>无</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校园</p>			</td>			<td style="width:293px">			<p>1.2Km<sup>2</sup>，市区*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学生人数</p>			</td>			<td style="width:293px">			<p>20,880</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>本科生人数</p>			</td>			<td style="width:293px">			<p>17,770*(5)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>研究生人数</p>			</td>			<td style="width:293px">			<p>3,110*(5)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>师生比</p>			</td>			<td style="width:293px">			<p>1:22*(6)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国际学生比例</p>			</td>			<td style="width:293px">			<p>1%*(5)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学校分类</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/全国性大学" target="_blank">全国性大学</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学校集团</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/内华达高等教育系统" target="_blank">内华达高等教育系统</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>认证机构</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/西北学院及大学认证委员会" target="_blank">西北学院及大学认证委员会</a>（NWCCU）</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>网址</p>			</td>			<td style="width:293px">			<p>www.unr.edu</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>内华达大学雷诺分校（University of Nevada, Reno，缩写UNR，或直接作&ldquo;Navada&rdquo;），属于<a href="http://www.qianmu.org/内华达高等教育系统" target="_blank">内华达高等教育系统</a>的一员，通常作&ldquo;内华达大学&rdquo;，而不带&ldquo;<a href="http://www.qianmu.org/雷诺（内华达州）" target="_blank">雷诺</a>分校&rdquo;字样，但为与该系统下的另一所综合性大学&mdash;&mdash;<a href="http://www.qianmu.org/内华达大学拉斯维加斯分校" target="_blank">内华达大学拉斯维加斯分校</a>区分，一般也会称作&ldquo;内华达大学雷洛分校&rdquo;。*(1)</p><p>内华达大学雷诺分校成立于1874年，是内华达高等教育系统的旗舰学校，也是<a href="http://www.qianmu.org/内华达州" target="_blank">内华达州</a>唯一的联邦赠地大学。位于内华达州小城雷诺市（该市临近<a href="http://www.qianmu.org/拉斯维加斯" target="_blank">拉斯维加斯</a>），拥有在校学生1.8万人，占地面积1.2平方千米。*(1)</p><p>内华达大学工程学院拥有一座大型的结构实验室，<a href="http://www.qianmu.org/土木工程" target="_blank">土木工程</a>、地震研究以及大型结构测试与建模等都可以在该实验室完成。除工程之外，内华达大学的环境文学、<a href="http://www.qianmu.org/新闻学" target="_blank">新闻学</a>以及<a href="http://www.qianmu.org/巴斯（英格兰）" target="_blank">巴斯</a>克研究以及一些社会科学项目（如<a href="http://www.qianmu.org/心理学" target="_blank">心理学</a>），都被认为是拥有超高水平师资力量的专业。该校的唐纳德&middot;W&middot;雷诺兹新闻学院（Donald W. Reynolds School of Journalism）产生过六位普利策奖获得者。*(1)</p><p><strong>校园环境</strong></p><p>内华达大学雷诺分校位于雷诺市中心偏北的地方，整个校园位于波光粼粼的太皓湖畔（Lake Tahoe），进入湖面可以泛舟，清风气爽，站在校园可以俯瞰特拉基（Truckee Meadows）草原，使人心旷神怡。自立校之日起，因地处沙漠边缘，内华达大学雷诺分校就一直在为校园的可持续发展奋斗。校园内拥有诸多可持续发展项目的成果，如使用太阳能板发电的学生中心，以及许多使用绿色理念构建的绿色建筑。*(2)(3)</p><p><strong>校名轶闻</strong></p><p>与很多公立<a href="http://www.qianmu.org/大学系统" target="_blank">大学系统</a>一样，如<a href="http://www.qianmu.org/加州大学伯克利分校" target="_blank">加州大学伯克利分校</a>和<a href="http://www.qianmu.org/加州大学系统" target="_blank">加州大学系统</a>，<a href="http://www.qianmu.org/密歇根大学安娜堡分校" target="_blank">密歇根大学安娜堡分校</a>和<a href="http://www.qianmu.org/密歇根大学系统" target="_blank">密歇根大学系统</a>，<a href="http://www.qianmu.org/威斯康辛大学麦迪逊分校" target="_blank">威斯康辛大学麦迪逊分校</a>和<a href="http://www.qianmu.org/威斯康辛大学系统" target="_blank">威斯康辛大学系统</a>等，内华达大学与内华达高等教育系统的其它成员之间也有名字的争议。其中，当属内华达大学拉斯维加斯分校为最，内华达大学雷诺分校常自简称为&ldquo;Navada&rdquo;，且通常以&ldquo;University of Nevada&rdquo;作为自己的校名，俨然以内华达州的代表者自居。但内华达大学雷诺分校认为自己的名字（以及简称）打自己建立起就在用了，没有人可以要求自己改名字，就像加州大学<a href="http://www.qianmu.org/伯克利（加利福尼亚州）" target="_blank">伯克利</a>分校直以&ldquo;California&ldquo;或 &rdquo;Cal&rdquo;作为自己的代称一样。不过加州伯克利的简称通常只用于体育活动中，内华达大学雷诺分校则用于自己的方方面面。有意思的是，内华达大学雷诺分校和内华达大学拉斯维加斯分校体育对垒的时候，如果主场是在雷诺市，通常会写作&ldquo;Navada VS UNLV&rdquo;&mdash;&mdash;UNLV为拉斯维加斯分校的缩写，而如果主场是在拉斯维加斯市，则会写作&ldquo;UNLV VS UNR&rdquo;，使用UNR作为内华达大学雷诺分校的代称。*(4)</p><h2>申请点评</h2><p><strong>好评项：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p><p>1.Cheap tuition</p><p>2.Close to downtown</p><p>3.Near Lake Tahoe</p><p>4.Professors care and want you to do well.</p><p>5.The Reynolds School of Journalism</p><p>6.Small, pretty campus</p><p>7.Ski/snowboard resorts close to campus</p><p>8.Easy to get involved with clubs</p><p>9.Mathewson-IGT Knowledge Center</p><p>10.Study abroad program*(7)</p><p><strong>差评项：</strong></p><p>1.Often cold</p><p>2.Class sizes are often large, making things impersonal.</p><p>3.Budget cuts affecting the university</p><p>4.Students not incredibly dedicated to academics</p><p>5.Lack of public transportation</p><p>6.The student senate</p><p>7.There is not always much to do other than party.</p><p>8.Not incredibly prestigious</p><p>9.Most students are in-state; there is a chance that there will be someone you know from high school in almost every class.</p><p>10.Food options aren&#39;t great and are usually unhealthy*(7)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=CrXRF8W-LUrJdoBVEEEEEEdO8K93ejE0d9Upd4AEl9ZLncfEssJx1bMb1WsTPyJI285XcxCDO8WDLHDxrXDnHcjX-N7MVd6X5Il1" target="_blank">University of Nevada, Reno</a> Wikipedia</p><p>(2) <a href="http://www.qianmu.org/redirect?code=Rr0CBrMQLVxrLMfSuuuuuu7V-Ek6c1JqgLyqN_TVgUmO5ETZzFJ6b6J_gUcLoQR1Va5B6WdhoWmi4AFjtAonu2tN1Bb-hyt0I5QFDIpnAtguU" target="_blank">University of Nevada, Reno Campus</a> Wikipedia</p><p>(3) <a href="http://www.qianmu.org/redirect?code=urKrNAQXLCZnSf-7OOOOOOjPfx_DigqVeUeUA7wI2J0-r3MIpCmP2ABDpAWx2ys5b3wcp3pJXZDNgBWz60DN" target="_blank">RENO &amp; LAKE TAHOE</a> University of Nevada, Reno</p><p>(4) <a href="http://www.qianmu.org/redirect?code=9rpcSX3jk78ysqSNyyyyymiu82oW4Z0D9YRBzYHlkNQX02PlJudoygE7G7EKgQAF9XOJOX0mbpVB32HptLpfBwtcGWdOtUp0-mBLbOsQXOh6H93ZMA583K8mOAFzh9" target="_blank">University of Nevada, Reno Precise name</a> Wikipedia</p><p>(5) <a href="http://www.qianmu.org/redirect?code=BraKR4YtwQ4TaJIBwwwwwIKKteC3p_jNlijGh48HlkrNPkrGbkV3szsmLzzOh8IVrqwgEUzy7Zyy7X1_B4dMx-dY0mbKx4dMDPQG1VHlrWOR_WnGfFqjE61_CbamCRaQapaDhFq7sRfKiJimxaWO" target="_blank">University of Nevada--Reno</a> USNEWS</p><p>(6) <a href="http://www.qianmu.org/redirect?code=OrMxo-GuwN_n-CxGA0d0ZyhZj-TKF-MhWofkxGpLzSejUfv9gBV3YMig2bBdo28rlBizuA2RA3N7djwgb9JUaFwAfcpGIWzS2uLf3Tzf49fUGdoGBloPaig9GFjvM4rsmWBl9UB9qI0zNtdG1Aj515clOh3x_dwwW" target="_blank">University of Nevada: Reno</a> College Board</p><p>(7) <a href="http://www.qianmu.org/redirect?code=QrzUA2XRkUBr17P4UUUUUR3K9B6sbzYMqyhVwQle5-iFvZGHTYFA-0RgTxPVN9RgNz-n1VaKl7aYP9Y5fsY5xEqWAzmnbEgDl495SQ6u_e4Xw6iBoNPHfjaNrRJYDn1v9Ij4uF4TWt" target="_blank">University of Nevada - Reno</a> College Prowler</p><p>&nbsp;</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:14.56%">			<p>USNEWS排名</p>			</td>			<td style="width:19.98%">			<p>227</p>			</td>			<td style="width:16.92%">			<p>学费(/年)</p>			</td>			<td style="width:16.48%">			<p>$20,792</p>			</td>			<td style="width:16.8%">			<p>申请截止日期</p>			</td>			<td style="width:15.26%">			<p>2月1日</p>			</td>		</tr>		<tr>			<td style="width:14.56%">			<p>TOEFL要求</p>			</td>			<td style="width:19.98%">			<p>61</p>			</td>			<td style="width:16.92%">			<p>食宿(/年)</p>			</td>			<td style="width:16.48%">			<p>$9,861</p>			</td>			<td style="width:16.8%">			<p>开学时间</p>			</td>			<td style="width:15.26%">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:14.56%">			<p>IELTS要求</p>			</td>			<td style="width:19.98%">			<p>600%</p>			</td>			<td style="width:16.92%">			<p>申请费</p>			</td>			<td style="width:16.48%">			<p>$95</p>			</td>			<td style="width:16.8%">			<p>可申请学期</p>			</td>			<td style="width:15.26%">			<p>秋季、春季</p>			</td>		</tr>		<tr>			<td style="width:14.56%">			<p>SAT均分</p>			</td>			<td style="width:19.98%">			<p>1050-1270(1600)</p>			</td>			<td style="width:16.92%">			<p>录取率</p>			</td>			<td style="width:16.48%">			<p>86.00%</p>			</td>			<td style="width:16.8%">			<p>奖学金形式</p>			</td>			<td style="width:15.26%">			<p>Merit-based</p>			</td>		</tr>		<tr>			<td style="width:14.56%">			<p>GPA要求</p>			</td>			<td style="width:19.98%">			<p>300%</p>			</td>			<td style="width:16.92%">			<p>申请人数</p>			</td>			<td style="width:16.48%">			<p>9,538</p>			</td>			<td style="width:16.8%">			<p>是否提供双录取</p>			</td>			<td style="width:15.26%">			<p>Yes</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)(4)(5)</p><p>注：</p><p>（1）TOEFL与IELTS均无单项要求；<a href="http://www.qianmu.org/PTE" target="_blank">PTE</a>要求57分以上；SAT阅读510分以上，或<a href="http://www.qianmu.org/ACT" target="_blank">ACT</a>英语21分以上可以代替英语成绩，被录取学生的TOEFL均分为82*(4)</p><p>（2）春季学期12月1日申请截止</p><p>（3）内华达大学雷诺分校接受<a href="http://www.qianmu.org/条件录取" target="_blank">条件录取</a>，无需单独申请，语言成绩未达学校要求但其它条件合格的的学生，都将有机会获得学校的条件录取*(6)</p><h2>教学质量</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:19.68%">			<p>本科生人数</p>			</td>			<td style="width:9.28%">			<p>17,770</p>			</td>			<td style="width:22.32%">			<p>小班比例(&lt;20)</p>			</td>			<td style="width:9.86%">			<p>33.2%</p>			</td>			<td style="width:25.3%">			<p><a href="http://www.qianmu.org/学期制度" target="_blank">学期制度</a></p>			</td>			<td style="width:13.56%">			<p>Semseter</p>			</td>		</tr>		<tr>			<td style="width:19.68%">			<p>研究生人数</p>			</td>			<td style="width:9.28%">			<p>3,110</p>			</td>			<td style="width:22.32%">			<p>中班比例(20-49)</p>			</td>			<td style="width:9.86%">			<p>46.8%</p>			</td>			<td style="width:25.3%">			<p>新生住校比例</p>			</td>			<td style="width:13.56%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:19.68%">			<p>国际学生比例</p>			</td>			<td style="width:9.28%">			<p>1%</p>			</td>			<td style="width:22.32%">			<p>大班比例(&gt;50)</p>			</td>			<td style="width:9.86%">			<p>19.9%</p>			</td>			<td style="width:25.3%">			<p>教授水平满意度</p>			</td>			<td style="width:13.56%">			<p>88%</p>			</td>		</tr>		<tr>			<td style="width:19.68%">			<p>师生比</p>			</td>			<td style="width:9.28%">			<p>1:22</p>			</td>			<td style="width:22.32%">			<p>六年毕业率</p>			</td>			<td style="width:9.86%">			<p>59%</p>			</td>			<td style="width:25.3%">			<p>学生满意度</p>			</td>			<td style="width:13.56%">			<p>88%</p>			</td>		</tr>		<tr>			<td style="width:19.68%">			<p>四年毕业率</p>			</td>			<td style="width:9.28%">			<p>21%</p>			</td>			<td style="width:22.32%">			<p>新生保持率</p>			</td>			<td style="width:9.86%">			<p>81%</p>			</td>			<td style="width:25.3%">			<p>校园安全度</p>			</td>			<td style="width:13.56%">			<p>81%</p>			</td>		</tr>		<tr>			<td style="width:19.68%">毕业2年平均薪水</td>			<td style="width:9.28%">$35,200</td>			<td style="width:22.32%">就业率</td>			<td style="width:9.86%">55%</td>			<td style="width:25.3%">校友网络认可度</td>			<td style="width:13.56%">82%</td>		</tr>	</tbody></table><p>*(1)(2)(7)</p><p><strong>校园安全</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:143px">校园安全事件</td>			<td style="width:403px">Criminal Offenses -- On-Campus&nbsp;</td>			<td style="width:103px">2012</td>			<td style="width:100px">2013</td>			<td style="width:97px">2014</td>		</tr>		<tr>			<td>谋杀</td>			<td>Murder/Non-negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>过失杀人</td>			<td>Negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸</td>			<td>Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>4</p>			</td>		</tr>		<tr>			<td>乱伦</td>			<td>Incest</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸幼童罪</td>			<td>Statutory Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>猥亵</td>			<td>Fondling</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>性侵犯-强迫</td>			<td>Sex offenses - Forcible</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>性侵犯-非强迫</td>			<td>Sex offenses - non-forcible (incest and statutory rape only)</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>抢劫</td>			<td>Robbery</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>暴力袭击</td>			<td>Aggravated assault</td>			<td>			<p>2</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>盗窃</td>			<td>Burglary</td>			<td>			<p>5</p>			</td>			<td>			<p>14</p>			</td>			<td>			<p>3</p>			</td>		</tr>		<tr>			<td>汽车盗窃</td>			<td>Motor vehicle theft</td>			<td>			<p>6</p>			</td>			<td>			<p>4</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>纵火</td>			<td>Arson</td>			<td>			<p>2</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>		</tr>	</tbody></table><p>*(2)</p><h2>申请说明</h2><p><strong>GPA与班级排名</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:26.96%">			<p>GPA</p>			</td>			<td style="width:23.48%">&nbsp;</td>			<td style="width:24.78%">			<p>班级排名</p>			</td>			<td style="width:24.78%">&nbsp;</td>		</tr>		<tr>			<td style="width:26.96%">			<p>分段</p>			</td>			<td style="width:23.48%">			<p>占比</p>			</td>			<td style="width:24.78%">			<p>分段</p>			</td>			<td style="width:24.78%">			<p>占比</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.75以上</p>			</td>			<td style="width:23.48%">			<p>18%</p>			</td>			<td style="width:24.78%">			<p>TOP10%</p>			</td>			<td style="width:24.78%">			<p>24%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.5-3.74</p>			</td>			<td style="width:23.48%">			<p>22%</p>			</td>			<td style="width:24.78%">			<p>TOP25%</p>			</td>			<td style="width:24.78%">			<p>56%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.25-3.49</p>			</td>			<td style="width:23.48%">			<p>24%</p>			</td>			<td style="width:24.78%">			<p>TOP50%</p>			</td>			<td style="width:24.78%">			<p>89%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.0-3.24</p>			</td>			<td style="width:23.48%">			<p>21%</p>			</td>			<td style="width:24.78%">			<p>50%以下</p>			</td>			<td style="width:24.78%">			<p>11%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>2.50-2.99</p>			</td>			<td style="width:23.48%">			<p>13%</p>			</td>			<td style="width:24.78%">			<p>75%以下</p>			</td>			<td style="width:24.78%">			<p>2%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>2.49以下</p>			</td>			<td style="width:23.48%">			<p>2%</p>			</td>			<td style="width:24.78%">&nbsp;</td>			<td style="width:24.78%">&nbsp;</td>		</tr>	</tbody></table><p><strong>SAT</strong><strong>与ACT</strong></p><p>内华达大学雷诺分校国际学生无需递交SAT/ACT成绩，但如递交同样可予以参考。2015年秋季，该校录取学生的SAT平均分数如下：</p><ul>	<li>SAT均分（25%-75%）：SAT阅读480-590；SAT<a href="http://www.qianmu.org/数学" target="_blank">数学</a>490-600；SAT写作460-570*(1)</li>	<li>ACT均分（25%-75%）：ACT综合21-26分*(1)</li></ul><p><strong>申请材料</strong></p><p>内华达大学雷诺分校通过学校官网系统申请，申请时可以指定自己的专业，也可以不指定，未明确自己专业的学生，可以选择类似&ldquo;Undecided&rdquo;的选项作为自己的选择,要求申请者递交以下<a href="http://www.qianmu.org/申请材料" target="_blank">申请材料</a>：</p><ul>	<li>完成在线申请表：通过学校官网申请*(3)</li>	<li>申请费：$95</li>	<li>TOEFL/IELTS成绩</li>	<li>SAT/ACT：国际学生无需SAT/ACT成绩</li>	<li><a href="http://www.qianmu.org/资金证明" target="_blank">资金证明</a>：申请时必需递交，有效期12个月，要求必须由银行出具，2014-15学年要求国际学生准备至少$33,600的资金证明*(5)</li>	<li>护照复印件</li></ul><p><strong>费用与奖学金</strong></p><p>内华达大学雷诺分校向国际学生提供有两种Merit-based奖学金，分别是：</p><ul>	<li>New/Transfer International Student Award：仅向本科和研究生新生发放</li>	<li>International Awards：仅向老生发放</li></ul><p>该校Need-based奖学金必需单独申请，申请时间为每年1月1日-3月1日。*(8)</p><p>2015年度内华达大学雷诺分校共有56名国际学生获得奖学金，奖学金总额为$220,354，平均金额为$3,934。</p><p><strong>费用列表</strong><strong>：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:21.4%">			<p>支出项目</p>			</td>			<td style="width:65.68%">			<p>项目英文名</p>			</td>			<td style="width:12.94%">			<p>2015-2016学年费用</p>			</td>		</tr>		<tr>			<td style="width:21.4%">			<p>学费和学分注册费</p>			</td>			<td style="width:65.68%">			<p>Tuition and Credit Fees</p>			</td>			<td style="width:12.94%">			<p>$18,500</p>			</td>		</tr>		<tr>			<td style="width:21.4%">			<p>医疗保险和其他杂费</p>			</td>			<td style="width:65.68%">			<p>Health Insurance, Health Center and Other Mandatory Fees</p>			</td>			<td style="width:12.94%">			<p>$2,500</p>			</td>		</tr>		<tr>			<td style="width:21.4%">			<p>书本费</p>			</td>			<td style="width:65.68%">			<p>Books and Supplies</p>			</td>			<td style="width:12.94%">			<p>$1,600</p>			</td>		</tr>		<tr>			<td style="width:21.4%">			<p>食宿费用</p>			</td>			<td style="width:65.68%">			<p>Room and Board</p>			</td>			<td style="width:12.94%">			<p>$11,000</p>			</td>		</tr>		<tr>			<td style="width:21.4%">			<p>费用总计</p>			</td>			<td style="width:65.68%">			<p>Total</p>			</td>			<td style="width:12.94%">			<p>$33,600</p>			</td>		</tr>	</tbody></table><p>*(5)</p><h2>转学申请</h2><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:17.7%">			<p>TOEFL要求</p>			</td>			<td style="width:13.1%">			<p>61</p>			</td>			<td style="width:20.28%">			<p><a href="http://www.qianmu.org/GPA" target="_blank">GPA</a>要求</p>			</td>			<td style="width:12.76%">			<p>2.5</p>			</td>			<td style="width:21.3%">			<p>申请截止日期</p>			</td>			<td style="width:14.86%">			<p>7月1日</p>			</td>		</tr>		<tr>			<td style="width:17.7%">			<p>IELTS要求</p>			</td>			<td style="width:13.1%">			<p>6.0</p>			</td>			<td style="width:20.28%">			<p>SAT要求</p>			</td>			<td style="width:12.76%">			<p>Not Required</p>			</td>			<td style="width:21.3%">			<p>开学时间</p>			</td>			<td style="width:14.86%">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:17.7%">			<p>最高可转学分</p>			</td>			<td style="width:13.1%">			<p>96</p>			</td>			<td style="width:20.28%">			<p>最低学分要求</p>			</td>			<td style="width:12.76%">			<p>24</p>			</td>			<td style="width:21.3%">			<p>可申请学期</p>			</td>			<td style="width:14.86%">			<p>秋季、春季</p>			</td>		</tr>		<tr>			<td style="width:17.7%">申请人数</td>			<td style="width:13.1%">2,617</td>			<td style="width:20.28%">录取人数</td>			<td style="width:12.76%">			<p>2,205</p>			</td>			<td style="width:21.3%">录取率</td>			<td style="width:14.86%">84%</td>		</tr>	</tbody></table><p>*(1)(9)</p><p>注：内华达大学雷诺分校要求转学申请者GPA2.5以上，如考虑转学分，单门课程GPA须在1.0以上</p><p><strong>申请说明</strong></p><p>内华达大学雷诺分校秋季、春季和夏季三个学期均可以转学，可入读大一第二学期、大二、大三其中任何一个学期。要求申请者至少修读过24个学分&mdash;&mdash;一般读完大一即可达到此要求。与新生申请一样，该校转学申请国际学生无需SAT/ACT成绩。*(1)(9)</p><p><strong>联系方式</strong></p><p><strong>Mailing Address:</strong></p><p>Office of International Students &amp; Scholars</p><p>University of Nevada, Reno</p><p>Reno, Nevada 89557-0074</p><p><strong>Phone: </strong>(775) 784-6874</p><p><strong>Email:</strong> international@unr.edu*(3)</p><h2>专业设置</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:19.7%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:30.76%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:19.7%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:29.84%">			<p><strong>专业英文名</strong></p>			</td>		</tr>		<tr>			<td colspan="4" style="width:100.0%">			<p><strong>农业、生物技术与自然资源学院（College of Agriculture, Biotechnology and Natural Resources</strong><strong>）</strong></p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>农业科学</p>			</td>			<td style="width:30.76%">			<p>Agricultural Science</p>			</td>			<td style="width:19.7%">			<p>林业管理与<a href="http://www.qianmu.org/生态学" target="_blank">生态学</a></p>			</td>			<td style="width:29.84%">			<p>Forest <a href="http://www.qianmu.org/管理学" target="_blank">Management</a> &amp; Ecology</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/生物化学" target="_blank">生物化学</a></p>			</td>			<td style="width:30.76%">			<p>Biochemistry</p>			</td>			<td style="width:19.7%">			<p>水文学</p>			</td>			<td style="width:29.84%">			<p>Hydrogeology</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>生物化学与<a href="http://www.qianmu.org/分子生物学" target="_blank">分子生物学</a></p>			</td>			<td style="width:30.76%">			<p>Biochemistry and Molecular Biology</p>			</td>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/营养学" target="_blank">营养学</a></p>			</td>			<td style="width:29.84%">			<p>Nutrition</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>生物技术</p>			</td>			<td style="width:30.76%">			<p>Biotechnology</p>			</td>			<td style="width:19.7%">			<p>草地生态与管理</p>			</td>			<td style="width:29.84%">			<p>Rangeland Ecology &amp; Management</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>生态水文学</p>			</td>			<td style="width:30.76%">			<p>Ecohydrology</p>			</td>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/兽医" target="_blank">兽医</a>学</p>			</td>			<td style="width:29.84%">			<p>Veterinary Science</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/环境科学" target="_blank">环境科学</a></p>			</td>			<td style="width:30.76%">			<p>Environmental Science</p>			</td>			<td style="width:19.7%">			<p>野生生态与保护</p>			</td>			<td style="width:29.84%">			<p>Wildlife Ecology and Conservation</p>			</td>		</tr>		<tr>			<td colspan="4" style="width:100.0%">			<p><strong>商学院（College of Business</strong><strong>）</strong></p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/会计" target="_blank">会计</a>与信息系统</p>			</td>			<td style="width:30.76%">			<p><a href="http://www.qianmu.org/会计" target="_blank">Accounting</a> and <a href="http://www.qianmu.org/信息系统管理" target="_blank">Information Systems</a></p>			</td>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">经济学</a></p>			</td>			<td style="width:29.84%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">Economics</a></p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>工商管理</p>			</td>			<td style="width:30.76%">			<p>Business Administration</p>			</td>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/金融" target="_blank">金融</a></p>			</td>			<td style="width:29.84%">			<p><a href="http://www.qianmu.org/金融" target="_blank">Finance</a></p>			</td>		</tr>		<tr>			<td colspan="4" style="width:100.0%">			<p><strong>教育学院（College of Education</strong><strong>）</strong></p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>人类发展与家庭研究</p>			</td>			<td style="width:30.76%">			<p>Human Development and Family Studies</p>			</td>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/中学教育" target="_blank">中学教育</a></p>			</td>			<td style="width:29.84%">			<p>Secondary Education</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/小学教育" target="_blank">小学教育</a></p>			</td>			<td colspan="2" style="width:50.46%">			<p>Integrated Elementary Teacher Education</p>			</td>			<td style="width:29.84%">&nbsp;</td>		</tr>		<tr>			<td colspan="4" style="width:100.0%">			<p><strong>工程学院（College of Engineering</strong><strong>）</strong></p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/化学工程" target="_blank">化学工程</a></p>			</td>			<td style="width:30.76%">			<p>Chemical Engineering</p>			</td>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">电气工程</a></p>			</td>			<td style="width:29.84%">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">Electrical Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>土木工程</p>			</td>			<td style="width:30.76%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">Civil Engineering</a></p>			</td>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/工程物理" target="_blank">工程物理</a></p>			</td>			<td style="width:29.84%">			<p>Engineering <a href="http://www.qianmu.org/物理" target="_blank">Physics</a></p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/环境工程" target="_blank">环境工程</a></p>			</td>			<td style="width:30.76%">			<p><a href="http://www.qianmu.org/环境工程" target="_blank">Environmental Engineering</a></p>			</td>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/材料科学与工程" target="_blank">材料科学与工程</a></p>			</td>			<td style="width:29.84%">			<p>Materials Science and Engineering</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">计算机科学与工程</a></p>			</td>			<td style="width:30.76%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">Computer Science</a> and Engineering</p>			</td>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">机械工程</a></p>			</td>			<td style="width:29.84%">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">Mechanical Engineering</a></p>			</td>		</tr>		<tr>			<td colspan="4" style="width:100.0%">			<p><strong>文学院（College of Liberal Arts</strong><strong>）</strong></p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/人类学" target="_blank">人类学</a></p>			</td>			<td style="width:30.76%">			<p>Anthropology</p>			</td>			<td style="width:19.7%">			<p>应用爵士乐</p>			</td>			<td style="width:29.84%">			<p>Applied Jazz</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>艺术</p>			</td>			<td style="width:30.76%">			<p>Art</p>			</td>			<td style="width:19.7%">			<p>应用器乐</p>			</td>			<td style="width:29.84%">			<p>Applied Instrumental Music</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/艺术史" target="_blank">艺术史</a></p>			</td>			<td style="width:30.76%">			<p>Art <a href="http://www.qianmu.org/历史" target="_blank">History</a></p>			</td>			<td style="width:19.7%">			<p>神经科学</p>			</td>			<td style="width:29.84%">			<p>Neuroscience</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/传播学" target="_blank">传播学</a></p>			</td>			<td style="width:30.76%">			<p>Communication Studies</p>			</td>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/哲学" target="_blank">哲学</a></p>			</td>			<td style="width:29.84%">			<p>Philosophy</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>刑事司法</p>			</td>			<td style="width:30.76%">			<p>Criminal Justice</p>			</td>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/政治学" target="_blank">政治学</a></p>			</td>			<td style="width:29.84%">			<p><a href="http://www.qianmu.org/政治学" target="_blank">Political Science</a></p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>英语</p>			</td>			<td style="width:30.76%">			<p>English</p>			</td>			<td style="width:19.7%">			<p>心理学</p>			</td>			<td style="width:29.84%">			<p><a href="http://www.qianmu.org/心理学" target="_blank">Psychology</a></p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/法语" target="_blank">法语</a></p>			</td>			<td style="width:30.76%">			<p>French</p>			</td>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/公共事务" target="_blank">公共管理</a></p>			</td>			<td style="width:29.84%">			<p>Public Administration</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/历史" target="_blank">历史</a></p>			</td>			<td style="width:30.76%">			<p>History</p>			</td>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/社会心理学" target="_blank">社会心理学</a></p>			</td>			<td style="width:29.84%">			<p>Social Psychology</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>国际事务</p>			</td>			<td style="width:30.76%">			<p>International Affairs</p>			</td>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">社会学</a></p>			</td>			<td style="width:29.84%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">Sociology</a></p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/音乐" target="_blank">音乐</a></p>			</td>			<td style="width:30.76%">			<p>Music</p>			</td>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/西班牙语" target="_blank">西班牙语</a></p>			</td>			<td style="width:29.84%">			<p>Spanish</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>音乐教育</p>			</td>			<td style="width:30.76%">			<p>Music Education</p>			</td>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/戏剧" target="_blank">戏剧</a></p>			</td>			<td style="width:29.84%">			<p>Theatre</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>应用声乐</p>			</td>			<td style="width:30.76%">			<p>Applied Voice</p>			</td>			<td style="width:19.7%">			<p>女性研究</p>			</td>			<td style="width:29.84%">			<p>Women&#39;s Studies</p>			</td>		</tr>		<tr>			<td colspan="4" style="width:100.0%">			<p><strong>理学院（College of Science</strong><strong>）</strong></p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>大气科学</p>			</td>			<td style="width:30.76%">			<p>Atmospheric Science</p>			</td>			<td style="width:19.7%">			<p>水文<a href="http://www.qianmu.org/地质学" target="_blank">地质学</a></p>			</td>			<td style="width:29.84%">			<p>Hydrogeology</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>生物学</p>			</td>			<td style="width:30.76%">			<p>Biology</p>			</td>			<td style="width:19.7%">			<p>数学</p>			</td>			<td style="width:29.84%">			<p><a href="http://www.qianmu.org/数学" target="_blank">Mathematics</a></p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>化学</p>			</td>			<td style="width:30.76%">			<p><a href="http://www.qianmu.org/化学" target="_blank">Chemistry</a></p>			</td>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/冶金工程" target="_blank">冶金工程</a></p>			</td>			<td style="width:29.84%">			<p><a href="http://www.qianmu.org/冶金工程" target="_blank">Metallurgical Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>地理</p>			</td>			<td style="width:30.76%">			<p><a href="http://www.qianmu.org/地理学" target="_blank">Geography</a></p>			</td>			<td style="width:19.7%">			<p>采矿工程</p>			</td>			<td style="width:29.84%">			<p>Mining Engineering</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/地质工程" target="_blank">地质工程</a></p>			</td>			<td style="width:30.76%">			<p><a href="http://www.qianmu.org/地质工程" target="_blank">Geological Engineering</a></p>			</td>			<td style="width:19.7%">			<p>分子<a href="http://www.qianmu.org/微生物学" target="_blank">微生物学</a>与<a href="http://www.qianmu.org/免疫学" target="_blank">免疫学</a></p>			</td>			<td style="width:29.84%">			<p>Molecular Microbiology &amp; Immunology</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>地质学</p>			</td>			<td style="width:30.76%">			<p>Geology</p>			</td>			<td style="width:19.7%">			<p>神经科学</p>			</td>			<td style="width:29.84%">			<p>Neuroscience</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p><a href="http://www.qianmu.org/地球物理" target="_blank">地球物理</a></p>			</td>			<td style="width:30.76%">			<p>Geophysics</p>			</td>			<td style="width:19.7%">			<p>物理</p>			</td>			<td style="width:29.84%">			<p>Physics</p>			</td>		</tr>		<tr>			<td colspan="4" style="width:100.0%">			<p><strong>卫生科学部（Division of Health Sciences</strong><strong>）</strong></p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>社区<a href="http://www.qianmu.org/健康科学" target="_blank">卫生科学</a></p>			</td>			<td style="width:30.76%">			<p>Community Health Sciences</p>			</td>			<td style="width:19.7%">			<p>社会工作</p>			</td>			<td style="width:29.84%">			<p>Social Work</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>分子微生物学与免疫学</p>			</td>			<td style="width:30.76%">			<p>Molecular Microbiology &amp; Immunology</p>			</td>			<td style="width:19.7%">			<p>语言病理学</p>			</td>			<td style="width:29.84%">			<p>Speech Pathology</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>护理</p>			</td>			<td style="width:30.76%">			<p>Nursing</p>			</td>			<td style="width:19.7%">&nbsp;</td>			<td style="width:29.84%">&nbsp;</td>		</tr>		<tr>			<td colspan="4" style="width:100.0%">			<p><strong>沙漠研究所（Desert Research Institute</strong><strong>）</strong></p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>生物化学</p>			</td>			<td style="width:30.76%">			<p>Biochemistry</p>			</td>			<td style="width:19.7%">&nbsp;</td>			<td style="width:29.84%">&nbsp;</td>		</tr>		<tr>			<td colspan="4" style="width:100.0%">			<p><strong>新闻学院（Reynolds School of Journalism</strong><strong>）</strong></p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>新闻学</p>			</td>			<td style="width:30.76%">			<p>Journalism</p>			</td>			<td style="width:19.7%">&nbsp;</td>			<td style="width:29.84%">&nbsp;</td>		</tr>	</tbody></table><p>*(10)</p><p>外部链接：</p><ul>	<li>资金证明表：<a href="http://www.qianmu.org/redirect?code=mrtw23q4kMv2witEgggggV2en2Gs0RuWPIiIiGV2A0MQoSx2PfxW-IsYoSVflGzUlOz5AI8fPfzCb2rWxONV5QG0wbGELd_WcHDE3Q9laSj1yYz3-5mUZDmHpBjBSlmysV-R7R4" target="_blank">Financial Data Form</a>(PDF)</li>	<li>转学评估表：<a href="http://www.qianmu.org/redirect?code=zrQ-nH7-LUrJdoBVEEEEEHlO8K93ejM4z6w6wvMQnlYqaGAQzbA4P6SRaGM4oI5jJItjFKviokoj8yOMH4iGARChUFCGkqgvk3gs8qgJaegyaQVbkMKucKcH_1RhmKS6OQVbZMSuoY4CE8wbEk_COvRYnP6sd5u" target="_blank">Transfer Verification Form</a>(PDF)</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=BraKR4YYwPxI1bSfs5D3KOOr8b7R0CkdAAoJJgBw1YqOH_u-vFwSUNQsvvOa-P_jp3CzsR1L10qV1YYO_SS8lhmXyTUUwUBc5SQIrsidXssXpgqqFIE3_Qs_jdoQOe1KA51y44-UR9NhmXaqtaOEzlRPmR0q2dtaP" target="_blank">University of Nevada: Reno</a> College Board</p><p>(2) <a href="http://www.qianmu.org/redirect?code=5rk_5oEEkoeaLc8WVVVVVCuus4OgQPBpr5eG8Rtq20LBr3LB86LW-PE1E7T1IjT1CxePZNbQBVZlgg_zwPiMYdjMTgCzhdiMYE2tXSfbZNYD-j5DepQKO3wSqmYrRmErZrHr4oFKepEfQjNdm4GR" target="_blank">University of Nevada--Reno</a> USNEWS</p><p>(3) <a href="http://www.qianmu.org/redirect?code=YrwF0v4kkniNSPw6hhhhh6h2HutMq7V9Dltbtb56nbTOG2beIYnHOsaHK6DdoCVz3CMkAaLfCUBaBGN0BRv7Q6dq_bJ3Ca6e1Op614364u_oQ5_8cVPzlubG0352jiV4j7bpMwUoMx6kl9iy6hN_pSOKIJD3AFFDdxSz-q_X2fGhON6zBLA786ZGUfZXJncmFkoExaS0B3Ngx6iDxslR_y4b" target="_blank">UNDERGRADUATE CHECKLIST</a> University of Nevada: Reno</p><p>(4) <a href="http://www.qianmu.org/redirect?code=-rGz4OcILgeaoJjJ66666SHBO8K93ej2gsFIFIrQ7RJxbTN6HY0xQ8GXnCEKWErbWSAaKXSBuLIVfGSM8rVeRvRnZHiJWjal5ur27ZizRN6j2S9ca4pXOcIvicGNt8YIe_J7wus1ihkLD654aLyFCdvbo89e26aMm-RMmFlhzShc" target="_blank">APPLICATION DEADLINES UNDERGRADUATE PROGRAMS</a> University of Nevada: Reno</p><p>(5) <a href="http://www.qianmu.org/redirect?code=brEVbye2wjNSrTs83mCOEXzesRzah8Md6mU25j-2FWRFKiVgFFmYDr4qpFdauSs5Ko2BICViUzZIzyAo4BYOE1n2bvW8V8dIcUse-HUhee2pnm3ZhvJH1_2SNzyBUMAbQn1USlNICDHfG_LXczW4dOhK7U-IUdOTwses42d_hwVF2I2FmCx5hTpC1c2LvW1qHO405KepCGhvAo" target="_blank">ESTIMATED EXPENSES</a> University of Nevada: Reno</p><p>(6) <a href="http://www.qianmu.org/redirect?code=VrxbIdtkLbTirs_ZtttttGdcovmOHfTU4kv2v25nOd9kyQJVom9ZEHrQX9At5ifr5zuVbAbDWkf0hTY7CpIjyRdvbo89eLns8vBtWV2Y8PkGm2q0irA8l9jmp94KFnrkAD52AHqz8YDBgeftb3ESxElcDpscLGZfmPYpRQkVfdUP" target="_blank">CONDITIONAL ADMISSION</a> University of Nevada: Reno</p><p>(7) <a href="http://www.qianmu.org/redirect?code=2rNMmQ1zw7KRlqGxUHPXhPB26NtONPH1zlfhEPkofnSwSIiZAdIJrynBMyzCV3AnRwSFej5zN6AJh22dL3MNq1A4ULpFa91ko6IXHmEFljveuD8SdMpNb2EU0B5_PMA-zvdzoVdn2GCdNI8xn5" target="_blank">University of Nevada - Reno</a> College Prowler</p><p>(8) <a href="http://www.qianmu.org/redirect?code=Erbpef55khMQa0D_miSXknPDm_cyj57Y6G_dNfwgRuh-Cn96BYBZgquQXb_eApF9PXuPFOcXOCb8m8MLIYyEDP0dHiDf24YZd_9Hzl4UHDBI0GZfRaE7eA9sFUqz2gB3smUNz2hHGnNUqQlqK0U9REyCA8VT2YBNl9HJ6g39_58ZK7n_S-pMR4Tu3OOv5yAIFUNMC9Z08fPldaz_3I4RzJjVxn92mzmj" target="_blank">SCHOLARSHIPS AND FINANCIAL AID</a> University of Nevada: Reno</p><p>(9) <a href="http://www.qianmu.org/redirect?code=PrgaXqFGwx30hzp5MMMhOOnbzp7x83baAukukRq5BNPmDh7286Tdvw1W3wQA3w1RO914vjqxSuXYEPGA59G4vyTYgyU8mjQaKPXYEwCd0am1MBx4EBwo6Jj3-lwoE_x4pRIbkaw9EAm35Gx4tMm1nO8p0wv1b3v1gkDJcP" target="_blank">TRANSFER STUDENT CHECKLIST</a> University of Nevada: Reno</p><p>(10) <a href="http://www.qianmu.org/redirect?code=arBPkMldkfKZOFYXCCCCCC66iTKAMkye0PIiIiGV2vGuscxLm7sIgAYeTsY1VajzeLhyPxWc8" target="_blank">DEGREE LIST</a> University of Nevada: Reno</p><p>&nbsp;</p><h1>研究生申请</h1><p><strong>院系设置</strong></p><p>内华达大学雷诺分校共设有以下9个学术学院，分别是：</p><ul>	<li>农业与生物技术学院（College of Agriculture, Biotechnology and Natural Resources）</li>	<li>商学院（College of Business）</li>	<li>教育学院（College of Education）</li>	<li>工程学院（College of Engineering）</li>	<li>文学院（College of Liberal Arts）</li>	<li>理学院（College of Science）</li>	<li>沙漠研究所（Desert Research Institute）</li>	<li>卫生科学部（Division of Health Sciences）</li>	<li>新闻学院（Reynolds School of Journalism）*(1)</li></ul><p><strong>基本要求</strong></p><p>内华达大学雷诺分校所有项目的招生均由研究生院（Graduate School）统一管理，其基本申请条件如下，部分项目的申请要可能会更高：</p><ul>	<li>学位要求：要求正规大学本科毕业并取得学士学位*(2)</li>	<li>GPA要求：硕士项目要求不低于2.75分，博士项目要求不低于3.0分</li>	<li>语言要求：TOEFL要求不低于61分，IELTS要求不低于6.0分，PTE要求不低于57分，均无单项要求。该校仅本科生设有条件录取，研究生不接受条件录取。*(3)(4)</li>	<li><strong>G</strong>RE要求：大多数项目均要求有<a href="http://www.qianmu.org/GRE" target="_blank">GRE</a>成绩，部分商科项目还要求递交<a href="http://www.qianmu.org/GMAT" target="_blank">GMAT</a>成绩</li>	<li>申请时间：内华达大学雷诺分校未设定有统一的申请截止日期，具体申请时间主要由各项目决定。该校向研究生提供Need-based奖学金，其申请时间在每年1月1日-3月1日之间*(5)</li></ul><p><strong>申请说明</strong></p><p>内华达大学雷诺分校研究生有着统一的申请材料规定，具体如下：</p><ul>	<li>在线申请表，通过内华达大学雷诺分校官网申请*(3)</li>	<li>申请费：95美元</li>	<li>正式<a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a></li>	<li>GRE/GMAT成绩</li>	<li>TOEFL与IELTS成绩</li>	<li>资金证明：申请时必需递交，有效期12个月，要求必须由银行出具，2014-15学年要求国际学生准备至少$33,600的资金证明*(3)</li>	<li>其它材料：<a href="http://www.qianmu.org/推荐信" target="_blank">推荐信</a>、<a href="http://www.qianmu.org/个人陈述" target="_blank">个人陈述</a>、<a href="http://www.qianmu.org/个人作品" target="_blank">个人作品</a>、<a href="http://www.qianmu.org/个人简历" target="_blank">个人简历</a>、<a href="http://www.qianmu.org/写作样本" target="_blank">写作样本</a>、试镜、<a href="http://www.qianmu.org/面试" target="_blank">面试</a>等部分专业可能会需要。一般而言，人文类专业多会要求递交写作样本，艺术类专业可能会要求递交个人作品等</li></ul><p><strong>费用与奖学金</strong></p><p>内华达大学雷诺分校主要由学生所申请的系所或项目提供，其形式以<a href="http://www.qianmu.org/TA" target="_blank">TA</a>、<a href="http://www.qianmu.org/RA" target="_blank">RA</a>为主。学生在申请时应主动与系里的导师或招生办联系，以期获得由导师或系里提供的RA、TA奖学金。该校奖学金形式包括<a href="http://www.qianmu.org/Merit-based" target="_blank">Merit-based</a>和Need-based两种。其中Merit-based奖学金无需单独申请，自动随Offer发放，其形式主要以TA和RA为主，是内华达大学雷诺分校研究生最主要的奖学金&mdash;&mdash;基本上，该校80%的研究生都可以获得此种形式的奖学金。一般而言，PhD学生的获奖几率要远远大于硕士学生获得的几率。*(5)</p><p>内华达大学雷诺分校提供的Need-based的奖学金，包括：</p><ul>	<li>New/Transfer International Student Award：仅向本科和研究生新生发放，需要单独申请，每年1月1日-3月1日之间申请</li>	<li>International Awards：仅向老生发放*(5)</li></ul><p>该校的TA和RA奖学金对国际学生的语言有更高的要求，具体如下：</p><ul>	<li>TOEFL：要求不低于79分，无单项要求</li>	<li>IELTS：要求不低于7.0分，无单项要求</li>	<li>PTE：要求不低于70分，无单项要求*(3)</li></ul><p><strong>费用列表（2014-15</strong><strong>学年）：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:27.06%">			<p><strong>支出项目</strong></p>			</td>			<td style="width:51.3%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:21.64%">			<p><strong>费用</strong></p>			</td>		</tr>		<tr>			<td style="width:27.06%">			<p>学费</p>			</td>			<td style="width:51.3%">			<p>Tuition &amp; Fees</p>			</td>			<td style="width:21.64%">			<p>$21,348</p>			</td>		</tr>		<tr>			<td style="width:27.06%">			<p>住宿费</p>			</td>			<td style="width:51.3%">			<p>Room</p>			</td>			<td style="width:21.64%">			<p>$9,500</p>			</td>		</tr>		<tr>			<td style="width:27.06%">			<p>膳费</p>			</td>			<td style="width:51.3%">			<p>Board</p>			</td>			<td style="width:21.64%">			<p>$7,078</p>			</td>		</tr>		<tr>			<td style="width:27.06%">			<p>合计</p>			</td>			<td style="width:51.3%">			<p>Total</p>			</td>			<td style="width:21.64%">			<p>$37,926</p>			</td>		</tr>	</tbody></table><p>*(6)</p><p>注：上表内华达大学雷诺分校一般研究生项目（MA、MS、PhD等）的费用水准，其学费是以一学期修12个学分，一年注册两个学期计算的，其住宿费和膳费均是以该校的标准计划为准的。除学费与食宿费用外，其它医疗保险费、书本费、交通费及其它个人花费等，还需约3000-5000美金&mdash;&mdash;视个人用度而定。因此，总的说来，内华达大学雷诺分校研究生，一年花费在4万美金左右</p><p><strong>联系方式</strong></p><p><strong>Mailing Address:</strong></p><p>University of Nevada, Reno</p><p>Graduate School/MS 0326</p><p>Reno, Nevada 89557 USA</p><p><strong>Phone:</strong> (775) 784-6869</p><p><strong>Fax:</strong> (775) 784-6064</p><p><strong>Email: </strong>international@unr.edu*(2)</p><p>外部链接：</p><p>资金证明表：<a href="http://www.qianmu.org/redirect?code=YrwF0vBRwySz7197wjjqvof8o4q_Dx5FL63HSJDIh57zl21hPd3mYDkVhOd0lSTn7qDhkVkVR1InOSdAFlZzHFV87FGO9IFS3CJKbNTO0bSaKWjW1zSvrph-OFv-knSdlMOI1x1vgJw1EZmpr_G6dRVS3" target="_blank">Financial Data Form</a>(PDF)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=orDtO5aqLtcCKLAUHHHHHHNN1MDVaz9pAEAE7wI2J0-r3MIpZzPEHyFEHRn" target="_blank">Degrees and Programs-College</a> University of Nevada: Reno</p><p>(2) <a href="http://www.qianmu.org/redirect?code=mrtw23uawJr7tgWLSSSSSSFek-IyvSFdxSCGCGJMbpwW4HU1RZBhqrUhjy0ys5a4358eb40581_4_qeOhWldY6R-fTkD1yhLkI15kI6VQvFnavx-3Tcw" target="_blank">Graduate School Requirements</a> University of Nevada: Reno</p><p>(3) <a href="http://www.qianmu.org/redirect?code=UrsQlJ0tkO9fND7_nnnnnsf17QYretszG-uNuN0BKtLvX-ztiA2Z6LbZTBAus3hlm3jWtOngQzDODrQFZNjenHQgDZkSKHl_y4CsyOHsM6nzwBnGEwx2LvdeabHIN_rhNV1o1IMp1T3YLsA5i8v2n6MCnY_gpd3UfAyDuQOZjbJ72MngxPHtZvHjlun2MjXHqVTbYnDbYUeZobnm" target="_blank">GRADUATE CHECKLIST</a> University of Nevada: Reno</p><p>(4) <a href="http://www.qianmu.org/redirect?code=PrgaXq8hLa4bV_o0IKgVZ8SgJWdm8hEqpBdH49-Ct-y35rFo7hOgGLePC8t-zMxpnaX-XYaNcKfnqpkKBQSBzrpP_XovlDwXV3Y252ArTtjPD9-HrvPqt9vCtSz7k0ODrmr0gtPfkFDSGnC83wTLa3uC" target="_blank">INTERNATIONAL STUDENTS</a> University of Nevada: Reno</p><p>(5) <a href="http://www.qianmu.org/redirect?code=urKrNAQwLMS38lqFaaj_jHaCGSPP6ZPSbdY3rXBvtRGdx6V0z--LzHR8N-SiG02P14pqi27K7L0-rhn6Uo3tgtfs5LXoWjhDa31f4dlhrNAvZdzSqr3gDGi3M-6cQU4x5QrMtlKiXWwhPhRhikJ9Std-wDaR0wusPKYPySw6OLscPylSZdbIiaRk-5_MzT8FMtqnlIXpJztT8Z-JcJ0q5GvY6O4AaYPyS6OLsSZ4Rlr5At--_0ZRxZoSi1kaih9htTJ1I9_x" target="_blank">SCHOLARSHIPS AND FINANCIAL AID</a> University of Nevada: Reno</p><p>(6) <a href="http://www.qianmu.org/redirect?code=ErbpefwKLLRfqkHYy5S6birXzFj2NAGSaUknRrl_rNo1Mkp5RwlchgsWaSSL2kiG9DR-1-aLDYckwFBc_sXNp-H-r-FI5jh9RiSdb02-cDrZ" target="_blank">Tuituon &amp; Fees Cost Calculator</a> University of Nevada: Reno</p><h2>工程学院</h2><p>内华达大学雷诺分校工程学院（College of Engineering）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:34.74%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:51.06%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:14.22%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:34.74%">			<p><a href="http://www.qianmu.org/生物医学工程" target="_blank">生物医学工程</a></p>			</td>			<td style="width:51.06%">			<p><a href="http://www.qianmu.org/生物医学工程" target="_blank">Biomedical Engineering</a></p>			</td>			<td style="width:14.22%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:34.74%">			<p><a href="http://www.qianmu.org/细胞生物学" target="_blank">细胞与分子生物学</a></p>			</td>			<td style="width:51.06%">			<p>Cell and Molecular Biology</p>			</td>			<td style="width:14.22%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:34.74%">			<p>化学工程</p>			</td>			<td style="width:51.06%">			<p>Chemical Engineering</p>			</td>			<td style="width:14.22%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:34.74%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">土木与环境工程</a></p>			</td>			<td style="width:51.06%">			<p>Civil and Environmental Engineering</p>			</td>			<td style="width:14.22%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:34.74%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">计算机科学</a>与工程</p>			</td>			<td style="width:51.06%">			<p>Computer Science and Engineering</p>			</td>			<td style="width:14.22%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:34.74%">			<p>电气工程</p>			</td>			<td style="width:51.06%">			<p>Electrical Engineering</p>			</td>			<td style="width:14.22%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:34.74%">			<p><a href="http://www.qianmu.org/材料科学与工程" target="_blank">材料科学</a>与工程</p>			</td>			<td style="width:51.06%">			<p>Materials Science and Engineering</p>			</td>			<td style="width:14.22%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:34.74%">			<p>机械工程</p>			</td>			<td style="width:51.06%">			<p>Mechanical Engineering</p>			</td>			<td style="width:14.22%">			<p>MS、PhD</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=Nr20uKHkwhmWQkdBWo3at6OISqRCXHqzfYJNIX1ufygQ5TgUsOhwjQFKL7BO0oRB5xuB3tmhLQPwz4G-TXUekd8MEj" target="_blank">COLLEGE OF ENGINEERING DEGREES &amp; PROGRAMS</a> University of Nevada,Reno</p><h2>商学院</h2><p>内华达大学雷诺分校商学院（College of Business）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:32.3%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:48.62%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:19.08%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:32.3%">			<p>工商管理</p>			</td>			<td style="width:48.62%">			<p>Business Administration</p>			</td>			<td style="width:19.08%">			<p><a href="http://www.qianmu.org/MBA" target="_blank">MBA</a></p>			</td>		</tr>		<tr>			<td style="width:32.3%">			<p>会计</p>			</td>			<td style="width:48.62%">			<p>Accounting</p>			</td>			<td style="width:19.08%">			<p>MBA</p>			</td>		</tr>		<tr>			<td style="width:32.3%">			<p><a href="http://www.qianmu.org/创业管理" target="_blank">创业管理</a></p>			</td>			<td style="width:48.62%">			<p><a href="http://www.qianmu.org/创业管理" target="_blank">Entrepreneurship</a></p>			</td>			<td style="width:19.08%">			<p>MBA</p>			</td>		</tr>		<tr>			<td style="width:32.3%">			<p>信息技术</p>			</td>			<td style="width:48.62%">			<p>Information Technology</p>			</td>			<td style="width:19.08%">			<p>MBA</p>			</td>		</tr>		<tr>			<td style="width:32.3%">			<p>可再生能源管理</p>			</td>			<td style="width:48.62%">			<p>Renewable Energy</p>			</td>			<td style="width:19.08%">			<p>MBA</p>			</td>		</tr>		<tr>			<td style="width:32.3%">			<p>经济学</p>			</td>			<td style="width:48.62%">			<p>Economics</p>			</td>			<td style="width:19.08%">			<p>MA、MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:32.3%">			<p>金融</p>			</td>			<td style="width:48.62%">			<p>Finance</p>			</td>			<td style="width:19.08%">			<p>MS、PhD</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=nrIezt2CLXmqlAEraO4pqWaMByP-9fZtZ6qyjAIMwTvBxsTYJt0yapA_8OtAPAFjLRWhps2PdoYRq01kdM_Odru2jbZljQhIiXJAU1hhK_rPCgJOq0pF962uLrhX8XtpZtSvcdvBCLXwiA5CUcKRqm1n9MxI7hpCLXl8k0-Ats" target="_blank">Campus </a>MBA Emphases University of Nevada,Reno</p><p>(2) <a href="http://www.qianmu.org/redirect?code=SrWl9LT7LlbvUg21bbbbbbLj20R8M7BnY4Y4fhCALUrwQ0Cjon39DGl9DTAXrng0r8CByn_4AIWn" target="_blank">COLLEGE OF BUSINESS DEGREES &amp; PROGRAMS</a> University of Nevada,Reno</p><h2>理学院</h2><p>内华达大学雷诺分校理学院（College of Science）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:30.44%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:56.94%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:12.62%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>大气科学</p>			</td>			<td style="width:56.94%">			<p>Atmospheric Science</p>			</td>			<td style="width:12.62%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>生物学</p>			</td>			<td style="width:56.94%">			<p>Biology</p>			</td>			<td style="width:12.62%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>细胞与分子生物学</p>			</td>			<td style="width:56.94%">			<p>Cell and Molecular Biology</p>			</td>			<td style="width:12.62%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>细胞分子<a href="http://www.qianmu.org/药理学" target="_blank">药理学</a>与<a href="http://www.qianmu.org/生理学" target="_blank">生理学</a></p>			</td>			<td style="width:56.94%">			<p>Cellular and Molecular Pharmacology and Physiology</p>			</td>			<td style="width:12.62%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p><a href="http://www.qianmu.org/物理化学" target="_blank">物理化学</a></p>			</td>			<td style="width:56.94%">			<p>Chemical Physics</p>			</td>			<td style="width:12.62%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>化学</p>			</td>			<td style="width:56.94%">			<p>Chemistry</p>			</td>			<td style="width:12.62%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>生态、进化与保护</p>			</td>			<td style="width:56.94%">			<p>Ecology, Evolution, and Conservation Biology</p>			</td>			<td style="width:12.62%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>地质与工程</p>			</td>			<td style="width:56.94%">			<p>Geo-Engineering</p>			</td>			<td style="width:12.62%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>地理</p>			</td>			<td style="width:56.94%">			<p>Geography</p>			</td>			<td style="width:12.62%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>地质工程</p>			</td>			<td style="width:56.94%">			<p>Geological Engineering</p>			</td>			<td style="width:12.62%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>地质学</p>			</td>			<td style="width:56.94%">			<p>Geology</p>			</td>			<td style="width:12.62%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>地球物理</p>			</td>			<td style="width:56.94%">			<p>Geophysics</p>			</td>			<td style="width:12.62%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>水文地质学</p>			</td>			<td style="width:56.94%">			<p>Hydrogeology</p>			</td>			<td style="width:12.62%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>水文学</p>			</td>			<td style="width:56.94%">			<p>Hydrology</p>			</td>			<td style="width:12.62%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>土地利用规划</p>			</td>			<td style="width:56.94%">			<p>Land Use Planning</p>			</td>			<td style="width:12.62%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>数学</p>			</td>			<td style="width:56.94%">			<p>Mathematics</p>			</td>			<td style="width:12.62%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>冶金工程</p>			</td>			<td style="width:56.94%">			<p>Metallurgical Engineering</p>			</td>			<td style="width:12.62%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>采矿工程</p>			</td>			<td style="width:56.94%">			<p>Mining Engineering</p>			</td>			<td style="width:12.62%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>物理</p>			</td>			<td style="width:56.94%">			<p>Physics</p>			</td>			<td style="width:12.62%">			<p>MS、PhD</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=0rRNYslKLLRfqkPHNq5APDwnzHanaAfwb_Mw-uogqCPe3T8HIwie0Vj0RnwfxMQjDJBhC4rdy2uIhtyX9H2lXa2dMt" target="_blank">COLLEGE OF SCIENCE DEGREES &amp; PROGRAMS</a> University of Nevada,Reno</p><h2>文学院</h2><p>内华达大学雷诺分校文学院（College of Liberal Arts）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:30.14%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:56.62%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:13.24%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>人类学</p>			</td>			<td style="width:56.62%">			<p>Anthropology</p>			</td>			<td style="width:13.24%">			<p>MA、PhD</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>艺术</p>			</td>			<td style="width:56.62%">			<p>Art</p>			</td>			<td style="width:13.24%">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>巴斯克研究</p>			</td>			<td style="width:56.62%">			<p>Basque Studies</p>			</td>			<td style="width:13.24%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>刑事司法</p>			</td>			<td style="width:56.62%">			<p>Criminal Justice</p>			</td>			<td style="width:13.24%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>英语</p>			</td>			<td style="width:56.62%">			<p>English</p>			</td>			<td style="width:13.24%">			<p>MA、PhD</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>历史</p>			</td>			<td style="width:56.62%">			<p>History</p>			</td>			<td style="width:13.24%">			<p>MA、PhD</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>司法研究</p>			</td>			<td style="width:56.62%">			<p>Judicial Studies</p>			</td>			<td style="width:13.24%">			<p>MA、PhD</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>司法管理</p>			</td>			<td style="width:56.62%">			<p>Justice Management</p>			</td>			<td style="width:13.24%">			<p>MJM</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>音乐</p>			</td>			<td style="width:56.62%">			<p>Music</p>			</td>			<td style="width:13.24%">			<p>MA、MM</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>音乐教育</p>			</td>			<td style="width:56.62%">			<p>Music Education</p>			</td>			<td style="width:13.24%">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>哲学</p>			</td>			<td style="width:56.62%">			<p>Philosophy</p>			</td>			<td style="width:13.24%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>政治学</p>			</td>			<td style="width:56.62%">			<p>Political Science</p>			</td>			<td style="width:13.24%">			<p>MA、PhD</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>心理学</p>			</td>			<td style="width:56.62%">			<p>Psychology</p>			</td>			<td style="width:13.24%">			<p>MA、PhD</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>公共管理</p>			</td>			<td style="width:56.62%">			<p>Public Administration</p>			</td>			<td style="width:13.24%">			<p>MPA</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>社会心理学</p>			</td>			<td style="width:56.62%">			<p>Social Psychology</p>			</td>			<td style="width:13.24%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>社会学</p>			</td>			<td style="width:56.62%">			<p>Sociology</p>			</td>			<td style="width:13.24%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>西班牙语</p>			</td>			<td style="width:56.62%">			<p>Spanish</p>			</td>			<td style="width:13.24%">			<p>MA</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=Erbpef5lk9aKYUr-ppppppeXXp_e9EbiSQ2-2-K7A2ZIms5zt0OobTmpeBmdqSvE7CnMmmfjDQAx3VS_Ss" target="_blank">COLLEGE OF SCIENCE DEGREES &amp; PROGRAMS</a> University of Nevada,Reno</p><h2>农业与生物技术学院</h2><p>内华达大学雷诺分校农业、生物技术与自然资源学院（College of Agriculture, Biotechnology and Natural Resources）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:30.14%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:56.62%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:13.24%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>生物化学</p>			</td>			<td style="width:56.62%">			<p>Biochemistry</p>			</td>			<td style="width:13.24%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>生物技术</p>			</td>			<td style="width:56.62%">			<p>Biotechnology</p>			</td>			<td style="width:13.24%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>细胞与分子生物学</p>			</td>			<td style="width:56.62%">			<p>Cell and Molecular Biology</p>			</td>			<td style="width:13.24%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>生态、进化与保护</p>			</td>			<td style="width:56.62%">			<p>Ecology, Evolution, and Conservation Biology</p>			</td>			<td style="width:13.24%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>环境科学与卫生</p>			</td>			<td style="width:56.62%">			<p>Environmental Sciences and Health</p>			</td>			<td style="width:13.24%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>水文地质学</p>			</td>			<td style="width:56.62%">			<p>Hydrogeology</p>			</td>			<td style="width:13.24%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>水文学</p>			</td>			<td style="width:56.62%">			<p>Hydrology</p>			</td>			<td style="width:13.24%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>自然资源与环境科学</p>			</td>			<td style="width:56.62%">			<p>Natural Resources and Environmental Science</p>			</td>			<td style="width:13.24%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>营养学</p>			</td>			<td style="width:56.62%">			<p>Nutrition</p>			</td>			<td style="width:13.24%">			<p>MS</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=PrgaXq8MLwBRmQt6______O3ipJ5W8rmzqzqk1PxqypM0lWLfPWv0x7v0q3-ZPrIZE2QGQ0HUVIano" target="_blank">COLLEGE OF AGRICULTURE, BIOTECHNOLOGY AND NATURAL RESOURCES DEGREES &amp; PROGRAMS</a> University of Nevada,Reno</p><h2>教育学院</h2><p>内华达大学雷诺分校教育学院（College of Education）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:26.64%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:53.12%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:20.22%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:26.64%">			<p><a href="http://www.qianmu.org/教育心理学" target="_blank">教育心理学</a></p>			</td>			<td style="width:53.12%">			<p>Educational Psychology</p>			</td>			<td style="width:20.22%">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:26.64%">			<p>教育咨询</p>			</td>			<td style="width:53.12%">			<p>Counseling</p>			</td>			<td style="width:20.22%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:26.64%">			<p>IT教育</p>			</td>			<td style="width:53.12%">			<p>Information Technology in Education</p>			</td>			<td style="width:20.22%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.64%">			<p>教育学</p>			</td>			<td style="width:53.12%">			<p>Education</p>			</td>			<td style="width:20.22%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:26.64%">			<p>教育领导</p>			</td>			<td style="width:53.12%">			<p>Educational Leadership</p>			</td>			<td style="width:20.22%">			<p>MA、M.Ed</p>			</td>		</tr>		<tr>			<td style="width:26.64%">			<p>小学教育</p>			</td>			<td style="width:53.12%">			<p>Elementary Education</p>			</td>			<td style="width:20.22%">			<p>MA、M.Ed、MS</p>			</td>		</tr>		<tr>			<td style="width:26.64%">			<p>多元化与教育公平</p>			</td>			<td style="width:53.12%">			<p>Equity and Diversity in Education</p>			</td>			<td style="width:20.22%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.64%">			<p>人类发展与家庭研究</p>			</td>			<td style="width:53.12%">			<p>Human Development and Family Studies</p>			</td>			<td style="width:20.22%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.64%">			<p>素质研究</p>			</td>			<td style="width:53.12%">			<p>Literacy Studies</p>			</td>			<td style="width:20.22%">			<p>MA、M.Ed</p>			</td>		</tr>		<tr>			<td style="width:26.64%">			<p>中学教育</p>			</td>			<td style="width:53.12%">			<p>Secondary Education</p>			</td>			<td style="width:20.22%">			<p>MA、M.Ed、MS</p>			</td>		</tr>		<tr>			<td style="width:26.64%">			<p><a href="http://www.qianmu.org/特殊教育" target="_blank">特殊教育</a></p>			</td>			<td style="width:53.12%">			<p>Special Education</p>			</td>			<td style="width:20.22%">			<p>M.Ed</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=lreSUwj7wzOaRiU69J-WSo1YqVH_ZGw1ixOFMw8zh5UK7a9UNFnCjMiVWAh5aLXNJt6hkihnOsb_BMEWBB0mkh8u3p" target="_blank">COLLEGE OF AGRICULTURE, BIOTECHNOLOGY AND NATURAL RESOURCES DEGREES &amp; PROGRAMS</a> University of Nevada,Reno</p><h2>卫生科学部</h2><p>内华达大学雷诺分校卫生科学学部（Division of Health Sciences）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:29.48%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:56.38%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:14.16%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:29.48%">			<p>生物化学</p>			</td>			<td style="width:56.38%">			<p>Biochemistry</p>			</td>			<td style="width:14.16%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:29.48%">			<p>细胞与分子生物学</p>			</td>			<td style="width:56.38%">			<p>Cell and Molecular Biology</p>			</td>			<td style="width:14.16%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:29.48%">			<p>细胞分子药理学与生理学</p>			</td>			<td style="width:56.38%">			<p>Cellular and Molecular Pharmacology and Physiology</p>			</td>			<td style="width:14.16%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:29.48%">			<p><a href="http://www.qianmu.org/医学" target="_blank">医学</a></p>			</td>			<td style="width:56.38%">			<p>Medicine</p>			</td>			<td style="width:14.16%">			<p><a href="http://www.qianmu.org/MD" target="_blank">MD</a></p>			</td>		</tr>		<tr>			<td style="width:29.48%">			<p>护理</p>			</td>			<td style="width:56.38%">			<p>Nursing</p>			</td>			<td style="width:14.16%">			<p>MSN、DNP</p>			</td>		</tr>		<tr>			<td style="width:29.48%">			<p><a href="http://www.qianmu.org/公共卫生" target="_blank">公共卫生</a></p>			</td>			<td style="width:56.38%">			<p><a href="http://www.qianmu.org/公共卫生" target="_blank">Public Health</a></p>			</td>			<td style="width:14.16%">			<p>MPH</p>			</td>		</tr>		<tr>			<td style="width:29.48%">			<p>社会工作</p>			</td>			<td style="width:56.38%">			<p>Social Work</p>			</td>			<td style="width:14.16%">			<p>MSW</p>			</td>		</tr>		<tr>			<td style="width:29.48%">			<p>语言病理学</p>			</td>			<td style="width:56.38%">			<p>Speech Pathology</p>			</td>			<td style="width:14.16%">			<p>MS、PhD</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=FrFYCWPewqQ5MjDz777777sJYiWKOwq8vCZlZlaiPL4AN0cI69GwtfYpo8Yy9wixK5M88hSX-MB7DRP8wV" target="_blank">DIVISION OF HEALTH SCIENCES DEGREES &amp; PROGRAMS</a> University of Nevada,Reno</p><h2>新闻学院</h2><p>内华达大学雷诺分校雷诺兹新闻学院（Reynolds School of Journalism）研究生只开设有以下一个学位项目，即：</p><ul>	<li>新闻学硕士项目（MA in Journalism）*(1)</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=-rGz4OfTk1JUIY2Cz6zttaCUggMoYTbRkT3GsLVOY7ZODARia_tAZ9KHP0PXd3ryDXv3Kcq9ZDR-_ZVXG6vpBmxu36" target="_blank">REYNOLDS SCHOOL OF JOURNALISM DEGREES &amp; PROGRAMS</a> University of Nevada,Reno</p><h2>沙漠研究所</h2><p>内华达大学雷诺分校沙漠研究所（Desert Research Institute）研究生只开设有以下两个学位项目，即：</p><ul>	<li>生态、进化与保护博士项目（PhD in Ecology, Evolution, and Conservation Biology ）</li>	<li>生物化学博士项目（PhD in Biochemistry）*(1)</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=XrChP9_zw7KRlGWLSSSSSSByVJWYuBzOm_m_7UqnwiC3TJqOpJd3mtd3Z2zYpbQY4-B1p_KMlj6wl9" target="_blank">DESERT RESEARCH INSTITUTE DEGREES &amp; PROGRAMS</a> University of Nevada,Reno</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2020-09-24</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1953;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1953' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1953;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

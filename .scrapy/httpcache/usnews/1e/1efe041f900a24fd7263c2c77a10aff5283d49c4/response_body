@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>伍斯特理工学院-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="伍斯特理工学院" />
+<meta name="description"  id="description"  content="伍斯特理工学院:伍斯特理工学院（Worcester Polytechnic Institute），简称WPI，成立于1865年是一所位于美国马萨诸塞州伍斯特市的私立大学，也是全美国最早的理工大学之一，被USNEWS评为国家一级大学。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">伍斯特理工学院 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>排名</p>			</td>			<td>			<p>66*(2)</p>			</td>		</tr>		<tr>			<td>			<p>国家</p>			</td>			<td>			<p>美国</p>			</td>		</tr>		<tr>			<td>			<p>州省</p>			</td>			<td>			<p><a href="http://www.qianmu.org/马萨诸塞州" target="_blank">马萨诸塞州</a></p>			</td>		</tr>		<tr>			<td>			<p>城市</p>			</td>			<td>			<p><a href="http://www.qianmu.org/伍斯特（马萨诸塞州）" target="_blank">伍斯特</a></p>			</td>		</tr>		<tr>			<td>			<p>校训</p>			</td>			<td>			<p>Lehr und Kunst (Latin)*(1)</p>			</td>		</tr>		<tr>			<td>英译</td>			<td>			<p>Theory and Practice</p>			</td>		</tr>		<tr>			<td>			<p>汉译</p>			</td>			<td>			<p>理论与实践</p>			</td>		</tr>		<tr>			<td>			<p>性质</p>			</td>			<td>			<p>私立，男女合校</p>			</td>		</tr>		<tr>			<td>			<p>成立年份</p>			</td>			<td>			<p>1865*(1)</p>			</td>		</tr>		<tr>			<td>			<p>宗教信仰</p>			</td>			<td>			<p>无</p>			</td>		</tr>		<tr>			<td>			<p>校园</p>			</td>			<td>			<p>0.32Km<sup>2</sup>，市区*(1)</p>			</td>		</tr>		<tr>			<td>			<p>学生人数</p>			</td>			<td>			<p>6,573</p>			</td>		</tr>		<tr>			<td>			<p>本科生人数</p>			</td>			<td>			<p>4,299*(3)</p>			</td>		</tr>		<tr>			<td>			<p>研究生人数</p>			</td>			<td>			<p>2,274*(3)</p>			</td>		</tr>		<tr>			<td>			<p>师生比</p>			</td>			<td>			<p>1:13*(3)</p>			</td>		</tr>		<tr>			<td>			<p>国际学生比例</p>			</td>			<td>			<p>12%*(3)</p>			</td>		</tr>		<tr>			<td>			<p>学校分类</p>			</td>			<td>			<p><a href="http://www.qianmu.org/全国性大学" target="_blank">全国性大学</a></p>			</td>		</tr>		<tr>			<td>			<p>认证机构</p>			</td>			<td>			<p><a href="http://www.qianmu.org/新英格兰学校及学院协会" target="_blank">新英格兰学校及学院协会</a>（NEASC）</p>			</td>		</tr>		<tr>			<td>			<p>网址</p>			</td>			<td>			<p><a href="http://www.wpi.edu" target="_blank">www.wpi.edu</a></p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>伍斯特理工学院（Worcester Polytechnic Institute），简称WPI，成立于1865年是一所位于美国<a href="http://www.qianmu.org/马萨诸塞州" target="_blank">马萨诸塞州</a><a href="http://www.qianmu.org/伍斯特（马萨诸塞州）" target="_blank">伍斯特</a>市的私立大学，也是全美国最早的理工大学之一，被USNEWS评为国家一级大学。</p><p>伍斯特理工学院位于美国东北角马萨诸塞州的伍斯特市。坐落在文化氛围浓郁的美国东北部，伍斯特拥有众多博物馆，<a href="http://www.qianmu.org/音乐" target="_blank">音乐</a>和戏曲表演中心。伍斯特是新<a href="http://www.qianmu.org/英格兰" target="_blank">英格兰</a>地区的第二大城市前往该地区第一大城市<a href="http://www.qianmu.org/波士顿" target="_blank">波士顿</a>的交通非常便利，一个小时的车程即可到达。</p><p>伍斯特理工学院强调&ldquo;集体解决疑难&rdquo;，以&ldquo;专题报告作教育根基&rdquo;，鼓励学生亲力亲为，边做边学。伍斯特市还是美国东北站的生物科技中心，附近有不少高科技的机构，支持学院的科研项目，不少学生都有机会在美国或到海外实习。伍斯特理工学院在北美洲、中美洲、非洲、澳大利亚、亚洲及欧洲拥有25个项目中心。</p><p><strong>历史与发展</strong></p><p>伍斯特理工学院由两位杰出的伍斯特工业界人士John Boynton与Ichabod Washburn建立于1865年，并作为伍斯特郡工业科学的自由学院。Boynton是一位主张讲授基础科学的人士，Washburn则是一位强调培养学生语言能力的人士，二位的合作建立了该大学的基本教育理念&ldquo;理论与实践&rdquo;。</p><p>该校<a href="http://www.qianmu.org/化学" target="_blank">化学</a>教授 Charles O. Thompson，也是WPI毕业生，对该校早年的发展做出来很大的贡献。</p><p>WPI在20世纪的早期，校园和学科建设得到逐步的，长足的发展，形成了研究生教育和<a href="http://www.qianmu.org/电子工程" target="_blank">电子工程</a>教育项目。斯托克校长主张的&ldquo;WPI计划&rdquo;引领了三大工程改造和课程结构的重新设计。之后，1968年春季，女性被允许进入WPI进行学习。</p><p>今日，WPI依然以本科教育为本，当然，研究生和研究院的发展也是一个长期的目标。WPI<a href="http://www.qianmu.org/生物工程" target="_blank">生物工程</a>中心目前已经是重要的贡献者对伍斯特目前生物科技工业的发展。其他的科技方向的研究也奠定了WPI研究型大学的背景。</p><p><strong>院系设置</strong></p><p>WPI是是一所小型的私立大学，学校以小班授课为主，伍斯特理工学院拥有14个院系，提供超过50种学位项目，包括理科、工程类学科、商科、社科及人文学科，学生可获学士，硕士，及<a href="http://www.qianmu.org/哲学" target="_blank">哲学</a>博士学位。学生修读最多的学科是工程(76%)、计算机及信息科学(7%)、和生命科学(6%)，其中最著名的是工程系，也是北美乃至世界上就读工程学专业最多的学校。</p><p>该校的<a href="http://www.qianmu.org/学期制度" target="_blank">学期制度</a>也与大多数大学不同，共5个学期，以A-D标记，夏季E学期可选，每个学期共7周。</p><h2>申请点评</h2><p>好评项：</p><p>1.A, B, C, and NR (No Record) grading scale</p><p>2.Close community</p><p>3.Computers everywhere</p><p>4.Constant on-campus activities</p><p>5.The fountain</p><p>6.Off-campus projects</p><p>7.One major cafeteria</p><p>8.Professors&#39; office hours</p><p>9.Seven-week classes</p><p>10.Small campus</p><p>差评项：</p><p>1.Cafeteria closes early (8 p.m.).</p><p>2.Few food options on campus</p><p>3.Harsh weather</p><p>4.Hot dorms in warm months</p><p>5.Little support for sports</p><p>6.No snow days</p><p>7.On-campus parking</p><p>8.Poor snow removal</p><p>9.The quarter system means more classes, which means more textbooks.</p><p>10.Shortened cafeteria hours on the weekends*(4)</p><p>学生功课十分繁重，每周至少要花12-15小时做功课、温习或阅读。</p><p>伍斯特理工学院的教职人员与学生共同在很多研究领域工作，这些领域包括生物科技，能源，信息安全，纳米科技以及材料处理。该校比较好的专业有机械工程，电子工程和计算机工程等。</p><p>据<a href="http://www.qianmu.org/普林斯顿（新泽西州）" target="_blank">普林斯顿</a>评论，伍斯特理工学院的游戏设计专业在美国排名前十。</p><p>参考资料：</p><p>(1)&nbsp;<a href="http://www.qianmu.org/redirect?code=OrMxo-6Mk45xF85kZZZZZZ1Ao7I-H5Gr0LJgvhIBciu7JpNB2nOsSNjNSkV8ERO6_HMgau_ZLu_gPAz6i2_B8qVT4RmZPOVG0xPD-3POH-" target="_blank">Worcester Polytechnic Institute</a>&nbsp;Wikipedia</p><p>(2)&nbsp;<a href="http://www.qianmu.org/redirect?code=vrJH6YrdkfKZOFaRMMMMMFxrEay1z_AkqyhVwQle5JJiKAvhKArjIogzFZFHhtml2tm9nNVv4utg8M4Mww4nf7VQnRuMnd-AkBEhFm4pJYUKhJ9yj5h0xD40LBVPDfaMOtyaIrvcm4WOcdoLQR8Lvcfbg4zkGakYEdmFGFp" target="_blank">Worcester Polytechnic Institute</a>&nbsp;USNEWS</p><p>(3)&nbsp;<a href="http://www.qianmu.org/redirect?code=Gr-dDkhekvECxPgCsVT3LbP0YN8zRxKmpPchtZijCCWGRxjLzRLOOoBeHC3l1JktafQ_4ydLlrGI3dSJz4pRv_tg7e7vDZPFG05SF83UKLuwP6n7mBOiWtzRtYMsCTKpuYRtvObBRVHUfsNnPr4OPxwnUbWe5mU6ohUOOo3Cy0" target="_blank">Worcester Polytechnic Institute</a>&nbsp;College Board</p><p>(4)&nbsp;<a href="http://www.qianmu.org/redirect?code=brEVbyflL7YsCwNqvHSQ4GSLGkAFU91wamNoo3VHh8C2jT8l3wcdvWVzWVaI6dQbBPrao6vHbctMh12nfRq-nhRzNfTlU0wZHyGmN2K-0RFiVe-DwamNPNi" target="_blank">Just The Facts</a>&nbsp;WPI</p><p>(5)&nbsp;<a href="http://www.qianmu.org/redirect?code=arBPkM52wjNSr1Gn------cl8PxjAP_G0jlgewoQ884ziIhdHOjPdCDrhNTbTYnF4YRZUXaRLscRAvCEoTV678cLyg9EjP8zu8ygrXvMqey7ZqBX" target="_blank">Worcester Polytechnic Institute</a>&nbsp;College Prowler</p><p>&nbsp;</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:17.7%">			<p>USNEWS排名</p>			</td>			<td style="width:16.48%">			<p>66</p>			</td>			<td style="width:16.82%">			<p>学费(/年)</p>			</td>			<td style="width:10.66%">			<p>$47,394</p>			</td>			<td style="width:21.12%">			<p>申请截止日期</p>			</td>			<td style="width:17.22%">			<p>2月1日</p>			</td>		</tr>		<tr>			<td style="width:17.7%">			<p>TOEFL要求</p>			</td>			<td style="width:16.48%">			<p>80</p>			</td>			<td style="width:16.82%">			<p>食宿(/年)</p>			</td>			<td style="width:10.66%">			<p>$13,745</p>			</td>			<td style="width:21.12%">			<p>开学时间</p>			</td>			<td style="width:17.22%">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:17.7%">			<p>IELTS要求</p>			</td>			<td style="width:16.48%">			<p>6.5</p>			</td>			<td style="width:16.82%">			<p>申请费</p>			</td>			<td style="width:10.66%">			<p>$65</p>			</td>			<td style="width:21.12%">			<p>可申请学期</p>			</td>			<td style="width:17.22%">			<p>秋季</p>			</td>		</tr>		<tr>			<td style="width:17.7%">			<p>SAT均分</p>			</td>			<td style="width:16.48%">			<p>1280-1460(1600)</p>			</td>			<td style="width:16.82%">			<p>录取率</p>			</td>			<td style="width:10.66%">			<p>48.5%</p>			</td>			<td style="width:21.12%">			<p>奖学金形式</p>			</td>			<td style="width:17.22%">			<p>Need-aware &amp; Merit-based</p>			</td>		</tr>		<tr>			<td style="width:17.7%">			<p>GPA均分</p>			</td>			<td style="width:16.48%">			<p>3.86</p>			</td>			<td style="width:16.82%">			<p>申请人数</p>			</td>			<td style="width:10.66%">			<p>10,172</p>			</td>			<td style="width:21.12%">			<p>是否提供双录取</p>			</td>			<td style="width:17.22%">			<p>Yes</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)(4)(5)(6)(7)</p><p>注：</p><p>（1）上表学费针对的是2016-17学年，此处的学费采纳的是学校官网的数据，食宿费用是采用的College Board的说法</p><p>（2）RD之外，伍斯特理工学院本科秋季学期设有EA和ED申请方式。EA申请截止日期为1月1日；ED申请截止日期为11月1日*(4)</p><p>（3）伍斯特理工学院本科要求TOEFL总分不低于80分，各单项不低于20分；IELTS总分不低于6.5分，单项均不低于6.0分；MELAB不低于80分，PTE不低于53分，均无单项分数要求。<strong>提供条件录取，语言成绩未达上述要求的学生，可以入读暑期语言课程</strong>（ESL Summer Institute）<strong>，该课程为期5周，仅在暑期开设</strong>*(5)</p><p>（4）2014年秋季共有10,233人申请，录取率43.8%（*<em>原参考链接已被覆盖，但数据仍然是准确的</em>）；2015年秋季EA共5,667人申请，录取率61.8%；Waitlist共2,472人，其中1,373人选择接受，最终录取41人*(2)</p><h2>教学质量&nbsp;</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:19.7%">			<p>本科生人数</p>			</td>			<td style="width:9.26%">			<p>4,299</p>			</td>			<td style="width:22.46%">			<p>小班比例(&lt;20)</p>			</td>			<td style="width:10.18%">			<p>64.4%</p>			</td>			<td style="width:25.22%">			<p>学期制度</p>			</td>			<td style="width:13.2%">			<p>Semester</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>研究生人数</p>			</td>			<td style="width:9.26%">			<p>2,274</p>			</td>			<td style="width:22.46%">			<p>中班比例(20-49)</p>			</td>			<td style="width:10.18%">			<p>24.9%</p>			</td>			<td style="width:25.22%">			<p>新生住校比例</p>			</td>			<td style="width:13.2%">			<p>97%</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>国际学生比例</p>			</td>			<td style="width:9.26%">			<p>12%</p>			</td>			<td style="width:22.46%">			<p>大班比例(&gt;50)</p>			</td>			<td style="width:10.18%">			<p>10.7%</p>			</td>			<td style="width:25.22%">			<p>教授水平满意度</p>			</td>			<td style="width:13.2%">			<p>89%</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>师生比</p>			</td>			<td style="width:9.26%">			<p>1:14</p>			</td>			<td style="width:22.46%">			<p>六年毕业率</p>			</td>			<td style="width:10.18%">			<p>85%</p>			</td>			<td style="width:25.22%">			<p>学生满意度</p>			</td>			<td style="width:13.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>四年毕业率</p>			</td>			<td style="width:9.26%">			<p>76%</p>			</td>			<td style="width:22.46%">			<p>新生保持率</p>			</td>			<td style="width:10.18%">			<p>96%</p>			</td>			<td style="width:25.22%">			<p>教师博士学位比例</p>			</td>			<td style="width:13.2%">			<p>94%</p>			</td>		</tr>		<tr>			<td style="width:19.7%">毕业2年平均薪水</td>			<td style="width:9.26%">$63,500</td>			<td style="width:22.46%">就业率</td>			<td style="width:10.18%">85%</td>			<td style="width:25.22%">校友网络认可度</td>			<td style="width:13.2%">96%</td>		</tr>	</tbody></table><p>*(5)(6)(8)(9)</p><p><strong>校园安全</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:143px">校园安全事件</td>			<td style="width:403px">Criminal Offenses -- On-Campus</td>			<td style="width:103px">2012</td>			<td style="width:100px">2013</td>			<td style="width:97px">2014</td>		</tr>		<tr>			<td>谋杀</td>			<td>Murder/Non-negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>过失杀人</td>			<td>Negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸</td>			<td>Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>乱伦</td>			<td>Incest</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸幼童罪</td>			<td>Statutory Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>猥亵</td>			<td>Fondling</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>性侵犯-强迫</td>			<td>Sex offenses - Forcible</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>性侵犯-非强迫</td>			<td>Sex offenses - non-forcible (incest and statutory rape only)</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>抢劫</td>			<td>Robbery</td>			<td>			<p>1</p>			</td>			<td>			<p>1</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>暴力袭击</td>			<td>Aggravated assault</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>盗窃</td>			<td>Burglary</td>			<td>			<p>2</p>			</td>			<td>			<p>2</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>汽车盗窃</td>			<td>Motor vehicle theft</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>纵火</td>			<td>Arson</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p><strong>2015</strong><strong>年秋季本科学生性别、地域与族裔分布：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:34.64%">			<p>白种人</p>			</td>			<td style="width:17.84%">			<p>63%</p>			</td>			<td style="width:34.64%">			<p>非裔</p>			</td>			<td style="width:12.88%">			<p>2%</p>			</td>		</tr>		<tr>			<td style="width:34.64%">			<p>西裔/拉丁裔</p>			</td>			<td style="width:17.84%">			<p>8%</p>			</td>			<td style="width:34.64%">			<p>亚裔</p>			</td>			<td style="width:12.88%">			<p>5%</p>			</td>		</tr>		<tr>			<td style="width:34.64%">			<p>国际学生</p>			</td>			<td style="width:17.84%">			<p>12%</p>			</td>			<td style="width:34.64%">			<p>多种族/混血</p>			</td>			<td style="width:12.88%">			<p>3%</p>			</td>		</tr>		<tr>			<td style="width:34.64%">			<p>未知/其它</p>			</td>			<td style="width:17.84%">			<p>6%</p>			</td>			<td style="width:34.64%">			<p>美洲原住民</p>			</td>			<td style="width:12.88%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:34.64%">			<p>女生比例</p>			</td>			<td style="width:17.84%">			<p>33%</p>			</td>			<td style="width:34.64%">			<p>男生比例</p>			</td>			<td style="width:12.88%">			<p>67%</p>			</td>		</tr>		<tr>			<td style="width:34.64%">			<p>州内学生占比</p>			</td>			<td style="width:17.84%">			<p>43%</p>			</td>			<td style="width:34.64%">			<p>州外学生占比</p>			</td>			<td style="width:12.88%">			<p>57%</p>			</td>		</tr>	</tbody></table><p>*(2)</p><h2>申请说明&nbsp;&nbsp;</h2><p><strong>SAT</strong><strong>与ACT</strong></p><p>伍斯特理工学院<strong>要求学生递交SAT与ACT成绩，亦可选用<a href="http://www.qianmu.org/redirect?code=xrVOpgXELAtGu91V4AI8TtrmHWVx_V8a3AFoVIturkAgcNktEt29twGsMA--FmXs7Voa5btM2ifuaqJ_1ru4mh4jStSdNDqIjvxI1c1qXjviKC7dSQE154kt0wN3O2x3" target="_blank">Flex Path​</a>材料代替</strong>。SAT无需SATⅡ成绩，ACT无需带Writing成绩。</p><p>2013年秋季被录取学生的 SAT与ACT的单项平均分如下：</p><ul>	<li>SAT（25%-75%）：阅读570-680；数学640-740；写作560-670；编号：3969*(2)</li>	<li>ACT（25%-75%）：综合27-32*(4)</li></ul><p>注：约85%的学生递交的是SAT成绩，SAT/ACT考试成绩最迟应在3月1日前递交给学校。 *(2)</p><p><strong>GPA</strong><strong>与班级排名</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td colspan="2" style="width:55.84%">			<p>GPA</p>			</td>			<td colspan="2" style="width:44.16%">			<p>班级排名</p>			</td>		</tr>		<tr>			<td style="width:33.68%">			<p>分段</p>			</td>			<td style="width:22.14%">			<p>占比</p>			</td>			<td style="width:22.14%">			<p>分段</p>			</td>			<td style="width:22.02%">			<p>占比</p>			</td>		</tr>		<tr>			<td style="width:33.68%">			<p>3.75以上</p>			</td>			<td style="width:22.14%">			<p>73%</p>			</td>			<td style="width:22.14%">			<p>TOP10%</p>			</td>			<td style="width:22.02%">			<p>65%</p>			</td>		</tr>		<tr>			<td style="width:33.68%">			<p>3.5-3.74</p>			</td>			<td style="width:22.14%">			<p>17%</p>			</td>			<td style="width:22.14%">			<p>TOP25%</p>			</td>			<td style="width:22.02%">			<p>91%</p>			</td>		</tr>		<tr>			<td style="width:33.68%">			<p>3.25-3.49</p>			</td>			<td style="width:22.14%">			<p>6%</p>			</td>			<td style="width:22.14%">			<p>TOP50%</p>			</td>			<td style="width:22.02%">			<p>98%</p>			</td>		</tr>		<tr>			<td style="width:33.68%">			<p>3.0-3.24</p>			</td>			<td style="width:22.14%">			<p>4%</p>			</td>			<td style="width:22.14%">			<p>50%以下</p>			</td>			<td style="width:22.02%">2%</td>		</tr>		<tr>			<td style="width:33.68%">			<p>2.99以下</p>			</td>			<td style="width:22.14%">			<p>0%</p>			</td>			<td style="width:22.14%">			<p>75%以下</p>			</td>			<td style="width:22.02%">			<p>-</p>			</td>		</tr>	</tbody></table><p>*(2)</p><p><strong>申请时间</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:54pt">申请轮次</td>			<td style="width:54pt">申请截止日期</td>			<td style="width:54pt">录取通知日期</td>			<td style="width:54pt">答复Offer日期</td>		</tr>		<tr>			<td>EA第一轮</td>			<td>11月1日</td>			<td>12月20日</td>			<td>5月1日</td>		</tr>		<tr>			<td>EA第二轮</td>			<td>1月1日</td>			<td>2月10日</td>			<td>5月1日</td>		</tr>		<tr>			<td>RD申请</td>			<td>2月1日</td>			<td>4月1日</td>			<td>5月1日</td>		</tr>		<tr>			<td>转学申请</td>			<td>4月15日</td>			<td>Rolling</td>			<td>Rolling</td>		</tr>	</tbody></table><p>*(4)</p><p><strong>申请材料</strong></p><p>伍斯特理工学院通过Commo Application申请，申请时申请者可以指定自己的专业，尚未选定自己专业的学生，可以指定&ldquo;Undeclared&rdquo;作为自己的专业。该校要求学生提供以下<a href="http://www.qianmu.org/申请材料" target="_blank">申请材料</a>：</p><ul>	<li>完成Common Application申请表</li>	<li>申请费：65美元</li>	<li><a href="http://www.qianmu.org/Essay" target="_blank">Essay</a>：包含在Common Application申请表之中</li>	<li><a href="http://www.qianmu.org/资金证明" target="_blank">资金证明</a>：申请时国际学生必需递交资金证明</li>	<li><a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a></li>	<li>SAT/<a href="http://www.qianmu.org/ACT" target="_blank">ACT</a>成绩：SAT无需SAT Subject成绩；ACT无需Writing成绩</li>	<li><a href="http://www.qianmu.org/推荐信" target="_blank">推荐信</a>：2封*(3)</li></ul><p>注：</p><p>（1）伍斯特理工学院<a href="http://www.qianmu.org/面试" target="_blank">面试</a>并非强制要求，由于资源有限，学校建议中国学生通过CIEE（<a href="http://www.qianmu.org/redirect?code=trmo1nTDkbcX29cOiiiiiizJkgafCTNRbPaz8gLdpg2RpFLfoLQI8yaRoPNdZh" target="_blank">Vericant</a>）参加面试</p><p>（2）伍斯特理工学院接受<a href="http://www.qianmu.org/AP" target="_blank">AP</a>课程成绩，要求4-5分以上方可转学分；获得<a href="http://www.qianmu.org/IB" target="_blank">IB</a>课程文凭且分数在40分以上，可以保证获得<a href="http://www.qianmu.org/Merit-based" target="_blank">Merit-based</a><a href="http://www.qianmu.org/奖学金" target="_blank">奖学金</a>*(9)</p><p>联系方式：</p><p>Undergraduate Admissions</p><p>Bartlett Center</p><p>100 Institute Road</p><p>Worcester, MA 01609-2280</p><p>Phone: +1-508-831-5286</p><p>Fax: +1-508-831-5875</p><p>admissions@wpi.edu*(4)</p><p><strong>费用与奖学金</strong></p><p>伍斯特理工学院向国际学生主要提供有以下两种奖学金，分别是：</p><ul>	<li>International Financial Aid：该奖学金为<a href="http://www.qianmu.org/Need-based" target="_blank">Need-based</a>形式。不准备申请该奖学金的国际学生，必需准备资金证明表。由于该奖学金与伍斯特的整体花费相比仍然较低，获得该奖学金的学生仍需额外准备<strong>$18,000</strong>的生活费外加旅程费（如机票）。<strong>申请方法：</strong>将申请表（<a href="http://www.qianmu.org/redirect?code=urKrNAm7wzOaRdN_PPPPPWy9cXoHl0-ItutuFjtH4mdJBXSvC87Jc0l7eahE3Qo6a7_FRAyFH6QkVBN7t8CqTkY5G7-O3Ygq6-Fqhe8sg-kqhnjsO7z1gny" target="_blank">International Student Financial Aid Application</a>）连同其它申请材料一道递交即可*(7)</li>	<li>Merit (Academic) Scholarships：该奖学金为Merit-based形式，无需单独申请，自动随Offer发放，金额至少为20,000；获得IB课程文凭且分数在40分以上的学生，可以保证获得该成绩*(8)</li></ul><p>2015-16学年，伍斯特理工共有444名国际学生获得奖学金，平均金额$21,552，按国际学生比例与本科生人数计算，该年度伍斯特理工国际学生的奖学金覆盖率<strong>约80%</strong>。*(2)</p><p><strong>费用列表：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>支出项目</p>			</td>			<td>			<p>项目英文名</p>			</td>			<td>			<p>2016-17学年</p>			</td>		</tr>		<tr>			<td>			<p>学费</p>			</td>			<td>			<p>Tuition</p>			</td>			<td>			<p>$47,394</p>			</td>		</tr>		<tr>			<td>			<p>住宿</p>			</td>			<td>			<p>Room Charges</p>			</td>			<td>			<p>$6,850-$9,290</p>			</td>		</tr>		<tr>			<td>			<p>餐费</p>			</td>			<td>			<p>Meal Plans</p>			</td>			<td>			<p>$5,890-$6,880</p>			</td>		</tr>		<tr>			<td>			<p>医疗保险费</p>			</td>			<td>			<p>Health Insurance Premium</p>			</td>			<td>			<p>$1,104</p>			</td>		</tr>		<tr>			<td>			<p>杂费</p>			</td>			<td>			<p>Miscellaneous Fees</p>			</td>			<td>			<p>$385</p>			</td>		</tr>		<tr>			<td>			<p>合计</p>			</td>			<td>			<p>TOTAL</p>			</td>			<td>			<p>$61,983-65,413</p>			</td>		</tr>	</tbody></table><p>*(2)(3)</p><p>注：</p><p>（1）上表为2016-2017学年伍斯特理工学院本科费用标准，其中包含有200美金的<strong>Co-op Admin Fee</strong></p><p>（2）食宿费用根据个人所选公寓、房型以及就餐计划而异，部分公寓含餐，餐费根据个人所选校园内就餐套餐不同而异*(3)</p><h2>转学申请</h2><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>TOEFL要求</p>			</td>			<td>			<p>80</p>			</td>			<td>			<p>GPA要求</p>			</td>			<td>			<p>3.0</p>			</td>			<td>			<p>申请截止日期</p>			</td>			<td>			<p>5月15日</p>			</td>		</tr>		<tr>			<td>			<p>IELTS要求</p>			</td>			<td>			<p>6.5</p>			</td>			<td>			<p>SAT要求</p>			</td>			<td>			<p>Not Required</p>			</td>			<td>			<p>开学时间</p>			</td>			<td>			<p>8月-9月</p>			</td>		</tr>		<tr>			<td>			<p>最高可转学分</p>			</td>			<td>			<p>60</p>			</td>			<td>			<p>最低学分要求</p>			</td>			<td>			<p>-</p>			</td>			<td>			<p>可申请学期</p>			</td>			<td>			<p>秋季</p>			</td>		</tr>		<tr>			<td>			<p>申请人数</p>			</td>			<td>			<p>290</p>			</td>			<td>			<p>录取人数</p>			</td>			<td>			<p>94</p>			</td>			<td>			<p>录取率</p>			</td>			<td>			<p>32%</p>			</td>		</tr>	</tbody></table><p>*(2)(10)(11)</p><p>注：</p><p>（1）伍斯特理工学院本科要求TOEFL总分不低于80，各单项分数不低于20分；IELTS总分不低于6.5分，单项均不低于6.0分*(10)</p><p>（2）伍斯特理工学院本科对转学申请者最低GPA要求为3.0，<strong>一般录取学生的GPA不低于3.5分</strong>；如考虑转学分，单门课程GPA须不低于2.0；AP课程4-5分以上，IB课程6-7分以上方可转学分*(11)</p><p>（3）伍斯特理工学院本科转学申请无需递交SAT或ACT考试成绩*(11)</p><p><strong>申请说明</strong></p><p>伍斯特理工学院要求申请者在伍斯特理工至少就读2个学年以上，方才可以获得伍斯特理工的学士学位。伍斯特理工转学无需SAT/ACT成绩，无最低转学学分限制&mdash;&mdash;这也意味着，大一即可申请转学伍斯特理工。要求申请者修过大学微积分课程以及其它至少两门理科课程。该校另需要注意的是，不同于新生申请，伍斯特理工不向转学生提供奖学金。*(10)</p><h2>专业设置</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td colspan="4" style="width:578px">			<p><strong>文理学部（Arts &amp; Sciences</strong><strong>）</strong></p>			</td>		</tr>		<tr>			<td style="width:116px">			<p><a href="http://www.qianmu.org/精算" target="_blank">精算</a>数学</p>			</td>			<td style="width:205px">			<p>Actuarial <a href="http://www.qianmu.org/数学" target="_blank">Mathematics</a>&nbsp;</p>			</td>			<td style="width:85px">			<p>数学科学</p>			</td>			<td style="width:173px">			<p>Mathematical Sciences&nbsp;</p>			</td>		</tr>		<tr>			<td style="width:116px">			<p><a href="http://www.qianmu.org/生物化学" target="_blank">生物化学</a></p>			</td>			<td style="width:205px">			<p>Biochemistry&nbsp;</p>			</td>			<td style="width:85px">			<p><a href="http://www.qianmu.org/纳米技术" target="_blank">纳米科学</a></p>			</td>			<td style="width:173px">			<p>Nanoscience</p>			</td>		</tr>		<tr>			<td style="width:116px">			<p><a href="http://www.qianmu.org/生物信息学" target="_blank">生物信息学</a>与<a href="http://www.qianmu.org/生物信息学" target="_blank">计算生物学</a></p>			</td>			<td style="width:205px">			<p>Bioinformatics &amp; Computational Biology</p>			</td>			<td style="width:85px">			<p><a href="http://www.qianmu.org/物理" target="_blank">物理</a></p>			</td>			<td style="width:173px">			<p><a href="http://www.qianmu.org/物理" target="_blank">Physics</a>&nbsp;</p>			</td>		</tr>		<tr>			<td style="width:116px">			<p>生物学与生物技术</p>			</td>			<td style="width:205px">			<p>Biology &amp; Biotechnology</p>			</td>			<td style="width:85px">			<p><a href="http://www.qianmu.org/政治学" target="_blank">政治学</a>与<a href="http://www.qianmu.org/法学" target="_blank">法学</a></p>			</td>			<td style="width:173px">			<p><a href="http://www.qianmu.org/政治学" target="_blank">Political Science</a> &amp; <a href="http://www.qianmu.org/法学" target="_blank">Law</a></p>			</td>		</tr>		<tr>			<td style="width:116px">			<p>化学</p>			</td>			<td style="width:205px">			<p><a href="http://www.qianmu.org/化学" target="_blank">Chemistry</a></p>			</td>			<td style="width:85px">			<p>卫生预科</p>			</td>			<td style="width:173px">			<p>Pre-Health&nbsp;</p>			</td>		</tr>		<tr>			<td style="width:116px">			<p>计算机科学</p>			</td>			<td style="width:205px">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">Computer Science</a>&nbsp;</p>			</td>			<td style="width:85px">			<p><a href="http://www.qianmu.org/法学预科" target="_blank">法学预科</a></p>			</td>			<td style="width:173px">			<p>Pre-Law</p>			</td>		</tr>		<tr>			<td style="width:116px">			<p><a href="http://www.qianmu.org/经济学" target="_blank">经济学</a></p>			</td>			<td style="width:205px">			<p><a href="http://www.qianmu.org/经济学" target="_blank">Economics</a></p>			</td>			<td style="width:85px">			<p>写作</p>			</td>			<td style="width:173px">			<p>Professional Writing</p>			</td>		</tr>		<tr>			<td style="width:116px">			<p>环境与可持续发展研究</p>			</td>			<td style="width:205px">			<p>Environmental &amp; Sustainability Studies&nbsp;</p>			</td>			<td style="width:85px">			<p><a href="http://www.qianmu.org/心理学" target="_blank">心理学</a></p>			</td>			<td style="width:173px">			<p><a href="http://www.qianmu.org/心理学" target="_blank">Psychology</a></p>			</td>		</tr>		<tr>			<td style="width:116px">			<p>人文与艺术</p>			</td>			<td style="width:205px">			<p>Humanities &amp; Arts&nbsp;</p>			</td>			<td style="width:85px">			<p>社会科学</p>			</td>			<td style="width:173px">			<p>Social Science</p>			</td>		</tr>		<tr>			<td style="width:116px">			<p>互动媒体与游戏开发</p>			</td>			<td style="width:205px">			<p>Interactive Media &amp; Game Development</p>			</td>			<td style="width:85px">			<p>社会、科技与政策</p>			</td>			<td style="width:173px">			<p>Society, Technology &amp; Policy</p>			</td>		</tr>		<tr>			<td style="width:116px">			<p>国际问题研究</p>			</td>			<td style="width:205px">			<p>International Studies&nbsp;</p>			</td>			<td style="width:85px">			<p><a href="http://www.qianmu.org/社会学" target="_blank">社会学</a></p>			</td>			<td style="width:173px">			<p><a href="http://www.qianmu.org/社会学" target="_blank">Sociology</a></p>			</td>		</tr>		<tr>			<td style="width:116px">			<p>法律与技术</p>			</td>			<td style="width:205px">			<p>Law &amp; Technology</p>			</td>			<td style="width:85px">			<p>系统动力学</p>			</td>			<td style="width:173px">			<p>System Dynamics</p>			</td>		</tr>		<tr>			<td style="width:116px">			<p>人文与工程</p>			</td>			<td style="width:205px">			<p>Liberal Arts &amp; Engineering&nbsp;</p>			</td>			<td style="width:85px">			<p>师范项目</p>			</td>			<td style="width:173px">			<p>Teacher Preparation Program</p>			</td>		</tr>		<tr>			<td colspan="4" style="width:578px">			<p><strong>工程学部（Engineering</strong><strong>）</strong></p>			</td>		</tr>		<tr>			<td style="width:116px">			<p>机器人工程</p>			</td>			<td style="width:205px">			<p>Robotics Engineering&nbsp;</p>			</td>			<td style="width:85px">			<p>土木工程</p>			</td>			<td style="width:173px">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">Civil Engineering</a>&nbsp;</p>			</td>		</tr>		<tr>			<td style="width:116px">			<p><a href="http://www.qianmu.org/航空航天工程" target="_blank">航空航天工程</a></p>			</td>			<td style="width:205px">			<p><a href="http://www.qianmu.org/航空航天工程" target="_blank">Aerospace Engineering</a></p>			</td>			<td style="width:85px">			<p>电气及计算机工程</p>			</td>			<td style="width:173px">			<p>Electrical &amp; <a href="http://www.qianmu.org/计算机工程" target="_blank">Computer Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:116px">			<p>建筑工程</p>			</td>			<td style="width:205px">			<p>Architectural Engineering&nbsp;</p>			</td>			<td style="width:85px">			<p><a href="http://www.qianmu.org/环境工程" target="_blank">环境工程</a></p>			</td>			<td style="width:173px">			<p><a href="http://www.qianmu.org/环境工程" target="_blank">Environmental Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:116px">			<p>生物医学工程</p>			</td>			<td style="width:205px">			<p><a href="http://www.qianmu.org/生物医学工程" target="_blank">Biomedical Engineering</a>&nbsp;</p>			</td>			<td style="width:85px">			<p><a href="http://www.qianmu.org/制造工程" target="_blank">制造工程</a></p>			</td>			<td style="width:173px">			<p>Manufacturing Engineering</p>			</td>		</tr>		<tr>			<td style="width:116px">			<p>化学工程</p>			</td>			<td style="width:205px">			<p>Chemical Engineering&nbsp;</p>			</td>			<td style="width:85px">			<p>机械工业</p>			</td>			<td style="width:173px">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">Mechanical Engineering</a>&nbsp;</p>			</td>		</tr>		<tr>			<td colspan="4" style="width:578px">			<p><strong>商学院（School of Business</strong><strong>）</strong></p>			</td>		</tr>		<tr>			<td style="width:116px">			<p>企业管理</p>			</td>			<td style="width:205px">			<p><a href="http://www.qianmu.org/创业管理" target="_blank">Entrepreneurship</a></p>			</td>			<td style="width:85px">			<p>管理信息系统</p>			</td>			<td style="width:173px">			<p><a href="http://www.qianmu.org/管理学" target="_blank">Management</a> <a href="http://www.qianmu.org/信息系统管理" target="_blank">Information Systems</a></p>			</td>		</tr>		<tr>			<td style="width:116px">			<p><a href="http://www.qianmu.org/管理学" target="_blank">管理学</a></p>			</td>			<td style="width:205px">			<p>Management</p>			</td>			<td style="width:85px">			<p>组织领导</p>			</td>			<td style="width:173px">			<p>Organizational Leadership</p>			</td>		</tr>		<tr>			<td style="width:116px">			<p>管理工程</p>			</td>			<td style="width:205px">			<p>Management Engineering</p>			</td>			<td style="width:85px">			<p>工业工程</p>			</td>			<td style="width:173px">			<p><a href="http://www.qianmu.org/工业工程" target="_blank">Industrial Engineering</a></p>			</td>		</tr>	</tbody></table><p>*(12)</p><p>外部链接：</p><ul>	<li>国际学生奖学金申请表：<a href="http://www.qianmu.org/redirect?code=_r75g1Xjw2y6pF18Gvvmqwdu4zoIBE6Oldz8_UYAhG2iolagMF_8uH4AzPBw87BgbcIzgdUgWLvwzK1MaC2Pe1vncNIbzbBu3i5eCeJO9B9KI3Z8dcES_00IFzDmf2Vmptfe-Sd" target="_blank">International Student Financial Aid Application</a>(PDF)</li>	<li>国际学生资金证明表：<a href="http://www.qianmu.org/redirect?code=FrFYCWAtkO9fNTBjkkkkkfjCKnDLgv8xA6A6eGAL1UWTZn_xDPIMZ6PLen6xWdXSJAoSd5lg_VZ8NfBDuj8aq_BDHVsPHVuPuj84qmMoXAPf76vGM" target="_blank">Certification of Finances form</a>(PDF)</li></ul><p>参考资料：</p><p>(1)&nbsp;<a href="http://www.qianmu.org/redirect?code=orDtO5auLRgWEOZ_77777hI9FkvBQKDAsgs718ZhTh1_hceFhcQIzeC9_g_WCH-d5H-3_lhLKv5DbCXeooXQ0ZohrJBjrNCD-PG06pESIQlkiTuU8ZDzwSfzTkU-zEeir8cbHC_MuYTlp0_nwACnErjmi907qGDjhAB2C2e" target="_blank">Worcester Polytechnic Institute</a>&nbsp;USNEWS</p><p>(2)&nbsp;<a href="http://www.qianmu.org/redirect?code=kr53aGRww36Dme_U4EOcpGFKM-9Vv8Jf1Nm4mzZjFsuUz4PgY1O2cxdJESB_KSxaTGtzVDpBtC4WddY3upfGyBLKkxGAWK1U2GMUvePhu1dmgZ5AFTW_SEW0uBQRplnB5KhubOVUNH7hIdZFgb-H1DTRy_wwwBLYLaD2cxdgbo" target="_blank">Worcester Polytechnic Institute</a>&nbsp;College Board</p><p>(3)&nbsp;<a href="https://www.wpi.edu/admissions/tuition-aid/cost-attendance" target="_blank">Cost of Attendance</a>&nbsp;Worcester Polytechnic Institute</p><p>(4)&nbsp;<a href="http://www.qianmu.org/redirect?code=7r_i3IKewqQ5Mj7XDDDDD6BA5DMklcm1tFNQNQYlNvektDX0zPamU-lpYRQevw1dXZndnmnKCl7DTm_TcNn1cPBtqywVYT2KaWLdyF3vHMFCA-FCbJYsdQOxdqSHoNz" target="_blank">Application Deadlines</a>&nbsp;Worcester Polytechnic Institute</p><p>(5)&nbsp;<a href="https://www.wpi.edu/admissions/undergraduate/apply/how-to/application-deadlines#InternationalStudents" target="_blank">International Admissions</a>&nbsp;Worcester Polytechnic Institute</p><p>(6)&nbsp;<a href="http://www.qianmu.org/redirect?code=Lr8sWS2zkc7SCZqM444444Zet4-X1Yd6P0kVkVE1kstah2eyACDlzZH3QTde1P26urp6mYnHqasc8_yk5uZd5-C4pU53GuhgQpWDKYEJJcqN1Y-" target="_blank">Just The Facts</a>&nbsp;Worcester Polytechnic Institute</p><p>(7)&nbsp;<a href="http://www.qianmu.org/redirect?code=1rdft_13kCscvuU2EmbkoeUIPoO_LBMRryddJYE9Yucn9v4LJP3xQRrXuLR1AJ_0bIbPXpggr_b6mZwpMwsGq_J0v5xIh7Uuz0TYPCy_5iHwAHhEPRxct" target="_blank">Need-based financial aid-International Students</a>&nbsp;Worcester Polytechnic Institute</p><p>(8)&nbsp;<a href="http://www.qianmu.org/redirect?code=rrcuJR6jw2y6pncKeeeeee3tN_aTA9lsO1O1kpOTU5SLy_Hsnm5EyPdTnPlEXbl1yp5LCIXTjm517eBrwWKFQYVNfcKFk3Zto_V2CyVJknS" target="_blank">WPI Merit Scholarship Overview</a>&nbsp;Worcester Polytechnic Institute</p><p>(9)&nbsp;<a href="http://www.qianmu.org/redirect?code=brEVbyk6kBHWJ8r-ppppp97qYJqE2JaZvJIrTGtOq-ibSV5lTKdw_YeqygziBJiX0JpO8krEqyYEtzt4M1FvXHunRC0eBJlyqsyw_Qr3URhaUXeCUIyWpBcrQmtOEGfLHWpjZgwqrqxKoETn" target="_blank">Best &amp; Worst Worcester Polytechnic Institute</a>&nbsp;College Prowler</p><p>(10)&nbsp;<a href="http://www.qianmu.org/redirect?code=7r_i3IK4wbton0ZyJJJJJsx-weEp678NgJaEaEBmaCkwnWYiHF26T_KyXOmWYpdznw2zeq7oUOLiZEUJQZgpQ2EzGhVUr81oVM7NbPlIiZ76fZTQ4iZJ_FXwvd0I1M8" target="_blank">Applying as a Transfer Student</a>&nbsp;Worcester Polytechnic Institute</p><p>(11)&nbsp;<a href="http://www.qianmu.org/redirect?code=FrFYCWA3kCscvuBUYAsWPlUmkPCfNOpPCh16tW8lCI5VU64vBRVQhBNNnO_ATHhyTf5mxEP-JzW0_RAOhRMSamxZlBmYXuRk-DCxifDCJLypL1wX3jehP3OS9m77-_qLA6Usk" target="_blank">Frequently Asked Questions- Transfer Student</a>&nbsp;Worcester Polytechnic Institute</p><p>(12)&nbsp;<a href="http://www.qianmu.org/redirect?code=0rRNYsUokEmsA38WVVVVVVmus4OgQPBp6HpxpomxiuDrItVWwSAehtVkntkeioQDINdziomMpuWj" target="_blank">Departments &amp; Programs</a>&nbsp;Worcester Polytechnic Institute</p><p>&nbsp;</p><h1>研究生申请</h1><p><strong>院系设置</strong></p><p>伍斯特理工学院共分以下四个学部，分别是：</p><ul>	<li>文理学部（Arts &amp; Sciences）</li>	<li>工程学部（Engineering）</li>	<li>商学院（School of Business）</li>	<li>专业进修教育部（Corporate &amp; Professional Education）*(1)</li></ul><h2>申请条件</h2><p>伍斯特理工研究生的基本申请条件如下：</p><ul>	<li>学位背景要求：正规大学本科毕业并获得学士学位&nbsp;</li>	<li>语言要求：TOEFL不低于84分，无单项要求，但建议不低于21分；IELTS不低于7.0分，单项要求不低于6.5分。获得奖学金的申请者的TOEFL成绩一般在100分左右*(2)(3)</li>	<li>GPA要求：学校未设定有最低的GPA分数要求</li>	<li><a href="http://www.qianmu.org/GRE" target="_blank">GRE</a>要求：除极少数项目外，均要求有GRE成绩，部分项目还要求递交<a href="http://www.qianmu.org/GRE Subject" target="_blank">GRE Subject</a>成绩；商科项目要求递交GMAT/GRE分数，且GMAT分数500分以上</li>	<li>条件录取：伍斯特理工研究生亦接受条件录取，语言成绩未达学校要求的学生，可能被录取至条件录取项目；获得条件录取的学生要求参加暑期语言课程*(4)</li></ul><p><strong>申请时间</strong></p><p>伍斯特理工学院全年招生，全年皆可申请，但国际学生秋季学期需在3月31日前申请，春季学期需在10月1日前申请，递交申请后一般6-8周即出录取结果。&mdash;&mdash;生物医学工程、电气工程、数学以及机器人工程四个专业除外，此四个专业有单独的申请截止时间，见下：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td rowspan="2" style="width:79px">			<p>专业名称</p>			</td>			<td colspan="2" style="width:184px">			<p>秋季学期</p>			</td>			<td colspan="2" style="width:183px">			<p>春季学期</p>			</td>		</tr>		<tr>			<td style="width:78px">			<p>申请截止日期</p>			</td>			<td style="width:104px">			<p>材料递交截止日期</p>			</td>			<td style="width:78px">			<p>申请截止日期</p>			</td>			<td style="width:103px">			<p>材料递交截止日期</p>			</td>		</tr>		<tr>			<td style="width:79px">			<p>生物医学工程</p>			</td>			<td style="width:78px">			<p>5月15日</p>			</td>			<td style="width:104px">			<p>5月31日</p>			</td>			<td colspan="2" style="width:183px">			<p>不招生</p>			</td>		</tr>		<tr>			<td style="width:79px">			<p>电气工程</p>			</td>			<td style="width:78px">			<p>1月15日</p>			</td>			<td style="width:104px">			<p>2月15日</p>			</td>			<td colspan="2" style="width:183px">			<p>不招生</p>			</td>		</tr>		<tr>			<td style="width:79px">			<p>数学</p>			</td>			<td style="width:78px">			<p>3月31日</p>			</td>			<td style="width:104px">			<p>4月30日</p>			</td>			<td style="width:78px">			<p>10月31日</p>			</td>			<td style="width:103px">			<p>11月30日</p>			</td>		</tr>		<tr>			<td style="width:79px">			<p>机器人工程</p>			</td>			<td style="width:78px">			<p>1月1日</p>			</td>			<td style="width:104px">			<p>1月31日</p>			</td>			<td style="width:78px">			<p>10月2日</p>			</td>			<td style="width:103px">			<p>10月31日</p>			</td>		</tr>	</tbody></table><p>*(2)</p><p><strong>申请材料</strong></p><p>伍斯特理工通过学校官网申请，要求的申请材料如下：</p><ul>	<li>完成在线申请表：通过学校官网申请&nbsp;</li>	<li>申请费：$70</li>	<li>正式成绩单</li>	<li><a href="http://www.qianmu.org/个人陈述" target="_blank">个人陈述</a>：部分专业（如化学工程、<a href="http://www.qianmu.org/材料科学与工程" target="_blank">材料科学</a>与工程、数学等）无需个人陈述</li>	<li>GRE成绩，编码3969</li>	<li>TOEFL/IELTS成绩</li>	<li>推荐信：3封*(3)</li></ul><p>联系方式：</p><p>Graduate Admissions</p><p>27 Hackfeld Road</p><p>Worcester, MA 01609-2280</p><p>Phone: +1-508-831-5301</p><p>Fax: +1-508-831-5717</p><p>grad@wpi.edu*(6)</p><h2>费用与奖学金</h2><p>伍斯特理工学院的奖学金无需单独申请，自动随Offer发放，申请者只需在既定的申请截止日期前申请即可自动获得奖学金考量。既定申请截止日期如下：</p><ul>	<li>秋季学期：1月1日</li>	<li>春季学期：10月1日*(2)</li></ul><p>学生在申请时应主动与系里的导师或招生办联系，以期获得由导师或系里提供的<a href="http://www.qianmu.org/RA" target="_blank">RA</a>、<a href="http://www.qianmu.org/TA" target="_blank">TA</a>奖学金。另请注意的是，伍斯特理工全年皆招生，上述截止日期只是会给予奖学金考量的申请推荐日期。*(2)</p><p><strong>费用列表（2016-2017</strong><strong>学年）：</strong></p><p>伍斯特理工学院项目有着统一费用要求，具体如下：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:169.556px">			<p>支出项目</p>			</td>			<td style="width:285.111px">			<p>项目英文</p>			</td>			<td style="width:148.222px">			<p>2017~2018学年就读费用</p>			</td>		</tr>		<tr>			<td style="width:169.556px">			<p>学费</p>			</td>			<td style="width:285.111px">			<p>TUITION ($1,408 PER CREDIT)</p>			</td>			<td style="width:148.222px">			<p>$26,226</p>			</td>		</tr>		<tr>			<td style="width:169.556px">			<p>杂费</p>			</td>			<td style="width:285.111px">			<p>GRADUATE FEE</p>			</td>			<td style="width:148.222px">			<p>$60</p>			</td>		</tr>		<tr>			<td style="width:169.556px">			<p>住宿费用</p>			</td>			<td style="width:285.111px">			<p>ROOM</p>			</td>			<td style="width:148.222px">			<p>$7,654</p>			</td>		</tr>		<tr>			<td style="width:169.556px">			<p>餐费</p>			</td>			<td style="width:285.111px">			<p>BOARD</p>			</td>			<td style="width:148.222px">			<p>$5,756</p>			</td>		</tr>		<tr>			<td style="width:169.556px">			<p>医疗保险费用</p>			</td>			<td style="width:285.111px">			<p>MEDICAL</p>			</td>			<td style="width:148.222px">			<p>$1,164</p>			</td>		</tr>		<tr>			<td style="width:169.556px">			<p>书本与生活用品费</p>			</td>			<td style="width:285.111px">			<p>BOOKS &amp; SUPPLIES</p>			</td>			<td style="width:148.222px">			<p>$1,000</p>			</td>		</tr>		<tr>			<td style="width:169.556px">			<p>个人花费</p>			</td>			<td style="width:285.111px">			<p>PERSONAL EXPENSES</p>			</td>			<td style="width:148.222px">			<p>$8,193</p>			</td>		</tr>		<tr>			<td style="width:169.556px">医疗服务费</td>			<td style="width:285.111px">HEALTH SERVICES FEE</td>			<td style="width:148.222px">$370</td>		</tr>		<tr>			<td style="width:169.556px">			<p>费用合计</p>			</td>			<td style="width:285.111px">			<p>TOTAL BUDGETED COSTS</p>			</td>			<td style="width:148.222px">			<p>$50,459</p>			</td>		</tr>	</tbody></table><p>*(5)</p><h2>专业设置</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:24.72%">			<p>专业名称</p>			</td>			<td style="width:42.44%">			<p>专业英文名</p>			</td>			<td style="width:15.52%">			<p>开设学位</p>			</td>			<td style="width:17.32%">			<p>可否本硕连读</p>			</td>		</tr>		<tr>			<td style="width:24.72%">			<p><a href="http://www.qianmu.org/应用数学" target="_blank">应用数学</a></p>			</td>			<td style="width:42.44%">			<p><a href="http://www.qianmu.org/应用数学" target="_blank">Applied Mathematics</a></p>			</td>			<td style="width:15.52%">			<p>MS</p>			</td>			<td style="width:17.32%">			<p>&radic;</p>			</td>		</tr>		<tr>			<td style="width:24.72%">			<p>应用<a href="http://www.qianmu.org/统计学" target="_blank">统计学</a></p>			</td>			<td style="width:42.44%">			<p>Applied <a href="http://www.qianmu.org/统计学" target="_blank">Statistics</a></p>			</td>			<td style="width:15.52%">			<p>MS</p>			</td>			<td style="width:17.32%">			<p>&radic;</p>			</td>		</tr>		<tr>			<td style="width:24.72%">			<p>生物学与生物技术</p>			</td>			<td style="width:42.44%">			<p>Biology &amp; Biotechnology</p>			</td>			<td style="width:15.52%">			<p>MS、PhD</p>			</td>			<td style="width:17.32%">&nbsp;</td>		</tr>		<tr>			<td style="width:24.72%">			<p>生物医学工程</p>			</td>			<td style="width:42.44%">			<p>Biomedical Engineering</p>			</td>			<td style="width:15.52%">			<p>MS、PhD</p>			</td>			<td style="width:17.32%">			<p>&radic;</p>			</td>		</tr>		<tr>			<td style="width:24.72%">			<p>工商管理</p>			</td>			<td style="width:42.44%">			<p>Business Administration</p>			</td>			<td style="width:15.52%">			<p>MS</p>			</td>			<td style="width:17.32%">			<p>&radic;</p>			</td>		</tr>		<tr>			<td style="width:24.72%">			<p>化学工程</p>			</td>			<td style="width:42.44%">			<p>Chemical Engineering&nbsp;</p>			</td>			<td style="width:15.52%">			<p>MS、PhD</p>			</td>			<td style="width:17.32%">			<p>&radic;</p>			</td>		</tr>		<tr>			<td style="width:24.72%">			<p>化学与生物化学</p>			</td>			<td style="width:42.44%">			<p>Chemistry &amp; Biochemistry</p>			</td>			<td style="width:15.52%">			<p>MS、PhD</p>			</td>			<td style="width:17.32%">&nbsp;</td>		</tr>		<tr>			<td style="width:24.72%">			<p>土木工程</p>			</td>			<td style="width:42.44%">			<p>Civil Engineering</p>			</td>			<td style="width:15.52%">			<p>MS、PhD</p>			</td>			<td style="width:17.32%">&nbsp;</td>		</tr>		<tr>			<td style="width:24.72%">			<p>计算机科学</p>			</td>			<td style="width:42.44%">			<p>Computer Science</p>			</td>			<td style="width:15.52%">			<p>MS、PhD</p>			</td>			<td style="width:17.32%">			<p>&radic;</p>			</td>		</tr>		<tr>			<td style="width:24.72%">			<p>建设项目管理</p>			</td>			<td style="width:42.44%">			<p>Construction Project Management</p>			</td>			<td style="width:15.52%">			<p>MS</p>			</td>			<td style="width:17.32%">&nbsp;</td>		</tr>		<tr>			<td style="width:24.72%">			<p>数据科学</p>			</td>			<td style="width:42.44%">			<p>Data Science</p>			</td>			<td style="width:15.52%">			<p>MS</p>			</td>			<td style="width:17.32%">			<p>&radic;</p>			</td>		</tr>		<tr>			<td style="width:24.72%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">电气与计算机工程</a></p>			</td>			<td style="width:42.44%">			<p>Electrical &amp; Computer Engineering</p>			</td>			<td style="width:15.52%">			<p>MS、PhD</p>			</td>			<td style="width:17.32%">&nbsp;</td>		</tr>		<tr>			<td style="width:24.72%">			<p>环境工程</p>			</td>			<td style="width:42.44%">			<p>Environmental Engineering</p>			</td>			<td style="width:15.52%">			<p>MS</p>			</td>			<td style="width:17.32%">&nbsp;</td>		</tr>		<tr>			<td style="width:24.72%">			<p><a href="http://www.qianmu.org/金融工程" target="_blank">金融数学</a></p>			</td>			<td style="width:42.44%">			<p>Financial Mathematics</p>			</td>			<td style="width:15.52%">			<p>MS</p>			</td>			<td style="width:17.32%">&nbsp;</td>		</tr>		<tr>			<td style="width:24.72%">			<p>消防工程</p>			</td>			<td style="width:42.44%">			<p>Fire Protection Engineering</p>			</td>			<td style="width:15.52%">			<p>MS、PhD</p>			</td>			<td style="width:17.32%">			<p>&radic;</p>			</td>		</tr>		<tr>			<td style="width:24.72%">			<p>工业数学</p>			</td>			<td style="width:42.44%">			<p>Industrial Mathematics</p>			</td>			<td style="width:15.52%">			<p>MS</p>			</td>			<td style="width:17.32%">&nbsp;</td>		</tr>		<tr>			<td style="width:24.72%">			<p>信息技术</p>			</td>			<td style="width:42.44%">			<p>Information Technology</p>			</td>			<td style="width:15.52%">			<p>MS</p>			</td>			<td style="width:17.32%">&nbsp;</td>		</tr>		<tr>			<td style="width:24.72%">			<p>制造工程</p>			</td>			<td style="width:42.44%">			<p>Manufacturing Engineering</p>			</td>			<td style="width:15.52%">			<p>MS、PhD</p>			</td>			<td style="width:17.32%">			<p>&radic;</p>			</td>		</tr>		<tr>			<td style="width:24.72%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">市场营销</a>和技术创新</p>			</td>			<td style="width:42.44%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">Marketing</a> and Technological Innovation</p>			</td>			<td style="width:15.52%">			<p>MS</p>			</td>			<td style="width:17.32%">&nbsp;</td>		</tr>		<tr>			<td style="width:24.72%">			<p>材料加工工程</p>			</td>			<td style="width:42.44%">			<p>Materials Process Engineering</p>			</td>			<td style="width:15.52%">			<p>MS</p>			</td>			<td style="width:17.32%">&nbsp;</td>		</tr>		<tr>			<td style="width:24.72%">			<p>材料科学与工程</p>			</td>			<td style="width:42.44%">			<p>Materials Science &amp; Engineering</p>			</td>			<td style="width:15.52%">			<p>MS、PhD</p>			</td>			<td style="width:17.32%">			<p>&radic;</p>			</td>		</tr>		<tr>			<td style="width:24.72%">			<p>数学</p>			</td>			<td style="width:42.44%">			<p>Mathematical Sciences</p>			</td>			<td style="width:15.52%">			<p>PhD</p>			</td>			<td style="width:17.32%">&nbsp;</td>		</tr>		<tr>			<td style="width:24.72%">			<p>数学教育</p>			</td>			<td style="width:42.44%">			<p>Mathematics for Educators</p>			</td>			<td style="width:15.52%">			<p>MS</p>			</td>			<td style="width:17.32%">&nbsp;</td>		</tr>		<tr>			<td style="width:24.72%">			<p>机械工程</p>			</td>			<td style="width:42.44%">			<p>Mechanical Engineering</p>			</td>			<td style="width:15.52%">			<p>MS、PhD</p>			</td>			<td style="width:17.32%">			<p>&radic;</p>			</td>		</tr>		<tr>			<td style="width:24.72%">			<p>运营设计</p>			</td>			<td style="width:42.44%">			<p><a href="http://www.qianmu.org/运营管理" target="_blank">Operations</a> Design</p>			</td>			<td style="width:15.52%">			<p>MS</p>			</td>			<td style="width:17.32%">&nbsp;</td>		</tr>		<tr>			<td style="width:24.72%">			<p>物理</p>			</td>			<td style="width:42.44%">			<p>Physics</p>			</td>			<td style="width:15.52%">			<p>MS、PhD</p>			</td>			<td style="width:17.32%">&nbsp;</td>		</tr>		<tr>			<td style="width:24.72%">			<p>机器人工程</p>			</td>			<td style="width:42.44%">			<p>Robotics Engineering</p>			</td>			<td style="width:15.52%">			<p>MS、PhD</p>			</td>			<td style="width:17.32%">			<p>&radic;</p>			</td>		</tr>		<tr>			<td style="width:24.72%">			<p>系统动力学</p>			</td>			<td style="width:42.44%">			<p>System Dynamics</p>			</td>			<td style="width:15.52%">			<p>MS</p>			</td>			<td style="width:17.32%">			<p>&radic;</p>			</td>		</tr>		<tr>			<td style="width:24.72%">			<p><a href="http://www.qianmu.org/系统工程" target="_blank">系统工程</a></p>			</td>			<td style="width:42.44%">			<p><a href="http://www.qianmu.org/系统工程" target="_blank">Systems Engineering</a></p>			</td>			<td style="width:15.52%">			<p>MS</p>			</td>			<td style="width:17.32%">&nbsp;</td>		</tr>	</tbody></table><p>*(1)(7)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=lreSUwjfw5T1UNZOysNl15zyhu8PgBkzVZQRHNtLz7cRKu0Q6hXXVXSBxThoAK4yBxe1duwvKIaahUWCeaFttfuyT9" target="_blank">Departments &amp; Programs</a> Worcester Polytechnic Institute</p><p>(2) <a href="http://www.qianmu.org/redirect?code=Hr3vKzNWw_8kImQmLLLLLLN6mvLF-1yuwGl3l3ESlWYPGC3TJqOWgKVm_25PDJcS_IRSAf82IfDuIYP5p7CO3vobDeTLSsp" target="_blank">Common Questions About Applying To Graduate School At WPI</a> Worcester Polytechnic Institute</p><p>(3) <a href="https://www.wpi.edu/admissions/graduate/how-to-apply" target="_blank">Application Requirements-Graduate Programs</a> Worcester Polytechnic Institute</p><p>(4) <a href="https://www.wpi.edu/admissions/graduate/how-to-apply/international" target="_blank">English as a Second Language</a> Worcester Polytechnic Institute</p><p>(5) <a href="https://www.wpi.edu/admissions/tuition-aid/cost-attendance" target="_blank">Cost of Attendance</a>&nbsp;Worcester Polytechnic Institute</p><p>(6) <a href="http://www.qianmu.org/redirect?code=YrwF0vBswUvq6KbP555555hSigqt7e3P8rAiAidHABVA4_tNZKQ46EdoxJaw2eZw0Wrw07v6Pm3uLZVOB-rJ" target="_blank">Contact-Graduate Admissions</a> Worcester Polytechnic Institute</p><p>(7) <a href="http://www.qianmu.org/redirect?code=qrTydP_gLIup47cKssssssOovmOHfTUXe-P-PUy-pqLlouskhd2LSuMDpdM3S5v3o-wfo4QfPq83p4KrblSr74PK_eEBf4d" target="_blank">Degree Programs</a> Worcester Polytechnic Institute</p><p>&nbsp;</p><h2>商学院</h2><h3><strong>专业设置</strong></h3><p>伍斯特理工商学院（School of Business）共设有五个学位项目，分别是：</p><ul>	<li>工商管理硕士（<a href="http://www.qianmu.org/MBA" target="_blank">MBA</a>）</li>	<li>管理硕士（MS in Management ）</li>	<li>信息技术硕士（MS in Information Technology ）</li>	<li>市场营销与创新硕士（MS in Marketing and Innovation ）</li>	<li>运筹分析与管理硕士（MS in Operations Analytics and Management）</li>	<li>数据科学硕士（MS in Data Science）</li>	<li>系统动力与创新管理硕士（MS in System Dynamics and Innovation Management）</li></ul><p>注：伍斯特理工商学院的MBA项目分Evening、Cohort、Flex三种学习模式，第一种是夜校，第二种是快速项目（仅需32个月），第三种是在线教育和课堂教育的混合模式*(2)</p><h3>申请条件</h3><p><a href="http://www.qianmu.org/伍斯特（马萨诸塞州）" target="_blank">伍斯特</a>理工商学院各项目均学校官网申请，其申请要求与材料要求如下：</p><ul>	<li><a href="http://www.qianmu.org/个人陈述" target="_blank">个人陈述</a>：STATEMENT OF PURPOSE*(3)</li>	<li><a href="http://www.qianmu.org/个人简历" target="_blank">个人简历</a>：RESUME</li>	<li><a href="http://www.qianmu.org/推荐信" target="_blank">推荐信</a>：3封</li>	<li>申请费：$70</li>	<li><a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a>：申请时只需在线递交即可，无需邮寄纸质版本</li>	<li><a href="http://www.qianmu.org/GMAT" target="_blank">GMAT</a>/<a href="http://www.qianmu.org/GRE" target="_blank">GRE</a>成绩：必需</li>	<li><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>/IELTC成绩：TOEFL要求不低于84分，单项口语与听力要求不低于22分，写作与阅读要求不低于20分；<a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求不低于7.0分，无单项要求*(3)</li>	<li>工作经验要求：仅<a href="http://www.qianmu.org/MBA" target="_blank">MBA</a>项目要求工作经验，其中MBA Flex模式要求5年以上的工作经验，其它模式要求2年以上工作经验*(3)</li>	<li><a href="http://www.qianmu.org/面试" target="_blank">面试</a>：初审合格的学生将会由学校要求参加面试*(4)</li>	<li>申请时间：滚动录取；秋季学期6月1日截止，春季学期11月1日截止，夏季学期不招收国际学生*(5)</li></ul><h3>费用与奖学金</h3><p><a href="http://www.qianmu.org/伍斯特（马萨诸塞州）" target="_blank">伍斯特</a>理工商学院向国际学生提供<a href="http://www.qianmu.org/Merit-based" target="_blank">Merit-based</a><a href="http://www.qianmu.org/奖学金" target="_blank">奖学金</a>，其形式主要以<a href="http://www.qianmu.org/TA" target="_blank">TA</a>或<a href="http://www.qianmu.org/RA" target="_blank">RA</a>为主，获得该奖学金的学生可以得到每学期$4,800的奖学金资助。*(4)</p><p>伍斯特理工商学院的学费与研究生院的规定一致，均为$1,325/学分（2014-2015学年）。要求国际学生提供至少$39,588的<a href="http://www.qianmu.org/资金证明" target="_blank">资金证明</a>。*(4)</p><p><strong>费用列表：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:39.54%">			<p><strong>项目名称</strong></p>			</td>			<td style="width:38.24%">			<p>&nbsp;<strong>必修学分</strong></p>			</td>			<td style="width:22.22%">			<p><strong>学费&nbsp;</strong></p>			</td>		</tr>		<tr>			<td style="width:39.54%">			<p>工商管理硕士</p>			</td>			<td style="width:38.24%">			<p>&nbsp;48个</p>			</td>			<td style="width:22.22%">			<p>&nbsp;$65,568/项目</p>			</td>		</tr>		<tr>			<td style="width:39.54%">			<p>信息技术硕士</p>			</td>			<td style="width:38.24%">			<p>&nbsp;36个</p>			</td>			<td style="width:22.22%">			<p>&nbsp;$49,176/项目</p>			</td>		</tr>		<tr>			<td style="width:39.54%">			<p>管理硕士</p>			</td>			<td style="width:38.24%">			<p>&nbsp;30个</p>			</td>			<td style="width:22.22%">			<p>&nbsp;$40,980/项目</p>			</td>		</tr>		<tr>			<td style="width:39.54%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">市场营销</a>与技术创新硕士</p>			</td>			<td style="width:38.24%">			<p>&nbsp;36个</p>			</td>			<td style="width:22.22%">			<p>&nbsp;$49,176/项目</p>			</td>		</tr>		<tr>			<td style="width:39.54%">			<p>运筹分析与管理硕士</p>			</td>			<td style="width:38.24%">			<p>&nbsp;36个</p>			</td>			<td style="width:22.22%">			<p>&nbsp;$49,176/项目</p>			</td>		</tr>		<tr>			<td style="width:39.54%">			<p>工商管理博士</p>			</td>			<td style="width:38.24%">			<p>硕士毕业后尚需修60个学分</p>			</td>			<td style="width:22.22%">			<p>1,366/学分</p>			</td>		</tr>	</tbody></table><p>*(6)</p><h3>PhD项目</h3><p><a href="http://www.qianmu.org/伍斯特（马萨诸塞州）" target="_blank">伍斯特</a>理工商学院PhD项目的申请方法与其它项目完全一致，开设有以下三个专业方向，分别是：</p><ul>	<li><a href="http://www.qianmu.org/创业管理" target="_blank">创业管理</a>（<a href="http://www.qianmu.org/创业管理" target="_blank">Entrepreneurship</a>）：主要研究寻找和识别创业机会、初创企业融资、企业风险投资等内容</li>	<li>信息技术（Information Technology）：主要学习IT相关的设计、实现及其商业应用等</li>	<li><a href="http://www.qianmu.org/运营管理" target="_blank">运筹管理</a>（<a href="http://www.qianmu.org/运营管理" target="_blank">Operations</a> <a href="http://www.qianmu.org/管理学" target="_blank">Management</a>）：主要学习内容包括管理科学、运营分析、商业分析、医疗管理、<a href="http://www.qianmu.org/物流管理" target="_blank">物流管理</a>和决策分析*(7)</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=VrxbIdtLLK6SQRvskkkkkkl9FkvBQKDAR_LuLu9jL28iErwQ0CiUT6SjDrYA23xqV7ePr0Up9frq4i7pikjF4u1h-1NkbaLWSH-hS8-i-Ukoj" target="_blank">Degrees-School of Business</a>&nbsp;Worcester Polytechnic Institute</p><p>(2) <a href="http://www.qianmu.org/redirect?code=VrxbId7qkW_gBjcOiiiiii__MOX-yrwsiKh0h0OChl0q6ThNCXlDEBu3NCfwPeMVIJgBtOciqCtSuWj3M6wPk66h8IAi1nG8gtXPyYM_" target="_blank">MBA Learning Options</a>&nbsp;Worcester Polytechnic Institute</p><p>(3) <a href="http://www.qianmu.org/redirect?code=0rRNYslZLDXYcy5GzzzzzzorL7iGj6Xt3QH8H8luH9QTpxz-vcXcmtGKvl-T_7s3hE-KhaMYOzShcmn1YmnSWpRVwYgN6u9EncOplKfGBkE" target="_blank">Application Instructions-School of Business</a>&nbsp;Worcester Polytechnic Institute</p><p>(4) <a href="http://www.qianmu.org/redirect?code=yrZqibDLks07E1MKdC4s6ECPNFOaxH8Rw-8KMXHMYT_L8oT4FYZbhGw36JYTkXsD36tRcjQ6MPWnCMmXMpEnbUGTO6tFArUGM4M3bYeRcaOf70UsmBiGAcP8RU1MKktaB" target="_blank">International Applicants Financing Your Graduate Studies</a>&nbsp;Worcester Polytechnic Institute</p><p>(5) <a href="http://www.qianmu.org/redirect?code=zrQ-nH7GLmpEbtk36lIp6aapv1jhWRZ-tqX1ervRr1TgUFVPHqfmHXcqCjS4UikpCwKw5nn-utObw7urI6NKQqfVMVcqB9t0AKJg945tZqYiCj" target="_blank">Important Dates &amp; Checklist-School of Business</a>&nbsp;Worcester Polytechnic Institute</p><p>(6) <a href="http://www.qianmu.org/redirect?code=PrgaXqFpwOBAjP-dGGGGGGVA5DMklcm1zuX7X7QIX3IE-QWqoZMHvIbFZAj6RgSo-4k8NuRT8xkYEPDr5oj4aLBFN9_FYZmY-r" target="_blank">Tuition &amp; Financing</a>&nbsp;Worcester Polytechnic Institute</p><p>(7) <a href="http://www.qianmu.org/redirect?code=ArAjQunlwvLQzIcq2H3KR0OH26R03Kdzty49IrMRdMT6EIkh1dNE2FmyS8dM4OChySOByFnhjl3xhICkvzvgWBwmcCx1_ROlqsT-m69BjrZv" target="_blank">PhD in Business Administration</a>&nbsp;Worcester Polytechnic Institute</p><p>&nbsp;</p><h2>工程学部</h2><h3>土木与环境工程</h3><p>伍斯特理工学院<a href="http://www.qianmu.org/土木工程" target="_blank">土木与环境工程</a>专业开设的专业方向如下：</p><ul>	<li>路面工程与材料（Pavement Engineering and Highway Materials）</li>	<li>结构系统与智能结构分析设计（Analysis/Design Of Structural Systems and Smart Structures）</li>	<li>建筑设计与施工（Construction and Design-Construction Integration）</li>	<li><a href="http://www.qianmu.org/物理" target="_blank">物理</a>与<a href="http://www.qianmu.org/化学" target="_blank">化学</a>处理过程（Physical and Chemical Treatment Processes）</li>	<li>能源与可持续（Energy and Sustainability）</li>	<li>水利工程（Water Resources）</li>	<li>建筑与可持续建筑设计（Construction and Sustainable Building Design）*(1)</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=0rRNYshSwHR2Vfionnnnnnmm6CpP_xAMXlzFzFnCzcTU5SLy_HZ7Axd5MBwL4IpztMKzfARbtAKuYeqLn5zLi129GW5uQ4SfFf" target="_blank">Civil &amp; Environmental Engineering-Research Focus Areas</a> Worcester Polytechnic Institute</p><h3>机械工程</h3><p>伍斯特理工学院<a href="http://www.qianmu.org/机械工程" target="_blank">机械工程</a>专业开设的专业方向如下：</p><ul>	<li><a href="http://www.qianmu.org/航空航天工程" target="_blank">航空航天工程</a>（Aeronautics）</li>	<li>生物力学（Biomechanical）</li>	<li><a href="http://www.qianmu.org/工程力学" target="_blank">工程力学</a>（<a href="http://www.qianmu.org/工程力学" target="_blank">Engineering Mechanics</a>）</li>	<li>机械制造（Manufacturing）</li>	<li><a href="http://www.qianmu.org/材料科学与工程" target="_blank">材料科学与工程</a>（Materials Science and Engineering）</li>	<li>机械设计（Mechanical Design&nbsp; ）</li>	<li>机器人学（Robotics ）</li>	<li>热流体工程（Thermal-Fluid Engineering）*(1)</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=MrO2caRcLYq_Z9TPxxxxxxDYGJphQcuOlNlNEClh9TRI7J6OiS3z7Js_7s3hE-2Ia5" target="_blank">Mechanical Engineering-Concentration</a> Worcester Polytechnic Institute</p><h3>计算机科学</h3><p>伍斯特理工学院<a href="http://www.qianmu.org/计算机科学" target="_blank">计算机科学</a>专业开设的专业方向如下：</p><ul>	<li>算法分析（Analysis Of Algorithms）</li>	<li><a href="http://www.qianmu.org/人工智能" target="_blank">人工智能</a>（<a href="http://www.qianmu.org/人工智能" target="_blank">Artificial Intelligence</a> (Ai)）</li>	<li>人工智能与设计（Ai In Design）</li>	<li>自动推导（Automated Deduction）</li>	<li>协同过滤（Collaborative Filtering）</li>	<li>组合<a href="http://www.qianmu.org/数学" target="_blank">数学</a>（Combinatorics）</li>	<li>计算机辅助验证（Computer-Aided Verification）</li>	<li>电脑游戏（Computer Games）</li>	<li>计算机图形学（Computer Graphics）</li>	<li>计算机视觉与图像处理（Computer Vision and Image Processing）</li>	<li>数据库系统（Database Systems）</li>	<li>数据挖掘（Data Mining）</li>	<li>图论（Graph Theory）</li>	<li>人机交互（Human Computer Interaction）</li>	<li>信息安全（Information Security）</li>	<li>机器学习（Machine Learning）</li>	<li>移动计算（Mobile Computing）</li>	<li>自然语言处理（Natural Language Processing）</li>	<li>网络与分布式系统（Networks / Distributed Systems）</li>	<li>面向对象软件（Object-Oriented Software）</li>	<li>操作系统（Operating Systems）</li>	<li>性能评估（Performance Evaluation）</li>	<li>编程语言（Programming Languages）</li>	<li>机器人学（Robotics）</li>	<li><a href="http://www.qianmu.org/软件工程" target="_blank">软件工程</a>（<a href="http://www.qianmu.org/软件工程" target="_blank">Software Engineering</a>）</li>	<li><a href="http://www.qianmu.org/理论计算机科学" target="_blank">理论计算机科学</a>（Theoretical Cs）*(1)</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=brEVbyeiw8gc0HZyJJJJJJvSigqt7e3Pj0e2e21Ne_mQhBVOcycsnm8vy_P2yXOVwCdV4d6r68fSV0h3ke7OMBUJtOKE6RLgESLzoSn9Ffd" target="_blank">CS-Faculty Research Interests</a> Worcester Polytechnic Institute</p><h3>化学工程</h3><p>伍斯特理工学院<a href="http://www.qianmu.org/化学工程" target="_blank">化学工程</a>专业开设的专业方向如下：</p><ul>	<li><strong>能源与环境（Energy &amp; Environment</strong><strong>）</strong>	<ul>		<li>催化与反应工程（Catalysis and Reaction Engineering ）</li>		<li>氢气能源、含薄膜与材料（Hydrogen Energy, Including Membranes and Materials）</li>		<li>无机膜（Inorganic Membranes）</li>		<li>燃料电池材料（Materials For Fuel Cells ）</li>		<li>可持续发展与绿色工程（Sustainable and Green Engineering）</li>		<li>技术经济与环境评估（Techno-Economic and Environmental Performance Assessment ）</li>		<li>污水净化（Water Purification）</li>	</ul>	</li>	<li><strong>生命科学（Life Sciences</strong><strong>）</strong>	<ul>		<li>生物膜（Biofilms）</li>		<li>生物材料（Biomaterials）</li>		<li>生物<a href="http://www.qianmu.org/纳米技术" target="_blank">纳米技术</a>（Bionanotechnology）</li>		<li>生物分离（Bioseparations）</li>		<li>纳米孔流体行为（Fluid Behavior In Nanopores）</li>	</ul>	</li>	<li><strong>计算科学（Computational Science</strong><strong>）</strong>	<ul>		<li>催化与反应工程（Catalysis and Reaction Engineering）</li>		<li><a href="http://www.qianmu.org/化学" target="_blank">化学</a>品危险鉴定与规范（Chemical Risk Characterization and Regulation）</li>		<li>计算流体动力学与反应器分析（Computational Fluid Dynamics and Reactor Analysis）</li>		<li>分子模拟（Molecular Modeling）</li>		<li>系统分析、动力学、控制与安全（Systems Analysis, Dynamics, Control and Safety）*(1)</li>	</ul>	</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=UrsQlJ0jk78ysUEaOf1Em9_REAuO_vTmFWEcSDsdmuooYtyPJCehqzw4T1_NbFADnI9RXW1ImnFnRhGZdasFnmYJzvpCf5UXKUQcxND3oKDZ" target="_blank">Research Focus Areas-CHE</a> Worcester Polytechnic Institute</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2020-10-13</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1573;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1573' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1573;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

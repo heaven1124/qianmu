@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>阿肯色大学-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="阿肯色大学" />
+<meta name="description"  id="description"  content="阿肯色大学:阿肯色大学（University of Arkansas，缩写UARK）是一所大型公立综合性全国大学，成立于1871年，位于美国南部小城费耶特维尔，提供学士、硕士、博士，三种学位类型，也是阿肯色公立大学系统的旗舰学校。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">阿肯色大学 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:30.44%">			<p>排名</p>			</td>			<td style="width:69.56%">			<p>160*(2)</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>国家</p>			</td>			<td style="width:69.56%">			<p>美国</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>州省</p>			</td>			<td style="width:69.56%">			<p><a href="http://www.qianmu.org/阿肯色州" target="_blank">阿肯色州</a></p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>城市</p>			</td>			<td style="width:69.56%">			<p><a href="http://www.qianmu.org/费耶特维尔（阿肯色州）" target="_blank">费耶特维尔</a></p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>校训</p>			</td>			<td style="width:69.56%">			<p>Veritate Duce Progredi (Latin)</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>英译</p>			</td>			<td style="width:69.56%">			<p>To Advance with Truth as our Leader</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>汉译</p>			</td>			<td style="width:69.56%">			<p>以真理为领航者，指引我们前进</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>性质</p>			</td>			<td style="width:69.56%">			<p>公立，男女合校*(3)</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>成立年份</p>			</td>			<td style="width:69.56%">			<p>1871</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>宗教信仰</p>			</td>			<td style="width:69.56%">			<p>无</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>校园</p>			</td>			<td style="width:69.56%">			<p>1.67km2 市区</p>			</td>		</tr>		<tr>			<td style="width:30.44%">学生人数</td>			<td style="width:69.56%">			<p>26,754</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>本科生人数</p>			</td>			<td style="width:69.56%">			<p>22,159*(3)</p>			</td>		</tr>		<tr>			<td style="width:30.44%">研究生人数</td>			<td style="width:69.56%">			<p>4,595*(3)</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>师生比</p>			</td>			<td style="width:69.56%">			<p>1:19*(3)</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>国际学生比例</p>			</td>			<td style="width:69.56%">			<p>3%*(4)</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>学校分类</p>			</td>			<td style="width:69.56%">			<p><a href="http://www.qianmu.org/全国性大学" target="_blank">全国性大学</a></p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>认证机构</p>			</td>			<td style="width:69.56%">			<p><a href="http://www.qianmu.org/中北部学院及学校协会" target="_blank">中北部学院及学校协会</a>（NCACS）*(3)</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>学校集团</p>			</td>			<td style="width:69.56%">			<p>-*(1)</p>			</td>		</tr>		<tr>			<td style="width:30.44%">			<p>网址</p>			</td>			<td style="width:69.56%">			<p>www.uark.edu*(3)</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>阿肯色大学（University of Arkansas，缩写UARK）是一所大型公立综合性全国大学，成立于1871年，位于美国南部小城<a href="http://www.qianmu.org/费耶特维尔（阿肯色州）" target="_blank">费耶特维尔</a>，提供学士、硕士、博士，三种学位类型，也是阿肯色公立大学系统的旗舰学校。*(1)(3)</p><p>阿肯色大学是一所赠地大学，目前有来自美国50个州和世界上120余个国家的25,000名学生，设有10个学院，提供210余个学术项目。*(5)</p><h2>申请点评</h2><p><strong>好评项：</strong></p><p>1. A small fee is added (per credit hour) to every student to bring in one large artist a year for a free concert. Some of the artists in the past have included O.A.R, Dierks Bentley, Third Eye Blind, and T.I.</p><p>2. Row Week is a week of large fraternity parties, with a lot of big-name artists playing at the various houses. Artists have included Three 6 Mafia, Lil&#39; Flip, Mike Jones, and Yung Joc.</p><p>3. Dickson Street is right next to campus and offers a wide variety of restaurants and bars.</p><p>4. All of the tickets for Razorback sports are pretty cheap when compared to other schools. It&#39;s only $1 per football game. The games are all fun, especially if the Hogs win.</p><p>5. There&#39;s free busing to school and all around the city of Fayetteville.</p><p>6. The business school was ranked 24th in the country in 2007.</p><p>7. Fayetteville has a small-town feel with big-town amenities, which is one reason Forbes Magazine ranked Fayetteville number six on its list of best college sports towns.</p><p><strong>差评项：</strong></p><p>1. The parking</p><p>2. The hilly campus</p><p>3. The weather can be unpredictable.</p><p>4. No Jack in the Box</p><p>5. Twenty minutes away from the nearest regional airport</p><p>6. Not enough printers</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=7r_i3IzQLVxrLCPTaaaaaaWqb6WQZYV-9ZEYxZwnrwJlkH2O6FfZzFJ6b6JahLKjHTd-gOZSf3CBXElYf6Y9Dq_m-LQ4hLK3BUyi" target="_blank">University of Arkansas</a> Wikipedia</p><p>(2)&nbsp;<a href="http://www.qianmu.org/redirect?code=YrwF0vBVwAbLSIN_PPPPPWR1O7K3g6tAb1YaFTONm84BwtrFwtQoupDfz1zLkIERqIEAob0lIkxmCmnTbbnW3hys5By35azJO-cvjPV41d0l_MqzACBiXCBh42cTnPaWcHlYCM6zWOIz89FXyhdvaj9_xY" target="_blank">University of Arkansas</a>&nbsp;USNEWS</p><p>(3)&nbsp;<a href="http://www.qianmu.org/redirect?code=zrQ-nHCokEmsA35kZZZZZYyAo7I-omcrDxhVOF5v5Ip-Rvz8Hq_26E1JlFuhHIusn2wBR5RBbZffxsZW8ynpAEhuALngm0oys9iBLy9cLuhvxA9WCYTPLahJ6KUIiyMIMYOtMZG5MY7" target="_blank">University of Arkansas</a>&nbsp;College Board</p><p>(4) <a href="http://www.qianmu.org/redirect?code=urKrNAmpwOBAjfcKeeeeeF6tN_aTA9lsO1O1kpZTjPSvn-aEnpkLCLwLCTSvn3isOg8tU3lENblvgO0IsgKfQd0vsOMIQ6E-4anuQgKzESLzqhc8KarLXctyJ3b7ekbd5dfe" target="_blank">University of Arkansas</a>&nbsp;Princeton Review</p><p>(5) <a href="http://www.qianmu.org/redirect?code=SrWl9LTjL5VUFpWMIIIIIIN50qNKtiOY1s1sx-DCcAdYlFBs8fgWeZt7IotvOZ_S5oQY6ymPeftaOEjV3CipMfL-OftaMY" target="_blank">About</a> University of Arkansas</p><p>&nbsp;</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:17.92%">			<p><a href="http://www.qianmu.org/USNEWS排名" target="_blank">USNEWS排名</a></p>			</td>			<td style="width:16.52%">			<p>160</p>			</td>			<td style="width:17.22%">			<p>学费(/年)</p>			</td>			<td style="width:13.0%">			<p>$23,168</p>			</td>			<td style="width:21.44%">			<p>申请截止日期</p>			</td>			<td style="width:13.88%">			<p>5月31日</p>			</td>		</tr>		<tr>			<td style="width:17.92%">			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td style="width:16.52%">			<p>79</p>			</td>			<td style="width:17.22%">			<p>食宿(/年)</p>			</td>			<td style="width:13.0%">			<p>$10,332</p>			</td>			<td style="width:21.44%">			<p>开学时间</p>			</td>			<td style="width:13.88%">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:17.92%">			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td style="width:16.52%">			<p>6.5</p>			</td>			<td style="width:17.22%">			<p>申请费</p>			</td>			<td style="width:13.0%">			<p>$50</p>			</td>			<td style="width:21.44%">			<p>可申请学期</p>			</td>			<td style="width:13.88%">			<p>秋季、春季</p>			</td>		</tr>		<tr>			<td style="width:17.92%">			<p>SAT均分</p>			</td>			<td style="width:16.52%">			<p>1020 - 1230 (1600)</p>			</td>			<td style="width:17.22%">			<p>录取率</p>			</td>			<td style="width:13.0%">			<p>60%</p>			</td>			<td style="width:21.44%">			<p>奖学金形式</p>			</td>			<td style="width:13.88%">			<p>Merit-based</p>			</td>		</tr>		<tr>			<td style="width:17.92%">			<p>平均<a href="http://www.qianmu.org/GPA" target="_blank">GPA</a></p>			</td>			<td style="width:16.52%">			<p>3.2</p>			</td>			<td style="width:17.22%">			<p>申请人数</p>			</td>			<td style="width:13.0%">			<p>20,542</p>			</td>			<td style="width:21.44%">			<p>是否提供<a href="http://www.qianmu.org/双录取" target="_blank">双录取</a></p>			</td>			<td style="width:13.88%">			<p>Yes</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)(4)(5)</p><p>注：</p><p>(1) 此处的日期为本科秋季学期入学申请截止日期，春季为10月1日。</p><p>(2) 此处的学费为2016-2017学年<a href="http://www.qianmu.org/文理学院" target="_blank">文理学院</a>数据，具体费用明细请查看下文申请说明。</p><p>(3) 入学新生TOEFL均分为83*(2)</p><p>(4) ACT均分为26分，均分范围在23-28分之间。</p><p>(5) 阿肯色大学向国际学生提供强化<a href="http://www.qianmu.org/英语" target="_blank">英语</a>课程。</p><h2>教学质量</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.74%">			<p>本科生人数</p>			</td>			<td style="width:10.82%">			<p>22,159</p>			</td>			<td style="width:21.66%">			<p>小班比例(&lt;20)</p>			</td>			<td style="width:10.3%">			<p>47.7%</p>			</td>			<td style="width:25.78%">			<p><a href="http://www.qianmu.org/学期制度" target="_blank">学期制度</a></p>			</td>			<td style="width:12.68%">			<p>Semester</p>			</td>		</tr>		<tr>			<td style="width:18.74%">			<p>研究生人数</p>			</td>			<td style="width:10.82%">			<p>4,595</p>			</td>			<td style="width:21.66%">			<p>中班比例(20-49)</p>			</td>			<td style="width:10.3%">			<p>35.2%</p>			</td>			<td style="width:25.78%">			<p>教授水平满意度</p>			</td>			<td style="width:12.68%">			<p>85%</p>			</td>		</tr>		<tr>			<td style="width:18.74%">			<p>国际学生比例</p>			</td>			<td style="width:10.82%">			<p>3%</p>			</td>			<td style="width:21.66%">			<p>大班比例(&gt;50)</p>			</td>			<td style="width:10.3%">			<p>17%</p>			</td>			<td style="width:25.78%">			<p>就业实习满意度</p>			</td>			<td style="width:12.68%">			<p>57%</p>			</td>		</tr>		<tr>			<td style="width:18.74%">			<p>师生比</p>			</td>			<td style="width:10.82%">			<p>1:19</p>			</td>			<td style="width:21.66%">			<p>六年毕业率</p>			</td>			<td style="width:10.3%">			<p>62%</p>			</td>			<td style="width:25.78%">			<p>学生满意度</p>			</td>			<td style="width:12.68%">			<p>81%</p>			</td>		</tr>		<tr>			<td style="width:18.74%">			<p>四年毕业率</p>			</td>			<td style="width:10.82%">			<p>39%</p>			</td>			<td style="width:21.66%">			<p>新生保持率</p>			</td>			<td style="width:10.3%">			<p>82%</p>			</td>			<td style="width:25.78%">			<p>教师博士学位比例</p>			</td>			<td style="width:12.68%">			<p>89%</p>			</td>		</tr>		<tr>			<td style="width:18.74%">毕业2年平均薪水</td>			<td style="width:10.82%">$34,500</td>			<td style="width:21.66%">就业率</td>			<td style="width:10.3%">62%</td>			<td style="width:25.78%">校园网络认可度</td>			<td style="width:12.68%">94%</td>		</tr>	</tbody></table><p>*(1)(2)(3)(5)</p><p><strong>校园安全</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:143px">校园安全事件</td>			<td style="width:403px">Criminal Offenses -- On-Campus&nbsp;</td>			<td style="width:103px">2012</td>			<td style="width:100px">2013</td>			<td style="width:97px">2014</td>		</tr>		<tr>			<td>谋杀</td>			<td>Murder/Non-negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>过失杀人</td>			<td>Negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸</td>			<td>Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>3</p>			</td>		</tr>		<tr>			<td>乱伦</td>			<td>Incest</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸幼童罪</td>			<td>Statutory Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>猥亵</td>			<td>Fondling</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>性侵犯-强迫</td>			<td>Sex offenses - Forcible</td>			<td>			<p>4</p>			</td>			<td>			<p>5</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>性侵犯-非强迫</td>			<td>Sex offenses - non-forcible (incest and statutory rape only)</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>抢劫</td>			<td>Robbery</td>			<td>			<p>2</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>暴力袭击</td>			<td>Aggravated assault</td>			<td>			<p>4</p>			</td>			<td>			<p>1</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>盗窃</td>			<td>Burglary</td>			<td>			<p>38</p>			</td>			<td>			<p>20</p>			</td>			<td>			<p>23</p>			</td>		</tr>		<tr>			<td>汽车盗窃</td>			<td>Motor vehicle theft</td>			<td>			<p>9</p>			</td>			<td>			<p>8</p>			</td>			<td>			<p>21</p>			</td>		</tr>		<tr>			<td>纵火</td>			<td>Arson</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>	</tbody></table><p>*(1)</p><h2>申请说明</h2><p><strong>基本要求</strong></p><p><strong>SAT/ACT</strong></p><p>阿肯色大学要求考虑<a href="http://www.qianmu.org/奖学金" target="_blank">奖学金</a>授予的国际学生递交<a href="http://www.qianmu.org/SAT" target="_blank">SAT</a>/ACT成绩，2015年秋季被录取学生的 SAT与ACT的单项平均分如下：</p><ul>	<li>SAT单项均分：阅读500-600；<a href="http://www.qianmu.org/数学" target="_blank">数学</a>510-620；写作未详；编号6866；</li>	<li>ACT单项均分：综合23-28；编号0144；*(2)(6)</li></ul><p><strong>TOEFL/IELTS</strong></p><p>阿肯色大学要求国际学生递交TOEFL、IELTS或<a href="http://www.qianmu.org/PTE" target="_blank">PTE</a>考试成绩，分数要求分别不低于79分、6.5分和58分。托福送分编号为6866。</p><p>注：阿肯色大学开设有强化英语课程，新生入学后第一学期开课前需进行英语能力测试（ELPT）。*(6)(7)</p><p><strong>GPA与班级排名</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:31.3%">			<p>GPA</p>			</td>			<td style="width:18.76%">&nbsp;</td>			<td style="width:31.16%">			<p>班级排名</p>			</td>			<td style="width:18.76%">&nbsp;</td>		</tr>		<tr>			<td style="width:31.3%">			<p>分段</p>			</td>			<td style="width:18.76%">			<p>占比</p>			</td>			<td style="width:31.16%">			<p>分段</p>			</td>			<td style="width:18.76%">			<p>占比</p>			</td>		</tr>		<tr>			<td style="width:31.3%">			<p>3.75以上</p>			</td>			<td style="width:18.76%">			<p>41%</p>			</td>			<td style="width:31.16%">			<p>TOP10%</p>			</td>			<td style="width:18.76%">			<p>26%</p>			</td>		</tr>		<tr>			<td style="width:31.3%">			<p>3.5-3.74</p>			</td>			<td style="width:18.76%">			<p>14%</p>			</td>			<td style="width:31.16%">			<p>TOP25%</p>			</td>			<td style="width:18.76%">			<p>54%</p>			</td>		</tr>		<tr>			<td style="width:31.3%">			<p>3.25-3.49</p>			</td>			<td style="width:18.76%">			<p>19%</p>			</td>			<td style="width:31.16%">			<p>TOP50%</p>			</td>			<td style="width:18.76%">			<p>85%</p>			</td>		</tr>		<tr>			<td style="width:31.3%">			<p>3.0-3.24</p>			</td>			<td style="width:18.76%">			<p>11%</p>			</td>			<td style="width:31.16%">			<p>50%以下</p>			</td>			<td style="width:18.76%">			<p>15%</p>			</td>		</tr>		<tr>			<td style="width:31.3%">			<p>2.50-2.99</p>			</td>			<td style="width:18.76%">			<p>5%</p>			</td>			<td style="width:31.16%">			<p>75%以下</p>			</td>			<td style="width:18.76%">			<p>2%</p>			</td>		</tr>		<tr>			<td style="width:31.3%">			<p>2.49以下</p>			</td>			<td style="width:18.76%">&nbsp;</td>			<td style="width:31.16%">&nbsp;</td>			<td style="width:18.76%">&nbsp;</td>		</tr>	</tbody></table><p><strong>申请材料</strong></p><p>阿肯色大学本科通过学校官网在线申请，需要递交的<a href="http://www.qianmu.org/申请材料" target="_blank">申请材料</a>如下：</p><ul>	<li>在线申请表格；</li>	<li>申请费：$50；</li>	<li>官方高中<a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a>；</li>	<li>教育经历；</li>	<li><a href="http://www.qianmu.org/资金证明" target="_blank">资金证明</a>；</li>	<li>护照复印件*(6)(7)</li></ul><p><strong>申请时间</strong></p><p>阿肯色大学本科接受秋季和春季学期入学申请，截止日期分别是5月31日和10月1日。欲申请奖学金的学生需在2月1日期递交申请。*(6)</p><p><strong>费用与奖学金</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:20.68%">			<p>支出项目</p>			</td>			<td style="width:57.48%">			<p>项目英文名</p>			</td>			<td style="width:21.84%">			<p>2016-2017学年费用</p>			</td>		</tr>		<tr>			<td style="width:20.68%">			<p>学费</p>			</td>			<td style="width:57.48%">			<p>Tuition and fees</p>			</td>			<td style="width:21.84%">			<p>$23,168</p>			</td>		</tr>		<tr>			<td style="width:20.68%">			<p>住宿费用</p>			</td>			<td style="width:57.48%">			<p>Room and board</p>			</td>			<td style="width:21.84%">			<p>$10,332</p>			</td>		</tr>		<tr>			<td style="width:20.68%">			<p>书本费</p>			</td>			<td style="width:57.48%">			<p>Books and supplies</p>			</td>			<td style="width:21.84%">			<p>$1,046</p>			</td>		</tr>		<tr>			<td style="width:20.68%">			<p>个人花费</p>			</td>			<td style="width:57.48%">			<p>Estimated personal expenses</p>			</td>			<td style="width:21.84%">			<p>$2,032</p>			</td>		</tr>		<tr>			<td style="width:20.68%">			<p>交通费</p>			</td>			<td style="width:57.48%">			<p>Transportation expenses</p>			</td>			<td style="width:21.84%">			<p>$2,072</p>			</td>		</tr>		<tr>			<td style="width:20.68%">			<p>合计</p>			</td>			<td style="width:57.48%">			<p>Estimated Total</p>			</td>			<td style="width:21.84%">			<p>$38,650</p>			</td>		</tr>	</tbody></table><p>*(2)</p><p>2013-2014学年本科费用列表：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td colspan="6" style="width:56.84%">			<p><strong>12</strong><strong>个学分（/</strong><strong>学期）</strong></p>			</td>			<td colspan="5" style="width:43.16%">			<p><strong>15</strong><strong>个学分（/</strong><strong>学期）</strong></p>			</td>		</tr>		<tr>			<td style="width:13.68%">			<p>学院</p>			</td>			<td style="width:11.46%">			<p>学费</p>			</td>			<td style="width:7.32%">			<p>注册费</p>			</td>			<td style="width:8.9%">			<p>医疗保险</p>			</td>			<td style="width:8.9%">			<p>生活费用</p>			</td>			<td style="width:6.58%">			<p>总计</p>			</td>			<td style="width:11.46%">			<p>学费</p>			</td>			<td style="width:7.32%">			<p>注册费</p>			</td>			<td style="width:8.9%">			<p>医疗保险</p>			</td>			<td style="width:8.9%">			<p>生活费用</p>			</td>			<td style="width:6.58%">			<p>总计</p>			</td>		</tr>		<tr>			<td style="width:13.68%">			<p><a href="http://www.qianmu.org/农学" target="_blank">农学</a>院</p>			</td>			<td style="width:11.46%">			<p>$14,088.00<br />			$587.00/hour</p>			</td>			<td style="width:7.32%">			<p>$1685</p>			</td>			<td style="width:8.9%">			<p>$1527</p>			</td>			<td style="width:8.9%">			<p>$11794</p>			</td>			<td style="width:6.58%">			<p>$29094</p>			</td>			<td style="width:11.46%">			<p>$17,610.00<br />			$587.00/hour</p>			</td>			<td style="width:7.32%">			<p>$2018</p>			</td>			<td style="width:8.9%">			<p>$1527</p>			</td>			<td style="width:8.9%">			<p>$12094</p>			</td>			<td style="width:6.58%">			<p>$33249</p>			</td>		</tr>		<tr>			<td style="width:13.68%">			<p><a href="http://www.qianmu.org/建筑学" target="_blank">建筑学</a>院</p>			</td>			<td style="width:11.46%">			<p>$15,480.00<br />			$645.00/hour</p>			</td>			<td style="width:7.32%">			<p>$1741</p>			</td>			<td style="width:8.9%">			<p>$1527</p>			</td>			<td style="width:8.9%">			<p>$11794</p>			</td>			<td style="width:6.58%">			<p>$30542</p>			</td>			<td style="width:11.46%">			<p>$19,350.00<br />			$645.00/hour</p>			</td>			<td style="width:7.32%">			<p>$2089</p>			</td>			<td style="width:8.9%">			<p>$1527</p>			</td>			<td style="width:8.9%">			<p>$12094</p>			</td>			<td style="width:6.58%">			<p>$35060</p>			</td>		</tr>		<tr>			<td style="width:13.68%">			<p>文理学院</p>			</td>			<td style="width:11.46%">			<p>$14,088.00<br />			$587.00/hour</p>			</td>			<td style="width:7.32%">			<p>$1349</p>			</td>			<td style="width:8.9%">			<p>$1527</p>			</td>			<td style="width:8.9%">			<p>$11794</p>			</td>			<td style="width:6.58%">			<p>$28758</p>			</td>			<td style="width:11.46%">			<p>$17,610.00<br />			$587.00/hour</p>			</td>			<td style="width:7.32%">			<p>$1778</p>			</td>			<td style="width:8.9%">			<p>$1527</p>			</td>			<td style="width:8.9%">			<p>$12094</p>			</td>			<td style="width:6.58%">			<p>$33009</p>			</td>		</tr>		<tr>			<td style="width:13.68%">			<p>商学院</p>			</td>			<td style="width:11.46%">			<p>$16,632.00<br />			$693.00/hour</p>			</td>			<td style="width:7.32%">			<p>$1457</p>			</td>			<td style="width:8.9%">			<p>$1527</p>			</td>			<td style="width:8.9%">			<p>$11794</p>			</td>			<td style="width:6.58%">			<p>$31410</p>			</td>			<td style="width:11.46%">			<p>$19,920.00<br />			$693.00/hour</p>			</td>			<td style="width:7.32%">			<p>$2048</p>			</td>			<td style="width:8.9%">			<p>$1527</p>			</td>			<td style="width:8.9%">			<p>$12094</p>			</td>			<td style="width:6.58%">			<p>$35589</p>			</td>		</tr>		<tr>			<td style="width:13.68%">			<p><a href="http://www.qianmu.org/教育学" target="_blank">教育学</a>院</p>			</td>			<td style="width:11.46%">			<p>$14,088.00<br />			$587.00/hour</p>			</td>			<td style="width:7.32%">			<p>$1362</p>			</td>			<td style="width:8.9%">			<p>$1527</p>			</td>			<td style="width:8.9%">			<p>$11794</p>			</td>			<td style="width:6.58%">			<p>$28771</p>			</td>			<td style="width:11.46%">			<p>$17,610.00<br />			$587.00/hour</p>			</td>			<td style="width:7.32%">			<p>$1811</p>			</td>			<td style="width:8.9%">			<p>$1527</p>			</td>			<td style="width:8.9%">			<p>$12094</p>			</td>			<td style="width:6.58%">			<p>$33042</p>			</td>		</tr>		<tr>			<td style="width:13.68%">			<p>工程学院</p>			</td>			<td style="width:11.46%">			<p>$14,088.00<br />			$587.00/hour</p>			</td>			<td style="width:7.32%">			<p>$1585</p>			</td>			<td style="width:8.9%">			<p>1527</p>			</td>			<td style="width:8.9%">			<p>$11794</p>			</td>			<td style="width:6.58%">			<p>$28994</p>			</td>			<td style="width:11.46%">			<p>$17,610.00<br />			$587.00/hour</p>			</td>			<td style="width:7.32%">			<p>$2368</p>			</td>			<td style="width:8.9%">			<p>$1527</p>			</td>			<td style="width:8.9%">			<p>$12094</p>			</td>			<td style="width:6.58%">			<p>$33599</p>			</td>		</tr>	</tbody></table><p>*(4)</p><p>注：生活费用主要包括：$4,996.00（住宿）、$3,498.00（餐费）、$1,200.00（书费12个学分）/ $1,500（书费15个学分）以及$2,100.00（个人花费）。</p><p>阿肯色大学奖学金竞争非常激烈，申请者需在2月1日之前递交申请材料，方有可能考虑奖学金授予，且仅秋季学期提供奖学金，要求申请者GPA在3.5以上，且需递交SAT/ACT考试成绩。</p><p>国际学生可申请的奖学金种类如下：</p><ul>	<li>Chancellor&#39;s Scholarship</li>	<li>Silas Hunt Scholarship</li>	<li>University Scholarship</li>	<li>John and Marie Lavallard Scholarship</li>	<li>Jack Kent Cooke Transfer Scholarship</li>	<li>Additional Scholarship Opportunities</li>	<li>Selected Funding Sources Open to Non-US Citizens*(6)(7)</li></ul><p>上述奖学金为Merit-based奖学金，奖学金额及国际学生获奖人数未详。</p><h2>转学申请</h2><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:17.92%">			<p>TOEFL要求</p>			</td>			<td style="width:13.1%">			<p>79</p>			</td>			<td style="width:18.62%">			<p>GPA要求</p>			</td>			<td style="width:14.72%">			<p>2.0</p>			</td>			<td style="width:21.72%">			<p>申请截止日期</p>			</td>			<td style="width:13.92%">			<p>8月1日</p>			</td>		</tr>		<tr>			<td style="width:17.92%">			<p>IELTS要求</p>			</td>			<td style="width:13.1%">			<p>6.5</p>			</td>			<td style="width:18.62%">			<p>SAT要求</p>			</td>			<td style="width:14.72%">			<p>Not Required</p>			</td>			<td style="width:21.72%">			<p>开学时间</p>			</td>			<td style="width:13.92%">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:17.92%">			<p>最高可转学分</p>			</td>			<td style="width:13.1%">			<p>68</p>			</td>			<td style="width:18.62%">			<p>最低可转学分</p>			</td>			<td style="width:14.72%">			<p>24</p>			</td>			<td style="width:21.72%">			<p>可申请学期</p>			</td>			<td style="width:13.92%">			<p>秋季、春季、夏季</p>			</td>		</tr>		<tr>			<td style="width:17.92%">申请人数</td>			<td style="width:13.1%">3,755</td>			<td style="width:18.62%">录取人数</td>			<td style="width:14.72%">2,368</td>			<td style="width:21.72%">录取率</td>			<td style="width:13.92%">			<p>63%</p>			</td>		</tr>	</tbody></table><p>*(2)(6)(7)(8)</p><p>注：</p><p>（1）还接受PTE考试成绩，要求不低于58分</p><p>（2）阿肯色大学要求转学申请者GPA2.0以上，如考虑转学分，单门课程GPA须2.0以上</p><p><strong>申请说明</strong></p><p>阿肯色大学接受国际学生转学申请，可通过阿肯色大学官网进行申请，可申请转入大一、大二、大三和大四的秋季、春季和夏季学期。申请者需递交的申请材料除本科新生递交的材料外，还需递交大学<a href="http://www.qianmu.org/在读证明" target="_blank">在读证明</a>，如需转学分，还需递交英文版的课程描述。另外，大学课程未修够24个学分的申请者需递交SAT/ACT考试成绩。*(2)(6)(7)(8)</p><h2>专业设置</h2><p>阿肯色大学本科开设有78个专业，列表如下：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:15.56%">			<p>专业名称</p>			</td>			<td style="width:37.92%">			<p>专业英文</p>			</td>			<td style="width:15.12%">			<p>专业名称</p>			</td>			<td style="width:31.42%">			<p>专业英文</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p><a href="http://www.qianmu.org/会计" target="_blank">会计</a></p>			</td>			<td style="width:37.92%">			<p><a href="http://www.qianmu.org/会计" target="_blank">Accounting</a></p>			</td>			<td style="width:15.12%">			<p>食品、人类营养与酒店</p>			</td>			<td style="width:31.42%">			<p>Foods, Human Nutrition, and Hospitality</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p>农业经济</p>			</td>			<td style="width:37.92%">			<p>Agricultural Business</p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/法语" target="_blank">法语</a></p>			</td>			<td style="width:31.42%">			<p>French</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p>农业教育、传播与技术</p>			</td>			<td style="width:37.92%">			<p>Agricultural Education, Communication and Technology</p>			</td>			<td style="width:15.12%">			<p>一般商学</p>			</td>			<td style="width:31.42%">			<p>General Business</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p>美国研究</p>			</td>			<td style="width:37.92%">			<p>American Studies</p>			</td>			<td style="width:15.12%">			<p>一般人类<a href="http://www.qianmu.org/环境科学" target="_blank">环境科学</a></p>			</td>			<td style="width:31.42%">			<p>General Human Environmental Sciences</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p><a href="http://www.qianmu.org/动物科学" target="_blank">动物科学</a></p>			</td>			<td style="width:37.92%">			<p>Animal Science</p>			</td>			<td style="width:15.12%">			<p>地理</p>			</td>			<td style="width:31.42%">			<p><a href="http://www.qianmu.org/地理学" target="_blank">Geography</a></p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p><a href="http://www.qianmu.org/人类学" target="_blank">人类学</a></p>			</td>			<td style="width:37.92%">			<p>Anthropology</p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/地质学" target="_blank">地质学</a></p>			</td>			<td style="width:31.42%">			<p>Geology</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p>服装研究</p>			</td>			<td style="width:37.92%">			<p>Apparel Studies</p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/德语" target="_blank">德语</a></p>			</td>			<td style="width:31.42%">			<p>German</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p>建筑</p>			</td>			<td style="width:37.92%">			<p>Architecture</p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/历史" target="_blank">历史</a></p>			</td>			<td style="width:31.42%">			<p><a href="http://www.qianmu.org/历史" target="_blank">History</a></p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p>建筑研究</p>			</td>			<td style="width:37.92%">			<p>Architectural Studies</p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/园艺学" target="_blank">园艺</a>、景观与草坪科学</p>			</td>			<td style="width:31.42%">			<p>Horticulture, Landscape and Turf Sciences</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p>艺术</p>			</td>			<td style="width:37.92%">			<p>Art</p>			</td>			<td style="width:15.12%">			<p>人类发展与家庭科学</p>			</td>			<td style="width:31.42%">			<p>Human Development and Family Sciences</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p>生物</p>			</td>			<td style="width:37.92%">			<p>Biology</p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/人力资源管理" target="_blank">人力资源</a>开发</p>			</td>			<td style="width:31.42%">			<p>Human Resource Development</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p><a href="http://www.qianmu.org/农业工程" target="_blank">生物与农业工程</a></p>			</td>			<td style="width:37.92%">			<p>Biological and <a href="http://www.qianmu.org/农业工程" target="_blank">Agricultural Engineering</a></p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/工业工程" target="_blank">工业工程</a></p>			</td>			<td style="width:31.42%">			<p><a href="http://www.qianmu.org/工业工程" target="_blank">Industrial Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p><a href="http://www.qianmu.org/生物医学工程" target="_blank">生物医学工程</a></p>			</td>			<td style="width:37.92%">			<p><a href="http://www.qianmu.org/生物医学工程" target="_blank">Biomedical Engineering</a></p>			</td>			<td style="width:15.12%">			<p>信息系统</p>			</td>			<td style="width:31.42%">			<p><a href="http://www.qianmu.org/信息系统管理" target="_blank">Information Systems</a></p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p>职业技术教育</p>			</td>			<td style="width:37.92%">			<p><a href="http://www.qianmu.org/职业列表" target="_blank">Career</a> and Technical Education</p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/室内设计" target="_blank">室内设计</a></p>			</td>			<td style="width:31.42%">			<p>Interior Design</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p><a href="http://www.qianmu.org/化学工程" target="_blank">化学工程</a></p>			</td>			<td style="width:37.92%">			<p>Chemical Engineering</p>			</td>			<td style="width:15.12%">			<p>国际商务</p>			</td>			<td style="width:31.42%">			<p>International Business</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p><a href="http://www.qianmu.org/化学" target="_blank">化学</a></p>			</td>			<td style="width:37.92%">			<p><a href="http://www.qianmu.org/化学" target="_blank">Chemistry</a></p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/国际关系学" target="_blank">国际关系</a></p>			</td>			<td style="width:31.42%">			<p>International Relations</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p>儿童教育</p>			</td>			<td style="width:37.92%">			<p>Childhood Education</p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/新闻学" target="_blank">新闻学</a></p>			</td>			<td style="width:31.42%">			<p>Journalism</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">土木工程</a></p>			</td>			<td style="width:37.92%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">Civil Engineering</a></p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/运动学" target="_blank">运动学</a></p>			</td>			<td style="width:31.42%">			<p>Kinesiology</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p>古典研究</p>			</td>			<td style="width:37.92%">			<p>Classical Studies</p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/景观设计" target="_blank">景观设计</a></p>			</td>			<td style="width:31.42%">			<p>Landscape Architecture</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p>传播</p>			</td>			<td style="width:37.92%">			<p>Communication</p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/景观设计" target="_blank">景观建筑</a>研究</p>			</td>			<td style="width:31.42%">			<p>Landscape Architectural Studies</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p>沟通障碍</p>			</td>			<td style="width:37.92%">			<p>Communication Disorders</p>			</td>			<td style="width:15.12%">			<p>管理</p>			</td>			<td style="width:31.42%">			<p><a href="http://www.qianmu.org/管理学" target="_blank">Management</a></p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p>社区卫生促进</p>			</td>			<td style="width:37.92%">			<p>Community Health Promotion</p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">市场营销</a></p>			</td>			<td style="width:31.42%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">Marketing</a></p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p><a href="http://www.qianmu.org/计算机工程" target="_blank">计算机工程</a></p>			</td>			<td style="width:37.92%">			<p><a href="http://www.qianmu.org/计算机工程" target="_blank">Computer Engineering</a></p>			</td>			<td style="width:15.12%">			<p>数学</p>			</td>			<td style="width:31.42%">			<p><a href="http://www.qianmu.org/数学" target="_blank">Mathematics</a></p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">计算机科学</a></p>			</td>			<td style="width:37.92%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">Computer Science</a></p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">机械工程</a></p>			</td>			<td style="width:31.42%">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">Mechanical Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p>刑事司法</p>			</td>			<td style="width:37.92%">			<p>Criminal Justice</p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/音乐" target="_blank">音乐</a></p>			</td>			<td style="width:31.42%">			<p>Music</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p>作物科学</p>			</td>			<td style="width:37.92%">			<p>Crop Science</p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/护理" target="_blank">护理</a></p>			</td>			<td style="width:31.42%">			<p>Nursing</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p><a href="http://www.qianmu.org/戏剧" target="_blank">戏剧</a></p>			</td>			<td style="width:37.92%">			<p>Drama</p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/哲学" target="_blank">哲学</a></p>			</td>			<td style="width:31.42%">			<p>Philosophy</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p><a href="http://www.qianmu.org/地球科学" target="_blank">地球科学</a></p>			</td>			<td style="width:37.92%">			<p><a href="http://www.qianmu.org/地球科学" target="_blank">Earth Science</a></p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/物理" target="_blank">物理</a></p>			</td>			<td style="width:31.42%">			<p><a href="http://www.qianmu.org/物理" target="_blank">Physics</a></p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">经济学</a></p>			</td>			<td style="width:37.92%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">Economics</a></p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/政治学" target="_blank">政治学</a></p>			</td>			<td style="width:31.42%">			<p><a href="http://www.qianmu.org/政治学" target="_blank">Political Science</a></p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p>经济学</p>			</td>			<td style="width:37.92%">			<p>Economics</p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/家禽科学" target="_blank">家禽科学</a></p>			</td>			<td style="width:31.42%">			<p>Poultry Science</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">电气工程</a></p>			</td>			<td style="width:37.92%">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">Electrical Engineering</a></p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/心理学" target="_blank">心理学</a></p>			</td>			<td style="width:31.42%">			<p><a href="http://www.qianmu.org/心理学" target="_blank">Psychology</a></p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p><a href="http://www.qianmu.org/小学教育" target="_blank">小学教育</a></p>			</td>			<td style="width:37.92%">			<p>Elementary Education</p>			</td>			<td style="width:15.12%">			<p>休闲及体育管理</p>			</td>			<td style="width:31.42%">			<p>Recreation and Sport Management</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p>英语</p>			</td>			<td style="width:37.92%">			<p>English</p>			</td>			<td style="width:15.12%">			<p>零售</p>			</td>			<td style="width:31.42%">			<p>Retail</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p>环境、土壤和水科学</p>			</td>			<td style="width:37.92%">			<p>Environmental, Soil, and Water Science</p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/社会工作" target="_blank">社会工作</a></p>			</td>			<td style="width:31.42%">			<p>Social Work</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p><a href="http://www.qianmu.org/金融" target="_blank">金融</a></p>			</td>			<td style="width:37.92%">			<p><a href="http://www.qianmu.org/金融" target="_blank">Finance</a></p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">社会学</a></p>			</td>			<td style="width:31.42%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">Sociology</a></p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p><a href="http://www.qianmu.org/食品科学" target="_blank">食品科学</a></p>			</td>			<td style="width:37.92%">			<p>Food Science</p>			</td>			<td style="width:15.12%">			<p><a href="http://www.qianmu.org/西班牙语" target="_blank">西班牙语</a></p>			</td>			<td style="width:31.42%">			<p>Spanish</p>			</td>		</tr>		<tr>			<td style="width:15.56%">			<p><a href="http://www.qianmu.org/物流管理" target="_blank">供应链管理</a></p>			</td>			<td style="width:37.92%">			<p>Supply Chain Management</p>			</td>			<td style="width:15.12%">&nbsp;</td>			<td style="width:31.42%">&nbsp;</td>		</tr>	</tbody></table><p>*(8)</p><p>联系方式</p><p>电话：1-479-575-6246</p><p>传真：1-479-575-5055</p><p>邮箱；iao@uark.edu</p><p>地址：</p><p>International Admissions Office</p><p>340 N. Campus Drive / OZAR 213</p><p>1 University of Arkansas</p><p>Fayetteville, AR 72701</p><p>外部链接：</p><ul>	<li>本科申请指南：<a href="http://www.qianmu.org/redirect?code=erlnE6BnkkP-GVFTNIrF4kmPB6zsDpZYyajTAOccPgY0ijrKQm5vokaroVmMEEFV0Yb3DUjY9896_a8JFAaePYJKqXY3ZOmu_f5ah90PAYkUQuKDYHTA" target="_blank">Undergraduate Application for Admission International</a>(PDF)</li>	<li>学费列表：<a href="http://www.qianmu.org/redirect?code=hrfXwiG4kMv2wkEgVak6FGC5F6WOt8BmmSEPYL-eRM6HYz0NVUj0nmN_RVCn2EdmrdEmD0FDNY7ACAa0_wyVjmDfEp" target="_blank">Estimated Expenses for the 2015-2016&nbsp;Academic Year (9 months)</a>(PDF)</li></ul><p>参考资料：</p><p>(1)&nbsp;<a href="http://www.qianmu.org/redirect?code=Hr3vKzNGwx30htFL9mLjvCF84adQ_SeFP6H6tRA5F0Mjb4uipFrM4nT0LUO4lLYRaXNzMIAlqdiShkjsJ03U7zXxXboeqWzMDTBTFRoftehbMDTtO4uLArEDbBZ1EglhsMBMmplryC5FrIFptlBPhA8Oo_MlYd3ixm" target="_blank">University of Arkansas</a>&nbsp;USNEWS</p><p>(2)&nbsp;<a href="http://www.qianmu.org/redirect?code=frh1ZEiQwtelk66xrrR9ffhrHjYY3YJhdvl7z5jnhe4XoGfZKzKDibjlbjfrruWRiX3Oul5024PrB8eb-A_ksBZ9e5ARKkB8OUJd4ikhQJ9FM5D1FMN9Z0euM1eSz4GO-Xfj0Z-Ko6UON9Rz24PB1aR07ROP" target="_blank">University of Arkansas</a>&nbsp;College Board</p><p>(3) <a href="http://www.qianmu.org/redirect?code=8rL6TCNtkO9fNDRa33333PlJcqNFolCjxBHwHw19dGEd_6jxctg7sdzQyQR8LAghkr-iG-uyk3fL5EmjgdDlFZQqAITgRH83Du6J7MCbC7Xls4wkCXupnARf6SCVcUxBjgUSVgyKVMeMrMp" target="_blank">University of Arkansas</a>&nbsp;Princeton Review</p><p>(4) <a href="http://www.qianmu.org/redirect?code=grPZ_xn9kltmgDIeDDDDDD2yR95wG73soUiavuZchqPsrQgJMScodbm3fq1QdbPaf_BLFtWvfego" target="_blank">Estimated Expenses for the 2013-2014&nbsp;Academic Year (9 months)</a> University of Arkansas</p><p>(5) <a href="http://www.qianmu.org/redirect?code=OrMxo-Gfw5T1US1VBBBBBBJCMmHIk0LUo5GLGLDesxWDdfSLBI4bzri_WrE8ijDaizIcCM2FhGijIveainQ64" target="_blank">Quick Facts</a> University of Arkansas</p><p>(6) <a href="http://www.qianmu.org/redirect?code=IrnDV7gLLK6SQadh02FF-M-iJbSSOL2-QW0sJiKD-eQzyXuMm-owpl5wSCt6CkTznpO-TKKEXwArrXO6IFGsw-aPhn71xkrXOHnVhMH-oQTD67MpSJvL" target="_blank">Undergraduate Application for Admission International</a> University of Arkansas</p><p>(7) <a href="http://www.qianmu.org/redirect?code=WrSJLFK_kZqpfcZBYb47H5PvkCLqn0KPoK1wu2MG36SqaiNjiRfZLcw6XUYDDu14BF0CCYAtju6wC-7C" target="_blank">Frequently Asked Questions for International Students</a> University of Arkansas</p><p>(8) <a href="http://www.qianmu.org/redirect?code=mrtw23uTwdft_3ElkkkkkkXGrdf4uVGKzuqwJH8yTiZ7fOkGypW_Tg7y7UdGpd7Kxd8Od1qUwbVze4UPFB8fcxrzHtm" target="_blank">Transfer students</a> University of Arkansas</p><p>(8) <a href="http://www.qianmu.org/redirect?code=ir67yhMakAlE5zHy000000M2fVzi5M7wxpxpomWhN_lw-ODpYQbhSADItW1hxc7ntATnx_4wljnF0d" target="_blank">Majors</a> University of Arkansas</p><p>&nbsp;</p><h1>研究生申请</h1><p><strong>院系设置</strong></p><p>该校共设有10个学院，列表如下：</p><ul>	<li>农业、食品与生命科学学院（Dale Bumpers College of Agricultural, Food and Life Sciences）简称农学院</li>	<li>建筑学院（Fay Jones School of Architecture）是一个本科学院，开设有建筑、景观建筑和室内设计本科学位项目。</li>	<li>文理学院（J. William Fulbright College of Arts and Sciences）</li>	<li>商学院（Sam M. Walton College of Business）</li>	<li>教育与专业卫生学院（College of Education and Health Professions）</li>	<li>工程学院（College of Engineering）</li>	<li><a href="http://www.qianmu.org/法学" target="_blank">法学</a>院（School of <a href="http://www.qianmu.org/法学" target="_blank">Law</a>）</li>	<li>研究生院（Graduate School and International Education）是一所职能学院，主要是管理研究生的入学、教学、就业等</li>	<li>菁英学院（Honors College）为本科学院</li>	<li>世界校区（Global Campus）其开设的项目为远程教育项目。*(1)</li></ul><p><strong>基本要求</strong></p><p>(1) 学历要求：申请者需正规大学本科毕业，且本科最后60个学分取得3.0以上成绩；如申请者成绩在2.5-3.0之间，可给予特别考虑，参考主要因素是<a href="http://www.qianmu.org/GRE" target="_blank">GRE</a>成绩；如申请者拥有本科以上学位或专业学位，可自动考虑录取。</p><p>(2) GRE/<a href="http://www.qianmu.org/GMAT" target="_blank">GMAT</a>/MAT要求：大部分项目要求递交GRE成绩，部分具有商科性质的项目要求递交GMAT考试成绩，部分可允许GRE替代。</p><p>(3) TOEFL/IELTS要求：阿肯色大学要求国际学生递交TOEFL、IELTS或PTE考试成绩，分数要求分别不低于79分、6.5分和58分。托福送分编号为6866。注：阿肯色大学开设有强化英语课程，新生入学后第一学期开课前需进行英语能力测试（ELPT）。*(2)(3)</p><p><strong>申请材料</strong></p><p>阿肯色大学研究生项目通过学校官网在线或纸质申请，需要递交的材料如下：</p><ul>	<li>在线申请表格；</li>	<li>申请费：$50；</li>	<li>成绩单：两份官方成绩单；</li>	<li>GRE/GMAT/MAT成绩单；</li>	<li>TOEFL/IELTS成绩单；</li>	<li>护照复印件；</li>	<li>资金证明；</li>	<li>教育经历；</li></ul><p>注：项目要求的其他材料，如申请文书、<a href="http://www.qianmu.org/个人简历" target="_blank">个人简历</a>、<a href="http://www.qianmu.org/写作样本" target="_blank">写作样本</a>或<a href="http://www.qianmu.org/个人作品" target="_blank">个人作品</a>等。*(2)(3)</p><p><strong>申请时间</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:142px">			<p>可申请学期</p>			</td>			<td style="width:142px">			<p>秋季</p>			</td>			<td style="width:142px">			<p>春季</p>			</td>			<td style="width:142px">			<p>夏季</p>			</td>		</tr>		<tr>			<td style="width:142px">			<p>申请截止日期</p>			</td>			<td style="width:142px">			<p>4月1日</p>			</td>			<td style="width:142px">			<p>10月1日</p>			</td>			<td style="width:142px">			<p>3月1日</p>			</td>		</tr>	</tbody></table><p>*(2)</p><p><strong>费用与奖学金</strong></p><p>2017-2018学年研究生费用列表（9学分/学期）：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:19.42%">			<p>费用项目名称</p>			</td>			<td style="width:47.2%">			<p>费用项目英文名称</p>			</td>			<td style="width:33.38%">			<p>费用</p>			</td>		</tr>		<tr>			<td style="width:19.42%">			<p>学费</p>			</td>			<td style="width:47.2%">			<p>Tuition &amp; fees</p>			</td>			<td style="width:33.38%">			<p>$23,281</p>			</td>		</tr>		<tr>			<td style="width:19.42%">			<p>住房及用餐费</p>			</td>			<td style="width:47.2%">			<p>Housing &amp; Meals</p>			</td>			<td style="width:33.38%">			<p>$9,576</p>			</td>		</tr>		<tr>			<td style="width:19.42%">			<p>医疗保险费</p>			</td>			<td style="width:47.2%">			<p>Insurance</p>			</td>			<td style="width:33.38%">			<p>$1,943</p>			</td>		</tr>		<tr>			<td style="width:19.42%">			<p>书本费</p>			</td>			<td style="width:47.2%">			<p>Books &amp; Supplies</p>			</td>			<td style="width:33.38%">			<p>$900</p>			</td>		</tr>		<tr>			<td style="width:19.42%">			<p>个人费用</p>			</td>			<td style="width:47.2%">			<p>Personal Expenses****</p>			</td>			<td style="width:33.38%">			<p>$2,100</p>			</td>		</tr>		<tr>			<td style="width:19.42%">			<p>总计</p>			</td>			<td style="width:47.2%">			<p>Total Estimated Expenses</p>			</td>			<td style="width:33.38%">			<p>$37,800</p>			</td>		</tr>	</tbody></table><p>*(4)</p><p><strong>奖学金</strong></p><p>阿肯色大学仅向已被录取的研究生提供奖学金，主要有<a href="http://www.qianmu.org/TA" target="_blank">TA</a>和<a href="http://www.qianmu.org/RA" target="_blank">RA</a>，包含全部学费和每月生活补助，申请者须在申请材料中注明考虑奖学金授予。</p><p>联系方式</p><p>电话；1-479-575-6246</p><p>邮箱：iao@uark.edu</p><p>外部链接：</p><p>研究生申请指南：<a href="http://www.qianmu.org/redirect?code=JrvWrUjGLmpEbjzr555555ZLrj5hOZL7Z9zEAoSbx57DOUFX5N5jMrXloOAnm6zHmGxF5jf-nCMreECqj2AcjyDjhWa6iIqWSc24Kpql" target="_blank">Graduate School Application for Admission</a>(PDF)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=WrSJLFT9wZUg3rJBUqim2tzF1Vonz2SF6Q0KVqJOOiUeHnCltBX1el6-54FnpHeb6IQhQFyylVpOzLIW_SC2D19GV2J8tjdqU3SLPv7h5PywFP" target="_blank">Colleges and Schools</a> University of Arkansas</p><p>(2) <a href="http://www.qianmu.org/redirect?code=orDtO5axLyQ82ZDQnnnnnnp1JbA-H9dlpFMLBDW65_qlVXuZhEVLP_0-BEz-VcuZicAjhEz-VcuMwG8ba5QjPGUNahiqgfAs" target="_blank">Graduate School Application for Admission</a> University of Arkansas</p><p>(3) <a href="http://www.qianmu.org/redirect?code=mrtw23qgkKhq9VQheeeeeeFN1ZvQ8naSK4Oqb3kV6PzSxIErRHlVDC5gxjoSxOvqDY" target="_blank">Frequently Asked Questions for International Students</a> University of Arkansas</p><p>(4) <a href="http://international-admissions.uark.edu/graduate-studies/funding-studies.php#collapse-d17e73-d17e267" target="_blank">Estimated Expenses for the 2017-2018 Academic Year (9 months)</a> University of Arkansas</p><h2>农学院</h2><p>阿肯色大学农学院（Dale Bumpers College of Agricultural, Food and Life Sciences）研究生阶段开设有以下专业及其学位项目：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:35.9%">			<p>专业名称</p>			</td>			<td style="width:52.04%">			<p>专业英文</p>			</td>			<td style="width:12.06%">			<p>开设学位</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p>农业经济学</p>			</td>			<td style="width:52.04%">			<p>Agricultural Economics</p>			</td>			<td style="width:12.06%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p>农业与推广教育</p>			</td>			<td style="width:52.04%">			<p>Agricultural and Extension Education</p>			</td>			<td style="width:12.06%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p><a href="http://www.qianmu.org/公共事务" target="_blank">公共政策</a></p>			</td>			<td style="width:52.04%">			<p>Public Policy</p>			</td>			<td style="width:12.06%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p>劳动力教育</p>			</td>			<td style="width:52.04%">			<p>Workforce Education</p>			</td>			<td style="width:12.06%">			<p>D.Ed</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p>动物科学</p>			</td>			<td style="width:52.04%">			<p>Animal Science</p>			</td>			<td style="width:12.06%">			<p>MS, PhD</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p>作物、土壤与环境科学</p>			</td>			<td style="width:52.04%">			<p>Crop, Soil, &amp; Environmental Sciences</p>			</td>			<td style="width:12.06%">			<p>MS, PhD</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p><a href="http://www.qianmu.org/昆虫学" target="_blank">昆虫学</a></p>			</td>			<td style="width:52.04%">			<p>Entomology</p>			</td>			<td style="width:12.06%">			<p>MS, PhD</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p>食品安全</p>			</td>			<td style="width:52.04%">			<p>Food Safety</p>			</td>			<td style="width:12.06%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p>食品科学</p>			</td>			<td style="width:52.04%">			<p>Food Science</p>			</td>			<td style="width:12.06%">			<p>MS, PhD</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p><a href="http://www.qianmu.org/园艺学" target="_blank">园艺学</a></p>			</td>			<td style="width:52.04%">			<p>Horticulture</p>			</td>			<td style="width:12.06%">			<p>MS, PhD</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p>人类环境科学</p>			</td>			<td style="width:52.04%">			<p>Human Environmental Sciences</p>			</td>			<td style="width:12.06%">&nbsp;</td>		</tr>		<tr>			<td style="width:35.9%">			<p>农村社会学</p>			</td>			<td style="width:52.04%">			<p>Rural Sociology</p>			</td>			<td style="width:12.06%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p>食品、人类<a href="http://www.qianmu.org/营养学" target="_blank">营养学</a>与酒店</p>			</td>			<td style="width:52.04%">			<p>Food, Human Nutrition and Hospitality</p>			</td>			<td style="width:12.06%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p>服装研究</p>			</td>			<td style="width:52.04%">			<p>Apparel Studies</p>			</td>			<td style="width:12.06%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p>人类发展与家庭科学</p>			</td>			<td style="width:52.04%">			<p>Human Development and Family Sciences</p>			</td>			<td style="width:12.06%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p>人类营养、食品科学与动物科学</p>			</td>			<td style="width:52.04%">			<p>Human Nutrition, Food Science and Animal Science</p>			</td>			<td style="width:12.06%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p>植物科学：<a href="http://www.qianmu.org/植物病理学" target="_blank">植物病理学</a></p>			</td>			<td style="width:52.04%">			<p>Plant Science: Plant Pathology</p>			</td>			<td style="width:12.06%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p>家禽学</p>			</td>			<td style="width:52.04%">			<p>Poultry Science</p>			</td>			<td style="width:12.06%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td colspan="3" style="width:100.0%">			<p><strong>交叉学科项目</strong></p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p><a href="http://www.qianmu.org/细胞生物学" target="_blank">细胞与分子生物学</a></p>			</td>			<td style="width:52.04%">			<p>Cell &amp; Molecular Biology</p>			</td>			<td style="width:12.06%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p>植物科学</p>			</td>			<td style="width:52.04%">			<p>Plant Science</p>			</td>			<td style="width:12.06%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p>环境动力学</p>			</td>			<td style="width:52.04%">			<p>Environmental Dynamics</p>			</td>			<td style="width:12.06%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:35.9%">			<p>公共政策</p>			</td>			<td style="width:52.04%">			<p>Public Policy</p>			</td>			<td style="width:12.06%">			<p>PhD</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=OrMxo-GvwlsJdPoiqqqqqqagx3NcTA9lsnIHECFPTXg8EnzxLy1PsX-RTjxSLy_Hsdvnb74STURZ" target="_blank">Graduate Studies</a> Dale Bumpers College of Agricultural, Food and Life Sciences</p><h2>文理学院</h2><p>阿肯色大学建筑学院（J. William Fulbright College of Arts and Sciences）研究生阶段开设有以下专业及其学位项目：</p><table>	<tbody>		<tr>			<td style="width:95px">			<p>专业名称</p>			</td>			<td style="width:101px">			<p>专业英文</p>			</td>			<td style="width:65px">			<p>开设学位</p>			</td>			<td style="width:112px">			<p>专业名称</p>			</td>			<td style="width:144px">			<p>专业英文</p>			</td>			<td style="width:38px">			<p>开设学位</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>人类学</p>			</td>			<td style="width:101px">			<p>Anthropology</p>			</td>			<td style="width:65px">			<p>MA、PhD</p>			</td>			<td style="width:112px">			<p>物理教育</p>			</td>			<td style="width:144px">			<p>Physics Education</p>			</td>			<td style="width:38px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>艺术</p>			</td>			<td style="width:101px">			<p>Art</p>			</td>			<td style="width:65px">			<p>MFA</p>			</td>			<td style="width:112px">			<p>政治科学</p>			</td>			<td style="width:144px">			<p>Political Science</p>			</td>			<td style="width:38px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>生物科学</p>			</td>			<td style="width:101px">			<p>Biological Sciences</p>			</td>			<td style="width:65px">			<p>MS、PhD</p>			</td>			<td style="width:112px">			<p>社会工作</p>			</td>			<td style="width:144px">			<p>Social Work</p>			</td>			<td style="width:38px">			<p>MSW</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>化学</p>			</td>			<td style="width:101px">			<p>Chemistry</p>			</td>			<td style="width:65px">			<p>MS、PhD</p>			</td>			<td style="width:112px">			<p>社会学</p>			</td>			<td style="width:144px">			<p>Sociology</p>			</td>			<td style="width:38px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>传播</p>			</td>			<td style="width:101px">			<p>Communication</p>			</td>			<td style="width:65px">			<p>MA</p>			</td>			<td style="width:112px">			<p>戏剧：表演</p>			</td>			<td style="width:144px">			<p>Theatre: Acting</p>			</td>			<td style="width:38px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>英语</p>			</td>			<td style="width:101px">			<p>English</p>			</td>			<td style="width:65px">			<p>MA、PhD</p>			</td>			<td style="width:112px">			<p>戏剧：设计</p>			</td>			<td style="width:144px">			<p>Theatre: Design</p>			</td>			<td style="width:38px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>创意写作</p>			</td>			<td style="width:101px">			<p>Creative Writing</p>			</td>			<td style="width:65px">			<p>MFA</p>			</td>			<td style="width:112px">			<p>戏剧：导演</p>			</td>			<td style="width:144px">			<p>Theatre: Directing</p>			</td>			<td style="width:38px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>地质科学</p>			</td>			<td style="width:101px">			<p>Geosciences</p>			</td>			<td style="width:65px">			<p>PhD</p>			</td>			<td style="width:112px">			<p>戏剧：编剧</p>			</td>			<td style="width:144px">			<p>Theatre: Playwriting</p>			</td>			<td style="width:38px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>地理</p>			</td>			<td style="width:101px">			<p>Geography</p>			</td>			<td style="width:65px">			<p>MA</p>			</td>			<td style="width:112px">			<p>戏剧：灯光设计</p>			</td>			<td style="width:144px">			<p>Theatre: Lighting Design</p>			</td>			<td style="width:38px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>地质学</p>			</td>			<td style="width:101px">			<p>Geology</p>			</td>			<td style="width:65px">			<p>MS</p>			</td>			<td style="width:112px">			<p>戏剧：舞台设计</p>			</td>			<td style="width:144px">			<p>Theatre: Scene Design</p>			</td>			<td style="width:38px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>环境动力学</p>			</td>			<td style="width:101px">			<p>Environmental Dynamics</p>			</td>			<td style="width:65px">			<p>PhD</p>			</td>			<td style="width:112px">			<p>戏剧：服装设计</p>			</td>			<td style="width:144px">			<p>Theatre: Costume Design</p>			</td>			<td style="width:38px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>空间与行星科学</p>			</td>			<td style="width:101px">			<p>Space &amp; Planetary Sciences</p>			</td>			<td style="width:65px">			<p>MS、PhD</p>			</td>			<td style="width:112px">			<p>音乐：作曲</p>			</td>			<td style="width:144px">			<p>Music: Composition</p>			</td>			<td style="width:38px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>历史</p>			</td>			<td style="width:101px">			<p>History</p>			</td>			<td style="width:65px">			<p>MA、PhD</p>			</td>			<td style="width:112px">			<p>音乐：合唱指挥</p>			</td>			<td style="width:144px">			<p>Music: Choral Conducting</p>			</td>			<td style="width:38px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>新闻</p>			</td>			<td style="width:101px">			<p>Journalism</p>			</td>			<td style="width:65px">			<p>MA</p>			</td>			<td style="width:112px">			<p>音乐：乐队指挥</p>			</td>			<td style="width:144px">			<p>Music: Instrumental Conducting</p>			</td>			<td style="width:38px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>数学</p>			</td>			<td style="width:101px">			<p>Mathematics</p>			</td>			<td style="width:65px">			<p>MS、PhD</p>			</td>			<td style="width:112px">			<p>音乐：声乐表演</p>			</td>			<td style="width:144px">			<p>Music: Vocal Performance</p>			</td>			<td style="width:38px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>统计学与分析</p>			</td>			<td style="width:101px">			<p>Statistics and Analytics</p>			</td>			<td style="width:65px">			<p>MS</p>			</td>			<td style="width:112px">			<p>音乐：乐队表演</p>			</td>			<td style="width:144px">			<p>Music: Instrumental Performance</p>			</td>			<td style="width:38px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>中学数学</p>			</td>			<td style="width:101px">			<p>Secondary Mathematics(Online)</p>			</td>			<td style="width:65px">			<p>MA</p>			</td>			<td style="width:112px">			<p>音乐：键盘表演</p>			</td>			<td style="width:144px">			<p>Music: Keyboard Performance</p>			</td>			<td style="width:38px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>临床心理学</p>			</td>			<td style="width:101px">			<p>Clinical Psychology</p>			</td>			<td style="width:65px">			<p>PhD</p>			</td>			<td style="width:112px">			<p>音乐：音乐教育</p>			</td>			<td style="width:144px">			<p>Music: Music Education</p>			</td>			<td style="width:38px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>实验心理学</p>			</td>			<td style="width:101px">			<p>Experimental Psychology</p>			</td>			<td style="width:65px">			<p>PhD</p>			</td>			<td style="width:112px">			<p>音乐：音乐史</p>			</td>			<td style="width:144px">			<p>Music: Music History</p>			</td>			<td style="width:38px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>哲学</p>			</td>			<td style="width:101px">			<p>Philosophy</p>			</td>			<td style="width:65px">			<p>MA、PhD</p>			</td>			<td style="width:112px">			<p>音乐：音乐治疗</p>			</td>			<td style="width:144px">			<p>Music: Music Theory</p>			</td>			<td style="width:38px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>物理</p>			</td>			<td style="width:101px">			<p>Physics</p>			</td>			<td style="width:65px">			<p>MA、MS、PhD</p>			</td>			<td style="width:112px">			<p>法语、德语与西班牙语</p>			</td>			<td style="width:144px">			<p>French, German, and Spanish</p>			</td>			<td style="width:38px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>比较文学与文化研究</p>			</td>			<td style="width:101px">			<p>Comparative Literature and Cultural Studies</p>			</td>			<td style="width:65px">			<p>MA、PhD</p>			</td>			<td style="width:112px">			<p>细胞与分子生物学</p>			</td>			<td style="width:144px">			<p>Cell &amp; Molecular Biology</p>			</td>			<td style="width:38px">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>心理学</p>			</td>			<td style="width:101px">			<p>Psychological Science</p>			</td>			<td style="width:65px">			<p>MA、PhD</p>			</td>			<td style="width:112px">			<p>微电子-光子学</p>			</td>			<td style="width:144px">			<p>Microelectronics-Photonics</p>			</td>			<td style="width:38px">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:95px">			<p>经济学</p>			</td>			<td style="width:101px">			<p>Economics</p>			</td>			<td style="width:65px">			<p>MA、PhD</p>			</td>			<td style="width:112px">			<p>&nbsp;</p>			</td>			<td style="width:144px">			<p>&nbsp;</p>			</td>			<td style="width:38px">			<p>&nbsp;</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=Gr-dDkOiw8gc0Qesccccccjk-IyvSFdfwOVX6iGk7qFqsoVzLiWfrEUqYmUOLgJvZIvJX0i8eZoaVlIv0SrlYXIT-nyDSyRsrjP7" target="_blank">Programs &amp; Centers</a> J. William Fulbright College of Arts and Sciences</p><p>(2) <a href="http://www.qianmu.org/redirect?code=ZrygfZiTLNk2B6Z_777777dplP6qL459zHxosFSpmD4D_bxfRF19gTjD0wAfzrjHmxefynA923mT2AW_p3m-rUIuVyeJVym5V7wuN1H" target="_blank">Master&#39;s Degrees Offered</a> University of Arkansas</p><p>(3) <a href="http://www.qianmu.org/redirect?code=-rGz4OcALEo5iI0YJJJJJJFIW2HX1eExQq3p7iKIPrer89GK8Q4nSjCb3W0i8vMbPkKd8cfIskMzsc45SkMLP9K62j0X2jkai1tPnz9v" target="_blank">Doctoral Degrees Offered</a> University of Arkansas</p><h2>商学院</h2><p>阿肯色大学商学院（Sam M. Walton College of Business）研究生阶段开设有以下专业及其学位项目：</p><ul>	<li>MBA项目：包括全日制MBA、EMBA</li>	<li>信息系统硕士（Master of Information Systems，缩写：MIS），学制一年；另外还有专业MIS学位项目，学制两年。</li>	<li>会计硕士（Master of Accountancy，缩写：M.Acc）</li>	<li>经济学硕士（MA in Economics）</li>	<li>PhD项目，设有以下专业方向：	<ul>		<li>会计（Accounting）</li>		<li>经济学（Economics）</li>		<li>金融（Finance）</li>		<li>信息系统（Information Systems）</li>		<li>管理（Management）</li>		<li>市场营销（Marketing）</li>		<li>供应链管理（Supply Chain Management）*(1)</li>	</ul>	</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=nrIeztAxwGY_PUionnnnnnESJruZ2dOBH84kJrOkVIOkxmf67zp8CqKSKvf6JzO3CI46ABup5GAqh0rqlT" target="_blank">Graduate Programs</a> Sam M. Walton College of Business</p><h2>教育与专业卫生学院</h2><p>阿肯色大学教育与专业卫生学院（College of Education and Health Professions）研究生阶段开设有以下专业及其学位项目：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:24.36%">			<p>专业名称</p>			</td>			<td style="width:53.84%">			<p>专业英文</p>			</td>			<td style="width:21.8%">			<p>开设学位</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>运动学</p>			</td>			<td style="width:53.84%">			<p>Kinesiology</p>			</td>			<td style="width:21.8%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>运动训练</p>			</td>			<td style="width:53.84%">			<p>Athletic Training</p>			</td>			<td style="width:21.8%">			<p>MAT</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>休闲及体育管理</p>			</td>			<td style="width:53.84%">			<p>Recreation and Sport Management</p>			</td>			<td style="width:21.8%">			<p>D.Ed、M.Ed</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>社区卫生促进</p>			</td>			<td style="width:53.84%">			<p>Community Health Promotion</p>			</td>			<td style="width:21.8%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>言语及<a href="http://www.qianmu.org/语言病理学" target="_blank">语言病理学</a></p>			</td>			<td style="width:53.84%">			<p>Speech-Language Pathology</p>			</td>			<td style="width:21.8%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>儿童教育</p>			</td>			<td style="width:53.84%">			<p>Childhood Education</p>			</td>			<td style="width:21.8%">			<p>MAT</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p><a href="http://www.qianmu.org/中学教育" target="_blank">中学教育</a></p>			</td>			<td style="width:53.84%">			<p>Secondary Education</p>			</td>			<td style="width:21.8%">			<p>MAT、M.Ed</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>中学教育：职业技术教育</p>			</td>			<td style="width:53.84%">			<p>Secondary Education: Career and Technical Education</p>			</td>			<td style="width:21.8%">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>成人及终身学习</p>			</td>			<td style="width:53.84%">			<p>Adult and Lifelong Learning</p>			</td>			<td style="width:21.8%">			<p>D.Ed、M.Ed</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>教育技术</p>			</td>			<td style="width:53.84%">			<p>Educational Technology</p>			</td>			<td style="width:21.8%">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>体育教育</p>			</td>			<td style="width:53.84%">			<p>Physical Education</p>			</td>			<td style="width:21.8%">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>人力资源和劳动力开发教育</p>			</td>			<td style="width:53.84%">			<p>Human Resource and Workforce Development Education</p>			</td>			<td style="width:21.8%">			<p>D.Ed、M.Ed</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>课程与教学</p>			</td>			<td style="width:53.84%">			<p>Curriculum and Instruction</p>			</td>			<td style="width:21.8%">			<p>Ed.S、PhD、M.Ed</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>教育领导</p>			</td>			<td style="width:53.84%">			<p>Educational Leadership</p>			</td>			<td style="width:21.8%">			<p>Ed.S、D.Ed、M.Ed</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>高等教育</p>			</td>			<td style="width:53.84%">			<p>Higher Education</p>			</td>			<td style="width:21.8%">			<p>D.Ed、M.Ed</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>咨询</p>			</td>			<td style="width:53.84%">			<p>Counseling</p>			</td>			<td style="width:21.8%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>咨询教育</p>			</td>			<td style="width:53.84%">			<p>Counselor Education</p>			</td>			<td style="width:21.8%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>教育统计与研究方法</p>			</td>			<td style="width:53.84%">			<p>Educational Statistics and Research Methods</p>			</td>			<td style="width:21.8%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>英语外教</p>			</td>			<td style="width:53.84%">			<p>Teaching English to Speakers of Other Languages</p>			</td>			<td style="width:21.8%">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>康复教育与研究</p>			</td>			<td style="width:53.84%">			<p>Rehabilitation Education and Research</p>			</td>			<td style="width:21.8%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:24.36%">康复教育与研究（康复咨询）</td>			<td style="width:53.84%">Rehabilitation Education and Research:Rehabilitation Counseling</td>			<td style="width:21.8%">MS</td>		</tr>		<tr>			<td style="width:24.36%">			<p>教育政策</p>			</td>			<td style="width:53.84%">			<p>Education Policy</p>			</td>			<td style="width:21.8%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p>临床护理</p>			</td>			<td style="width:53.84%">			<p>Nursing Practice</p>			</td>			<td style="width:21.8%">			<p>DNP</p>			</td>		</tr>		<tr>			<td style="width:24.36%">			<p><a href="http://www.qianmu.org/特殊教育" target="_blank">特殊教育</a></p>			</td>			<td style="width:53.84%">			<p>Special Education</p>			</td>			<td style="width:21.8%">			<p>M.Ed</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)(4)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=VrxbIdtDLZv0OpmszYGFnyqqrgc5CqpwTTV5PsNPhI4-py4vgSt-Guo1ffqEhcBMIuDhVg1IypdZSusGzmNpAquh9_onzMStsuuoghIqmqV1kb8nSypOSoNdO" target="_blank">Master&#39;s Degree Programs</a> College of Education and Health Professions, University of Arkansas</p><p>(2) <a href="http://www.qianmu.org/redirect?code=rrcuJRvskL3ojg9GHu88bZUvvW01VVv3uPQ7E50BmbM_5IRD1PY7OjgNaP_9toMpOQEUfobknAUF3kOXnNuJN3u-nqNuMqRw34BTzI5UCs1znl-5C5NdgaAm-R22V" target="_blank">Doctoral and Specialist Degrees</a> College of Education and Health Professions, University of Arkansas</p><p>(3) <a href="http://www.qianmu.org/redirect?code=orDtO5cZw9P-FAJO6MbxfihoZhHp5jhFRwrKJ1RFf1VZON_ZdFSgteJUNGFuRrtWCsgOL1hG0M4H" target="_blank">Degrees in the Health Professions</a> College of Education and Health Professions, University of Arkansas</p><p>(4) <a href="http://www.qianmu.org/redirect?code=1rdft_10kiLYy2Fu666666tmwjJDOlPg-xPch0Gg4e0DT1NchjYg_V_hBjH8REf9" target="_blank">Degrees in Education</a> College of Education and Health Professions, University of Arkansas</p><h2>工程学院</h2><p>阿肯色大学工程学院（College of Engineering）研究生阶段开设有以下专业及其学位项目：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:25.94%">			<p>专业名称</p>			</td>			<td style="width:59.6%">			<p>专业英文</p>			</td>			<td style="width:14.46%">			<p>开设学位</p>			</td>		</tr>		<tr>			<td style="width:25.94%">			<p><a href="http://www.qianmu.org/生物工程" target="_blank">生物工程</a></p>			</td>			<td style="width:59.6%">			<p>Biological Engineering</p>			</td>			<td style="width:14.46%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:25.94%">			<p><a href="http://www.qianmu.org/生物医学" target="_blank">生物医学</a>工程</p>			</td>			<td style="width:59.6%">			<p>Biomedical Engineering</p>			</td>			<td style="width:14.46%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:25.94%">			<p>化学工程</p>			</td>			<td style="width:59.6%">			<p>Chemical Engineering</p>			</td>			<td style="width:14.46%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:25.94%">			<p>土木工程</p>			</td>			<td style="width:59.6%">			<p>Civil Engineering</p>			</td>			<td style="width:14.46%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:25.94%">			<p>计算机工程</p>			</td>			<td style="width:59.6%">			<p>Computer Engineering</p>			</td>			<td style="width:14.46%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:25.94%">			<p>计算机科学</p>			</td>			<td style="width:59.6%">			<p>Computer Science</p>			</td>			<td style="width:14.46%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:25.94%">			<p>电气工程</p>			</td>			<td style="width:59.6%">			<p>Electrical Engineering</p>			</td>			<td style="width:14.46%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:25.94%">			<p>工程</p>			</td>			<td style="width:59.6%">			<p>Engineering</p>			</td>			<td style="width:14.46%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:25.94%">			<p><a href="http://www.qianmu.org/环境工程" target="_blank">环境工程</a></p>			</td>			<td style="width:59.6%">			<p><a href="http://www.qianmu.org/环境工程" target="_blank">Environmental Engineering</a></p>			</td>			<td style="width:14.46%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:25.94%">			<p>工业工程</p>			</td>			<td style="width:59.6%">			<p>Industrial Engineering</p>			</td>			<td style="width:14.46%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:25.94%">			<p>机械工程</p>			</td>			<td style="width:59.6%">			<p>Mechanical Engineering</p>			</td>			<td style="width:14.46%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:25.94%">			<p><a href="http://www.qianmu.org/运营管理" target="_blank">运营管理</a></p>			</td>			<td style="width:59.6%">			<p><a href="http://www.qianmu.org/运营管理" target="_blank">Operations</a> Management</p>			</td>			<td style="width:14.46%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:25.94%">			<p>计算机科学</p>			</td>			<td style="width:59.6%">			<p>Computer Science</p>			</td>			<td style="width:14.46%">			<p>PhD</p>			</td>		</tr>		<tr>			<td colspan="3" style="width:25.94%">			<p><strong>交叉学科项目</strong></p>			</td>		</tr>		<tr>			<td style="width:25.94%">			<p>细胞与<a href="http://www.qianmu.org/分子生物学" target="_blank">分子生物学</a></p>			</td>			<td style="width:59.6%">			<p>Cellular and Molecular Biology</p>			</td>			<td style="width:14.46%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:25.94%">			<p>微电子与光子学</p>			</td>			<td style="width:59.6%">			<p>Microelectronics-Photonics</p>			</td>			<td style="width:14.46%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:25.94%">			<p>空间与行星科学</p>			</td>			<td style="width:59.6%">			<p>Space and Planetary Sciences</p>			</td>			<td style="width:14.46%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:25.94%">环境动力学</td>			<td style="width:59.6%">Environmental Dynamics</td>			<td style="width:14.46%">PhD</td>		</tr>		<tr>			<td style="width:25.94%">统计学与分析</td>			<td style="width:59.6%">Statistics and Analytics</td>			<td style="width:14.46%">MS</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href="https://engineering.uark.edu/academics/degrees-and-requirements.php" target="_blank">Degrees and Requirements</a> College of Engineering, University of Arkansas</p><h2>法学院</h2><p>阿肯色大学法学院（School of Law）研究生阶段开设有以下专业及其学位项目：</p><ul>	<li><a href="http://www.qianmu.org/JD" target="_blank">JD</a>项目</li>	<li>海外<a href="http://www.qianmu.org/律师" target="_blank">律师</a>快捷JD项目（Accelerated J.D. Program for Foreign-Trained Lawyers）</li>	<li>农业与食品法<a href="http://www.qianmu.org/LLM" target="_blank">LLM</a>项目（LLM in Agriculture and Food Law）*(1)</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=DroIGDyokEmsA9r-pppppplErjEqGXUdFg-p02rqYpy2R18gbtnkO6TqVv3num5DqMXS" target="_blank">Academics</a> School of Law, University of Arkansas</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2020-09-23</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1624;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1624' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1624;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

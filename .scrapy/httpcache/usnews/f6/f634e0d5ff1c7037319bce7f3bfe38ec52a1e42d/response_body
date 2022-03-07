@@ -1,0 +1,1153 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>北京交通大学-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="北京交通大学" />
+<meta name="description"  id="description"  content="北京交通大学:北京交通大学（Beijing Jiaotong University），校本部座落在北京市海淀区西直门外上园村3号，是教育部直属的全国重点大学之一。它的前身是清政府邮传部创办的铁路管理传习所。校训为王阳明之“知行”。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">北京交通大学 </h1> 
+					<div class="infobox"></div>
+					<div id="content"><p>北京交通大学（Beijing Jiaotong University），校本部座落在北京市海淀区西直门外上园村3号，是教育部直属的全国重点大学之一。它的前身是清政府邮传部创办的铁路管理传习所。校训为王阳明之&ldquo;知行&rdquo;。*(1)</p>
+
+<p>1921年，其与上海、唐山两所工业专门学校合并，定名&ldquo;交通大学&rdquo;，下设京、沪、唐三校，学校被称为&ldquo;交通大学北平学校&rdquo;。1949年以后，经中央人民政府政务院定名为中国交通大学，次年改为北方交通大学，茅以升院士为校长。1981年北方交通大学被批准为全国首批博士、硕士学位授予单位，相继被批准可自行审定副教授、教授及博士生导师任职资格。1994年7月北方交通大学通过铁道部预审，成为首批进入&ldquo;211工程&rdquo;建设的高校之一。 2000年4月原北京电力高等专科学校并入，学校由铁道部划归教育部管理。2003年9月，更名为&ldquo;北京交通大学&rdquo;。*(1)</p>
+
+<p>&nbsp;</p>
+
+<h1>学术声誉</h1>
+
+<h2>QS世界排名</h2>
+
+<h3>综合排名</h3>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:100.0%">
+	<tbody>
+		<tr>
+			<td style="width:25.0%">
+			<p>年份</p>
+			</td>
+			<td style="width:25.0%">
+			<p>综合排名</p>
+			</td>
+			<td style="width:25.0%">
+			<p>亚洲地区排名</p>
+			</td>
+			<td style="width:25.0%">
+			<p>金砖国家排名</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:25.0%">
+			<p>2014</p>
+			</td>
+			<td style="width:25.0%">
+			<p>-</p>
+			</td>
+			<td style="width:25.0%">
+			<p>109</p>
+			</td>
+			<td style="width:25.0%">
+			<p>43</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>*(2)</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h3>专业排名</h3>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:100.0%">
+	<tbody>
+		<tr>
+			<td style="width:25.0%">
+			<p>年份</p>
+			</td>
+			<td style="width:25.0%">
+			<p><a  href='http://www.qianmu.org/机械工程' target='_blank'>机械工程</a></p>
+			</td>
+			<td style="width:25.0%">
+			<p><a  href='http://www.qianmu.org/土木工程' target='_blank'>土木工程</a></p>
+			</td>
+			<td style="width:25.0%">
+			<p><a  href='http://www.qianmu.org/会计' target='_blank'>会计</a>与<a  href='http://www.qianmu.org/会计' target='_blank'>金融学</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:25.0%">
+			<p>2014</p>
+			</td>
+			<td style="width:25.0%">
+			<p>151-200</p>
+			</td>
+			<td style="width:25.0%">
+			<p>151-200</p>
+			</td>
+			<td style="width:25.0%">
+			<p>151-200</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>*(2)</p>
+
+<p>注：QS共有30个专业排名，北京交通大学无专业进入QS2014年的专业排名榜单*(2)</p>
+
+<p>&nbsp;</p>
+
+<h2>泰晤士高等教育世界排名</h2>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:100.0%">
+	<tbody>
+		<tr>
+			<td style="width:12.48%">
+			<p>年份</p>
+			</td>
+			<td style="width:12.68%">
+			<p>综合</p>
+			</td>
+			<td style="width:12.68%">
+			<p>工程学</p>
+			</td>
+			<td style="width:12.68%">
+			<p>理学</p>
+			</td>
+			<td style="width:12.28%">
+			<p>临床<a  href='http://www.qianmu.org/医学' target='_blank'>医学</a></p>
+			</td>
+			<td style="width:12.28%">
+			<p>生命科学</p>
+			</td>
+			<td style="width:12.28%">
+			<p>人文科学</p>
+			</td>
+			<td style="width:12.64%">
+			<p>社会科学</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:12.48%">
+			<p>2013</p>
+			</td>
+			<td style="width:12.68%">
+			<p>-</p>
+			</td>
+			<td style="width:12.68%">
+			<p>-</p>
+			</td>
+			<td style="width:12.68%">
+			<p>-</p>
+			</td>
+			<td style="width:12.28%">
+			<p>-</p>
+			</td>
+			<td style="width:12.28%">
+			<p>-</p>
+			</td>
+			<td style="width:12.28%">
+			<p>-</p>
+			</td>
+			<td style="width:12.64%">
+			<p>-</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>*(3)</p>
+
+<p>注：北京交通大学未进入2013年泰晤士高等教育排名的各个榜单</p>
+
+<p>&nbsp;</p>
+
+<h2>上交大排名</h2>
+
+<h3>世界大学学术排名</h3>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:100.0%">
+	<tbody>
+		<tr>
+			<td style="width:14.16%">
+			<p>年份</p>
+			</td>
+			<td style="width:14.22%">
+			<p>综合</p>
+			</td>
+			<td colspan="5" style="width:71.64%">
+			<p>专业</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="4" style="width:14.16%">
+			<p>2013</p>
+			</td>
+			<td rowspan="4" style="width:14.22%">
+			<p>-</p>
+			</td>
+			<td style="width:12.54%">
+			<p>理科</p>
+			</td>
+			<td style="width:12.48%">
+			<p>工科</p>
+			</td>
+			<td style="width:14.22%">
+			<p>生命科学</p>
+			</td>
+			<td style="width:11.18%">
+			<p>医科</p>
+			</td>
+			<td style="width:21.2%">
+			<p>社科</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:12.54%">
+			<p>-</p>
+			</td>
+			<td style="width:12.48%">
+			<p>-</p>
+			</td>
+			<td style="width:14.22%">
+			<p>-</p>
+			</td>
+			<td style="width:11.18%">
+			<p>-</p>
+			</td>
+			<td style="width:21.2%">
+			<p>-</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:12.54%">
+			<p><a  href='http://www.qianmu.org/数学' target='_blank'>数学</a></p>
+			</td>
+			<td style="width:12.48%">
+			<p><a  href='http://www.qianmu.org/物理' target='_blank'>物理</a></p>
+			</td>
+			<td style="width:14.22%">
+			<p><a  href='http://www.qianmu.org/化学' target='_blank'>化学</a></p>
+			</td>
+			<td style="width:11.18%">
+			<p>计算机</p>
+			</td>
+			<td style="width:21.2%">
+			<p><a  href='http://www.qianmu.org/经济学' target='_blank'>经济学</a>与商学</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:12.54%">
+			<p>-</p>
+			</td>
+			<td style="width:12.48%">
+			<p>-</p>
+			</td>
+			<td style="width:14.22%">
+			<p>-</p>
+			</td>
+			<td style="width:11.18%">
+			<p>-</p>
+			</td>
+			<td style="width:21.2%">
+			<p>-</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>*(4)</p>
+
+<p>&nbsp;</p>
+
+<h3>两岸四地大学排名</h3>
+
+<p>2013年：第60名*(5)</p>
+
+<p>&nbsp;</p>
+
+<h2>武书连排名</h2>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:100.0%">
+	<tbody>
+		<tr>
+			<td style="width:9.86%">
+			<p>年份</p>
+			</td>
+			<td colspan="2" style="width:25.72%">
+			<p>综合</p>
+			</td>
+			<td colspan="6" style="width:64.42%">
+			<p>学科门类</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="4" style="width:9.86%">
+			<p>2014</p>
+			</td>
+			<td style="width:12.86%">
+			<p>整体排名</p>
+			</td>
+			<td style="width:12.86%">
+			<p>综合实力</p>
+			</td>
+			<td style="width:12.86%">
+			<p>自然科学</p>
+			</td>
+			<td style="width:12.86%">
+			<p>社会科学</p>
+			</td>
+			<td style="width:7.7%">
+			<p>理学</p>
+			</td>
+			<td style="width:10.28%">
+			<p>工学</p>
+			</td>
+			<td style="width:10.28%">
+			<p><a  href='http://www.qianmu.org/农学' target='_blank'>农学</a></p>
+			</td>
+			<td style="width:10.44%">
+			<p><a  href='http://www.qianmu.org/医学' target='_blank'>医学</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:12.86%">
+			<p>68</p>
+			</td>
+			<td style="width:12.86%">
+			<p>A</p>
+			</td>
+			<td style="width:12.86%">
+			<p>B+</p>
+			</td>
+			<td style="width:12.86%">
+			<p>A+</p>
+			</td>
+			<td style="width:7.7%">
+			<p>A</p>
+			</td>
+			<td style="width:10.28%">
+			<p>C</p>
+			</td>
+			<td style="width:10.28%">
+			<p>-</p>
+			</td>
+			<td style="width:10.44%">
+			<p>B+</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:12.86%">
+			<p><a  href='http://www.qianmu.org/哲学' target='_blank'>哲学</a></p>
+			</td>
+			<td style="width:12.86%">
+			<p><a  href='http://www.qianmu.org/经济学' target='_blank'>经济学</a></p>
+			</td>
+			<td style="width:12.86%">
+			<p><a  href='http://www.qianmu.org/法学' target='_blank'>法学</a></p>
+			</td>
+			<td style="width:12.86%">
+			<p><a  href='http://www.qianmu.org/教育学' target='_blank'>教育学</a></p>
+			</td>
+			<td style="width:7.7%">
+			<p>文学</p>
+			</td>
+			<td style="width:10.28%">
+			<p><a  href='http://www.qianmu.org/历史' target='_blank'>历史</a>学</p>
+			</td>
+			<td style="width:10.28%">
+			<p><a  href='http://www.qianmu.org/管理学' target='_blank'>管理学</a></p>
+			</td>
+			<td style="width:10.44%">
+			<p>艺术学</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:12.86%">
+			<p>C+</p>
+			</td>
+			<td style="width:12.86%">
+			<p>B+</p>
+			</td>
+			<td style="width:12.86%">
+			<p>A</p>
+			</td>
+			<td style="width:12.86%">
+			<p>A+</p>
+			</td>
+			<td style="width:7.7%">
+			<p>A+</p>
+			</td>
+			<td style="width:10.28%">
+			<p>B+</p>
+			</td>
+			<td style="width:10.28%">
+			<p>B+</p>
+			</td>
+			<td style="width:10.44%">
+			<p>A</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>*(6)</p>
+
+<p>&nbsp;</p>
+
+<h2>中国校友会排名</h2>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:100.0%">
+	<tbody>
+		<tr>
+			<td style="width:11.52%">
+			<p>年份</p>
+			</td>
+			<td style="width:12.88%">
+			<p>整体排名</p>
+			</td>
+			<td style="width:11.46%">
+			<p>理工类</p>
+			</td>
+			<td style="width:15.44%">
+			<p>毕业生质量</p>
+			</td>
+			<td style="width:12.88%">
+			<p>教师水平</p>
+			</td>
+			<td style="width:12.88%">
+			<p>学科水平</p>
+			</td>
+			<td style="width:11.46%">
+			<p>杰出校友榜</p>
+			</td>
+			<td style="width:11.46%">
+			<p>两院院士</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:11.52%">
+			<p>2014</p>
+			</td>
+			<td style="width:12.88%">
+			<p>46</p>
+			</td>
+			<td style="width:11.46%">
+			<p>19</p>
+			</td>
+			<td style="width:15.44%">
+			<p>84</p>
+			</td>
+			<td style="width:12.88%">
+			<p>52</p>
+			</td>
+			<td style="width:12.88%">
+			<p>24</p>
+			</td>
+			<td style="width:11.46%">
+			<p>68</p>
+			</td>
+			<td style="width:11.46%">
+			<p>91</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>*(7)(8)(9)(10)(11)(12)(13)</p>
+
+<p>&nbsp;</p>
+
+<h2>中国网大排名</h2>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:100.0%">
+	<tbody>
+		<tr>
+			<td style="width:12.48%">
+			<p>年份</p>
+			</td>
+			<td style="width:12.48%">
+			<p>综合</p>
+			</td>
+			<td style="width:12.5%">
+			<p>声誉</p>
+			</td>
+			<td style="width:12.52%">
+			<p>学术资源</p>
+			</td>
+			<td style="width:12.5%">
+			<p>学术成果</p>
+			</td>
+			<td style="width:12.52%">
+			<p>学生情况</p>
+			</td>
+			<td style="width:12.5%">
+			<p>教师资源</p>
+			</td>
+			<td style="width:12.5%">
+			<p>物资资源</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:12.48%">
+			<p>2014</p>
+			</td>
+			<td style="width:12.48%">
+			<p>31</p>
+			</td>
+			<td style="width:12.5%">
+			<p>44</p>
+			</td>
+			<td style="width:12.52%">
+			<p>25</p>
+			</td>
+			<td style="width:12.5%">
+			<p>43</p>
+			</td>
+			<td style="width:12.52%">
+			<p>35</p>
+			</td>
+			<td style="width:12.5%">
+			<p>45</p>
+			</td>
+			<td style="width:12.5%">
+			<p>20</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>*(14)</p>
+
+<p>&nbsp;</p>
+
+<h2>武汉大学中国大学竞争力排名</h2>
+
+<h3>综合排名</h3>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:100.0%">
+	<tbody>
+		<tr>
+			<td style="width:17.16%">
+			<p>年份</p>
+			</td>
+			<td style="width:19.8%">
+			<p>整体竞争力排行</p>
+			</td>
+			<td style="width:19.78%">
+			<p>科技创新竞争力</p>
+			</td>
+			<td style="width:21.62%">
+			<p>人文社科创新竞争力</p>
+			</td>
+			<td style="width:21.64%">
+			<p>重点大学竞争力</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:17.16%">
+			<p>2014</p>
+			</td>
+			<td style="width:19.8%">
+			<p>44</p>
+			</td>
+			<td style="width:19.78%">
+			<p>44</p>
+			</td>
+			<td style="width:21.62%">
+			<p>54</p>
+			</td>
+			<td style="width:21.64%">
+			<p>43</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>*(15)(16)(17)(18)</p>
+
+<p>&nbsp;</p>
+
+<h3>专业领域排名</h3>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:100.0%">
+	<tbody>
+		<tr>
+			<td style="width:12.5%">
+			<p>年份</p>
+			</td>
+			<td style="width:12.5%">
+			<p>理学</p>
+			</td>
+			<td style="width:12.52%">
+			<p><a  href='http://www.qianmu.org/哲学' target='_blank'>哲学</a></p>
+			</td>
+			<td style="width:12.52%">
+			<p><a  href='http://www.qianmu.org/经济学' target='_blank'>经济学</a></p>
+			</td>
+			<td style="width:12.5%">
+			<p><a  href='http://www.qianmu.org/教育学' target='_blank'>教育学</a></p>
+			</td>
+			<td style="width:12.5%">
+			<p>文学类</p>
+			</td>
+			<td style="width:12.5%">
+			<p><a  href='http://www.qianmu.org/历史' target='_blank'>历史</a>类</p>
+			</td>
+			<td style="width:12.46%">
+			<p>工学类</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:12.5%">
+			<p>2014</p>
+			</td>
+			<td style="width:12.5%">
+			<p>-</p>
+			</td>
+			<td style="width:12.52%">
+			<p>-</p>
+			</td>
+			<td style="width:12.52%">
+			<p>23</p>
+			</td>
+			<td style="width:12.5%">
+			<p>-</p>
+			</td>
+			<td style="width:12.5%">
+			<p>-</p>
+			</td>
+			<td style="width:12.5%">
+			<p>-</p>
+			</td>
+			<td style="width:12.46%">
+			<p>-</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>*(19)</p>
+
+<p>&nbsp;</p>
+
+<h2>世界大学网络计量学排名</h2>
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p>排名年份</p>
+			</td>
+			<td>
+			<p>国内排名</p>
+			</td>
+			<td>
+			<p>世界排名</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>2014</p>
+			</td>
+			<td>
+			<p>46</p>
+			</td>
+			<td>
+			<p>582</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>*(20)</p>
+
+<p>参见：</p>
+
+<p><a  href='http://www.qianmu.org/中国大学排名表' target='_blank'>中国大学排名表</a></p>
+
+<p>参考资料：</p>
+
+<p>(1) <a  href='http://www.qianmu.org/redirect?code=PrgaXqImkYo9ibxpKKKKKL8g30RPnWZBHCWBDwCgGhdvo0CGjsB5EdE5Nx_J3sG_M2T_ig4_i2E_M2w_wZg_wT4_MhPZxZsMxZPZxpPsxWjwxWzMxpPzxZPZWpcnjpSRZkFOkOFOZX' target='_blank'>北京交通大学</a> 维基百科</p>
+
+<p>(2) <a  href='http://www.qianmu.org/QS世界大学排名' target='_blank'>QS世界大学排名</a> 羚羊网</p>
+
+<p>(3) 泰晤士高等教育世界排名 羚羊网</p>
+
+<p>(4) 上交大<a  href='http://www.qianmu.org/世界大学学术排名' target='_blank'>世界大学学术排名</a> 羚羊网</p>
+
+<p>(5) <a  href='http://www.qianmu.org/redirect?code=mrtw23uVwAbLSemQzzzzzzt6CpP_xAMaWnWnHg26-chIHlAAK6cAGbYdGb3oGVcPNleA0hUs7pUrNbACGL1' target='_blank'>2013两岸四地百强大学</a> 上交大排名官网</p>
+
+<p>(6) <a  href='http://www.qianmu.org/redirect?code=ArAjQuHqLtcCKPUxN-JOSP-wiO0-FlMa-Y-WD5IaaC3_5Usm-rA9XO86MGrGCXveAVRhUwNsJjZqar0TKnjcQSMwW3__0YwGnk-XU7WaXUonVAKuS-1nj3uTYSiO-wbxzz-UNNZL2OhStqoqvxF' target='_blank'>武书连2014中国734所普通高校各学科排行榜</a> 新浪网</p>
+
+<p>(7) <a  href='http://www.qianmu.org/redirect?code=IrnDV7PqkW_gBhby03UAZ7P9SHRPf5j35V5w_Rt-RPfRB_ZjKRiMtAjYjy_8gm5abxY3l8niGgH' target='_blank'>中国校友会大学排名100强</a> 中国校友会网</p>
+
+<p>(8)&nbsp;<a  href='http://www.qianmu.org/redirect?code=arBPkMoTLNk2B6MWLLLLLLlCpAbg2K4z6w6wvM1wG8DDlVDFZQECZ53d2CnmIQEw1C3elzI9ZyWS' target='_blank'>中国校友会排名-理工类</a> 中国校友会网</p>
+
+<p>(9) <a  href='http://www.qianmu.org/redirect?code=orDtO5cDw-IwEQmQzzzzzzbQv2yYfZVQamgJgJvPAuN58qzQZBc1K381CMlwr1IohkHo2WcYmuQ4SkiE' target='_blank'>中国校友会排名-毕业生质量</a>&nbsp;&nbsp;中国校友会网</p>
+
+<p>(10) <a  href='http://www.qianmu.org/redirect?code=pr9ExTdyLx29RZAUHHHHHHxpZMtTeh6yvr4J4JMlO42sNLktnu9n8Hen6VA2Dab_q1c_6unEQgqwdJR0' target='_blank'>中国校友会教师水平</a>&nbsp;&nbsp;中国校友会网</p>
+
+<p>(11) <a  href='http://www.qianmu.org/redirect?code=IrnDV7PLks07E1220y6WKVCwGx8ooHyUbutf_kxMmivFSifDF_FS2Y4E0e_FgPsqTW93sy8Y1g93UqKL6ITSlPZo' target='_blank'>中国校友会排名-学科水平</a>中国校友会网</p>
+
+<p>(12) <a  href='http://www.qianmu.org/redirect?code=ArAjQuH2L4yTxCapPPPPPPoHnY3uAvS7ihihV02h_kK7wIoaLc2FLPsbKFdNOc2neFdSwZOMLt8Y' target='_blank'>中国校友会排名-杰出校友榜</a>中国校友会网</p>
+
+<p>(13)&nbsp;<a  href='http://www.qianmu.org/redirect?code=JrvWrUjCLXmqlQ7-ZZZZZZjbqCDMsjlKGIjmjmJ8XGmMPcIn83Ru3cIuZbkQt5UnZDyslEkl9DM8btqKPZ' target='_blank'>中国校友会排名-两院院士</a>&nbsp;中国校友会网</p>
+
+<p>(14) <a  href='http://www.qianmu.org/redirect?code=brEVbyeww36DmlO0hhhhhhmVZWuwBGQgZ7vN6rzGbNslzEIkjDdTaxIb8JZy25ex' target='_blank'>2013中国网大中国大学排行榜</a> <a  href='http://www.qianmu.org/中国网大排名' target='_blank'>中国网大排名</a>官网</p>
+
+<p>(15) <a  href='http://www.qianmu.org/redirect?code=6ri8veUUL-Fj7bQDUUU0JJJHIW2HX1eExnrnrKa_LP8TLPStLDpE0lpYd2CnmIHne2CTdIR2eIR2ejV3pIV6BIQDe1Jb0Ln' target='_blank'>2014-2015年武大版中国一流大学竞争力排行榜（26所）</a>&nbsp; 高考网</p>
+
+<p>(16) <a  href='http://www.qianmu.org/redirect?code=grPZ_xn2kFr4D0dsllllllkwNbk7UeE3FfFfjgio_aWo_-1oCaZ3CBEvzlAYUlDvXM-i6clH2PlWqFQg6H2BBP6y2Jkg3di' target='_blank'>2014-2015年中国重点大学竞争力排行榜(131所)</a> 高考网</p>
+
+<p>(17) <a  href='http://www.qianmu.org/redirect?code=BraKR4eMk45xFZNEaFVmstmdgsOM68ZYmZvKs4UQUzwoY2aHk3zyoAD4B5muvqaN-lgCSPN5fXM_Rq_jg-bbTUY-gwAxNTYxA49LYNi3F82kmM' target='_blank'>2014-2015年武大版人文社科创新竞争力排行榜</a> 高考网</p>
+
+<p>(18) <a  href='http://www.qianmu.org/redirect?code=crr9MjJ4kMv2w_qM444444EoZ5uSJofRVMvPvPa0K_adhgadzU_achpecWslAudgLJd1G4Pg5y24P5wRmd4yLF1b6Z-2vPlvWzmwG9' target='_blank'>2014-2015年武大版中国大学科技创新竞争力排行榜</a> 高考网</p>
+
+<p>(19) <a  href='http://www.qianmu.org/redirect?code=ArAjQuF_kZqpfcCYBmOzqkRj_ET4BYy3kJwhVgDCYuecjn6vaRMnKQnXQ3Yzb0gkd48_R4_vE-Bh3u-eOdN53YaJhoYcjDmaO7vM0AfPBgn9XT' target='_blank'>2014-2015年武大版中国各学科门类大学竞争力排行榜</a> 高考网</p>
+
+<p>(20) <a  href='http://www.qianmu.org/redirect?code=Hr3vKzAcLYq_Z9ulffffffKnoGiaPSTBOROR-3Obe9TyeNiau4La-3KyubTB7NHBiwdne5qZyx2mlXq' target='_blank'>Rankjing Web of Universities China</a> Cybermetrics Lab</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2014-09-04</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1920;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1920' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1920;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>新加坡管理大学-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="新加坡管理大学" />
+<meta name="description"  id="description"  content="新加坡管理大学:新加坡管理大学（Singapore Management University，简称SMU）是新加坡的一所公立综合性大学，也是新加坡三所可以颁发学士学位的大学之一。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">新加坡管理大学 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>国家</p>			</td>			<td>			<p><a href="http://www.qianmu.org/新加坡" target="_blank">新加坡</a></p>			</td>		</tr>		<tr>			<td>			<p>性质</p>			</td>			<td>			<p>公立，男女合校</p>			</td>		</tr>		<tr>			<td>			<p>成立年份</p>			</td>			<td>			<p>2000年</p>			</td>		</tr>		<tr>			<td>			<p>宗教信仰</p>			</td>			<td>			<p>无</p>			</td>		</tr>		<tr>			<td>			<p>学生人数</p>			</td>			<td>			<p>7,000</p>			</td>		</tr>		<tr>			<td>			<p>学校分类</p>			</td>			<td>			<p>综合性大学</p>			</td>		</tr>		<tr>			<td>			<p>网址</p>			</td>			<td>			<p>www.smu.edu.sg</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>新加坡管理大学（Singapore <a  href='http://www.qianmu.org/管理学' target='_blank'>Management</a> University，简称SMU）是<a  href='http://www.qianmu.org/新加坡' target='_blank'>新加坡</a>的一所公立综合性大学，也是新加坡三所可以颁发学士学位的大学之一。名为管理大学，实际远不止只包含商科专业。成立于2000年，现时约有7000名学生，在UTD世界知名商学院排名中，新加坡管理大学位列第54。</p><p><strong>校园环境</strong></p><p>新大校园共有六座大楼，由一条商店林立并对公众开放的地下人行道互相连接:</p><ul>	<li>李光前商学院</li>	<li><a  href='http://www.qianmu.org/会计' target='_blank'>会计学</a>院，亦为<a  href='http://www.qianmu.org/法学' target='_blank'>法学</a>院所在地</li>	<li>李嘉诚图书馆</li>	<li>信息系统学院</li>	<li>社会科学院，亦为<a  href='http://www.qianmu.org/经济学' target='_blank'>经济学</a>院所在地</li>	<li>行政大楼</li></ul><p>校园内设有游泳池、健身中心和附设攀石墙的多用途体育馆。无线网络亦覆盖了整个校园。</p><p>&nbsp;</p><h1>本科申请</h1><p><strong>基本信息</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>QS排名</p>			</td>			<td>			<p>701+</p>			</td>			<td>			<p>学费</p>			</td>			<td style="width:88px">			<p>S$35,050/年</p>			</td>			<td style="width:124px">			<p>申请截止日期</p>			</td>			<td>			<p>4月1日</p>			</td>		</tr>		<tr>			<td>			<p><a  href='http://www.qianmu.org/TOEFL' target='_blank'>TOEFL</a>要求</p>			</td>			<td>			<p>79</p>			</td>			<td>			<p>食宿</p>			</td>			<td style="width:88px">			<p>S$10,422/年</p>			</td>			<td style="width:124px">			<p>可申请入学学期</p>			</td>			<td>			<p>秋季</p>			</td>		</tr>		<tr>			<td>			<p><a  href='http://www.qianmu.org/IELTS' target='_blank'>IELTS</a>要求</p>			</td>			<td>			<p>6.5</p>			</td>			<td>			<p>有无<a  href='http://www.qianmu.org/双录取' target='_blank'>双录取</a></p>			</td>			<td style="width:88px">			<p>No</p>			</td>			<td style="width:124px">			<p>有无<a  href='http://www.qianmu.org/奖学金' target='_blank'>奖学金</a></p>			</td>			<td>			<p>Yes</p>			</td>		</tr>		<tr>			<td>			<p>师生比</p>			</td>			<td>			<p>1:33</p>			</td>			<td>			<p>是否必须<a  href='http://www.qianmu.org/面试' target='_blank'>面试</a></p>			</td>			<td style="width:88px">			<p>Yes</p>			</td>			<td style="width:124px">			<p>奖学金类别</p>			</td>			<td>			<p><a  href='http://www.qianmu.org/Need-based' target='_blank'>Need-based</a></p>			</td>		</tr>		<tr>			<td>			<p>学生人数</p>			</td>			<td>			<p>7,000</p>			</td>			<td>			<p>有无校园住宿</p>			</td>			<td style="width:88px">			<p>Yes</p>			</td>			<td style="width:124px">			<p>是否承认高考</p>			</td>			<td>			<p>No</p>			</td>		</tr>	</tbody></table><p>注：</p><p>（1）TOEFL和IELTS均无单项要求</p><p>（2）新加坡管理大学必需递交<a  href='http://www.qianmu.org/SAT' target='_blank'>SAT</a>/<a  href='http://www.qianmu.org/ACT' target='_blank'>ACT</a>成绩</p><h2>申请条件与材料</h2><p>新加坡管理大学以纯<a  href='http://www.qianmu.org/英语' target='_blank'>英语</a>教学，因此要求学生具备相当的英语语言能力。国际学生申请条件如下：</p><p>（1）入学时，至少年满18周岁；</p><p>（2）至少接受过12年的正规教育，并且获得优异的高考成绩；</p><p>（3）至少1篇<a  href='http://www.qianmu.org/Essay' target='_blank'>Essay</a>;</p><p>（4）必需面试，国际学生可通过Skype或电话面试；</p><p>（5）语言成绩：托福最低79分，雅思最低6.5分。托福与雅思不能取代SAT成绩，同样SAT成绩也不能取代托福/雅思成绩。</p><p>（6）作为高考成绩的补充，必需提供SAT或ACT+Writing成绩，SAT最低要求1900，2000以上方有较强的竞争力。SAT最晚考试时间为每年的5月份，比如申请2014秋季入学的学生，只要SAT是在5月31日前考的，新加坡管理大学都会用以参考。新加坡管理大学的SAT考试编号是2861。</p><h3>联系方式</h3><p>学校网址：www.smu.edu.sg</p><p>联系电话：(65)6828-0100</p><p>电子邮箱：enquiry@smu.edu.sg</p><h3>申请材料</h3><p>新加坡管理大学通过其学校官网在线申请，除在线填写的申请表（包含essay、个人信息等）外，其他需要提供的<a  href='http://www.qianmu.org/申请材料' target='_blank'>申请材料</a>包括：</p><p>（1）个人护照复印件</p><p>（2）高中<a  href='http://www.qianmu.org/成绩单' target='_blank'>成绩单</a>，如申请时没有高考成绩的话，可以预估一个高考成绩，待到6月份成绩出来之后，再递交给学校</p><p>（3）大学成绩单，如有</p><p>（4）<a  href='http://www.qianmu.org/SAT' target='_blank'>SAT</a>/<a  href='http://www.qianmu.org/ACT' target='_blank'>ACT</a>+Writing</p><p>（5）托福/雅思成绩</p><p>（6）SATⅡ、<a  href='http://www.qianmu.org/AP' target='_blank'>AP</a>成绩、<a  href='http://www.qianmu.org/GMAT' target='_blank'>GMAT</a>等其他成绩，如有</p><p>（7）课外活动描述、个人成就及荣誉证书等</p><p>（8）个人体检报告（如患有严重疾病或残疾的话，必需报告，没有这类疾病或残疾，无需递交）</p><p>（9）犯罪记录（如有）</p><h2>申请时间</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>申请截止日期</p>			</td>			<td>			<p>4月1日</p>			</td>			<td>			<p>可申请入学学期</p>			</td>			<td>			<p>秋季</p>			</td>		</tr>		<tr>			<td>			<p>申请材料递交截止日期</p>			</td>			<td>			<p>6月</p>			</td>			<td>			<p>秋季学期开学日期</p>			</td>			<td>			<p>8月19日</p>			</td>		</tr>		<tr>			<td>			<p>录取通知日期</p>			</td>			<td>			<p>1月2日</p>			</td>			<td>			<p>申请开始日期</p>			</td>			<td>			<p>10月17日</p>			</td>		</tr>	</tbody></table><p>新加坡管理大学实行semester<a  href='http://www.qianmu.org/学期制度' target='_blank'>学期制度</a>，将一个学年划分为2个主要学期，成为Term 1和Term 2，Term 1相当于秋季学期，Term 2相当于春季学期。这两个学期之间还有两个暑期学期，成为Term 3A和Term 3B。详细划分如下：</p><p>Term 1：8月19日-12月1日，为期15周，必需注册；</p><p>Term 2：1月14日-4月20日，为期15周，必需注册；</p><p>Term 3A：4月21日-6月1日，为期5周，可不注册；</p><p>Term 3B：6月16日-7月20日，为期5周，可不注册；</p><p>两个主要学期之间是寒暑假，寒假为期5周，暑假为期17周</p><p><strong>重要日期说明：</strong></p><p>新加坡管理大学每年10月中旬开始申请，4月初截止申请。第一轮Offer在1月初开始发放（主要Offer发放期）；第二轮Offer在6月初开始发放。<a  href='http://www.qianmu.org/面试' target='_blank'>面试</a>结果通知日期通常为每年的4月-6月之间，根据申请者面试的时间不同而不同。正式录取通知（Email）发送的时间通常在5-7月之间</p><h2>费用与奖学金</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:74px">			<p>学费</p>			</td>			<td style="width:103px">			<p>S$35,050/年</p>			</td>			<td>			<p>担保金</p>			</td>			<td>			<p>约24万RMB</p>			</td>			<td>			<p>申请费</p>			</td>			<td>			<p>S$15</p>			</td>		</tr>		<tr>			<td style="width:74px">			<p>食宿</p>			</td>			<td style="width:103px">			<p>S$10,422/年</p>			</td>			<td>			<p>整体一年花费</p>			</td>			<td>			<p>S$48,742</p>			</td>			<td>			<p>有无<a  href='http://www.qianmu.org/奖学金' target='_blank'>奖学金</a></p>			</td>			<td>			<p>Yes</p>			</td>		</tr>	</tbody></table><h3>费用说明</h3><p>与其他两所四年制大学相同，新加坡管理大学同样为国际学生提供need-based<a  href='http://www.qianmu.org/奖学金' target='_blank'>奖学金</a>，并同时提供多种奖学金给国际学生。</p><p>在<a  href='http://www.qianmu.org/新加坡' target='_blank'>新加坡</a>政府的Tuition Grant Scheme计划下，所有有需要的国际学生均可以申请助学贷款，但申请这种贷款的学生，必需与新加坡政府签订协议，毕业后必需留新加坡工作3年。</p><p>资助形式包括Scholarship、Busary、Loan以及Work-Study Assistance。Scholarship主要是一些<a  href='http://www.qianmu.org/Merit-based' target='_blank'>Merit-based</a>奖学金，Work-Study Assistance国际学生一周工作不能超过16小时。</p><h3>奖学金列表</h3><p><strong>Need-based</strong><strong>：</strong></p><p>（1）首先为国际学生提供的<a  href='http://www.qianmu.org/奖学金' target='_blank'>奖学金</a>是Tuition Fee Loan（TFL），覆盖90%的学费，也就意味着，学生只需要支付剩余10%的学费以及全部的生活费;</p><p>（2）如即使如此，学生仍有资金困难，还可以继续申请Study Loan，覆盖剩下10%的学费以及一年3600新元的生活费。</p><p>（3）如果一年3600新元的生活费，还不能满足学生需求，还可以申请新加坡管理大学Busary，但该Busary并非一定会提供的。</p><p>（4）除上述三种，新加坡管理大学还提供SMU Education Loan，金额5000<a  href='http://www.qianmu.org/新加坡' target='_blank'>新加坡</a>元/年。</p><p><strong>Merit-based</strong><strong>：</strong></p><p>（1）李光前奖学金（Lee Kong Chian Scholars&#39; Programme），全额学费+生活费，50个名额;</p><p>（2）SMU Scholars&#39; Programme，5000新加坡元/年，发放4年&#39;</p><p>（3）李嘉诚奖学金（Li Ka Shing Endowed Scholarship），专为大陆及香港学生而设，金额4万新加坡元/年，发放4年；</p><p>（4）陈氏基金奖学金（Tanoto Scholarship）为印尼与中国学生而设，包括4年的学费以及部分生活费，可能会被捐助者要求去指定的公司工作半年以上。</p><h3>申请方法</h3><p>新加坡管理大学的<a  href='http://www.qianmu.org/奖学金' target='_blank'>奖学金</a>申请，需通过学校官网递交奖学金申请表。必需的<a  href='http://www.qianmu.org/申请材料' target='_blank'>申请材料</a>包括：（1）奖学金申请表</p><p>（2）家庭<a  href='http://www.qianmu.org/资金证明' target='_blank'>资金证明</a></p><h2>校园住宿</h2><p>新加坡管理大学只为大一新生提供校园住宿，分双人间和四人间两种。双人间一月533<a  href='http://www.qianmu.org/新加坡' target='_blank'>新加坡</a>元；四人间一月444新加坡元。算上电费、住房申请费、空调费等，一学年（8月-第2年6月）住宿费：双人间6664.5新加坡元；四人间：5685.5新加坡元。</p><p>校园住宿6月1日起开始申请，申请费20新加坡元。</p><h2>专业设置</h2><p>新加坡管理大学由6个学院组成，分别是：<a  href='http://www.qianmu.org/会计' target='_blank'>会计学</a>院（School of Accountancy）、社会科学学院（School of Social Sciences）、<a  href='http://www.qianmu.org/法学' target='_blank'>法学</a>院（School of <a  href='http://www.qianmu.org/法学' target='_blank'>Law</a>）、信息系统学院（School of <a  href='http://www.qianmu.org/信息系统管理' target='_blank'>Information Systems</a>）、<a  href='http://www.qianmu.org/经济学' target='_blank'>经济学</a>院（School of <a  href='http://www.qianmu.org/经济学' target='_blank'>Economics</a>）以及李光前商学院（Lee Kong Chian School of Business）。</p><p><strong>专业设置方法</strong></p><p>新加坡管理大学每个学院下均设有Second <a  href='http://www.qianmu.org/专业列表' target='_blank'>Major</a>，与国内的专业方向有点类似。比如<a  href='http://www.qianmu.org/会计' target='_blank'>会计</a>学院的毕业生授予的学位都是会计学士（Bachelar of Accountancy），只有1个专业（Accountancy）,但可以和其他学院合作，组成许多个专业方向。如某会计学院学生，读的是会计专业，选的第二专业是李光前商学院下的<a  href='http://www.qianmu.org/市场营销' target='_blank'>市场营销</a>，那么这个学生最终得到的学位是会计学士学位，其专业方向则是<a  href='http://www.qianmu.org/金融' target='_blank'>金融</a>方向。</p><p>新加坡管理大学的这种专业设置方式非常灵活，突破了一般大学的专业设置方式&mdash;&mdash;以第一专业和第二专业组合的方式，来决定一个学生最终所学的专业和专业方式。组合的方式几乎不受限定，也因此可以说，新加坡管理大学开设的专业几乎是世界上最多的。</p><p>每个学院下边的第一专业都只有固定那么几个，都有其必修的主干课程，第二专业可以在自己本院或其他学院任意选。</p><p><strong>具体专业设置</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:128px">			<p>专业名称</p>			</td>			<td style="width:219px">			<p>专业英文名</p>			</td>			<td style="width:75px">			<p>学费（S$）</p>			</td>			<td style="width:79px">			<p>课程时长</p>			</td>			<td style="width:82px">			<p>专业领域</p>			</td>		</tr>		<tr>			<td colspan="5" style="width:584px">			<h3>会计学院</h3>			</td>		</tr>		<tr>			<td style="width:128px">			<p><a  href='http://www.qianmu.org/会计' target='_blank'>会计</a></p>			</td>			<td style="width:219px">			<p>Accountancy</p>			</td>			<td style="width:75px">			<p>37430</p>			</td>			<td style="width:79px">			<p>4年</p>			</td>			<td style="width:82px">			<p>商科</p>			</td>		</tr>		<tr>			<td colspan="5" style="width:584px">			<h3>李光前商学院</h3>			</td>		</tr>		<tr>			<td style="width:128px">			<p>企业通讯</p>			</td>			<td style="width:219px">			<p>Corporate Communication</p>			</td>			<td style="width:75px">			<p>35050</p>			</td>			<td style="width:79px">			<p>4年</p>			</td>			<td style="width:82px">			<p>商科</p>			</td>		</tr>		<tr>			<td style="width:128px">			<p><a  href='http://www.qianmu.org/金融' target='_blank'>金融</a>*</p>			</td>			<td style="width:219px">			<p><a  href='http://www.qianmu.org/金融' target='_blank'>Finance</a></p>			</td>			<td style="width:75px">			<p>35050</p>			</td>			<td style="width:79px">			<p>4年</p>			</td>			<td style="width:82px">			<p>商科</p>			</td>		</tr>		<tr>			<td style="width:128px">			<p>企业管理</p>			</td>			<td style="width:219px">			<p><a  href='http://www.qianmu.org/创业管理' target='_blank'>Entrepreneurship</a></p>			</td>			<td style="width:75px">			<p>35050</p>			</td>			<td style="width:79px">			<p>4年</p>			</td>			<td style="width:82px">			<p>商科</p>			</td>		</tr>		<tr>			<td style="width:128px">			<p><a  href='http://www.qianmu.org/市场营销' target='_blank'>市场营销</a></p>			</td>			<td style="width:219px">			<p><a  href='http://www.qianmu.org/市场营销' target='_blank'>Marketing</a></p>			</td>			<td style="width:75px">			<p>35050</p>			</td>			<td style="width:79px">			<p>4年</p>			</td>			<td style="width:82px">			<p>商科</p>			</td>		</tr>		<tr>			<td style="width:128px">			<p><a  href='http://www.qianmu.org/运营管理' target='_blank'>运营管理</a></p>			</td>			<td style="width:219px">			<p><a  href='http://www.qianmu.org/运营管理' target='_blank'>Operations</a> <a  href='http://www.qianmu.org/管理学' target='_blank'>Management</a></p>			</td>			<td style="width:75px">			<p>35050</p>			</td>			<td style="width:79px">			<p>4年</p>			</td>			<td style="width:82px">			<p>商科</p>			</td>		</tr>		<tr>			<td style="width:128px">			<p>组织行为与<a  href='http://www.qianmu.org/人力资源管理' target='_blank'>人力资源</a></p>			</td>			<td style="width:219px">			<p>Organisational Behaviour &amp; Human Resources</p>			</td>			<td style="width:75px">			<p>35050</p>			</td>			<td style="width:79px">			<p>4年</p>			</td>			<td style="width:82px">			<p>商科</p>			</td>		</tr>		<tr>			<td style="width:128px">			<p>计量金融</p>			</td>			<td style="width:219px">			<p>Quantitative Finance</p>			</td>			<td style="width:75px">			<p>35050</p>			</td>			<td style="width:79px">			<p>4年</p>			</td>			<td style="width:82px">			<p>商科</p>			</td>		</tr>		<tr>			<td colspan="5" style="width:584px">			<h3>经济学院</h3>			</td>		</tr>		<tr>			<td style="width:128px">			<p><a  href='http://www.qianmu.org/精算' target='_blank'>精算</a></p>			</td>			<td style="width:219px">			<p><a  href='http://www.qianmu.org/精算' target='_blank'>Actuarial Science</a></p>			</td>			<td style="width:75px">			<p>35050</p>			</td>			<td style="width:79px">			<p>4年</p>			</td>			<td style="width:82px">			<p>商科</p>			</td>		</tr>		<tr>			<td style="width:128px">			<p>应用<a  href='http://www.qianmu.org/统计学' target='_blank'>统计学</a></p>			</td>			<td style="width:219px">			<p>Applied <a  href='http://www.qianmu.org/统计学' target='_blank'>Statistics</a></p>			</td>			<td style="width:75px">			<p>35050</p>			</td>			<td style="width:79px">			<p>4年</p>			</td>			<td style="width:82px">			<p>商科</p>			</td>		</tr>		<tr>			<td style="width:128px">			<p><a  href='http://www.qianmu.org/经济学' target='_blank'>经济学</a></p>			</td>			<td style="width:219px">			<p><a  href='http://www.qianmu.org/经济学' target='_blank'>Economics</a></p>			</td>			<td style="width:75px">			<p>35050</p>			</td>			<td style="width:79px">			<p>4年</p>			</td>			<td style="width:82px">			<p>商科</p>			</td>		</tr>		<tr>			<td colspan="5" style="width:584px">			<h3>信息系统学院</h3>			</td>		</tr>		<tr>			<td style="width:128px">			<p>商业技术*</p>			</td>			<td style="width:219px">			<p>Advanced Business Technology</p>			</td>			<td style="width:75px">			<p>35050</p>			</td>			<td style="width:79px">			<p>4年</p>			</td>			<td style="width:82px">			<p>商科</p>			</td>		</tr>		<tr>			<td style="width:128px">			<p><a  href='http://www.qianmu.org/信息系统管理' target='_blank'>信息系统管理</a></p>			</td>			<td style="width:219px">			<p><a  href='http://www.qianmu.org/信息系统管理' target='_blank'>Information Systems</a> <a  href='http://www.qianmu.org/管理学' target='_blank'>Management</a></p>			</td>			<td style="width:75px">			<p>35050</p>			</td>			<td style="width:79px">			<p>4年</p>			</td>			<td style="width:82px">			<p>商科</p>			</td>		</tr>		<tr>			<td colspan="5" style="width:584px">			<h3>社会科学学院</h3>			</td>		</tr>		<tr>			<td style="width:128px">			<p>艺术与文化管理</p>			</td>			<td style="width:219px">			<p>Arts and Culture <a  href='http://www.qianmu.org/管理学' target='_blank'>Management</a></p>			</td>			<td style="width:75px">			<p>35050</p>			</td>			<td style="width:79px">			<p>4年</p>			</td>			<td style="width:82px">			<p>社科</p>			</td>		</tr>		<tr>			<td style="width:128px">			<p>国际与亚洲研究</p>			</td>			<td style="width:219px">			<p>International and Asian Studies</p>			</td>			<td style="width:75px">			<p>35050</p>			</td>			<td style="width:79px">			<p>4年</p>			</td>			<td style="width:82px">			<p>社科</p>			</td>		</tr>		<tr>			<td style="width:128px">			<p><a  href='http://www.qianmu.org/政治学' target='_blank'>政治学</a></p>			</td>			<td style="width:219px">			<p><a  href='http://www.qianmu.org/政治学' target='_blank'>Political Science</a></p>			</td>			<td style="width:75px">			<p>35050</p>			</td>			<td style="width:79px">			<p>4年</p>			</td>			<td style="width:82px">			<p>社科</p>			</td>		</tr>		<tr>			<td style="width:128px">			<p><a  href='http://www.qianmu.org/心理学' target='_blank'>心理学</a></p>			</td>			<td style="width:219px">			<p><a  href='http://www.qianmu.org/心理学' target='_blank'>Psychology</a></p>			</td>			<td style="width:75px">			<p>35050</p>			</td>			<td style="width:79px">			<p>4年</p>			</td>			<td style="width:82px">			<p>社科</p>			</td>		</tr>		<tr>			<td style="width:128px">			<p><a  href='http://www.qianmu.org/公共事务' target='_blank'>公共政策</a>与管理</p>			</td>			<td style="width:219px">			<p>Public Policy and Public Management</p>			</td>			<td style="width:75px">&nbsp;</td>			<td style="width:79px">&nbsp;</td>			<td style="width:82px">			<p>社科</p>			</td>		</tr>		<tr>			<td style="width:128px">			<p><a  href='http://www.qianmu.org/社会学' target='_blank'>社会学</a></p>			</td>			<td style="width:219px">			<p><a  href='http://www.qianmu.org/社会学' target='_blank'>Sociology</a></p>			</td>			<td style="width:75px">			<p>35050</p>			</td>			<td style="width:79px">			<p>4年</p>			</td>			<td style="width:82px">			<p>社科</p>			</td>		</tr>		<tr>			<td colspan="5" style="width:584px">			<h3>法学院</h3>			</td>		</tr>		<tr>			<td style="width:128px">			<p><a  href='http://www.qianmu.org/法学' target='_blank'>法学</a></p>			</td>			<td style="width:219px">			<p><a  href='http://www.qianmu.org/法学' target='_blank'>Law</a></p>			</td>			<td style="width:75px">			<p>37280</p>			</td>			<td style="width:79px">			<p>4年</p>			</td>			<td style="width:82px">			<p>社科</p>			</td>		</tr>	</tbody></table><p>注：</p><p>（1）上表只列了第一专业，未列第一专业与第二专业的组合</p><p>（2）<a  href='http://www.qianmu.org/会计' target='_blank'>金融学</a>下，包含4个专业方向：理财（Wealth <a  href='http://www.qianmu.org/管理学' target='_blank'>Management</a>）、<a  href='http://www.qianmu.org/国际贸易' target='_blank'>国际贸易</a>（International Trading）、投行（Investment Banking）、<a  href='http://www.qianmu.org/金融' target='_blank'>金融</a>风险评估（Financial Risk Analysis）；</p><p>（3）商业技术下，包含5个专业方向：商业智慧与分析（Business Intelligence &amp; Analytics）、银行业务流程与技术（Banking Processes &amp; Technology）、企业系统与方案（Enterprise Systems &amp; Solutions）、服务系统与方案（Service Systems &amp; Solutions）、创业技术（Technopreneurship）。</p><p>&nbsp;</p><p>参考资料：</p><p>本文数据主要采自新加坡管理大学官网</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2015-09-09</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1172;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1172' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1172;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

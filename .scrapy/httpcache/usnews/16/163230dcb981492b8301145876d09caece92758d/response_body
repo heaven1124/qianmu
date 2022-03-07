@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>伦敦-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="伦敦" />
+<meta name="description"  id="description"  content="伦敦:伦敦（英文：London，读音： /ˈlʌndən/）是大不列颠及北爱尔兰联合王国和英格兰的首都、第一大城及第一大港，也是欧洲最大的都会区之一。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">伦敦 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p>坐标</p>
+			</td>
+			<td>
+			<p>51&deg;30&prime;26&Prime;N 0&deg;7&prime;39&Prime;W</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>地区</p>
+			</td>
+			<td>
+			<p><a href="http://www.qianmu.org/英格兰" target="_blank">英格兰</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>昵称</p>
+			</td>
+			<td>
+			<p>&ldquo;重烟&rdquo;、&ldquo;神温&rdquo;（The (Big) Smoke, The Great Wen）</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>人口</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>市区人口</p>
+			</td>
+			<td>
+			<p>8,308,369（2012）</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>人口密度</p>
+			</td>
+			<td>
+			<p>5,285/km<sup>2</sup></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>面积</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>面积</p>
+			</td>
+			<td>
+			<p>1,572.00&nbsp;km<sup>2</sup></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>海拔</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>海拔</p>
+			</td>
+			<td>
+			<p>24m</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>著名学校</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p><a href="http://www.qianmu.org/帝国理工学院" target="_blank">帝国理工学院</a>（Imperial College London）</p>
+
+			<p>伦敦大学学院（University College London, UCL）</p>
+
+			<p>伦敦大学国王学院（King&#39;s College London, KCL）</p>
+
+			<p>伦敦政治<a href="http://www.qianmu.org/经济学" target="_blank">经济学</a>院（London School of <a href='http://www.qianmu.org/经济学' target='_blank'  >Economics</a>）</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+					<div id="content"><p>伦敦（英文：London，读音：&thinsp;/ˈlʌndən/）是大不列颠及<a  href='http://www.qianmu.org/北爱尔兰' target='_blank'>北爱尔兰</a>联合王国和<a  href='http://www.qianmu.org/英格兰' target='_blank'>英格兰</a>的首都、第一大城及第一大港，也是欧洲最大的都会区之一。两千多年前，罗马人建立了这座都市。[1]伦敦近几百年来一直在世界上具有巨大的影响力。城市的核心地区伦敦市，仍保持着自中世纪起就划分的界限。然而，最晚自19世纪起，&ldquo;伦敦&rdquo;这个名称同时也代表围绕着伦敦市开发的周围地区。这些卫星城市构成了伦敦的都会区和大伦敦区。</p>
+
+<p>伦敦是四大世界级城市之一，与美国纽约、日本东京、法国巴黎并列。但是伦敦未获英国城市地位，正式来说算不上是城市（其心脏地带伦敦市和威斯敏斯特市才是城市），但因为自18世纪起她一直是世界上最重要的政治、经济、文化、艺术和娱乐中心之一，一般人都误以为其是一整座城市。</p>
+
+<p>从1801年到20世纪初，作为世界性帝国&mdash;&mdash;大英帝国的首都，伦敦因在其于政治、经济、人文文化、科技发明等领域上的卓越成就，而成为全世界最大的都市。</p>
+
+<p>伦敦是一个非常多元化的大都市，其居民来自世界各地，具有多元的种族、宗教和文化；城市中使用的语言超过300种。同时，伦敦还是世界闻名的旅游胜地，拥有数量众多的名胜景点与博物馆等。</p>
+
+<p>2005年，大伦敦的人口总数为750万，若包括都会区的人口则超过1200万人，约与法国巴黎都会区规模接近甚至几乎相当。</p>
+
+<h2>历史</h2>
+
+<p>伦敦最早是一个凯尔特人的城镇，由罗马入侵者于公元50年左右建立，作为泰晤士河畔的一个港口，并命名为伦蒂尼恩。公元7世纪罗马帝国灭亡后，伦蒂尼恩遭弃城，撒克逊人于今奥德威治以西1英里处建立了名为伦敦维克的城镇。直到公元9至10世纪罗马伦敦老城才再度复苏。</p>
+
+<p>伦敦逐渐发展、扩大，吸收了附近的村庄、聚居地方，向四面八方扩散。到17世纪时伦敦已经是当时大英帝国乃至欧洲最大的都市。1666年的伦敦大火毁坏了伦敦城内大部分的建筑（奇迹的是，死于此场大火的只有20来人），但大火后伦敦又立即开始了10年间的重建，包括世界第二大教堂<a  href='http://www.qianmu.org/圣保罗（明尼苏达州）' target='_blank'>圣保罗</a>大教堂在内的标志性建筑都是在此期间动工的。</p>
+
+<p><a  href='http://www.qianmu.org/维多利亚（英属哥伦比亚）' target='_blank'>维多利亚</a>时代，伦敦经历了大规模的发展。世界上第一条地下铁的开通，公共汽车的营运，以及联络四方的铁路线，使伦敦的市容与交通面貌一新。伦敦市区在19世纪后半期居住人口突降（1851年：128000人；1871年：75000人；1901年：27000人），大量新建的建筑使伦敦从一座乔治风貌的城市转而成为维多利亚特色的城市。</p>
+
+<p>伦敦最近几十年来的大变化是始于第二次世界大战以后。大战期间，伦敦遭到纳粹德国空军的持续性猛烈轰炸，期间逾5万伦敦市民丧生，大部分建筑遭到破坏。1950年代至1970年代，由于伦敦的重建未经统一的规划，造成今天建筑多样化的格局，并成为当今伦敦的独特之处。</p>
+
+<p>20世纪初，伦敦人大部分都使用煤作为家居燃料，产生大量烟雾。这些烟雾再加上伦敦气候，造成了伦敦&ldquo;远近驰名&rdquo;的烟霞，<a  href='http://www.qianmu.org/英语' target='_blank'>英语</a>称为London Fog（伦敦雾）。因此，英语有时会把伦敦称作&ldquo;大烟&rdquo;（The Smoke），伦敦并由此得名&ldquo;雾都&rdquo;。1952年12月5日至9日期间，伦敦烟雾事件令12000人死亡，政府因而于1956年推行了《空气清净法案》，于伦敦部分地区禁止使用产生浓烟的燃料。时至今日，伦敦的空气品质已经得到明显改善。</p>
+
+<h2>行政区划</h2>
+
+<p>大伦敦整体由大伦敦政府负责规划和管理，另外与33个区政府分享地方行政权力。</p>
+
+<p>大伦敦政府由一个直选产生的伦敦市长领导，并由一个25人的伦敦市议会（London Assembly）监督。33个区政府由伦敦市法团及伦敦自治市议会（London Borough Councils）管理。</p>
+
+<p>伦敦市法团属下有伦敦市。伦敦自治市议会属下有32个伦敦自治市；其中威斯敏斯特市是法定城市，泰晤士河畔京士顿区、肯辛顿-切尔西区和格林尼治区是皇家自治市（Royal Borough）；但这些都只是名称上的分别，在行政上仍属于&ldquo;伦敦自治市&rdquo;等级，并没有特权。</p>
+
+<p>仪式上，大伦敦（除伦敦市以外）是郡级单位。伦敦市是独立郡级单位，和大伦敦平级，但实际政治地位来说伦敦市和众自治市都属于标准一级行政区&mdash;&mdash;单一管理区之一。虽然拥有同样的政治地位，但在实际行政上，伦敦市法团比其他伦敦自治市议会拥有更多的行政权力，例如拥有土地权及独立的警察团队。</p>
+
+<p>根据内伦敦教育局（Inner London Education Authority）定义，33个行政区中，靠近中心的12个被合称为内伦敦，外围的20个合称为外伦敦（Outer London）。</p>
+
+<p>地方行政区</p>
+
+<h2>气候</h2>
+
+<p>受北大西洋暖流和西风带影响，为温带海洋性气候。伦敦市区因常常充满着潮湿的空气，燃煤<a  href='http://www.qianmu.org/历史' target='_blank'>历史</a>长致空气多尘提供凝结核，故而雾甚，别称&ldquo;雾都&rdquo;。</p>
+
+<p>以都会圈规模而言，内伦敦与外伦敦都市化域内的人口，在欧洲地区不及<a  href='http://www.qianmu.org/莫斯科（爱达荷州）' target='_blank'>莫斯科</a>，是欧洲第二或第三大都会（次于俄罗斯莫斯科、与巴黎都会圈城市建成规模相当）。据2001年人口普查，伦敦市区及其自治市（镇）（约610平方英里）拥有7,172,036人口。其中大约71%为白人，10%是印度、孟加拉或巴基斯坦后裔，5%为非洲黑人后裔，5%为加勒比海黑人后裔，3%混血人种，还有大约1%为华人。58.2%的人口信奉<a  href='http://www.qianmu.org/基督教' target='_blank'>基督教</a>，15.8%的人口则无宗教信仰。大约有21.8%的伦敦居民出生在欧盟以外地区。</p>
+
+<p>在英国里，伦敦是民族多样性最高的地方（<a  href='http://www.qianmu.org/莱斯特（英格兰）' target='_blank'>莱斯特</a>第2），其中布伦特区、纽汉区的指数分别达0.85（最高为&ldquo;1&rdquo;）、0.83。</p>
+
+<h2>经济</h2>
+
+<p>伦敦证券交易所</p>
+
+<p>由于二战后与美国同属世界英语系两大主要国家，具备国际资本流通的优势，伦敦和纽约一直是世界上最重要的两大<a  href='http://www.qianmu.org/金融' target='_blank'>金融</a>中心城市（但以金融市场市值而言伦敦规模不如东京），同时伦敦也一直稳居欧洲最大的金融中心城市地位（欧洲最大的文化中心城市为巴黎）。2004年，其地区总产值为3650亿美元，占英国国民生产总值的17%。</p>
+
+<p>伦敦市或称为&ldquo;Square Mile&rdquo;是伦敦的最大的金融中心，分布有许多的银行、保险公司和金融机构。大约有一半以上的英国百强公司和100多个欧洲500强企业均在伦敦设有总部。全球大约31%的货币业务在伦敦交易。伦敦证券交易所是世界上最重要的证券交易中心之一。在最近二十年，有许多银行、保险公司和金融机构开始在金丝雀码头开总部和办公处，例如汇丰银行和花旗集团。</p>
+
+<p>伦敦港同时也是英国最大的港口，每年吞吐量约5千万吨。</p>
+
+<h2>交通</h2>
+
+<p>伦敦交通局的标志，是一圆圈再叠上一个实心长方形。伦敦各种公共交通工具的标志，由不同颜色的圆圈与长方形搭配而成</p>
+
+<p>交通是伦敦市长负责的四项政策范围之一，但市长在交通的财政管理权则受到限制，其行政机构为伦敦交通局。伦敦的公共交通是世界上庞大的交通系统，但却有过度拥挤和信赖度不佳的问题，对此伦敦政府准备了多项大型的交通投资计划，包含为了奥运会所投入的70亿英镑改善计划。</p>
+
+<p>伦敦公共交通网络的核心是伦敦地铁，自1863年建立以来是世界上最古老的地下铁系统。伦敦地下铁也包含了全世界第一条地下电气铁路线&ldquo;都市与南伦敦铁路&rdquo;（City &amp; South London Railway），这条路线从1890年开始服务。每年约有十亿名旅客搭乘伦敦的地铁系统。伦敦地铁的主要服务范围为市中心以及泰晤士河以北的大部分郊区，而南边则由延伸的近郊铁路网服务。</p>
+
+<p>欧洲之星列车可从伦敦的圣潘可拉斯车站连往法国的里尔和巴黎，以及比利时的布鲁赛尔。</p>
+
+<p>伦敦堪称拥有世上最繁忙、历史最悠久的铁路网络之一，估计每天伦敦地下铁路的乘客量高达300万人，在欧洲地区位居第三，次于莫斯科地铁及巴黎地铁。近年来伦敦地铁投资短缺，古老的基建却需要大量的资金保养，所以地铁老化尤见严重。列车拥挤、班次延误更成为部分线路司空见惯的事。不过，也有线路获得大量资金投资，兴建延伸支线工程。通勤铁路和城际铁路通常不会穿越城市，而是驶入散布在旧市中心的14个车站。伦敦巴士网负责大部分的当地交通，甚至比地下铁载运了更多乘客。巴士、黑色的出租车和地下铁成为伦敦交通运输的重要代表。</p>
+
+<p><strong>空运</strong></p>
+
+<p>伦敦是重要的国际航空交通站之一。有超过八座机场在名称中使用了&ldquo;伦敦机场&rdquo;，但大多数的交通量都是通过五座主要机场的其中之一。伦敦希思罗机场是全世界最繁忙的国际机场之一[24]，处理各种国内、欧洲以及跨州的乘客及航班。而一些廉价且短程的航班也会在盖威克机场起降。斯坦斯特德机场和卢顿机场则负责大多数的廉价短程班机。伦敦城市机场是最小且最靠近市中心的机场，专门服务商务旅客，处理完整服务的短程航班以及私人喷射机。</p>
+
+<p><strong>公路</strong></p>
+
+<p>伦敦实施交通拥挤费，以纾解市中心日益拥挤的车流。图中路面上标示&ldquo;C&rdquo;的红色圆形是告知驾驶人已经进入拥挤费的收费区域</p>
+
+<p>尽管伦敦市中心的公共运输系统发达，但在伦敦较外围的地方仍以汽车为主。伦敦内环道路（London Inner Ring Road，围绕着市中心）、北方环状道路（A406公路）、南方环状道路（A205公路）以及M25高速公路（伦敦外环高速公路）环绕着伦敦市区，并且和数条繁忙的道路交会，但几乎没有高速公路穿越伦敦的市中心。在1960年代，一项称为&ldquo;伦敦环状道路&rdquo;（London Ringways）的公路计划开始筹备，计划兴建穿越市区的公路，但由于居民的反对以及耗资过于庞大，这项计划在1970年代早期就中止了。由于市内街道普遍狭小，且伦敦地区的汽车数量自1960年以来增加了将近两倍，因此伦敦的交通堵塞是全欧洲最恶名昭彰的。在2003年，为了降低市中心的交通量，伦敦开始收取交通拥挤费。车辆必须付出每天8英镑（约合人民幣76元）的费用才能进入伦敦市中心的指定区域，而居住在指定区域的的居民则可以购买每月换新的通行证。</p>
+
+<p><strong>水路</strong></p>
+
+<p>伦敦港是全英国最繁忙的港口，水路交通及码头等相关设施主要集中在泰晤士河沿岸。但由于泰晤士河过于狭窄，因此较大型的船只无法进入伦敦市区，而改在泰晤士河下游停靠，尽管如此，伦敦市区的船只往来仍十分频繁。</p>
+
+<h2><strong>文化与体育</strong></h2>
+
+<p>伦敦分别于1908年、1948年和2012年三次成功举办奥林匹克运动会。1934年，伦敦还曾举办过大英帝国运动会，而在1966年，英国亦举行世界杯；30年后，也举行欧洲国家杯。</p>
+
+<p>在伦敦，最受欢迎的运动项目要数足球了，英国国内几支顶尖球队的俱乐部都坐落于此。它们是：</p>
+
+<p>富咸足球俱乐部</p>
+
+<p>阿森纳足球俱乐部</p>
+
+<p>切尔西足球俱乐部</p>
+
+<p>热刺足球俱乐部</p>
+
+<p>韦斯咸足球俱乐部</p>
+
+<p><strong>教育</strong></p>
+
+<p>伦敦是英国学生数量最多的城市，拥有数量众多的大学、学院、学校及学术研究机构。伦敦大学是英国及欧洲规模最大的大学，拥有125,000名学生，并由50多个学院组成。其中较著名的有：</p>
+
+<p><a  href='http://www.qianmu.org/帝国理工学院' target='_blank'>帝国理工学院</a></p>
+
+<p>伦敦大学学院</p>
+
+<p>伦敦大学皇后玛丽学院</p>
+
+<p>伦敦大学皇家哈洛威学院(不在伦敦市内，位于萨里郡)</p>
+
+<p>伦敦政治<a  href='http://www.qianmu.org/经济学' target='_blank'>经济学</a>院</p>
+
+<p>伦敦国王学院</p>
+
+<p>伦敦亚非学院</p>
+
+<p>伦敦大学金匠学院</p>
+
+<p>伦敦<a  href='http://www.qianmu.org/教育学' target='_blank'>教育学</a>院</p>
+
+<p>其他著名的大学还有：伦敦艺术大学、皇家<a  href='http://www.qianmu.org/医学' target='_blank'>医学</a>院、建筑联盟学院、伦敦城市大学等。</p>
+
+<p><strong>音乐</strong></p>
+
+<p>伦敦拥有五个专业的交响乐团：伦敦交响乐团、伦敦爱乐管弦乐团、皇家爱乐管弦乐团、爱乐管弦乐团以及BBC交响乐团。伦敦还拥有举世闻名的皇家大剧院、英国国家剧院和皇家节日厅。</p>
+
+<p><strong>戏剧</strong></p>
+
+<p>伦敦拥有数十家剧院，主要集中在西区。这其中包括国家剧场、伦敦帕拉斯剧院、阿尔梅迪亚剧院和专门上演莎士比亚<a  href='http://www.qianmu.org/戏剧' target='_blank'>戏剧</a>的环球剧场等。</p>
+
+<p><strong>艺术</strong></p>
+
+<p>伦敦也有许多画廊，如国家<a  href='http://www.qianmu.org/美术' target='_blank'>美术</a>馆、国家肖像馆、泰特艺术馆和多维茨画廊。</p>
+
+<p><strong>博物馆</strong></p>
+
+<p>伦敦最著名的博物馆就要属大英博物馆了，此外还有维多利亚与阿尔伯特博物馆、英国自然历史博物馆、科学博物馆等。</p>
+
+<p><strong>传播媒体</strong></p>
+
+<p>伦敦是全球重要的传媒中心，包括英国广播公司在内的多家电视及广播媒体都在伦敦设立总部，另还有ITV、第四频道（Channel 4）和第五频道（Five）等。</p>
+
+<p><strong>时尚</strong></p>
+
+<p>伦敦是全球最著名的四大时尚城市之一（另有：巴黎、纽约、米兰），世界闻名的哈洛德百货公司就坐落在城中。*(1)</p>
+
+<p>参考资料：</p>
+
+<p>(1)<a  href='http://www.qianmu.org/redirect?code=zrQ-nH70Lr9DfnG5qqqqqqEBO8K93ej2WYRF4Y3sbMCJejaGA_-FCWqDwDq1Sb7ZDgvRFX4fnX4PKesuskgd2VW5Hf4' target='_blank'>London</a> Wikipedia</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2014-09-04</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1055;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1055' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1055;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

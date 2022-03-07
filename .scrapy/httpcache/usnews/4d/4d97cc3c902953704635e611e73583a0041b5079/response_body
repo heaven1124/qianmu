@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>多伦多大学-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="多伦多大学" />
+<meta name="description"  id="description"  content="多伦多大学:多伦多大学（University of Toronto，简称U of T）是一所大型公立综合性全国大学，成立于1827年，位于加拿大东部城市多伦多，提供本科、硕士、博士、职业文凭、文凭课程五种学位类型。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">多伦多大学 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>排名</p>			</td>			<td>			<p>2</p>			</td>		</tr>		<tr>			<td>			<p>国家</p>			</td>			<td>			<p>加拿大</p>			</td>		</tr>		<tr>			<td>			<p>州省</p>			</td>			<td>			<p>安大略</p>			</td>		</tr>		<tr>			<td>			<p>城市</p>			</td>			<td>			<p><a href="http://www.qianmu.org/多伦多" target="_blank">多伦多</a></p>			</td>		</tr>		<tr>			<td>			<p>性质</p>			</td>			<td>			<p>公立，男女合校</p>			</td>		</tr>		<tr>			<td>			<p>成立年份</p>			</td>			<td>			<p>1827年</p>			</td>		</tr>		<tr>			<td>			<p>宗教信仰</p>			</td>			<td>			<p>无</p>			</td>		</tr>		<tr>			<td>			<p>学生人数</p>			</td>			<td>			<p>46,050</p>			</td>		</tr>		<tr>			<td>			<p>学校分类</p>			</td>			<td>			<p>医博类大学</p>			</td>		</tr>		<tr>			<td>			<p>网址</p>			</td>			<td>			<p>www.utoronto.ca</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>多伦多大学（University of Toronto，简称U of T）是一所大型公立综合性全国大学，成立于1827年，位于加拿大东部城市<a href="http://www.qianmu.org/多伦多" target="_blank">多伦多</a>，提供本科、硕士、博士、职业文凭、文凭课程五种学位类型。</p><p>多伦多大学早期名为&ldquo;国王学院&rdquo;，直至于1849年脱离圣公会而成为非宗教大学，并改为现名。受英国大学制度影响，多伦多大学是美洲少数实行独立书院制的学府，各书院享有高度自治权。</p><p><strong>校训：</strong>Velut arbor &aelig;vo（英文：As a tree through the ages），中译：岁月流逝，吾校常青</p><h2>申请点评</h2><p>（1）Macleans排名第2，在留加学生中素有&ldquo;加国清华&rdquo;之称</p><p>（2）<a href="http://www.qianmu.org/QS世界大学排名" target="_blank">QS世界大学排名</a>世界第18位，加拿大国内第二；THE排名世界第21位，加拿大国内第一；</p><p>（3）THE五个专业领域均进入世界前30名，分别是：<a href="http://www.qianmu.org/医学" target="_blank">医学</a>、社会科学、人文科学、自然科学以及工程学，其中自然科学与工程学，仅为加拿大第一</p><p>&nbsp;</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>麦考林排名</p>			</td>			<td style="width:62px">			<p>2</p>			</td>			<td style="width:91px">			<p>学费（/年）</p>			</td>			<td>			<p>$26,391</p>			</td>			<td>			<p>申请截止日期</p>			</td>			<td>			<p>1月31日</p>			</td>		</tr>		<tr>			<td>			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td style="width:62px">			<p>90</p>			</td>			<td style="width:91px">			<p>食宿（/年）</p>			</td>			<td>			<p>$6,000</p>			</td>			<td>			<p>开学时间</p>			</td>			<td>			<p>每年8-9月</p>			</td>		</tr>		<tr>			<td>			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td style="width:62px">			<p>6.5</p>			</td>			<td style="width:91px">			<p>申请费</p>			</td>			<td>			<p>$100</p>			</td>			<td>			<p>国际学生比例</p>			</td>			<td>			<p>-</p>			</td>		</tr>		<tr>			<td>			<p><a href="http://www.qianmu.org/SAT" target="_blank">SAT</a>均分</p>			</td>			<td style="width:62px">			<p>-</p>			</td>			<td style="width:91px">			<p>申请人数</p>			</td>			<td>			<p>29,086</p>			</td>			<td>			<p>可申请学期</p>			</td>			<td>			<p>冬季、夏季</p>			</td>		</tr>		<tr>			<td>			<p><a href="http://www.qianmu.org/GPA" target="_blank">GPA</a>要求</p>			</td>			<td style="width:62px">			<p>-</p>			</td>			<td style="width:91px">			<p>录取率</p>			</td>			<td>			<p>46.5%</p>			</td>			<td>			<p>是否提供<a href="http://www.qianmu.org/双录取" target="_blank">双录取</a></p>			</td>			<td>			<p>Yes</p>			</td>		</tr>	</tbody></table><p>注：</p><p>（1）TOEFL单项阅读与听力要求不低于22分，口语与写作要求不低于21分；IELTS单项要求不低于6.0；<a href="http://www.qianmu.org/MELAB" target="_blank">MELAB</a>要求85分以上，无单项要求；<a href="http://www.qianmu.org/PTE" target="_blank">PTE</a>要求65分以上，单项不低于60分</p><p>（2）<a href="http://www.qianmu.org/IB" target="_blank">IB</a>课程要求至少24分以上，专业不同，分数要求不同</p><h2>教学质量</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>本科生人数：</p>			</td>			<td>			<p>33,318</p>			</td>			<td>			<p>国际学生比例：</p>			</td>			<td style="width:68px">			<p>-</p>			</td>			<td style="width:133px">			<p><a href="http://www.qianmu.org/学期制度" target="_blank">学期制度</a></p>			</td>			<td style="width:70px">			<p>Semester</p>			</td>		</tr>		<tr>			<td>			<p>研究生人数：</p>			</td>			<td>			<p>12,732</p>			</td>			<td>			<p>新生保持率</p>			</td>			<td style="width:68px">			<p>91%</p>			</td>			<td style="width:133px">			<p>教授水平满意度</p>			</td>			<td style="width:70px">			<p>-</p>			</td>		</tr>		<tr>			<td>			<p>师生比：</p>			</td>			<td>			<p>1：18</p>			</td>			<td>			<p>六年毕业率</p>			</td>			<td style="width:68px">			<p>82%</p>			</td>			<td style="width:133px">			<p>教授博士学位比率</p>			</td>			<td style="width:70px">			<p>91%</p>			</td>		</tr>	</tbody></table><h2>申请说明</h2><p>多伦多大学通过其学校官网在线或纸质申请，必需的<a href="http://www.qianmu.org/申请材料" target="_blank">申请材料</a>包括：</p><p>（1）多伦多大学国际学生申请表</p><p>（2）托福/雅思成绩</p><p>（3）高中<a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a>，无需公证</p><p>（4）高考/SAT等成绩，如无高考成绩，需对此作出说明，需高中会考成绩</p><p>（5）高中毕业证/高中<a href="http://www.qianmu.org/在读证明" target="_blank">在读证明</a></p><p>（6）<a href="http://www.qianmu.org/推荐信" target="_blank">推荐信</a>+<a href="http://www.qianmu.org/个人陈述" target="_blank">个人陈述</a></p><p>（7）<a href="http://www.qianmu.org/资金证明" target="_blank">资金证明</a></p><p>注：多伦多大学无需<a href="http://www.qianmu.org/面试" target="_blank">面试</a></p><p><strong>费用与奖学金</strong></p><p>多伦多大学2013-2014学年学费平均约37,781加元，，一年食宿从5,500-15,000加元不等，外加医疗保险费、书本费、生活费等，国内学生约需担保金31万人民币。</p><p>注：多伦多大学学费依专业不同而不同，如农业与<a href="http://www.qianmu.org/环境科学" target="_blank">环境科学</a>一年学费仅16350加元，人文科学仅15500加元，自然科学与工程学则要求30654加元</p><p><strong>奖学金列表：</strong></p><p>（1）U of T Scholarships，金额：新生为2200加元，老生4000加元，无需额外申请，自动随Offer发放；</p><p>（2）Undergraduate Admission Awards，金额4000加元，无需额外申请</p><h2>转学申请</h2><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:93px">			<p>TOEFL要求</p>			</td>			<td style="width:75px">			<p>90</p>			</td>			<td style="width:104px">			<p>GPA要求</p>			</td>			<td style="width:114px">			<p>3.0以上</p>			</td>			<td style="width:114px">			<p>申请截止日期</p>			</td>			<td style="width:75px">			<p>3月1日</p>			</td>		</tr>		<tr>			<td style="width:93px">			<p>IELTS要求</p>			</td>			<td style="width:75px">			<p>6.5</p>			</td>			<td style="width:104px">			<p>最低转学学分</p>			</td>			<td style="width:114px">			<p>-</p>			</td>			<td style="width:114px">			<p>最高转学学分</p>			</td>			<td style="width:75px">			<p>10</p>			</td>		</tr>		<tr>			<td style="width:93px">			<p>申请人数</p>			</td>			<td style="width:75px">			<p>6,512</p>			</td>			<td style="width:104px">			<p>录取人数</p>			</td>			<td style="width:114px">			<p>2,536</p>			</td>			<td style="width:114px">			<p>录取率</p>			</td>			<td style="width:75px">			<p>38.9%</p>			</td>		</tr>	</tbody></table><p>注：多伦多大学转学要求本科GPA不得低于3.0，单门课程要求2.0以上方可转学分。</p><p><strong>申请说明</strong></p><p>多伦多大学至多可以转入10个学分，秋季和夏季学期皆可申请转学，只可入读大一或大二其中的任何一个学期。</p><p>&nbsp;</p><p>参考资料：</p><p>本文数据主要采自多伦多大学官网和College Board</p><h2>专业设置</h2><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:271px">会计</td>			<td style="width:556px">Accounting</td>		</tr>		<tr>			<td>精算</td>			<td>Actuarial Science</td>		</tr>		<tr>			<td>非洲研究</td>			<td>African Studies</td>		</tr>		<tr>			<td>美洲研究</td>			<td>American Studies</td>		</tr>		<tr>			<td>动物心理学</td>			<td>Animal Physiology</td>		</tr>		<tr>			<td>人类学</td>			<td>Anthropology</td>		</tr>		<tr>			<td>应用数学</td>			<td>Applied Mathematics</td>		</tr>		<tr>			<td>应用统计学</td>			<td>Applied Statistics</td>		</tr>		<tr>			<td>考古学</td>			<td>Archaeology</td>		</tr>		<tr>			<td>建筑研究</td>			<td>Architectural Studies</td>		</tr>		<tr>			<td>艺术与艺术历史</td>			<td>Art and Art History (Joint program with sheridan College)</td>		</tr>		<tr>			<td>艺术历史</td>			<td>Art History</td>		</tr>		<tr>			<td>艺术历史与视觉文化</td>			<td>Art History and Visual Culture</td>		</tr>		<tr>			<td>艺术管理</td>			<td>Arts Management</td>		</tr>		<tr>			<td>天文学研究</td>			<td>Astronomical Sciences</td>		</tr>		<tr>			<td>天文学</td>			<td>Astronomy</td>		</tr>		<tr>			<td>天文学与天体物理学</td>			<td>Astronomy and Astrophysics</td>		</tr>		<tr>			<td>天文学与物理</td>			<td>Astronomy and Physics</td>		</tr>		<tr>			<td>行为，遗传学和神经生物学</td>			<td>Behaviour, Genetics and Neurobiology</td>		</tr>		<tr>			<td>生物化学</td>			<td>Biochemistry</td>		</tr>		<tr>			<td>生物多样性与保育生物学</td>			<td>Biodiversity and conservation Biology</td>		</tr>		<tr>			<td>生物伦理学</td>			<td>Bioethics</td>		</tr>		<tr>			<td>生物信息学</td>			<td>Bioinformatics</td>		</tr>		<tr>			<td>生物信息学与计算生物学</td>			<td>Bioinformatics and Computational Biology</td>		</tr>		<tr>			<td>生物化学</td>			<td>Biological Chemistry</td>		</tr>		<tr>			<td>生物物理</td>			<td>Biological Physics</td>		</tr>		<tr>			<td>生物学</td>			<td>Biology</td>		</tr>		<tr>			<td>生物卫生科学</td>			<td>Biology for Health Sciences</td>		</tr>		<tr>			<td>生物医学物理</td>			<td>Biomedical Physics</td>		</tr>		<tr>			<td>生物医学毒理学</td>			<td>Biomedical Toxicology</td>		</tr>		<tr>			<td>生物技术</td>			<td>Biotechnology</td>		</tr>		<tr>			<td>书籍与媒体研究</td>			<td>Book and Media Studies</td>		</tr>		<tr>			<td>佛教研究</td>			<td>Buddhist Studies</td>		</tr>		<tr>			<td>加拿大研究</td>			<td>Canadian Studies</td>		</tr>		<tr>			<td>加勒比研究</td>			<td>Caribbean Studies</td>		</tr>		<tr>			<td>细胞与分子生物学</td>			<td>Cell and Molecular Biology</td>		</tr>		<tr>			<td>凯尔特研究</td>			<td>Celtic Studies</td>		</tr>		<tr>			<td>化学工程</td>			<td>Chemical Engineering</td>		</tr>		<tr>			<td>化学物理</td>			<td>Chemical Physics</td>		</tr>		<tr>			<td>化学</td>			<td>Chemistry</td>		</tr>		<tr>			<td>基督教与文化</td>			<td>Christianity and Culture</td>		</tr>		<tr>			<td>电影研究</td>			<td>Cinema Studies</td>		</tr>		<tr>			<td>城市研究</td>			<td>City Studies</td>		</tr>		<tr>			<td>土木工程</td>			<td>Civil Engineering</td>		</tr>		<tr>			<td>古典文明</td>			<td>Classical Civilization</td>		</tr>		<tr>			<td>西洋古典学（希腊与拉丁）</td>			<td>Classics (Greek and Latin)</td>		</tr>		<tr>			<td>认知科学（文科）</td>			<td>Cognitive Science (Arts)</td>		</tr>		<tr>			<td>认知科学（科学）</td>			<td>Cognitive Science (Science)</td>		</tr>		<tr>			<td>贸易</td>			<td>Commerce</td>		</tr>		<tr>			<td>沟通，文化，信息与技术</td>			<td>Communication, Culture, Information, and Technology</td>		</tr>		<tr>			<td>比较生理学</td>			<td>Comparative Physiology</td>		</tr>		<tr>			<td>计算机工程</td>			<td>Computer Engineering</td>		</tr>		<tr>			<td>计算机科学</td>			<td>Computer Science</td>		</tr>		<tr>			<td>生物多样性与保护</td>			<td>Conservation and Biodiversity</td>		</tr>		<tr>			<td>当代亚洲研究项目</td>			<td>Contemporary Asian Studies Program (Dr. David Chu)</td>		</tr>		<tr>			<td>犯罪学</td>			<td>Criminology</td>		</tr>		<tr>			<td>犯罪学与社会法律研究</td>			<td>Criminology and Socio-Legal Studies</td>		</tr>		<tr>			<td>捷克和斯洛伐克研究</td>			<td>Czech and Slovak Studies</td>		</tr>		<tr>			<td>发育生物学</td>			<td>Developmental Biology</td>		</tr>		<tr>			<td>流散文学与跨国研究</td>			<td>Diaspora and Transnational Studies</td>		</tr>		<tr>			<td>数字化企业管理</td>			<td>Digital Enterprise Management</td>		</tr>		<tr>			<td>戏剧</td>			<td>Drama</td>		</tr>		<tr>			<td>地球学</td>			<td>Earth Science</td>		</tr>		<tr>			<td>东亚研究</td>			<td>East Asian Studies</td>		</tr>		<tr>			<td>生态学及进化论</td>			<td>Ecology and Evolution</td>		</tr>		<tr>			<td>生态学和进化生物学</td>			<td>Ecology and Evolutionary Biology</td>		</tr>		<tr>			<td>经济学</td>			<td>Economics</td>		</tr>		<tr>			<td>经济学与数学</td>			<td>Economics and Mathematics</td>		</tr>		<tr>			<td>经济学与政治科学</td>			<td>Economics and Political Science</td>		</tr>		<tr>			<td>经济管理研究</td>			<td>Economics for Management Studies</td>		</tr>		<tr>			<td>教育学</td>			<td>Educaion</td>		</tr>		<tr>			<td>电气工程</td>			<td>Electrical Engineering</td>		</tr>		<tr>			<td>雇佣关系</td>			<td>Employment Relations</td>		</tr>		<tr>			<td>工程科学</td>			<td>Engineering Science</td>		</tr>		<tr>			<td>英语</td>			<td>English</td>		</tr>		<tr>			<td>环境与健康</td>			<td>Environment and Health</td>		</tr>		<tr>			<td>环境与毒理学</td>			<td>Environment and Toxicology</td>		</tr>		<tr>			<td>环境生物学</td>			<td>Environmental Biology</td>		</tr>		<tr>			<td>环境化学</td>			<td>Environmental Chemistry</td>		</tr>		<tr>			<td>环境伦理学</td>			<td>Environmental Ethics</td>		</tr>		<tr>			<td>环境地理学</td>			<td>Environmental Geography</td>		</tr>		<tr>			<td>环境地球科学</td>			<td>Environmental Geoscience</td>		</tr>		<tr>			<td>环境管理</td>			<td>Environmental Management</td>		</tr>		<tr>			<td>环境物理</td>			<td>Environmental Physics</td>		</tr>		<tr>			<td>环境科学</td>			<td>Environmental Science</td>		</tr>		<tr>			<td>环境研究</td>			<td>Environmental Studies</td>		</tr>		<tr>			<td>平等研究</td>			<td>Equity Studies</td>		</tr>		<tr>			<td>伦理，社会与法律</td>			<td>Ethics, Society and Law</td>		</tr>		<tr>			<td>欧洲研究</td>			<td>European Studies</td>		</tr>		<tr>			<td>特殊人类学习</td>			<td>Exceptionality in Human Learning</td>		</tr>		<tr>			<td>金融和经济金融经济学</td>			<td>Finance and Economics Financial Economics</td>		</tr>		<tr>			<td>芬兰研究</td>			<td>Finnish Studies</td>		</tr>		<tr>			<td>司法科学</td>			<td>Forensic Science</td>		</tr>		<tr>			<td>森林生物材料科学</td>			<td>Forest Biomaterials Science</td>		</tr>		<tr>			<td>森林保护（文科）</td>			<td>Forest Conservation (Arts)</td>		</tr>		<tr>			<td>森林保护（理科）</td>			<td>Forest Conservation (Science)</td>		</tr>		<tr>			<td>法国研究</td>			<td>French</td>		</tr>		<tr>			<td>法国研究与意大利研究</td>			<td>French and Italian</td>		</tr>		<tr>			<td>法语和法语语言学</td>			<td>French Language and French Linguistics</td>		</tr>		<tr>			<td>法语学与文学</td>			<td>French Language and Literature</td>		</tr>		<tr>			<td>法语学</td>			<td>French Language Learning</td>		</tr>		<tr>			<td>法语</td>			<td>French Studies</td>		</tr>		<tr>			<td>普通物理</td>			<td>General Physics</td>		</tr>		<tr>			<td>基因、遗传和生物技术</td>			<td>Genes, Genetics and Biotechnology</td>		</tr>		<tr>			<td>基因生物学</td>			<td>Genome Biology</td>		</tr>		<tr>			<td>地理信息系统</td>			<td>Geographical Information Systems</td>		</tr>		<tr>			<td>地理</td>			<td>Geography</td>		</tr>		<tr>			<td>地质学</td>			<td>Geology</td>		</tr>		<tr>			<td>地球物理学</td>			<td>Geophysics</td>		</tr>		<tr>			<td>地球科学</td>			<td>Geoscience</td>		</tr>		<tr>			<td>德语和乌克兰语</td>			<td>German and Ukrainian</td>		</tr>		<tr>			<td>德语研究</td>			<td>German Studies</td>		</tr>		<tr>			<td>全球亚洲研究</td>			<td>Global Asia Studies</td>		</tr>		<tr>			<td>全球卫生</td>			<td>Global Health</td>		</tr>		<tr>			<td>希腊语</td>			<td>Greek</td>		</tr>		<tr>			<td>健康与疾病</td>			<td>Health and Disease</td>		</tr>		<tr>			<td>卫生研究</td>			<td>Health Studies</td>		</tr>		<tr>			<td>历史</td>			<td>History</td>		</tr>		<tr>			<td>历史与科学哲学与技术</td>			<td>History and Philosophy of Science and Technology</td>		</tr>		<tr>			<td>历史与政治科学</td>			<td>History and Political Science</td>		</tr>		<tr>			<td>艺术史</td>			<td>History of Art</td>		</tr>		<tr>			<td>宗教史</td>			<td>History of Religions</td>		</tr>		<tr>			<td>人体生物学</td>			<td>Human Biology</td>		</tr>		<tr>			<td>人文地理</td>			<td>Human Geography</td>		</tr>		<tr>			<td>匈牙利的研究</td>			<td>Hungarian Studies</td>		</tr>		<tr>			<td>免疫学</td>			<td>Immunology</td>		</tr>		<tr>			<td>本土研究</td>			<td>Indigenous Studies</td>		</tr>		<tr>			<td>工业工程</td>			<td>Industrial Engineering</td>		</tr>		<tr>			<td>信息安全</td>			<td>Information Security</td>		</tr>		<tr>			<td>整合生物学</td>			<td>Integrative Biology</td>		</tr>		<tr>			<td>互动数码媒体</td>			<td>Interactive Digital Media</td>		</tr>		<tr>			<td>国际事务</td>			<td>International Affairs</td>		</tr>		<tr>			<td>国际发展研究</td>			<td>International Development Studies</td>		</tr>		<tr>			<td>国际关系</td>			<td>International Relations</td>		</tr>		<tr>			<td>伊斯兰研究</td>			<td>Islamic Studies</td>		</tr>		<tr>			<td>意大利语</td>			<td>Italian</td>		</tr>		<tr>			<td>犹太学</td>			<td>Jewish Studies</td>		</tr>		<tr>			<td>新闻学</td>			<td>Journalism (Joint Program with Centennial College)</td>		</tr>		<tr>			<td>运动机能学</td>			<td>Kinesiology</td>		</tr>		<tr>			<td>语言教学和学习：法语与意大利语</td>			<td>Language Teaching and Learning: French and Italian</td>		</tr>		<tr>			<td>矿业工程</td>			<td>Lassonde Mineral Engineering</td>		</tr>		<tr>			<td>拉丁语</td>			<td>Latin</td>		</tr>		<tr>			<td>拉丁美洲研究</td>			<td>Latin American Studies</td>		</tr>		<tr>			<td>语言学</td>			<td>Linguistics</td>		</tr>		<tr>			<td>文学研究</td>			<td>Literary Studies</td>		</tr>		<tr>			<td>管理</td>			<td>Management</td>		</tr>		<tr>			<td>管理与会计</td>			<td>Management and Accounting</td>		</tr>		<tr>			<td>管理与金融</td>			<td>Management and Finance</td>		</tr>		<tr>			<td>管理与人力资源</td>			<td>Management and Human Resources</td>		</tr>		<tr>			<td>管理和信息技术</td>			<td>Management and Information Technology</td>		</tr>		<tr>			<td>管理和国际商务</td>			<td>Management and International Business</td>		</tr>		<tr>			<td>管理与市场营销</td>			<td>Management and Marketing</td>		</tr>		<tr>			<td>材料工程</td>			<td>Materials Engineering</td>		</tr>		<tr>			<td>材料科学</td>			<td>Materials Science</td>		</tr>		<tr>			<td>经济学和金融学的数学应用</td>			<td>Mathematical Applications in Economics and Finance</td>		</tr>		<tr>			<td>数学科学</td>			<td>Mathematical Sciences</td>		</tr>		<tr>			<td>数学</td>			<td>Mathematics</td>		</tr>		<tr>			<td>数学及其应用</td>			<td>Mathematics and its Applications</td>		</tr>		<tr>			<td>数学与哲学</td>			<td>Mathematics and Philosophy</td>		</tr>		<tr>			<td>数学与物理</td>			<td>Mathematics and Physics</td>		</tr>		<tr>			<td>机械工程</td>			<td>Mechanical Engineering</td>		</tr>		<tr>			<td>媒体研究</td>			<td>Media Studies</td>		</tr>		<tr>			<td>中世纪研究</td>			<td>Mediaeval Studies</td>		</tr>		<tr>			<td>医学放射科学</td>			<td>Medical Radiation Sciences</td>		</tr>		<tr>			<td>心理健康研究</td>			<td>Mental Health Studies</td>		</tr>		<tr>			<td>分子生物学</td>			<td>Molecular Biology</td>		</tr>		<tr>			<td>分子生物学与生物技术</td>			<td>Molecular Biology and Biotechnology</td>		</tr>		<tr>			<td>分子遗传学和非生物学</td>			<td>Molecular Genetics and Microbiology</td>		</tr>		<tr>			<td>音乐</td>			<td>Music</td>		</tr>		<tr>			<td>音乐（音乐系）</td>			<td>Music (Faculty of Music)</td>		</tr>		<tr>			<td>音乐与文化</td>			<td>Music and Culture</td>		</tr>		<tr>			<td>音乐表演</td>			<td>Music in Performance</td>		</tr>		<tr>			<td>音乐合奏</td>			<td>Music with Ensemble Option</td>		</tr>		<tr>			<td>近东和中东文明</td>			<td>Near and Middle Eastern Civilizations</td>		</tr>		<tr>			<td>神经系统科学</td>			<td>Neuroscience</td>		</tr>		<tr>			<td>新媒体研究</td>			<td>New Media Studies (Joint Program with Centennial College)</td>		</tr>		<tr>			<td>护理学</td>			<td>Nursing</td>		</tr>		<tr>			<td>营养科学</td>			<td>Nutritional Sciences</td>		</tr>		<tr>			<td>古生物学</td>			<td>Paleontology</td>		</tr>		<tr>			<td>护理人员</td>			<td>Paramedicine (Joint Program with Centennial College)</td>		</tr>		<tr>			<td>病理学</td>			<td>Pathobiology</td>		</tr>		<tr>			<td>和平，冲突与正义</td>			<td>Peace, Conflict and Justice</td>		</tr>		<tr>			<td>药物化学</td>			<td>Pharmaceutical Chemistry</td>		</tr>		<tr>			<td>药物学</td>			<td>Pharmacology</td>		</tr>		<tr>			<td>药理学和生物医学毒理学</td>			<td>Pharmacology and Biomedical Toxicology</td>		</tr>		<tr>			<td>药剂学</td>			<td>Pharmacy</td>		</tr>		<tr>			<td>哲学</td>			<td>Philosophy</td>		</tr>		<tr>			<td>哲学与物理</td>			<td>Philosophy and Physics</td>		</tr>		<tr>			<td>物理与环境地理学</td>			<td>Physical and Environmental Geography</td>		</tr>		<tr>			<td>物理和人文地理</td>			<td>Physical and Human Geography</td>		</tr>		<tr>			<td>物理与数学科学</td>			<td>Physical and Mathematical Sciences</td>		</tr>		<tr>			<td>物理科学</td>			<td>Physical Sciences</td>		</tr>		<tr>			<td>医师助理</td>			<td>Physician Assistant</td>		</tr>		<tr>			<td>物理</td>			<td>Physics</td>		</tr>		<tr>			<td>物理与天体物理学</td>			<td>Physics and Astrophysics</td>		</tr>		<tr>			<td>生理学</td>			<td>Physiology</td>		</tr>		<tr>			<td>行星科学</td>			<td>Planetary Science</td>		</tr>		<tr>			<td>波兰语言与文学</td>			<td>Polish Language and Literature</td>		</tr>		<tr>			<td>波兰研究</td>			<td>Polish Studies</td>		</tr>		<tr>			<td>政治科学</td>			<td>Political Science</td>		</tr>		<tr>			<td>葡萄牙语</td>			<td>Portuguese</td>		</tr>		<tr>			<td>史前考古学</td>			<td>Prehistoric Archaeology</td>		</tr>		<tr>			<td>专业写作和交流</td>			<td>Professional Writing and Communication</td>		</tr>		<tr>			<td>语言心理学</td>			<td>Psycholinguistics</td>		</tr>		<tr>			<td>心理学</td>			<td>Psychology</td>		</tr>		<tr>			<td>心理学研究</td>			<td>Psychology Research</td>		</tr>		<tr>			<td>公共政策</td>			<td>Public Policy</td>		</tr>		<tr>			<td>宗教</td>			<td>Religion</td>		</tr>		<tr>			<td>宗教：基督徒起源</td>			<td>Religion: Christian Origins</td>		</tr>		<tr>			<td>文艺复兴研究</td>			<td>Renaissance Studies</td>		</tr>		<tr>			<td>俄罗斯语言与文学</td>			<td>Russian Language and Literature</td>		</tr>		<tr>			<td>性多样性研究</td>			<td>Sexual Diversity Studies</td>		</tr>		<tr>			<td>社会学</td>			<td>Sociology</td>		</tr>		<tr>			<td>南部斯拉夫研究</td>			<td>South Slavic Studies</td>		</tr>		<tr>			<td>西班牙</td>			<td>Spanish</td>		</tr>		<tr>			<td>统计学</td>			<td>Statistics</td>		</tr>		<tr>			<td>统计与数学</td>			<td>Statistics and Mathematics</td>		</tr>		<tr>			<td>战略管理</td>			<td>Strategic Management</td>		</tr>		<tr>			<td>工作室</td>			<td>Studio</td>		</tr>		<tr>			<td>合成和催化化学</td>			<td>Synthetic and Catalytic Chemistry</td>		</tr>		<tr>			<td>戏院与表演研究</td>			<td>Theatre and Performance Studies</td>		</tr>		<tr>			<td>戏院，戏剧与表演研究</td>			<td>Theatre, Drama and Performance Studies</td>		</tr>		<tr>			<td>乌克兰语言与文学</td>			<td>Ukrainian Language and Literature</td>		</tr>		<tr>			<td>城市研究</td>			<td>Urban Studies</td>		</tr>		<tr>			<td>视觉文化与交流</td>			<td>Visual Culture and Communication</td>		</tr>		<tr>			<td>视觉研究</td>			<td>Visual Studies</td>		</tr>		<tr>			<td>女性与性别研究</td>			<td>Women and Gender Studies</td>		</tr>	</tbody></table><p>&nbsp;</p><h1>研究生申请</h1><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:261px">成人教育与社区发展文科硕士</td>			<td style="width:591px">Master of Arts in Adult Education and Community Development</td>		</tr>		<tr>			<td>成人教育与社区发展硕士</td>			<td>Master of Education in Adult Education and Community Development</td>		</tr>		<tr>			<td>成人教育与社区发展博士</td>			<td>Doctor of Philosophy in Adult Education and Community Development</td>		</tr>		<tr>			<td>空军航空科学与工程应用科学硕士</td>			<td>Master of Applied Science in Aerospace Science and Engineering</td>		</tr>		<tr>			<td>空军航空科学与工程硕士</td>			<td>Master of Engineering in Aerospace Science and Engineering</td>		</tr>		<tr>			<td>空军航空科学与工程博士</td>			<td style="width:591px">Doctor of Philosophy in Aerospace Science and Engineering</td>		</tr>		<tr>			<td>人类学文科硕士</td>			<td>Master of Arts in Anthropology</td>		</tr>		<tr>			<td>人类学理科硕士</td>			<td>Master of Science in Anthropology</td>		</tr>		<tr>			<td>人类学博士</td>			<td>Doctor of Philosophy in Anthropology</td>		</tr>		<tr>			<td>应用计算机理科硕士</td>			<td>Master of Science in Applied Computing</td>		</tr>		<tr>			<td>建筑学硕士</td>			<td>Master of Architecture</td>		</tr>		<tr>			<td>天文学与天体物理学理科硕士</td>			<td>Master of Science in Astronomy and Astrophysics</td>		</tr>		<tr>			<td>天文学与天体物理学博士</td>			<td>Doctor of Philosophy in Astronomy and Astrophysics</td>		</tr>		<tr>			<td>生物化学理科硕士</td>			<td>Master of Science in Biochemistry</td>		</tr>		<tr>			<td>生物化学博士</td>			<td>Doctor of Philosophy in Biochemistry</td>		</tr>		<tr>			<td>生物伦理学健康科学硕士</td>			<td>Master of Health Science in Bioethics</td>		</tr>		<tr>			<td>生物医学通讯理科硕士</td>			<td>Master of Science in Biomedical Communications</td>		</tr>		<tr>			<td>生物医学工程应用科学硕士</td>			<td>Master of Applied Science in Biomedical Engineering</td>		</tr>		<tr>			<td>生物医学工程硕士</td>			<td>Master of Engineering in Biomedical Engineering</td>		</tr>		<tr>			<td>生物医学工程博士</td>			<td>Doctor of Philosophy in Biomedical Engineering</td>		</tr>		<tr>			<td>生物技术硕士</td>			<td>Master of Biotechnology</td>		</tr>		<tr>			<td>细胞与系统生物学理科硕士</td>			<td>Master of Science in Cell and Systems Biology</td>		</tr>		<tr>			<td>细胞与系统生物学博士</td>			<td>Doctor of Philosophy in Cell and Systems Biology</td>		</tr>		<tr>			<td>化学工程与应用化学理科硕士</td>			<td>Master of Applied Science in Chemical Engineering and Applied Chemistry</td>		</tr>		<tr>			<td>化学工程与应用化学工程硕士</td>			<td>Master of Engineering in Chemical Engineering and Applied Chemistry</td>		</tr>		<tr>			<td>化学工程与应用化学博士</td>			<td>Doctor of Philosophy in Chemical Engineering and Applied Chemistry</td>		</tr>		<tr>			<td>化学理科硕士</td>			<td>Master of Science in Chemistry</td>		</tr>		<tr>			<td>化学博士</td>			<td>Doctor of Philosophy in Chemistry</td>		</tr>		<tr>			<td>儿童研究与教育文科硕士</td>			<td>Master of Arts (Professional) in Child Study and Education</td>		</tr>		<tr>			<td>电影研究文科硕士</td>			<td>Master of Arts in Cinema Studies</td>		</tr>		<tr>			<td>电影研究博士</td>			<td>Doctor of Philosophy in Cinema Studies</td>		</tr>		<tr>			<td>城市工程与管理工程硕士</td>			<td>Master of Engineering in Cities Engineering and Management</td>		</tr>		<tr>			<td>土木工程应用科学硕士</td>			<td>Master of Applied Science in Civil Engineering</td>		</tr>		<tr>			<td>土木工程硕士</td>			<td>Master of Engineering in Civil Engineering</td>		</tr>		<tr>			<td>土木工程博士</td>			<td>Doctor of Philosophy in Civil Engineering</td>		</tr>		<tr>			<td>古典文学文科硕士</td>			<td>Master of Arts in Classics</td>		</tr>		<tr>			<td>古典文学博士</td>			<td>Doctor of Philosophy in Classics</td>		</tr>		<tr>			<td>临床工程健康科学硕士</td>			<td>Master of Health Science in Clinical Engineering</td>		</tr>		<tr>			<td>社区健康理科硕士</td>			<td>Master of Science in Community Health</td>		</tr>		<tr>			<td>比较文学博士</td>			<td>Doctor of Philosophy in Comparative Literature</td>		</tr>		<tr>			<td>比较文学文科硕士</td>			<td>Master of Arts in Comparative Literature</td>		</tr>		<tr>			<td>计算机科学理科硕士</td>			<td>Master of Science in Computer Science</td>		</tr>		<tr>			<td>计算机科学博士</td>			<td style="width:591px">Doctor of Philosophy in Computer Science</td>		</tr>		<tr>			<td>咨询与临床心理学博士</td>			<td>Doctor of Philosophy in Counselling and Clinical Psychology</td>		</tr>		<tr>			<td>咨询与临床心理学文科硕士</td>			<td>Master of Arts in Counselling and Clinical Psychology</td>		</tr>		<tr>			<td>辅导心理学教育学博士</td>			<td>Doctor of Education in Counselling Psychology</td>		</tr>		<tr>			<td>辅导心理学教育学硕士</td>			<td>Master of Education in Counselling Psychology</td>		</tr>		<tr>			<td>犯罪学文科硕士</td>			<td>Master of Arts in Criminology</td>		</tr>		<tr>			<td>犯罪学博士</td>			<td>Doctor of Philosophy in Criminology</td>		</tr>		<tr>			<td>课程研究与教师发展文科硕士</td>			<td>Master of Arts in Curriculum Studies and Teacher Development</td>		</tr>		<tr>			<td>课程研究与教师发展教育学硕士</td>			<td>Master of Education in Curriculum Studies and Teacher Development</td>		</tr>		<tr>			<td>课程研究与教师发展博士</td>			<td>Doctor of Philosophy in Curriculum Studies and Teacher Development</td>		</tr>		<tr>			<td>牙科学理科硕士</td>			<td>Master of Science in Dentistry</td>		</tr>		<tr>			<td>牙科学博士</td>			<td>Doctor of Philosophy in Dentistry</td>		</tr>		<tr>			<td>牙科手术博士</td>			<td>Doctor of Dental Surgery Program in Dentistry</td>		</tr>		<tr>			<td>发展心理学和教育文科硕士</td>			<td>Master of Arts in Developmental Psychology and Education</td>		</tr>		<tr>			<td>发展心理学和教育学硕士</td>			<td>Master of Education in Developmental Psychology and Education</td>		</tr>		<tr>			<td>发展心理学和教育博士</td>			<td>Doctor of Philosophy in Developmental Psychology and Education</td>		</tr>		<tr>			<td>戏剧博士</td>			<td>Doctor of Philosophy in Drama</td>		</tr>		<tr>			<td>戏剧文科硕士</td>			<td>Master of Arts in Drama</td>		</tr>		<tr>			<td>东亚研究博士</td>			<td>Doctor of Philosophy in East Asian Studies</td>		</tr>		<tr>			<td>东亚研究文科硕士</td>			<td>Master of Arts in East Asian Studies</td>		</tr>		<tr>			<td>生态与进化生物学理科硕士</td>			<td>Master of Science in Ecology and Evolutionary Biology</td>		</tr>		<tr>			<td>生态与进化生物学博士</td>			<td>Doctor of Philosophy in Ecology and Evolutionary Biology</td>		</tr>		<tr>			<td>经济学文科硕士</td>			<td>Master of Arts in Economics</td>		</tr>		<tr>			<td>经济学博士</td>			<td>Doctor of Philosophy in Economics</td>		</tr>		<tr>			<td>教育领导与政策教育学博士</td>			<td>Doctor of Education in Educational Leadership and Policy</td>		</tr>		<tr>			<td>教育领导与政策文科硕士</td>			<td>Master of Arts in Educational Leadership and Policy</td>		</tr>		<tr>			<td>教育领导与政策教育学硕士</td>			<td>Master of Education in Educational Leadership and Policy</td>		</tr>		<tr>			<td>教育领导与政策博士</td>			<td>Doctor of Philosophy in Educational Leadership and Policy</td>		</tr>		<tr>			<td>电气与计算机工程应用科学硕士</td>			<td>Master of Applied Science in Electrical and Computer Engineering</td>		</tr>		<tr>			<td>电气与计算机工程硕士</td>			<td>Master of Engineering in Electrical and Computer Engineering</td>		</tr>		<tr>			<td>电气与计算机工程博士</td>			<td>Doctor of Philosophy in Electrical and Computer Engineering</td>		</tr>		<tr>			<td>英语博士</td>			<td>Doctor of Philosophy in English</td>		</tr>		<tr>			<td>英语文科硕士</td>			<td>Master of Arts in English</td>		</tr>		<tr>			<td>环境科学硕士</td>			<td>Master of Environmental Science</td>		</tr>		<tr>			<td>环境科学博士</td>			<td>Doctor of Philosophy in Environmental Science</td>		</tr>		<tr>			<td>欧洲与俄罗斯事务文科硕士</td>			<td>Master of Arts in European and Russian Affairs</td>		</tr>		<tr>			<td>运动科学理科硕士</td>			<td>Master of Science in Exercise Sciences</td>		</tr>		<tr>			<td>运动科学笔试</td>			<td>Doctor of Philosophy in Exercise Sciences</td>		</tr>		<tr>			<td>金融硕士</td>			<td>Master of Finance</td>		</tr>		<tr>			<td>金融经济学硕士</td>			<td>Master of Financial Economics</td>		</tr>		<tr>			<td>金融保险硕士</td>			<td>Master of Financial Insurance</td>		</tr>		<tr>			<td>金融风险管理硕士</td>			<td>Master of Financial Risk Management</td>		</tr>		<tr>			<td>法务会计硕士</td>			<td>Master of Forensic Accounting</td>		</tr>		<tr>			<td>森林保护硕士</td>			<td>Master of Forest Conservation</td>		</tr>		<tr>			<td>林业理科硕士</td>			<td>Master of Science in Forestry</td>		</tr>		<tr>			<td>林业博士</td>			<td>Doctor of Philosophy in Forestry</td>		</tr>		<tr>			<td>法国语言与文学博士</td>			<td>Doctor of Philosophy in French Language and Literature</td>		</tr>		<tr>			<td>法国语言与文学文科硕士</td>			<td>Master of Arts in French Language and Literature</td>		</tr>		<tr>			<td>遗传咨询理科硕士</td>			<td>Master of Science in Genetic Counseling</td>		</tr>		<tr>			<td>地理文科硕士</td>			<td>Master of Arts in Geography</td>		</tr>		<tr>			<td>地理理科硕士</td>			<td>Master of Science in Geography</td>		</tr>		<tr>			<td>地理博士</td>			<td>Doctor of Philosophy in Geography</td>		</tr>		<tr>			<td>地质学应用科学硕士</td>			<td>Master of Applied Science in Geology</td>		</tr>		<tr>			<td>地质学理科硕士</td>			<td>Master of Science in Geology</td>		</tr>		<tr>			<td>地质学博士</td>			<td>Doctor of Philosophy in Geology</td>		</tr>		<tr>			<td>德国文学，文化与理论博士</td>			<td>Doctor of Philosophy in German Literature, Culture and Theory</td>		</tr>		<tr>			<td>德国语言与文学文科硕士</td>			<td>Master of Arts in Germanic Languages and Literatures</td>		</tr>		<tr>			<td>全球事务硕士</td>			<td>Master of Global Affairs</td>		</tr>		<tr>			<td>全球职业法律硕士</td>			<td>Global Professional Master of Laws</td>		</tr>		<tr>			<td>卫生行政健康科学硕士</td>			<td>Master of Health Science in Health Administration</td>		</tr>		<tr>			<td>健康信息学硕士</td>			<td>Master of Health Informatics</td>		</tr>		<tr>			<td>卫生政策、管理和评估理科硕士</td>			<td>Master of Science in Health Policy, Management and Evaluation</td>		</tr>		<tr>			<td>卫生政策、管理和评估博士</td>			<td>Doctor of Philosophy in Health Policy, Management and Evaluation</td>		</tr>		<tr>			<td>高等教育 教育学博士</td>			<td>Doctor of Education in Higher Education</td>		</tr>		<tr>			<td>高等教育文科硕士</td>			<td>Master of Arts in Higher Education</td>		</tr>		<tr>			<td>高等教育硕士</td>			<td>Master of Education in Higher Education</td>		</tr>		<tr>			<td>高等教育博士</td>			<td>Doctor of Philosophy in Higher Education</td>		</tr>		<tr>			<td>历史博士</td>			<td>Doctor of Philosophy in History</td>		</tr>		<tr>			<td>历史文科硕士</td>			<td>Master of Arts in History</td>		</tr>		<tr>			<td>历史与科学哲学与技术博士</td>			<td>Doctor of Philosophy in History and Philosophy of Science and Technology</td>		</tr>		<tr>			<td>历史与科学哲学与技术文科硕士</td>			<td>Master of Arts in History and Philosophy of Science and Technology</td>		</tr>		<tr>			<td>艺术史博士</td>			<td>Doctor of Philosophy in History of Art</td>		</tr>		<tr>			<td>艺术史文科硕士</td>			<td>Master of Arts in History of Art</td>		</tr>		<tr>			<td>免疫学理科硕士</td>			<td>Master of Science in Immunology</td>		</tr>		<tr>			<td>免疫学博士</td>			<td>Doctor of Philosophy in Immunology</td>		</tr>		<tr>			<td>劳资关系与人类资源硕士</td>			<td>Master of Industrial Relations and Human Resources</td>		</tr>		<tr>			<td>劳资关系与人类资源博士</td>			<td>Doctor of Philosophy in Industrial Relations and Human Resources</td>		</tr>		<tr>			<td>信息硕士</td>			<td>Master of Information</td>		</tr>		<tr>			<td>信息研究博士</td>			<td>Doctor of Philosophy in Information Studies</td>		</tr>		<tr>			<td>意大利研究文科硕士</td>			<td>Master of Arts in Italian Studies</td>		</tr>		<tr>			<td>意大利研究博士</td>			<td>Doctor of Philosophy in Italian Studies</td>		</tr>		<tr>			<td>实验医学与病理生物学理科硕士</td>			<td>Master of Science in Laboratory Medicine and Pathobiology</td>		</tr>		<tr>			<td>实验医学与病理生物学博士</td>			<td>Doctor of Philosophy in Laboratory Medicine and Pathobiology</td>		</tr>		<tr>			<td>园林建筑学硕士</td>			<td>Master of Landscape Architecture</td>		</tr>		<tr>			<td>语言与文化教育文科硕士</td>			<td>Master of Arts in Language and Literacies Education</td>		</tr>		<tr>			<td>语言与文化教育 教育学硕士</td>			<td>Master of Education in Language and Literacies Education</td>		</tr>		<tr>			<td>语言与文化教育博士</td>			<td>Doctor of Philosophy in Language and Literacies Education</td>		</tr>		<tr>			<td>法学硕士</td>			<td>Master of Law</td>		</tr>		<tr>			<td>法学研究硕士</td>			<td>Master of Studies in Law</td>		</tr>		<tr>			<td>司法学博士</td>			<td>Doctor of Juridical Science in Law</td>		</tr>		<tr>			<td>法学博士</td>			<td>Law - Juris Doctor Program</td>		</tr>		<tr>			<td>语言学博士</td>			<td>Doctor of Philosophy in Linguistics</td>		</tr>		<tr>			<td>语言学文科硕士</td>			<td>Master of Arts in Linguistics</td>		</tr>		<tr>			<td>工商管理全球行政硕士</td>			<td>Omnium Global Executive Master of Business Administration in Management</td>		</tr>		<tr>			<td>工商管理硕士</td>			<td>Master of Business Administration in Management</td>		</tr>		<tr>			<td>管理博士</td>			<td>Doctor of Philosophy in Management</td>		</tr>		<tr>			<td>高级工商管理硕士-管理专业</td>			<td>Executive Master of Business Administration in Management</td>		</tr>		<tr>			<td>管理与职业会计硕士</td>			<td>Master of Management and Professional Accounting</td>		</tr>		<tr>			<td>创新管理硕士</td>			<td>Master of Management of Innovation</td>		</tr>		<tr>			<td>材料科学与工程应用科学硕士</td>			<td>Master of Applied Science in Materials Science and Engineering</td>		</tr>		<tr>			<td>材料科学与工程硕士</td>			<td>Master of Engineering in Materials Science and Engineering</td>		</tr>		<tr>			<td>材料科学与工程博士</td>			<td>Doctor of Philosophy in Materials Science and Engineering</td>		</tr>		<tr>			<td>数学金融学硕士</td>			<td>Master of Mathematical Finance</td>		</tr>		<tr>			<td>数学理科硕士</td>			<td>Master of Science in Mathematics</td>		</tr>		<tr>			<td>数学博士</td>			<td>Doctor of Philosophy in Mathematics</td>		</tr>		<tr>			<td>机械与工业工程应用科学硕士</td>			<td>Master of Applied Science in Mechanical and Industrial Engineering</td>		</tr>		<tr>			<td>机械与工业工程硕士</td>			<td>Master of Engineering in Mechanical and Industrial Engineering</td>		</tr>		<tr>			<td>机械与工业工程博士</td>			<td>Doctor of Philosophy in Mechanical and Industrial Engineering</td>		</tr>		<tr>			<td>医学生物物理学理科硕士</td>			<td>Master of Science in Medical Biophysics</td>		</tr>		<tr>			<td>医学生物物理学博士</td>			<td>Doctor of Philosophy in Medical Biophysics</td>		</tr>		<tr>			<td>药物基因组学健康科学硕士</td>			<td>Master of Health Science in Medical Genomics</td>		</tr>		<tr>			<td>医学放射科学健康科学硕士</td>			<td>Master of Health Science in Medical Radiation Sciences</td>		</tr>		<tr>			<td>医学科学理科硕士</td>			<td>Master of Science in Medical Science</td>		</tr>		<tr>			<td>医学科学博士</td>			<td>Doctor of Philosophy in Medical Science</td>		</tr>		<tr>			<td>医学博士项目</td>			<td>Doctor of Medicine Program</td>		</tr>		<tr>			<td>中世纪研究文科硕士</td>			<td>Master of Arts in Medieval Studies</td>		</tr>		<tr>			<td>中世纪研究博士</td>			<td>Doctor of Philosophy in Medieval Studies</td>		</tr>		<tr>			<td>分子遗传学理科硕士</td>			<td>Master of Science in Molecular Genetics</td>		</tr>		<tr>			<td>分子遗传学博士</td>			<td>Doctor of Philosophy in Molecular Genetics</td>		</tr>		<tr>			<td>博物馆研究硕士</td>			<td>Master of Museum Studies</td>		</tr>		<tr>			<td>音乐文科硕士</td>			<td>Master of Arts in Music</td>		</tr>		<tr>			<td>音乐博士</td>			<td>Doctor of Philosophy in Music</td>		</tr>		<tr>			<td>音乐表演音乐艺术博士</td>			<td>Doctor of Musical Arts in Music Performance</td>		</tr>		<tr>			<td>音乐表演音乐硕士</td>			<td>Master of Music in Music Performance</td>		</tr>		<tr>			<td>近东和中东文明硕士</td>			<td>Master of Arts in Near and Middle Eastern Civilizations</td>		</tr>		<tr>			<td>近东和中东文明博士</td>			<td>Doctor of Philosophy in Near and Middle Eastern Civilizations</td>		</tr>		<tr>			<td>护理科学护理学硕士</td>			<td>Master of Nursing in Nursing Science</td>		</tr>		<tr>			<td>护理科学博士</td>			<td>Doctor of Philosophy in Nursing Science</td>		</tr>		<tr>			<td>营养科学理科硕士</td>			<td>Master of Science in Nutritional Sciences</td>		</tr>		<tr>			<td>营养科学博士</td>			<td>Doctor of Philosophy in Nutritional Sciences</td>		</tr>		<tr>			<td>职业疗法理科硕士</td>			<td>Master of Science in Occupational Therapy</td>		</tr>		<tr>			<td>药物科学理科硕士</td>			<td>Master of Science in Pharmaceutical Sciences</td>		</tr>		<tr>			<td>药物科学博士</td>			<td>Doctor of Philosophy in Pharmaceutical Sciences</td>		</tr>		<tr>			<td>药物学理科硕士</td>			<td>Master of Science in Pharmacology</td>		</tr>		<tr>			<td>药物学博士</td>			<td>Doctor of Philosophy in Pharmacology</td>		</tr>		<tr>			<td>药剂学博士项目</td>			<td>Doctor of Pharmacy Program</td>		</tr>		<tr>			<td>哲学文科硕士</td>			<td>Master of Arts in Philosophy</td>		</tr>		<tr>			<td>哲学博士</td>			<td>Doctor of Philosophy</td>		</tr>		<tr>			<td>物理治疗法理科硕士</td>			<td>Master of Science in Physical Therapy</td>		</tr>		<tr>			<td>物理理科硕士</td>			<td>Master of Science in Physics</td>		</tr>		<tr>			<td>物理博士</td>			<td>Doctor of Philosophy in Physics</td>		</tr>		<tr>			<td>生理学理科硕士</td>			<td>Master of Science in Physiology</td>		</tr>		<tr>			<td>生理学博士</td>			<td>Doctor of Philosophy in Physiology</td>		</tr>		<tr>			<td>策划理科硕士</td>			<td>Master of Science in Planning</td>		</tr>		<tr>			<td>策划博士</td>			<td>Doctor of Philosophy in Planning</td>		</tr>		<tr>			<td>政治学文科硕士</td>			<td>Master of Arts in Political Science</td>		</tr>		<tr>			<td>政治学博士</td>			<td>Doctor of Philosophy in Political Science</td>		</tr>		<tr>			<td>运动机能学专业硕士</td>			<td>Master of Professional Kinesiology</td>		</tr>		<tr>			<td>心理学文科硕士</td>			<td>Master of Arts in Psychology</td>		</tr>		<tr>			<td>心理学博士</td>			<td>Doctor of Philosophy in Psychology</td>		</tr>		<tr>			<td>公共健康科学公共健康硕士</td>			<td>Master of Public Health in Public Health Sciences</td>		</tr>		<tr>			<td>公共健康科学理科硕士</td>			<td>Master of Science in Public Health Sciences</td>		</tr>		<tr>			<td>公共健康科学博士</td>			<td>Doctor of Philosophy in Public Health Sciences</td>		</tr>		<tr>			<td>公共政策硕士</td>			<td>Master of Public Policy</td>		</tr>		<tr>			<td>康复学理科硕士</td>			<td>Master of Science in Rehabilitation Science</td>		</tr>		<tr>			<td>康复学博士</td>			<td>Doctor of Philosophy in Rehabilitation Science</td>		</tr>		<tr>			<td>学校和临床儿童心理学文科硕士</td>			<td>Master of Arts in School and Clinical Child Psychology</td>		</tr>		<tr>			<td>学校和临床儿童心理学博士</td>			<td>Doctor of Philosophy in School and Clinical Child Psychology</td>		</tr>		<tr>			<td>斯拉夫语言与文学硕士</td>			<td>Master of Arts in Slavic Languages and Literatures</td>		</tr>		<tr>			<td>斯拉夫语言与文学博士</td>			<td>Doctor of Philosophy in Slavic Languages and Literatures</td>		</tr>		<tr>			<td>社会正义教育学博士</td>			<td>Doctor of Education in Social Justice Education</td>		</tr>		<tr>			<td>社会正义教育文科硕士</td>			<td>Master of Arts in Social Justice Education</td>		</tr>		<tr>			<td>社会正义教育硕士</td>			<td>Master of Education in Social Justice Education</td>		</tr>		<tr>			<td>社会正义教育博士</td>			<td>Doctor of Philosophy in Social Justice Education</td>		</tr>		<tr>			<td>社会工作硕士</td>			<td>Master of Social Work</td>		</tr>		<tr>			<td>社会工作博士</td>			<td>Doctor of Philosophy in Social Work</td>		</tr>		<tr>			<td>社会学文科硕士</td>			<td>Master of Arts in Sociology</td>		</tr>		<tr>			<td>社会学博士</td>			<td>Doctor of Philosophy in Sociology</td>		</tr>		<tr>			<td>西班牙语文科硕士</td>			<td>Master of Arts in Spanish</td>		</tr>		<tr>			<td>西班牙语博士</td>			<td>Doctor of Philosophy in Spanish</td>		</tr>		<tr>			<td>言语病理学健康科学硕士</td>			<td>Master of Health Science in Speech-Language Pathology</td>		</tr>		<tr>			<td>言语病理学理科硕士</td>			<td>Master of Science in Speech-Language Pathology</td>		</tr>		<tr>			<td>言语病理学博士</td>			<td>Doctor of Philosophy in Speech-Language Pathology</td>		</tr>		<tr>			<td>统计学理科硕士</td>			<td>Master of Science in Statistics</td>		</tr>		<tr>			<td>统计学博士</td>			<td>Doctor of Philosophy in Statistics</td>		</tr>		<tr>			<td>可持续性管理理科硕士</td>			<td>Master of Science in Sustainability Management</td>		</tr>		<tr>			<td>教学硕士</td>			<td>Master of Teaching</td>		</tr>		<tr>			<td>宗教学文科硕士</td>			<td>Master of Arts in The Study of Religion</td>		</tr>		<tr>			<td>宗教学博士</td>			<td>Doctor of Philosophy in The Study of Religion</td>		</tr>		<tr>			<td>神学研究文科硕士</td>			<td>Master of Arts in Theological Studies</td>		</tr>		<tr>			<td>神学研究博士</td>			<td>Doctor of Philosophy in Theological Studies</td>		</tr>		<tr>			<td>神学研究硕士课程</td>			<td>Master of Theological Studies Program</td>		</tr>		<tr>			<td>神学硕士</td>			<td>Master of Theology</td>		</tr>		<tr>			<td>健康科学转化型研究健康科学硕士</td>			<td>Master of Health Science in Translational Research in the Health Sciences</td>		</tr>		<tr>			<td>城市规划硕士</td>			<td>Master of Urban Design</td>		</tr>		<tr>			<td>视觉研究硕士</td>			<td>Master of Visual Studies</td>		</tr>		<tr>			<td>妇女与性别研究文科硕士</td>			<td>Master of Arts in Women and Gender Studies</td>		</tr>		<tr>			<td>妇女与性别研究博士</td>			<td>Doctor of Philosophy in Women and Gender Studies</td>		</tr>	</tbody></table></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2018-07-25</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1185;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1185' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '0';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1185;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

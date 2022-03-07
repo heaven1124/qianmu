@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>塔尔萨大学-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="塔尔萨大学" />
+<meta name="description"  id="description"  content="塔尔萨大学:塔尔萨大学（University of Tulsa，有时也简称UT）是一所位于俄克拉荷马州塔尔萨的私立研究型大学。成立于1894年，由长老教宗创立，但现在已于教派没有关系。塔尔萨大学以石油工程最为知名，英语、计算机科学、自然科学、临床心理学以及产业心理学、以及部分工程领域的专业也都不错。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">塔尔萨大学 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:130px">			<p>排名</p>			</td>			<td style="width:277px">			<p>143*(3)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国家</p>			</td>			<td style="width:277px">			<p>美国</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>州省</p>			</td>			<td style="width:277px">			<p><a href="http://www.qianmu.org/俄克拉荷马州" target="_blank">俄克拉荷马州</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>城市</p>			</td>			<td style="width:277px">			<p><a href="http://www.qianmu.org/塔尔萨（俄克拉荷马州）" target="_blank">塔尔萨</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>性质</p>			</td>			<td style="width:277px">			<p>私立，男女合校</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>成立年份</p>			</td>			<td style="width:277px">			<p>1894*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>宗教信仰</p>			</td>			<td style="width:277px">			<p>无</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校园</p>			</td>			<td style="width:277px">			<p>0.93Km<sup>2</sup>，城区*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学生人数</p>			</td>			<td style="width:277px">			<p>4,671*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>本科生人数</p>			</td>			<td style="width:277px">			<p>3,478*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>研究生人数</p>			</td>			<td style="width:277px">			<p>1,193*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>师生比</p>			</td>			<td style="width:277px">			<p>1:11*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国际学生比例</p>			</td>			<td style="width:277px">			<p>26%*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学校分类</p>			</td>			<td style="width:277px">			<p><a href="http://www.qianmu.org/全国性大学" target="_blank">全国性大学</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>认证机构</p>			</td>			<td style="width:277px">			<p><a href="http://www.qianmu.org/中北部学院及学校协会" target="_blank">中北部学院及学校协会</a>（NCACS）</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>网址</p>			</td>			<td style="width:277px">			<p><a href="http://www.utulsa.edu" target="_blank">www.utulsa.edu</a> *(5)</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>塔尔萨大学（University of Tulsa，有时也简称UT）是一所位于<a href="http://www.qianmu.org/俄克拉荷马州" target="_blank">俄克拉荷马州</a><a href="http://www.qianmu.org/塔尔萨（俄克拉荷马州）" target="_blank">塔尔萨</a>的私立研究型大学。成立于1894年，由长老教宗创立，但现在已于教派没有关系。塔尔萨大学以石油工程最为知名，<a href="http://www.qianmu.org/英语" target="_blank">英语</a>、<a href="http://www.qianmu.org/计算机科学" target="_blank">计算机科学</a>、自然科学、<a href="http://www.qianmu.org/临床心理学" target="_blank">临床心理学</a>以及产业<a href="http://www.qianmu.org/心理学" target="_blank">心理学</a>、以及部分工程领域的专业也都不错。*(1)</p><p>四合院似的校园，到处都是哥特式的建筑&mdash;&mdash;这就是塔尔萨大学的校园。很多建筑用的石头都采自遥远的田纳西、阿肯色、印第安纳乃至美国东海岸的佛蒙特。</p><h2>申请点评</h2><p>塔尔萨大学位于俄克拉荷马州，正是美国西部的腹地，紧邻<a href="http://www.qianmu.org/德克萨斯州" target="_blank">德克萨斯州</a>，属温带大陆性气候，年平均气温15.5℃，年降水量适中，不算太干旱，建有多座水库，阿肯色河、红河都流经这里，石油、天然气、氯产量为全美之冠。俄克拉荷马州的经济、人口及人口密度、地理面积都属美国中游。</p><p>相比其排名，塔尔萨大学申请难度偏低，而且在申请上对国际学生非常友好&mdash;&mdash;这也是塔尔萨的优势之一。石油工程无疑塔尔萨最优秀的专业，也是俄克拉荷马州的优势产业。其它方面，只要你不介意俄克拉荷马的地理位置，塔尔萨的性价比还是非常高的。</p><p><strong>好评项：</strong></p><p>1.There are plenty of computer labs on campus.</p><p>2.There are many different races at TU, especially Middle Eastern as we have an excellent Petroleum Engineering degree.</p><p>3.the biology program is very med-school oriented, which is a good thing if you&#39;re trying to get into med school!</p><p>4.All of the professors want you to succeed in your program.</p><p>5.Through the presidential scholar&#39;s program, applicants have a surprisingly high chance of getting a full ride to TU.</p><p>6.There are people of many different religions and race at the University of Tulsa.</p><p>7.Parking on campus is, honestly, the best I&#39;ve seen.</p><p><strong>差评项：</strong></p><p>1.The food at our only cafeteria is mediocre at best. We have very few other on-campus options.</p><p>2.There are quite a few chains, but a lot of variety is represented.</p><p>3.I receive many scholarships from TU and none of them had any stress involved.</p><p>4.Such a Nightmare</p><p>5.This school is so incredibly expensive.</p><p>6.Financial aid is largely a joke around here.</p><p>7.Everybody can get a permit, and they&#39;re dirt cheap.</p><p>8.the tickets and parking passes are really expensive.*(2)</p><p>参考资料：</p><p>(1)&nbsp;<a href="http://www.qianmu.org/redirect?code=Trq48pWuwN_n-Cws4PwYqjOevNIroxThPfPGDJw4dneN60WUmdjeG_rbPm1ghSkdo27OU3cqJBA8d_dGzry1MdjydhjeCWBfvF6lXhl" target="_blank">University of Tulsa</a> Wikipedia</p><p>(2)&nbsp;<a href="http://www.qianmu.org/redirect?code=KruBHN7Twdft_22S8yQ1KROYsuLB035Blqy3y9zPBr5nADJF6OsBMabf_vFDEcOxSVQfoNLky8I5B4w7SIN4wd3xifDGq2OunVWbC" target="_blank">University of Tulsa</a> College Prowler</p><p>(3)&nbsp;<a href="http://www.qianmu.org/redirect?code=OrMxo-GTwdft_1SYWWWWWmPigqt7e3PxX4Puod6sXD1xCD1u8Df75w5lkwaikwC7XjcsgM6H8-ggDJKlHsQZ_sXg6JnZHsQqYmcxRzKN6talwsglRJKNpa1d-_sOMB4OqxWOR_WnGfmd0LsOGe-dcSWQ6rmagVByxy3bxChsd-oFLjv" target="_blank">University of Tulsa</a> USNEWS Ranking</p><p>(4)&nbsp;<a href="https://utulsa.edu/about/tu-fast-facts/" target="_blank">TU Fact Sheet</a> University of Tulsa</p><p>(5)&nbsp;<a href="http://www.qianmu.org/redirect?code=orDtO5aCLXmqlQdOKKKKKMsElKfyCKoSuB-h8neRuU-r1bd9HhzTZnihUGD3gA3e2k3V5FXr4C4rQNG6KrRzTBMzhSqChaeauo1lhnwIYvI9uvohxEdVUplYnZhTFYOaxqbxt5N8yh_xcHBb" target="_blank">University of Tulsa</a> College Board</p><p>&nbsp;</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:102px">			<p>USNEWS排名</p>			</td>			<td style="width:94px">			<p>143</p>			</td>			<td style="width:98px">			<p>学费(/年)</p>			</td>			<td style="width:74px">			<p>$42,496</p>			</td>			<td style="width:122px">			<p>申请截止日期</p>			</td>			<td style="width:79px">			<p>2月1日</p>			</td>		</tr>		<tr>			<td style="width:102px">			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td style="width:94px">			<p>80</p>			</td>			<td style="width:98px">			<p>食宿(/年)</p>			</td>			<td style="width:74px">			<p>$11,116</p>			</td>			<td style="width:122px">			<p>开学时间</p>			</td>			<td style="width:79px">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:102px">			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td style="width:94px">			<p>6.5</p>			</td>			<td style="width:98px">			<p>申请费</p>			</td>			<td style="width:74px">			<p>$50</p>			</td>			<td style="width:122px">			<p>可申请学期</p>			</td>			<td style="width:79px">			<p>秋季</p>			</td>		</tr>		<tr>			<td style="width:102px">			<p><a href="http://www.qianmu.org/SAT" target="_blank">SAT</a>均分</p>			</td>			<td style="width:94px">			<p>1160-1450(1600)</p>			</td>			<td style="width:98px">			<p>录取率</p>			</td>			<td style="width:74px">			<p>44.0%</p>			</td>			<td style="width:122px">			<p>奖学金形式</p>			</td>			<td style="width:79px">			<p>Merit-based</p>			</td>		</tr>		<tr>			<td style="width:102px">			<p>平均<a href="http://www.qianmu.org/GPA" target="_blank">GPA</a></p>			</td>			<td style="width:94px">			<p>3.9（加权）</p>			</td>			<td style="width:98px">			<p>申请人数</p>			</td>			<td style="width:74px">			<p>7,636</p>			</td>			<td style="width:122px">			<p>是否提供<a href="http://www.qianmu.org/双录取" target="_blank">双录取</a></p>			</td>			<td style="width:79px">			<p>Yes</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)(4)(5)</p><p>注：</p><p>(1)塔尔萨大学另提供<a href="http://www.qianmu.org/Early Action" target="_blank">EA</a>录取，申请截止日期是11月1日，录取通知日期是12月中旬；RD申请<strong>12月15日</strong>起开始出滚动录取通知。2月1日前申请均有机会获得<a href="http://www.qianmu.org/奖学金" target="_blank">奖学金</a>*(2)</p><p>(2)TOEFL口语要求不低于18分，写作要求不低于17分，阅读与听力要求不低于15分；IELTS单项要求不低于6.0分；<strong>TOEFL豁免条件：</strong>在美国大学完成至少30个学分。接受双录取，语言成绩不足的学生，可以选择入读学校的强化英语课程（EIIS），<strong>亦可在条件录取后提供合格的TOEFL/IELTS成绩给学校，以换取正式录取</strong>*(3)(5)</p><h2>教学质量&nbsp;</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:19.7%">			<p>本科生人数</p>			</td>			<td style="width:9.28%">			<p>3,478</p>			</td>			<td style="width:22.32%">			<p>小班比例(&lt;20)</p>			</td>			<td style="width:9.86%">			<p>61.4%</p>			</td>			<td style="width:25.3%">			<p><a href="http://www.qianmu.org/学期制度" target="_blank">学期制度</a></p>			</td>			<td style="width:13.54%">			<p>Semester</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>研究生人数</p>			</td>			<td style="width:9.28%">			<p>1,193</p>			</td>			<td style="width:22.32%">			<p>中班比例(20-49)</p>			</td>			<td style="width:9.86%">			<p>35.7%</p>			</td>			<td style="width:25.3%">			<p>教授水平满意度</p>			</td>			<td style="width:13.54%">			<p>100%</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>国际学生比例</p>			</td>			<td style="width:9.28%">			<p>26%</p>			</td>			<td style="width:22.32%">			<p>大班比例(&gt;50)</p>			</td>			<td style="width:9.86%">			<p>2.9%</p>			</td>			<td style="width:25.3%">			<p>就业实习满意度</p>			</td>			<td style="width:13.54%">			<p>71%</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>师生比</p>			</td>			<td style="width:9.28%">			<p>1:11</p>			</td>			<td style="width:22.32%">			<p>六年毕业率</p>			</td>			<td style="width:9.86%">			<p>68%</p>			</td>			<td style="width:25.3%">			<p>学生满意度</p>			</td>			<td style="width:13.54%">			<p>75%</p>			</td>		</tr>		<tr>			<td style="width:19.7%">			<p>四年毕业率</p>			</td>			<td style="width:9.28%">			<p>52%</p>			</td>			<td style="width:22.32%">			<p>新生保持率</p>			</td>			<td style="width:9.86%">			<p>87%</p>			</td>			<td style="width:25.3%">			<p>教师博士学位比例</p>			</td>			<td style="width:13.54%">			<p>96%</p>			</td>		</tr>		<tr>			<td style="width:19.7%">毕业2年平均薪水</td>			<td style="width:9.28%">$36,000</td>			<td style="width:22.32%">就业率</td>			<td style="width:9.86%">70%</td>			<td style="width:25.3%">校友网络认可度</td>			<td style="width:13.54%">100%</td>		</tr>	</tbody></table><p>*(1)(2)(6)(7)</p><p><strong>校园安全</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:143px">校园安全事件</td>			<td style="width:403px">Criminal Offenses -- On-Campus&nbsp;</td>			<td style="width:103px">2012</td>			<td style="width:100px">2013</td>			<td style="width:97px">2014</td>		</tr>		<tr>			<td>谋杀</td>			<td>Murder/Non-negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>过失杀人</td>			<td>Negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸</td>			<td>Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>8</p>			</td>		</tr>		<tr>			<td>乱伦</td>			<td>Incest</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸幼童罪</td>			<td>Statutory Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>猥亵</td>			<td>Fondling</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>性侵犯-强迫</td>			<td>Sex offenses - Forcible</td>			<td>			<p>1</p>			</td>			<td>			<p>4</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>性侵犯-非强迫</td>			<td>Sex offenses - non-forcible (incest and statutory rape only)</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>抢劫</td>			<td>Robbery</td>			<td>			<p>2</p>			</td>			<td>			<p>2</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>暴力袭击</td>			<td>Aggravated assault</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>盗窃</td>			<td>Burglary</td>			<td>			<p>10</p>			</td>			<td>			<p>9</p>			</td>			<td>			<p>9</p>			</td>		</tr>		<tr>			<td>汽车盗窃</td>			<td>Motor vehicle theft</td>			<td>			<p>5</p>			</td>			<td>			<p>2</p>			</td>			<td>			<p>3</p>			</td>		</tr>		<tr>			<td>纵火</td>			<td>Arson</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p><strong>录取统计</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td colspan="6" style="width:445px"><strong>2015年秋季：</strong></td>		</tr>		<tr>			<td>申请人数</td>			<td>6,762</td>			<td>录取人数</td>			<td>2,973</td>			<td>录取率</td>			<td>44.0%</td>		</tr>		<tr>			<td>EA申请人数</td>			<td>1,066</td>			<td>EA录取人数</td>			<td>981</td>			<td>EA录取率</td>			<td>92.0%</td>		</tr>		<tr>			<td>SAT阅读均分</td>			<td>560-700</td>			<td>SAT数学均分</td>			<td>570-700</td>			<td>ACT综合均分</td>			<td>26-32</td>		</tr>		<tr>			<td colspan="6"><strong>2014年秋季：</strong></td>		</tr>		<tr>			<td>申请人数</td>			<td>7,636</td>			<td>录取人数</td>			<td>3,077</td>			<td>录取率</td>			<td>40.3%</td>		</tr>	</tbody></table><p>*(2)</p><p>注：2015年秋季录取国际学生的TOEFL平均成绩为83分*(2)</p><p><strong>2015</strong><strong>年秋季本科学生性别、地域与族裔分布：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:34.64%">			<p>白种人</p>			</td>			<td style="width:17.84%">			<p>56%</p>			</td>			<td style="width:34.64%">			<p>非裔</p>			</td>			<td style="width:12.88%">			<p>5%</p>			</td>		</tr>		<tr>			<td style="width:34.64%">			<p>西裔/拉丁裔</p>			</td>			<td style="width:17.84%">			<p>5%</p>			</td>			<td style="width:34.64%">			<p>亚裔</p>			</td>			<td style="width:12.88%">			<p>4%</p>			</td>		</tr>		<tr>			<td style="width:34.64%">			<p>国际学生</p>			</td>			<td style="width:17.84%">			<p>26%</p>			</td>			<td style="width:34.64%">			<p>多种族/混血</p>			</td>			<td style="width:12.88%">			<p>4%</p>			</td>		</tr>		<tr>			<td style="width:34.64%">			<p>未知/其它</p>			</td>			<td style="width:17.84%">			<p>1%</p>			</td>			<td style="width:34.64%">			<p>美洲原住民</p>			</td>			<td style="width:12.88%">			<p>3%</p>			</td>		</tr>		<tr>			<td style="width:34.64%">			<p>女生比例</p>			</td>			<td style="width:17.84%">			<p>42%</p>			</td>			<td style="width:34.64%">			<p>男生比例</p>			</td>			<td style="width:12.88%">			<p>58%</p>			</td>		</tr>		<tr>			<td style="width:34.64%">			<p>州内学生占比</p>			</td>			<td style="width:17.84%">			<p>57%</p>			</td>			<td style="width:34.64%">			<p>州外学生占比</p>			</td>			<td style="width:12.88%">			<p>43%</p>			</td>		</tr>	</tbody></table><p>*(2)</p><h2>申请说明</h2><p><strong>SAT/ACT</strong></p><p>塔尔萨大学<strong>强烈建议（Strongly Encourage</strong><strong><strong>）国际学生递交SAT/ACT成绩</strong></strong>，但不做绝对强制的要求。2015年秋季，录取学生的SAT/ACT均分如下：</p><ul>	<li>SAT均分：阅读560-700；数学570-700*(2)</li>	<li>ACT均分：26-32*(2)</li></ul><p>注：25%的学生选择递交SAT成绩*(2)</p><p><strong>GPA与班级排名</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td colspan="2" style="width:51.8%">			<p>GPA</p>			</td>			<td colspan="2" style="width:48.2%">			<p>班级排名</p>			</td>		</tr>		<tr>			<td style="width:27.7%">			<p>分段</p>			</td>			<td style="width:24.1%">			<p>占比</p>			</td>			<td style="width:24.1%">			<p>分段</p>			</td>			<td style="width:24.1%">			<p>占比</p>			</td>		</tr>		<tr>			<td style="width:27.7%">			<p>3.75以上</p>			</td>			<td style="width:24.1%">			<p>63%</p>			</td>			<td style="width:24.1%">			<p>TOP10%</p>			</td>			<td style="width:24.1%">			<p>73%</p>			</td>		</tr>		<tr>			<td style="width:27.7%">			<p>3.5-3.74</p>			</td>			<td style="width:24.1%">			<p>19%</p>			</td>			<td style="width:24.1%">			<p>TOP25%</p>			</td>			<td style="width:24.1%">			<p>91%</p>			</td>		</tr>		<tr>			<td style="width:27.7%">			<p>3.25-3.49</p>			</td>			<td style="width:24.1%">			<p>9%</p>			</td>			<td style="width:24.1%">			<p>TOP50%</p>			</td>			<td style="width:24.1%">			<p>99%</p>			</td>		</tr>		<tr>			<td style="width:27.7%">			<p>3.0-3.24</p>			</td>			<td style="width:24.1%">			<p>5%</p>			</td>			<td style="width:24.1%">			<p>50%以下</p>			</td>			<td style="width:24.1%">			<p>1%</p>			</td>		</tr>		<tr>			<td style="width:27.7%">			<p>2.50-2.99</p>			</td>			<td style="width:24.1%">			<p>3%</p>			</td>			<td style="width:24.1%">			<p>75%以下</p>			</td>			<td style="width:24.1%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:27.7%">			<p>2.49以下</p>			</td>			<td style="width:24.1%">			<p>1%</p>			</td>			<td style="width:24.1%">&nbsp;</td>			<td style="width:24.1%">&nbsp;</td>		</tr>	</tbody></table><p>*(2)</p><p><strong>申请材料</strong></p><p>塔尔萨大学可通过学校自己的系统和Common Application申请，要求的申请材料如下：</p><ul>	<li>国际学生申请表*(3)</li>	<li>申请费50美金</li>	<li>成绩单：高中成绩单无需公证；但如已经入读大学，大学的成绩单需经中国学位与研究所教育认证中心（CDGDC）认证递交*(3)</li>	<li>会考成绩单：对已经高中毕业的学生，需要递交会考成绩单，且该成绩单需经中国学位与研究所教育认证中心（CDGDC）认证递交*(3)</li>	<li>SAT/ACT成绩：非强制但建议递交</li>	<li>护照复印件</li>	<li><a href="http://www.qianmu.org/AP" target="_blank">AP</a>/<a href="http://www.qianmu.org/IB" target="_blank">IB</a>分数</li>	<li><a href="http://www.qianmu.org/资金证明" target="_blank">资金证明</a>表：申请时无需递交，但录取之后必须递交</li>	<li>语言成绩：TOEFL/IELTS</li>	<li>ESSAY</li>	<li>教师<a href="http://www.qianmu.org/推荐信" target="_blank">推荐信</a></li></ul><p>注：如学生语言成绩不达标可进入国际学生英语强化班培训，塔尔萨大学不接受夏季学期申请的学生*(3)</p><p><strong>费用与奖学金</strong></p><p>塔尔萨大学向符合要求的国际学生提供<strong><a href="http://www.qianmu.org/Merit-based" target="_blank">Merit-based</a></strong>奖学金，其金额4,000美金至14,000美金不等，无需单独申请，自动随Offer发放。2015年度共538名国际学生获奖，奖学金总额为$5,745,871，平均奖学金额为<strong>$10,680</strong>，按本科生人数和国际学生比例计算，国际学生获奖概率<strong>约60%</strong>*(2)(8)</p><p><strong>费用列表：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:27.54%">			<p>支出项目</p>			</td>			<td style="width:52.62%">			<p>项目英文名</p>			</td>			<td style="width:19.86%">			<p>2016-2017学年费用</p>			</td>		</tr>		<tr>			<td style="width:27.54%">			<p>学杂费</p>			</td>			<td style="width:52.62%">			<p>Tuition and fees</p>			</td>			<td style="width:19.86%">			<p>$42,496</p>			</td>		</tr>		<tr>			<td style="width:27.54%">			<p>食宿费用</p>			</td>			<td style="width:52.62%">			<p>Room and board</p>			</td>			<td style="width:19.86%">			<p>$11,116</p>			</td>		</tr>		<tr>			<td style="width:27.54%">			<p>书本费</p>			</td>			<td style="width:52.62%">			<p>Books and supplies</p>			</td>			<td style="width:19.86%">			<p>$1,200</p>			</td>		</tr>		<tr>			<td style="width:27.54%">			<p>个人花费（估）</p>			</td>			<td style="width:52.62%">			<p>Estimated personal expenses</p>			</td>			<td style="width:19.86%">			<p>$3,016</p>			</td>		</tr>		<tr>			<td style="width:27.54%">			<p>社区与宿舍费</p>			</td>			<td style="width:52.62%">			<p>Community and Residence Hall fees</p>			</td>			<td style="width:19.86%">			<p>$400</p>			</td>		</tr>		<tr>			<td style="width:27.54%">			<p>费用合计（估）</p>			</td>			<td style="width:52.62%">			<p>Estimated Total</p>			</td>			<td style="width:19.86%">			<p>$58,228</p>			</td>		</tr>	</tbody></table><p>*(4)</p><p>注：夏季学期生活费大概$1,900/月*(4)</p><h2>转学申请</h2><p><strong>基本信息</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:102px">			<p>TOEFL要求</p>			</td>			<td style="width:76px">			<p>80</p>			</td>			<td style="width:116px">			<p>GPA要求</p>			</td>			<td style="width:74px">			<p>2.75</p>			</td>			<td style="width:122px">			<p>申请截止日期</p>			</td>			<td style="width:79px">			<p>3月15日</p>			</td>		</tr>		<tr>			<td style="width:102px">			<p>IELTS要求</p>			</td>			<td style="width:76px">			<p>6.5</p>			</td>			<td style="width:116px">			<p>SAT要求</p>			</td>			<td style="width:74px">			<p>Not Required</p>			</td>			<td style="width:122px">			<p>开学时间</p>			</td>			<td style="width:79px">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:102px">			<p>最高可转学分</p>			</td>			<td style="width:76px">			<p>79</p>			</td>			<td style="width:116px">			<p>最低可转学分</p>			</td>			<td style="width:74px">			<p>-</p>			</td>			<td style="width:122px">			<p>可申请学期</p>			</td>			<td style="width:79px">			<p>秋季、春季</p>			</td>		</tr>		<tr>			<td style="width:102px">			<p>申请人数</p>			</td>			<td style="width:76px">			<p>681</p>			</td>			<td style="width:116px">			<p>录取人数</p>			</td>			<td style="width:74px">			<p>293</p>			</td>			<td style="width:122px">			<p>录取率</p>			</td>			<td style="width:79px">			<p>43%</p>			</td>		</tr>	</tbody></table><p>*(9)(10)</p><p>注：塔尔萨大学转学申请实行<a href="http://www.qianmu.org/滚动申请" target="_blank">滚动录取</a>方式。秋季学期最晚可延至8月1日申请；春季学期建议10月1日前申请，最晚截止日期为12月1日</p><p><strong>申请说明</strong></p><p>塔尔萨大学转学分规定：如学生在校课程名称符合塔尔萨大学本科课程名称且科目成绩达到C及以上，即可按照学校规定转相应的学分。转学生在校平均成绩达到2.75以上具有一定的优势和竞争力，学生在提交确认录取时需缴纳200美金的确认费用。*(9)(10)</p><p>申请材料：</p><ul>	<li>转学申请表及<a href="http://www.qianmu.org/个人陈述" target="_blank">个人陈述</a></li>	<li>申请费：50美金</li>	<li>大学官方成绩单</li>	<li>高中官方成绩单（学生学分低于48个）</li>	<li>SAT/ACT（学分低于30个且年龄低于25岁者）</li>	<li><a href="http://www.qianmu.org/面试" target="_blank">面试</a>：Optional</li>	<li>推荐信：Not Required*(9)</li></ul><p>塔尔萨大学转学生可申请该校的奖学金项目，要求申请者GPA最低需达到3.25以上。所有符合要求的学生都有机会获得奖学金。*(9)</p><p><strong>联系方式：</strong></p><p>Office of International Student Services</p><p>The University of Tulsa</p><p>800 South Tucker Drive</p><p>Tulsa, Oklahoma 74104-3189</p><p>Telephone: 918.631.2329</p><p>1.800.331.3050</p><p>E-mail: inst@utulsa.edu&nbsp;</p><p>Fax: 918.631.3322 *(11)</p><h2>专业设置</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/人类学" target="_blank">人类学</a></p>			</td>			<td style="width:26.3%">			<p>Anthropology</p>			</td>			<td style="width:16.56%">			<p><a href="http://www.qianmu.org/护理" target="_blank">护理</a></p>			</td>			<td style="width:36.82%">			<p>Nursing</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p>广告</p>			</td>			<td style="width:26.3%">			<p><a href="http://www.qianmu.org/广告学" target="_blank">Advertising</a></p>			</td>			<td style="width:16.56%">			<p><a href="http://www.qianmu.org/应用数学" target="_blank">应用数学</a></p>			</td>			<td style="width:36.82%">			<p>Applied <a href="http://www.qianmu.org/数学" target="_blank">Mathematics</a></p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p>艺术</p>			</td>			<td style="width:26.3%">			<p>Arts</p>			</td>			<td style="width:16.56%">			<p><a href="http://www.qianmu.org/生物化学" target="_blank">生物化学</a></p>			</td>			<td style="width:36.82%">			<p>Biochemistry</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/艺术史" target="_blank">艺术史</a></p>			</td>			<td style="width:26.3%">			<p>Art <a href="http://www.qianmu.org/历史" target="_blank">History</a></p>			</td>			<td style="width:16.56%">			<p>生物地球</p>			</td>			<td style="width:36.82%">			<p>Biogeosciences</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p>艺术管理</p>			</td>			<td style="width:26.3%">			<p>Arts <a href="http://www.qianmu.org/管理学" target="_blank">Management</a></p>			</td>			<td style="width:16.56%">			<p>生物学</p>			</td>			<td style="width:36.82%">			<p>Biology&nbsp;</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p>中国研究</p>			</td>			<td style="width:26.3%">			<p>Chinese Studies</p>			</td>			<td style="width:16.56%">			<p><a href="http://www.qianmu.org/化学工程" target="_blank">化学工程</a></p>			</td>			<td style="width:36.82%">			<p>Chemical Engineering</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/古典文学" target="_blank">古典文学</a></p>			</td>			<td style="width:26.3%">			<p>Classical Studies</p>			</td>			<td style="width:16.56%">			<p><a href="http://www.qianmu.org/化学" target="_blank">化学</a></p>			</td>			<td style="width:36.82%">			<p><a href="http://www.qianmu.org/化学" target="_blank">Chemistry</a></p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/传播学" target="_blank">传播艺术</a></p>			</td>			<td style="width:26.3%">			<p>Communication</p>			</td>			<td style="width:16.56%">			<p>计算科学</p>			</td>			<td style="width:36.82%">			<p>Computational Sciences</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p>创意写作</p>			</td>			<td style="width:26.3%">			<p>Creative Writing</p>			</td>			<td style="width:16.56%">			<p>计算机科学</p>			</td>			<td style="width:36.82%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">Computer Science</a>&nbsp;&nbsp;</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/舞蹈" target="_blank">舞蹈</a></p>			</td>			<td style="width:26.3%">			<p>Dance</p>			</td>			<td style="width:16.56%">			<p>地球与<a href="http://www.qianmu.org/环境科学" target="_blank">环境科学</a></p>			</td>			<td style="width:36.82%">			<p>Earth and Environmental Science</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/特殊教育" target="_blank">特殊教育</a>（聋哑）</p>			</td>			<td style="width:26.3%">			<p>Deaf Education</p>			</td>			<td style="width:16.56%">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">电气工程</a></p>			</td>			<td style="width:36.82%">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">Electrical Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">经济学</a></p>			</td>			<td style="width:26.3%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">Economics</a></p>			</td>			<td style="width:16.56%">			<p>电气和<a href="http://www.qianmu.org/计算机工程" target="_blank">计算机工程</a></p>			</td>			<td style="width:36.82%">			<p>Electrical and <a href="http://www.qianmu.org/计算机工程" target="_blank">Computer Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p>教育</p>			</td>			<td style="width:26.3%">			<p>Education</p>			</td>			<td style="width:16.56%">			<p><a href="http://www.qianmu.org/工程物理" target="_blank">工程物理</a></p>			</td>			<td style="width:36.82%">			<p>Engineering <a href="http://www.qianmu.org/物理" target="_blank">Physics</a></p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p>英语</p>			</td>			<td style="width:26.3%">			<p>English</p>			</td>			<td style="width:16.56%">			<p><a href="http://www.qianmu.org/地质学" target="_blank">地质学</a></p>			</td>			<td style="width:36.82%">			<p>Geology</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p>环境政策</p>			</td>			<td style="width:26.3%">			<p>Environmental Policy</p>			</td>			<td style="width:16.56%">			<p><a href="http://www.qianmu.org/地球科学" target="_blank">地球科学</a></p>			</td>			<td style="width:36.82%">			<p>Geosciences</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p>电影配乐</p>			</td>			<td style="width:26.3%">			<p>Film Scoring</p>			</td>			<td style="width:16.56%">			<p>信息技术</p>			</td>			<td style="width:36.82%">			<p>Information Technology</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p>电影研究</p>			</td>			<td style="width:26.3%">			<p>Film Studies</p>			</td>			<td style="width:16.56%">			<p>数学</p>			</td>			<td style="width:36.82%">			<p>Mathematics</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/法语" target="_blank">法语</a></p>			</td>			<td style="width:26.3%">			<p>French</p>			</td>			<td style="width:16.56%">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">机械工程</a></p>			</td>			<td style="width:36.82%">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">Mechanical Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/德语" target="_blank">德语</a></p>			</td>			<td style="width:26.3%">			<p>German</p>			</td>			<td style="width:16.56%">			<p>石油工程</p>			</td>			<td style="width:36.82%">			<p>Petroleum Engineering</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p>希腊语</p>			</td>			<td style="width:26.3%">			<p>Greek</p>			</td>			<td style="width:16.56%">			<p><a href="http://www.qianmu.org/物理" target="_blank">物理</a></p>			</td>			<td style="width:36.82%">			<p>Physics</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/希伯来语" target="_blank">希伯来语</a></p>			</td>			<td style="width:26.3%">			<p>Hebrew</p>			</td>			<td style="width:16.56%">			<p>女性与性别研究</p>			</td>			<td style="width:36.82%">			<p>Women&#39;s and Gender Studies</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/历史" target="_blank">历史</a></p>			</td>			<td style="width:26.3%">			<p>History</p>			</td>			<td style="width:16.56%">			<p>体育训练</p>			</td>			<td style="width:36.82%">			<p>Athletic Training</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/国际贸易" target="_blank">国际贸易</a>与语言</p>			</td>			<td style="width:26.3%">			<p>International Business and Language</p>			</td>			<td style="width:16.56%">			<p>工商管理</p>			</td>			<td style="width:36.82%">			<p>Business Administration (BSBA)</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p>拉丁语</p>			</td>			<td style="width:26.3%">			<p>Latin</p>			</td>			<td style="width:16.56%">			<p><a href="http://www.qianmu.org/会计" target="_blank">会计</a></p>			</td>			<td style="width:36.82%">			<p><a href="http://www.qianmu.org/会计" target="_blank">Accounting</a></p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/语言学" target="_blank">语言学</a></p>			</td>			<td style="width:26.3%">			<p>Linguistics</p>			</td>			<td style="width:16.56%">			<p>经济学</p>			</td>			<td style="width:36.82%">			<p>Economics</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/音乐" target="_blank">音乐</a></p>			</td>			<td style="width:26.3%">			<p>Music</p>			</td>			<td style="width:16.56%">			<p>能源管理</p>			</td>			<td style="width:36.82%">			<p>Energy Management</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p>音乐教育</p>			</td>			<td style="width:26.3%">			<p>Music Education</p>			</td>			<td style="width:16.56%">			<p><a href="http://www.qianmu.org/金融" target="_blank">金融</a></p>			</td>			<td style="width:36.82%">			<p><a href="http://www.qianmu.org/金融" target="_blank">Finance</a></p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p>音乐剧</p>			</td>			<td style="width:26.3%">			<p>Musical Theatre</p>			</td>			<td style="width:16.56%">			<p>管理</p>			</td>			<td style="width:36.82%">			<p>Management</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p>组织研究</p>			</td>			<td style="width:26.3%">			<p>Organizational Studies</p>			</td>			<td style="width:16.56%">			<p>管理信息系统</p>			</td>			<td style="width:36.82%">			<p>Management <a href="http://www.qianmu.org/信息系统管理" target="_blank">Information Systems</a></p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/哲学" target="_blank">哲学</a></p>			</td>			<td style="width:26.3%">			<p>Philosophy</p>			</td>			<td style="width:16.56%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">市场营销</a></p>			</td>			<td style="width:36.82%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">Marketing</a></p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/政治学" target="_blank">政治学</a></p>			</td>			<td style="width:26.3%">			<p><a href="http://www.qianmu.org/政治学" target="_blank">Political Science</a></p>			</td>			<td style="width:16.56%">			<p>运动与体育科学</p>			</td>			<td style="width:36.82%">			<p>Exercise and Sports Science</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/葡萄牙语" target="_blank">葡萄牙语</a></p>			</td>			<td style="width:26.3%">			<p>Portuguese</p>			</td>			<td style="width:16.56%">			<p>运动与体育科学师范教育</p>			</td>			<td style="width:36.82%">			<p>Exercise and Sports Science Teacher Certification</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p>心理学</p>			</td>			<td style="width:26.3%">			<p><a href="http://www.qianmu.org/心理学" target="_blank">Psychology</a></p>			</td>			<td style="width:16.56%">			<p>国际贸易与语言</p>			</td>			<td style="width:36.82%">			<p>International Business and Language</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/宗教学" target="_blank">宗教学</a></p>			</td>			<td style="width:26.3%">			<p>Religion</p>			</td>			<td style="width:16.56%">			<p>俄罗斯研究</p>			</td>			<td style="width:36.82%">			<p>Russian Studies</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/俄语" target="_blank">俄语</a></p>			</td>			<td style="width:26.3%">			<p>Russian</p>			</td>			<td style="width:16.56%">			<p><a href="http://www.qianmu.org/西班牙语" target="_blank">西班牙语</a></p>			</td>			<td style="width:36.82%">			<p>Spanish</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/戏剧" target="_blank">戏剧</a></p>			</td>			<td style="width:26.3%">			<p>Theatre</p>			</td>			<td style="width:16.56%">			<p><a href="http://www.qianmu.org/语言病理学" target="_blank">语言病理学</a></p>			</td>			<td style="width:36.82%">			<p>Speech Language Pathology</p>			</td>		</tr>		<tr>			<td style="width:20.32%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">社会学</a></p>			</td>			<td colspan="2" style="width:42.86%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">Sociology</a></p>			</td>			<td style="width:36.82%">&nbsp;</td>		</tr>	</tbody></table><p>*(12)</p><p>外部链接</p><ul>	<li>国际学生申请表：<a href="https://35ht6t2ynx0p1ztf961h81r1-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/ISS-International-Undergraduate-Application.pdf" target="_blank">International Undergraduate Application</a>(PDF)</li>	<li>资金证明表：<a href="https://35ht6t2ynx0p1ztf961h81r1-wpengine.netdna-ssl.com/wp-content/uploads/2016/01/confirmation-financial-resources-cfr-2016-17.pdf" target="_blank">Confirmation of Financial Resources 2016-2017</a>(PDF)</li></ul><p>参考资料：</p><p>(1)&nbsp;<a href="http://www.qianmu.org/redirect?code=KruBHN75wfFe8hJFZZZZZM8YiWKOwq8gP28URrQNP50g650UE5-OxdxtOKlucKlULGVwBIWhQ-hhQNkwOGHTFGWhLNeTOGHm5ziUBokfL-dpNf_WNbnde1wpOfj2NAjMhTGAykxB_mH_mbP61L2amp5n-fM_WSroqoQKqzCUkwfdqbgu8" target="_blank">University of Tulsa</a> USNEWS</p><p>(2)&nbsp;<a href="https://bigfuture.collegeboard.org/college-university-search/university-of-tulsa" target="_blank">University of Tulsa</a>&nbsp;College Board</p><p>(3)&nbsp;<a href="https://utulsa.edu/international-students/requirements-and-deadlines/" target="_blank">Requirements and Deadlines</a> University of Tulsa</p><p>(4)&nbsp;<a href="https://utulsa.edu/international-students/tuition-fees-and-expenses/" target="_blank">Tuition, Fees &amp; Expenses</a>&nbsp;University of Tulsa</p><p>(5)&nbsp;<a href="https://35ht6t2ynx0p1ztf961h81r1-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/Fast-Facts-Intl-Students.pdf" target="_blank">TU Admission Fast Facts</a>&nbsp;University of Tulsa</p><p>(6)&nbsp;<a href="https://utulsa.edu/about/tu-fast-facts/" target="_blank">TU Fact Sheet</a> University of Tulsa</p><p>(7)&nbsp;<a href="http://www.qianmu.org/redirect?code=8rL6TCNFk2CbMdTozzzzzpmjPEFNWhpJztDE1FnIXqdhT8yAFtwWptMH2rqEmkFcmK9l52jiBAj7fnhm6jh_B5IaRbis0979GVDNGJ_7d3yJMcG2ZoOUERJWgS5rl" target="_blank">Facts &amp; Statistics</a> College Prowler</p><p>(8)&nbsp;<a href="https://utulsa.edu/international-students/international-student-scholarships/" target="_blank">International Student Scholarships</a> University of Tulsa</p><p>(9)&nbsp;<a href="https://utulsa.edu/international-students/transfer-credits/" target="_blank">Transfer Credit</a> University of Tulsa</p><p>(10)&nbsp;<a href="https://admission.utulsa.edu/apply/transfer-applicants/" target="_blank">Transfer Applicants</a> University of Tulsa</p><p>(11)&nbsp;<a href="https://utulsa.edu/international-students/contact/" target="_blank">Contact International Student Services</a> University of Tulsa</p><p>(12) <a href="https://utulsa.edu/degrees/" target="_blank">Undergraduate Majors and Minors</a> University of Tulsa</p><h1>语言课程</h1><p>塔尔萨大学<strong>本科</strong>接受条件录取，其语言课程由国际学生英语语言所（English Institute for International Students (EIIS)）开设，共设有以下两种项目：</p><ul>	<li>强化英语课程（Intensive English Program (IEP)）：面向的是<strong>没有或只有较低的</strong>TOEFL/IELTS成绩的学生。该项目有额外的费用和开课时间，属于传统意义上的单纯的语言课程*(1)(2)</li>	<li>学术桥梁课程（Pathway to Academics Program (PAP)）：面向的是语言成绩<strong>略低于</strong>学校要求的学生。该项目更类似于正式的录取，只是学生入学后在第一学期或第一学年，需要按照学校的要求，修读一些有EIIS的语言课程*(1)(3)</li></ul><p>上述两个项目均无需单独申请，学生递交正常的本科申请后，学校将视学生的语言成绩决定是录取到IEP还是PAP。</p><p><strong>学费列表</strong></p><p><strong>强化英语课程：</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:72px">COST OF ATTENDANCE</td>			<td style="width:72px">PER SESSION</td>			<td style="width:85px">PER YEAR</td>		</tr>		<tr>			<td colspan="3">TUITION &amp; FEES (2016-17)</td>		</tr>		<tr>			<td>Tuition</td>			<td>$2,935</td>			<td>$14,675</td>		</tr>		<tr>			<td>International Fee</td>			<td>$72</td>			<td>$360</td>		</tr>		<tr>			<td>Health Insurance</td>			<td>$303</td>			<td>$1,512</td>		</tr>		<tr>			<td colspan="3">LIVING EXPENSES</td>		</tr>		<tr>			<td>Books</td>			<td>$320</td>			<td>$1,600</td>		</tr>		<tr>			<td>Housing *</td>			<td>$1,599</td>			<td>$7,995</td>		</tr>		<tr>			<td>Food **</td>			<td>$1,181</td>			<td>$5,905</td>		</tr>		<tr>			<td>Personal Expenses</td>			<td>$754</td>			<td>$3,770</td>		</tr>		<tr>			<td>Total Living Expenses</td>			<td>$3,854</td>			<td>$19,270</td>		</tr>		<tr>			<td>Total Tuition, Fees &amp; Living Expenses</td>			<td>$7,164</td>			<td>$35,817</td>		</tr>	</tbody></table><p>*(2)</p><p>参考资料：</p><p>(1)&nbsp;<a href="https://utulsa.edu/international-students/english-institute/" target="_blank">English Institute (Language Requirement)</a>&nbsp;University of Tulsa</p><p>(2)&nbsp;<a href="https://utulsa.edu/international-students/english-institute/intensive-english-program-iep/" target="_blank">English Institute(EIIS)</a>&nbsp;University of Tulsa</p><p>(3)&nbsp;<a href="https://utulsa.edu/international-students/pathway-to-academics-program-2/" target="_blank">Pathway to Academics Program</a>&nbsp;University of Tulsa</p><h1>研究生申请</h1><p><strong>院系设置</strong></p><p>塔尔萨大学研究生院共设置有4所学术学院和一所研究生院，分别是：</p><ul>	<li>艺术与科学学院（Henry Kendall College of Arts and Sciences）</li>	<li>商学院（Collins College of Business）</li>	<li>工程与自然科学学院（College of Engineering and Natural Sciences）</li>	<li><a href="http://www.qianmu.org/法学" target="_blank">法学</a>院（College of <a href="http://www.qianmu.org/法学" target="_blank">Law</a>）</li>	<li>研究生院（The Graduate School）</li>	<li>继续<a href="http://www.qianmu.org/教育学" target="_blank">教育学</a>院（Continuing Education）*(1)(2)</li></ul><p><strong>基本要求</strong></p><p>塔尔萨大学研究生院（Graduate School）规定的基本申请条件如下：</p><ul>	<li>正规大学四年制本科毕业并取得学士学位</li></ul><ul>	<li>GPA要求：不得低于3.0分</li>	<li>语言要求：TOEFL要求不低于80分，IETS要求不低于6.0分，均无单项分数要求</li></ul><p><strong>申请说明</strong></p><p>塔尔萨大学是一所小型私立综合性大学，研究生开设了30多个硕士学位项目和14个博士学位项目。如要申请奖学金，建议学生秋季学期申请日期不得晚于2月1日。一般情况下，春季、秋季和夏季即可提交申请。学校不同学系和项目要求的申请截止日期亦不同，具体如下：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:357px">			<p>项目名称</p>			</td>			<td style="width:211px">			<p>秋季申请截止日期</p>			</td>		</tr>		<tr>			<td style="width:357px">			<p>临床心理学（<a href="http://www.qianmu.org/临床心理学" target="_blank">Clinical Psychology</a>）</p>			</td>			<td style="width:211px">			<p>12月1日</p>			</td>		</tr>		<tr>			<td style="width:357px">			<p><a href="http://www.qianmu.org/工业与组织心理学" target="_blank">工业与组织心理学</a>（Industrial/Organizational Psychology）</p>			</td>			<td style="width:211px">			<p>12月15日</p>			</td>		</tr>		<tr>			<td style="width:357px">			<p>艺术项目（Art）</p>			</td>			<td style="width:211px">			<p>2月1日</p>			</td>		</tr>		<tr>			<td style="width:357px">			<p>地球科学与<a href="http://www.qianmu.org/地球物理" target="_blank">地球物理</a>学（Geosciences and Geophysics）</p>			</td>			<td style="width:211px">			<p>2月1日</p>			</td>		</tr>		<tr>			<td style="width:357px">			<p>英语语言与文学（English Language and Literature）</p>			</td>			<td style="width:211px">			<p>1月15日</p>			</td>		</tr>	</tbody></table><p><strong>研究生项目要求：</strong></p><p>英语语言与文学（English Language and Literature）项目要求学生提供篇幅10至20页的<a href="http://www.qianmu.org/写作样本" target="_blank">写作样本</a>；申请博士学位的学生需写一份外文论文（测试写作、口语水平）。</p><p>历史（History）项目要求学生提供篇幅10至20页的写作样本。</p><p>临床心理学（Clinical Psychology）项目要求学生提供<a href="http://www.qianmu.org/个人简历" target="_blank">个人简历</a>一份。写作样本随意。</p><p>艺术项目（包括MTA学位）要求学生提供<a href="http://www.qianmu.org/个人作品" target="_blank">个人作品</a>；其中，MFA和MA项目无需提供<a href="http://www.qianmu.org/GRE" target="_blank">GRE</a>成绩。</p><p>博物馆科学与管理（Museum Science and Management）要求学生提供一份篇幅10至15页的论文写作。</p><p>石油工程（Petroleum Engineering）项目要求申请者提供一份研究报告表（Declaration of Research Interest）。</p><p>商科要求申请者在申请时必须提供个人简历。*(3)</p><p><strong>申请材料：</strong></p><ul>	<li>研究生申请表：通过塔尔萨大学研究生院在线申请或纸质申请</li>	<li>3封推荐信</li>	<li>大学官方成绩单</li>	<li>标准化考试成绩：GRE/<a href="http://www.qianmu.org/GMAT" target="_blank">GMAT</a></li>	<li>资金证明：要求金额36,194美金</li>	<li>护照复印件</li>	<li>申请费55美金</li>	<li>语言成绩要求：TOEFL综合分数要求最低80，IELTS综合分数要求最低6.0；*(4)</li></ul><p><strong>TOEFL/IELTS</strong><strong>分数要求</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:347px">			<p>项目名称</p>			</td>			<td style="width:221px">			<p>TOEFL/IELTS成绩要求</p>			</td>		</tr>		<tr>			<td style="width:347px">			<p>工程与自然科学学院（Engineering &amp; Natural Sciences）</p>			</td>			<td style="width:221px">			<p>TOEFL&ge;90，IELTS&ge;6.5</p>			</td>		</tr>		<tr>			<td style="width:347px">			<p>化学工程（Chemical Engineering）</p>			</td>			<td style="width:221px">			<p>TOEFL&ge;85，IELTS&ge;6.5</p>			</td>		</tr>		<tr>			<td style="width:347px">			<p>地球科学（Geosciences）</p>			</td>			<td style="width:221px">			<p>TOEFL&ge;85，IELTS&ge;6.5（不带论文）</p>			<p>TOEFL&ge;90（写作不低于22分）（不带论文）</p>			</td>		</tr>	</tbody></table><p>注：语言成绩低于工程与自然科学学院标准要求可进入强化英语课程。*(5)</p><p><strong>费用与奖学金</strong></p><p><strong>奖学金申请</strong></p><p>塔尔萨大学提供的校内研究生奖学金有<a href="http://www.qianmu.org/TA" target="_blank">TA</a>/<a href="http://www.qianmu.org/RA" target="_blank">RA</a>、Fellowship和全奖学金。其中，全奖包括9个月的最低额度的补助，金额约13,000美金。据2014-15学年费用统计，学生每个学分学费大致是1,120美金。奖学金的申请要求：</p><ul>	<li>GPA最低需达到3.0</li>	<li>TA/RA奖学金需在2月1日前递交申请表；部分特殊项目要求1月15日必须提交。*(6)</li></ul><p><strong>费用（</strong><strong>2014-15</strong><strong>）</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:57.82%">			<p>Tuition (Fall and Spring)</p>			</td>			<td style="width:42.18%">			<p>$20,160</p>			</td>		</tr>		<tr>			<td style="width:57.82%">			<p>Fall and Spring International Student Fees</p>			</td>			<td style="width:42.18%">			<p>$360</p>			</td>		</tr>		<tr>			<td style="width:57.82%">			<p>Health Insurance</p>			</td>			<td style="width:42.18%">			<p>$1,150</p>			</td>		</tr>		<tr>			<td style="width:57.82%">			<p>Student Association Fee</p>			</td>			<td style="width:42.18%">			<p>$120</p>			</td>		</tr>		<tr>			<td style="width:57.82%">			<p>Total Tuition and Fees</p>			</td>			<td style="width:42.18%">			<p>$21,790</p>			</td>		</tr>		<tr>			<td style="width:57.82%">			<p>Books</p>			</td>			<td style="width:42.18%">			<p>$900</p>			</td>		</tr>		<tr>			<td style="width:57.82%">			<p>Housing (on campus)</p>			</td>			<td style="width:42.18%">			<p>$5,800</p>			</td>		</tr>		<tr>			<td style="width:57.82%">			<p>Food</p>			</td>			<td style="width:42.18%">			<p>$4,626</p>			</td>		</tr>		<tr>			<td style="width:57.82%">			<p>Community Fee</p>			</td>			<td style="width:42.18%">			<p>$200</p>			</td>		</tr>		<tr>			<td style="width:57.82%">			<p>Personal Expenses</p>			</td>			<td style="width:42.18%">			<p>$3,612</p>			</td>		</tr>		<tr>			<td style="width:57.82%">			<p>Total Living Expenses</p>			</td>			<td style="width:42.18%">			<p>$15,138</p>			</td>		</tr>		<tr>			<td style="width:57.82%">			<p>Total Tuition, Fees, and Living Expenses</p>			</td>			<td style="width:42.18%">			<p>$36,928</p>			</td>		</tr>	</tbody></table><p>*(7)</p><p><strong>参考资料：</strong></p><p>(1)<a href="http://www.qianmu.org/redirect?code=wrYmhljOktZGdeUzPPPPPKhTS6O4amcL0PIiIiGV2xw3z6PGqSkYXwQk4IG0-SxNASNpmmk38mfJq8ycROLlMD_SkbpyOHsC4akbZdoOsl9XfIm7pzFDcgm2af675-0MTU" target="_blank"> Graduate and Professional Programs</a> University of Tulsa</p><p>(2) <a href="http://www.qianmu.org/redirect?code=urKrNAQzLo3V1ZRwC4dGSLrH9KqFMEg-Jb77oxLk-KQ2BmZdYtmmf4NACQ-2p7mIO_IrWso3eUOpaO9ZDKeADSNOXuUJNjSS-91HMThr5bmk9aahSJlhMsMV7w2bDLKoboS_tjxxHN7tNfdaNQD2" target="_blank">About the School</a> University of Tulsa</p><p>(3)<a href="http://www.qianmu.org/redirect?code=pr9ExTdnL9PXWNBVEEEEEH8O8K93ejhwe7a7ad2Gaxh5T_NU1ynGe_gpwICtn0Cnwei7w0DJm4CBnei7Me_z9BCzT4Vj2t3H5BAHZBWQ0TjSqljQKrnOel82-" target="_blank">Graduate Admission</a> University of Tulsa</p><p>(4)<a href="http://www.qianmu.org/redirect?code=4rjT-Bk7LlbvUgFkSSSSSk39dVsJRCFk_LuLu9jYuQd4SW-TN6HY_WsIn6HOJ6OIS9cIJWf4N6uOS9cQSvsgu6s2Nw1HqQbTsYb5spJUND-aoDJvw6IK5kxlLQH2F0aT7-ROp-R_9sRIa6rhGrwY7b1N9su_K6d_lL2a7CpIjyRzjJf_iC1_P6HNGmJPyZO8n1OmnrWi" target="_blank">Online Application for International Students</a> University of Tulsa</p><p>(5)<a href="http://www.qianmu.org/redirect?code=crr9Mj-xLyQ82Z3R1115zzGdW_LntJEZFojoj4Hij_5htxqICfLiFx-Q7fLclfcQt4rQlxVhCfjc1kmvAkFK4SJKIhgHqQbTsYb5spJUND-awEJOZ1KPuHNVcFyluPJOZ1KPBCik5NixLsH38HbOGMdcmH3x2AGCOAYUTXQhRwSpr3S0JAHh5A1Ct42sETI7CphE-S_dNwYjbcOnv1_dN6z7NsOZyshjZfhdZ2I7CphEC1hlrq" target="_blank">English Language Requirements</a> University of Tulsa</p><p>(6)<a href="http://www.qianmu.org/redirect?code=_r75g1q4L2hPgvWMIIIIImUElKfyC75016WSWSmtHtqiwZ5GT0C5pI2PA9D57fLclfcQvYM1OE8TAJd1vLFGoDKWI1JLg1vnEvNSRjdod9epDoBcn3gIKr8LMwNQkBDxzIbGSMPlIwPYX0m-gC4t36DN5sD9S8g5m" target="_blank">Graduate Financial Assistance</a> University of Tulsa</p><p>(7)<a href="http://www.qianmu.org/redirect?code=ErbpefUFwX5FZCM6pppppJWCaAX95RmHqrqrLx0rayN9vGU1ZA0HvIbFZAj7Ze10vGm0XwRhO7q1vGm-vr4Uq74yOYVlzwJdXw3dt7idqLt5q6J1fZjfdVXYprlEpkvrTj8rp-XrArYfx-X5sf3C0lpMsIOfG9qfsXYdsAO7T" target="_blank">Tuition and Living Expenses</a> University of Tulsa</p><h2>艺术与科学学院</h2><p>塔尔萨大学艺术与科学学院（Henry Kendall College of Arts and Sciences）开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:22.96%">			<p><strong>项目名称</strong></p>			</td>			<td style="width:59.02%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:18.04%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:22.96%">			<p>人类学</p>			</td>			<td style="width:59.02%">			<p>Anthropology</p>			</td>			<td style="width:18.04%">			<p>MA PhD</p>			</td>		</tr>		<tr>			<td style="width:22.96%">			<p>艺术</p>			</td>			<td style="width:59.02%">			<p>Art</p>			</td>			<td style="width:18.04%">			<p>MFA MA MTA</p>			</td>		</tr>		<tr>			<td style="width:22.96%">			<p>教育</p>			</td>			<td style="width:59.02%">			<p>Education</p>			</td>			<td style="width:18.04%">			<p>MS MTA M.Ed</p>			</td>		</tr>		<tr>			<td style="width:22.96%">			<p>教育研究</p>			</td>			<td style="width:59.02%">			<p>Educational Studies</p>			</td>			<td style="width:18.04%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:22.96%">			<p>英语</p>			</td>			<td style="width:59.02%">			<p>English</p>			</td>			<td style="width:18.04%">			<p>MA PhD</p>			</td>		</tr>		<tr>			<td style="width:22.96%">			<p>历史</p>			</td>			<td style="width:59.02%">			<p>History</p>			</td>			<td style="width:18.04%">			<p>MA PhD</p>			</td>		</tr>		<tr>			<td style="width:22.96%">			<p>临床心理学</p>			</td>			<td style="width:59.02%">			<p>Clinical Psychology</p>			</td>			<td style="width:18.04%">			<p>MA PhD</p>			</td>		</tr>		<tr>			<td style="width:22.96%">			<p>工业组织心理学</p>			</td>			<td style="width:59.02%">			<p>Industrial/Organizational Psychology</p>			</td>			<td style="width:18.04%">			<p>MA PhD</p>			</td>		</tr>		<tr>			<td style="width:22.96%">			<p>言语语言病理学</p>			</td>			<td style="width:59.02%">			<p>Speech Language Pathology</p>			</td>			<td style="width:18.04%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:22.96%">			<p>教学艺术</p>			</td>			<td style="width:59.02%">			<p>Teaching Arts</p>			</td>			<td style="width:18.04%">			<p>MA MFA MAT</p>			</td>		</tr>	</tbody></table><p>*</p><p><strong>参考资料：</strong></p><p><a href="http://www.qianmu.org/redirect?code=Gr-dDkh9kltmgDtEgggggVnen2GsDfmultbtb569bs80ftgO2eyACIgX6uyAYlyY6tpDkt9XhLyXKeGCrmEfx9mycgaf7ImAOgEfJtusSkEAczqI8E2Roc2fkj" target="_blank">Graduate and Professional Programs</a> University of Tulsa</p><h2>商学院</h2><p>塔尔萨大学商学院（Collins College of Business）开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:20.36%">			<p><strong>项目名称</strong></p>			</td>			<td style="width:59.28%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:20.36%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:20.36%">			<p>会计</p>			</td>			<td style="width:59.28%">			<p>Accountancy (MAcc)</p>			</td>			<td style="width:20.36%">			<p>M.Acc</p>			</td>		</tr>		<tr>			<td style="width:20.36%">			<p>工商管理</p>			</td>			<td style="width:59.28%">			<p>Business Administration (<a href="http://www.qianmu.org/MBA" target="_blank">MBA</a>)</p>			</td>			<td style="width:20.36%">			<p>MBA</p>			</td>		</tr>		<tr>			<td style="width:20.36%">			<p>能源贸易</p>			</td>			<td style="width:59.28%">			<p>Energy Business (MEB)</p>			</td>			<td style="width:20.36%">			<p>MEB</p>			</td>		</tr>		<tr>			<td style="width:20.36%">			<p>金融</p>			</td>			<td style="width:59.28%">			<p>Finance (MSF)</p>			</td>			<td style="width:20.36%">			<p>MSF</p>			</td>		</tr>	</tbody></table><p>*</p><p><strong>参考资料：</strong></p><p><a href="http://www.qianmu.org/redirect?code=FrFYCW9ZLDXYcxdOKKKKKMFxFo7UlwDEBHBHhLmHFR0Ue1QJVomEeq_vVor9Vr_Uha4EItN12sNopbOLKtVPIehmw1ShcT_8wzSg5eMZdz_adoyPtWC6GWf6-o" target="_blank">Graduate and Professional Programs</a> University of Tulsa</p><h2>工程与自然科学学院</h2><p>塔尔萨大学工程与自然科学（College of Engineering and Natural Sciences）开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:22.72%">			<p><strong>项目名称</strong></p>			</td>			<td style="width:50.0%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:27.28%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:22.72%">			<p>应用数学</p>			</td>			<td style="width:50.0%">			<p><a href="http://www.qianmu.org/应用数学" target="_blank">Applied Mathematics</a></p>			</td>			<td style="width:27.28%">			<p>MS PhD</p>			</td>		</tr>		<tr>			<td style="width:22.72%">			<p>生物化学</p>			</td>			<td style="width:50.0%">			<p>Biochemistry</p>			</td>			<td style="width:27.28%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:22.72%">			<p>生物科学</p>			</td>			<td style="width:50.0%">			<p>Biological Sciences</p>			</td>			<td style="width:27.28%">			<p>MS PhD</p>			</td>		</tr>		<tr>			<td style="width:22.72%">			<p>化学工程</p>			</td>			<td style="width:50.0%">			<p>Chemical Engineering</p>			</td>			<td style="width:27.28%">			<p>MS PhD M.Eng</p>			</td>		</tr>		<tr>			<td style="width:22.72%">			<p>化学</p>			</td>			<td style="width:50.0%">			<p>Chemistry</p>			</td>			<td style="width:27.28%">			<p>MS PhD</p>			</td>		</tr>		<tr>			<td style="width:22.72%">			<p>计算机工程</p>			</td>			<td style="width:50.0%">			<p>Computer Engineering</p>			</td>			<td style="width:27.28%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:22.72%">			<p>计算机科学</p>			</td>			<td style="width:50.0%">			<p>Computer Science</p>			</td>			<td style="width:27.28%">			<p>MS PhD</p>			</td>		</tr>		<tr>			<td style="width:22.72%">			<p>电气工程</p>			</td>			<td style="width:50.0%">			<p>Electrical Engineering</p>			</td>			<td style="width:27.28%">			<p>MS M.Eng</p>			</td>		</tr>		<tr>			<td style="width:22.72%">			<p>工程物理</p>			</td>			<td style="width:50.0%">			<p><a href="http://www.qianmu.org/工程物理" target="_blank">Engineering Physics</a></p>			</td>			<td style="width:27.28%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:22.72%">			<p>地球科学</p>			</td>			<td style="width:50.0%">			<p>Geosciences</p>			</td>			<td style="width:27.28%">			<p>MS PhD</p>			</td>		</tr>		<tr>			<td style="width:22.72%">			<p>机械工程</p>			</td>			<td style="width:50.0%">			<p>Mechanical Engineering</p>			</td>			<td style="width:27.28%">			<p>MS PhD M.Eng</p>			</td>		</tr>		<tr>			<td style="width:22.72%">			<p>石油工程</p>			</td>			<td style="width:50.0%">			<p>Petroleum Engineering</p>			</td>			<td style="width:27.28%">			<p>MS PhD M.Eng</p>			</td>		</tr>		<tr>			<td style="width:22.72%">			<p>物理</p>			</td>			<td style="width:50.0%">			<p>Physics</p>			</td>			<td style="width:27.28%">			<p>MS PhD</p>			</td>		</tr>	</tbody></table><p>*</p><p><strong>参考资料：</strong></p><p><a href="http://www.qianmu.org/redirect?code=nrIezt29Ln0yNcyXrrrrrJgsgkkf1ohR4sbsbtPeb9IU1K2JL8ye4KalV8ywB8wl1tMd1NaHb8afLP9tEj6RHtcHJl6KWi2_wH6HbmFs619znaNFnDRTQ1PiQfqB" target="_blank">Graduate and Professional Programs</a> University of Tulsa</p><h2>法学院</h2><p>塔尔萨大学法学院（College of Law）开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:31.26%">			<p><strong>项目名称</strong></p>			</td>			<td style="width:53.16%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:15.58%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:31.26%">			<p>美国印第安纳及土著法</p>			</td>			<td style="width:53.16%">			<p>American Indian and Indigenous Law</p>			</td>			<td style="width:15.58%">			<p><a href="http://www.qianmu.org/LLM" target="_blank">LLM</a></p>			</td>		</tr>		<tr>			<td style="width:31.26%">			<p>美国国际学生法</p>			</td>			<td style="width:53.16%">			<p>American Law for Foreign Graduates</p>			</td>			<td style="width:15.58%">			<p>LLM</p>			</td>		</tr>		<tr>			<td style="width:31.26%">			<p>法学</p>			</td>			<td style="width:53.16%">			<p>Law</p>			</td>			<td style="width:15.58%">			<p><a href="http://www.qianmu.org/JD" target="_blank">JD</a></p>			</td>		</tr>	</tbody></table><p>*</p><p><strong>参考资料：</strong></p><p><a href="http://www.qianmu.org/redirect?code=SrWl9LxFwX5FZCAxTTTTT4D5DMklcm1h8V8VU9-VDuRlZKYfGM-hZradGMHCGHax0JX-0LZIGQZhurUvNA0iplD21f0uqlZH1C0rRhs4UCZVUdG-qh0rqlDe" target="_blank">Graduate and Professional Programs</a> University of Tulsa</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>6,762</td>		</tr>	</tbody></table></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2020-09-18</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1527;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1527' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '0';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1527;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>护理-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="护理" />
+<meta name="description"  id="description"  content="护理:护理学（Nursing）是自然科学、社会科学、人文科学等多学科相互渗透的一门综合性应用学科。从1860年南丁格尔创办第一所护士学校——南丁格尔护士训练学校（Nightingale Training School for Nurses）起，护理学经历了四个过程：简单的清洁卫生护理、以疾病为中心的护理、以病人为中心的整理护理、以人的健康为中心的护理。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">护理 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>常见学位</p>			</td>			<td>			<p>BSN、MSN、DPN、PhD</p>			</td>		</tr>		<tr>			<td>			<p>典型职业与薪水</p>			</td>			<td>			<p><a href="http://www.qianmu.org/注册护士" target="_blank">注册护士</a>：$68,910</p>			<p>助理护士：$26,020</p>			</td>		</tr>		<tr>			<td>			<p>签证敏感度</p>			</td>			<td>			<p>无</p>			</td>		</tr>		<tr>			<td>			<p>高中课程准备</p>			</td>			<td>			<p>理科、文科</p>			</td>		</tr>		<tr>			<td>			<p>所属专业领域</p>			</td>			<td>			<p>社科</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>护理学（Nursing）是自然科学、社会科学、人文科学等多学科相互渗透的一门综合性应用学科。从1860年南丁格尔创办第一所护士学校&mdash;&mdash;南丁格尔护士训练学校（Nightingale Training School for Nurses）起，护理学经历了四个过程：简单的清洁卫生护理、以疾病为中心的护理、以病人为中心的整理护理、以人的健康为中心的护理。*(1)</p><p>护理学在美国不少学校均只设于研究生阶段，但也有很多学校会在本科阶段开设。该专业研究生阶段通常要求学生拥有相应的护士执照方可申请。</p><h2>课程列表</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/统计学' target='_blank'>统计学</a></p>			</td>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/统计学' target='_blank'>Statistics</a></p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>生物学</p>			</td>			<td style="width:285px">			<p>Biology</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/微生物学' target='_blank'>微生物学</a></p>			</td>			<td style="width:285px">			<p>Microbiology</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/化学' target='_blank'>化学</a></p>			</td>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/化学' target='_blank'>Chemistry</a></p>			</td>		</tr>		<tr>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/生物化学' target='_blank'>生物化学</a></p>			</td>			<td style="width:285px">			<p>Biochemistry</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>人体解剖学</p>			</td>			<td style="width:285px">			<p>Human Anatomy</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/社会学' target='_blank'>社会学</a></p>			</td>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/社会学' target='_blank'>Sociology</a></p>			</td>		</tr>		<tr>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/营养学' target='_blank'>营养学</a></p>			</td>			<td style="width:285px">			<p>Nutrition</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>变态<a  href='http://www.qianmu.org/心理学' target='_blank'>心理学</a></p>			</td>			<td style="width:285px">			<p>Abnormal <a  href='http://www.qianmu.org/心理学' target='_blank'>Psychology</a></p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>护理基础</p>			</td>			<td style="width:285px">			<p>Foundations of Nursing</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>婴儿护理</p>			</td>			<td style="width:285px">			<p>Nursing Care of the Childbearing Family</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>儿童护理</p>			</td>			<td style="width:285px">			<p>Nursing Care of Children</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>成人护理</p>			</td>			<td style="width:285px">			<p>Nursing Care of Adults</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>老年人护理</p>			</td>			<td style="width:285px">			<p>Nursing Care of Older Adults</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>心理健康护理</p>			</td>			<td style="width:285px">			<p>Mental Health Nursing</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>临床轮换</p>			</td>			<td style="width:285px">			<p>Clinical Rotations</p>			</td>		</tr>	</tbody></table><h2>就业状况</h2><p>职业：<a  href='http://www.qianmu.org/牙医' target='_blank'>牙医</a>、医疗卫生管理员、善终护士、护士、职业理疗师、医药销售代表、<a  href='http://www.qianmu.org/物理' target='_blank'>物理</a>学家</p><h3>注册护士</h3><p>美国<a  href='http://www.qianmu.org/注册护士' target='_blank'>注册护士</a>从业人数最多的五个州：</p><table border="1" cellpadding="0" cellspacing="0" style="width:561px">	<tbody>		<tr>			<td style="width:134px">			<p>州名</p>			</td>			<td style="width:144px">			<p>就业人数</p>			</td>			<td style="width:142px">			<p>薪水/h</p>			</td>			<td style="width:142px">			<p>薪水/年</p>			</td>		</tr>		<tr>			<td style="width:134px">			<p>加州</p>			</td>			<td style="width:144px">			<p>252,940</p>			</td>			<td style="width:142px">			<p>$46.62</p>			</td>			<td style="width:142px">			<p>$96,980</p>			</td>		</tr>		<tr>			<td style="width:134px">			<p><a  href='http://www.qianmu.org/德克萨斯州' target='_blank'>德克萨斯州</a></p>			</td>			<td style="width:144px">			<p>190,090</p>			</td>			<td style="width:142px">			<p>$32.62</p>			</td>			<td style="width:142px">			<p>$67,860</p>			</td>		</tr>		<tr>			<td style="width:134px">			<p><a  href='http://www.qianmu.org/纽约州' target='_blank'>纽约州</a></p>			</td>			<td style="width:144px">			<p>169,820</p>			</td>			<td style="width:142px">			<p>$36.29</p>			</td>			<td style="width:142px">			<p>$75,470</p>			</td>		</tr>		<tr>			<td style="width:134px">			<p><a  href='http://www.qianmu.org/佛罗里达州' target='_blank'>佛罗里达州</a></p>			</td>			<td style="width:144px">			<p>162,530</p>			</td>			<td style="width:142px">			<p>$29.84</p>			</td>			<td style="width:142px">			<p>$62,060</p>			</td>		</tr>		<tr>			<td style="width:134px">			<p><a  href='http://www.qianmu.org/宾夕法尼亚州' target='_blank'>宾夕法尼亚州</a></p>			</td>			<td style="width:144px">			<p>124,750</p>			</td>			<td style="width:142px">			<p>$31.74</p>			</td>			<td style="width:142px">			<p>$66,010</p>			</td>		</tr>	</tbody></table><p>*(2)</p><h3>护士助理</h3><p>护士助理美国各州就业情况：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:142px">			<p>州名</p>			</td>			<td style="width:142px">			<p>就业人数</p>			</td>			<td style="width:142px">			<p>薪水/h</p>			</td>			<td style="width:142px">			<p>薪水/年</p>			</td>		</tr>		<tr>			<td style="width:142px">			<p>加州</p>			</td>			<td style="width:142px">			<p>99500</p>			</td>			<td style="width:142px">			<p>$14.13</p>			</td>			<td style="width:142px">			<p>$29,400</p>			</td>		</tr>		<tr>			<td style="width:142px">			<p>纽约</p>			</td>			<td style="width:142px">			<p>98340</p>			</td>			<td style="width:142px">			<p>$15.31</p>			</td>			<td style="width:142px">			<p>$31,840</p>			</td>		</tr>		<tr>			<td style="width:142px">			<p><a  href='http://www.qianmu.org/德克萨斯州' target='_blank'>德克萨斯州</a></p>			</td>			<td style="width:142px">			<p>86940</p>			</td>			<td style="width:142px">			<p>$11.13</p>			</td>			<td style="width:142px">			<p>$23,150</p>			</td>		</tr>		<tr>			<td style="width:142px">			<p><a  href='http://www.qianmu.org/佛罗里达州' target='_blank'>佛罗里达州</a></p>			</td>			<td style="width:142px">			<p>84740</p>			</td>			<td style="width:142px">			<p>$11.58</p>			</td>			<td style="width:142px">			<p>$24,080</p>			</td>		</tr>		<tr>			<td style="width:142px">			<p><a  href='http://www.qianmu.org/宾夕法尼亚州' target='_blank'>宾夕法尼亚州</a></p>			</td>			<td style="width:142px">			<p>71660</p>			</td>			<td style="width:142px">			<p>$13.12</p>			</td>			<td style="width:142px">			<p>$27,290</p>			</td>		</tr>		<tr>			<td style="width:142px">			<p>罗德岛</p>			</td>			<td style="width:142px">			<p>9390</p>			</td>			<td style="width:142px">			<p>$13.75</p>			</td>			<td style="width:142px">			<p>$28,590</p>			</td>		</tr>		<tr>			<td style="width:142px">			<p><a  href='http://www.qianmu.org/阿肯色州' target='_blank'>阿肯色州</a></p>			</td>			<td style="width:142px">			<p>19230</p>			</td>			<td style="width:142px">			<p>$10.10</p>			</td>			<td style="width:142px">			<p>$21,000</p>			</td>		</tr>		<tr>			<td style="width:142px">			<p><a  href='http://www.qianmu.org/北达科他州' target='_blank'>北达科他州</a></p>			</td>			<td style="width:142px">			<p>6550</p>			</td>			<td style="width:142px">			<p>$13.24</p>			</td>			<td style="width:142px">			<p>$27,530</p>			</td>		</tr>		<tr>			<td style="width:142px">			<p><a  href='http://www.qianmu.org/缅因州' target='_blank'>缅因州</a></p>			</td>			<td style="width:142px">			<p>9240</p>			</td>			<td style="width:142px">			<p>$11.68</p>			</td>			<td style="width:142px">			<p>$24,300</p>			</td>		</tr>		<tr>			<td style="width:142px">			<p>爱荷华</p>			</td>			<td style="width:142px">			<p>22750</p>			</td>			<td style="width:142px">			<p>$12.15</p>			</td>			<td style="width:142px">			<p>$25,270</p>			</td>		</tr>		<tr>			<td style="width:142px">			<p>阿拉斯加</p>			</td>			<td style="width:142px">			<p>2030</p>			</td>			<td style="width:142px">			<p>$16.82</p>			</td>			<td style="width:142px">			<p>$34,990</p>			</td>		</tr>		<tr>			<td style="width:142px">			<p><a  href='http://www.qianmu.org/康涅狄格州' target='_blank'>康涅狄格州</a></p>			</td>			<td style="width:142px">			<p>21380</p>			</td>			<td style="width:142px">			<p>$15.22</p>			</td>			<td style="width:142px">			<p>$31,660</p>			</td>		</tr>		<tr>			<td style="width:142px">			<p>内华达</p>			</td>			<td style="width:142px">			<p>4910</p>			</td>			<td style="width:142px">			<p>$15.03</p>			</td>			<td style="width:142px">			<p>$31,270</p>			</td>		</tr>		<tr>			<td style="width:142px">			<p><a  href='http://www.qianmu.org/哥伦比亚（南卡罗来纳州）' target='_blank'>哥伦比亚</a>特区</p>			</td>			<td style="width:142px">			<p>2930</p>			</td>			<td style="width:142px">			<p>$14.57</p>			</td>			<td style="width:142px">			<p>$30,300</p>			</td>		</tr>	</tbody></table><p>*(3)</p><p><strong>重要产业所在州&mdash;&mdash;</strong></p><p>一级州：罗德岛（1.90）、阿肯色州（1.53）、北达科他州（1.49）、缅因州（1.46）、<a  href='http://www.qianmu.org/内布拉斯加州' target='_blank'>内布拉斯加州</a>（1.42）、<a  href='http://www.qianmu.org/爱荷华州' target='_blank'>爱荷华州</a>（1.42）、<a  href='http://www.qianmu.org/密苏里州' target='_blank'>密苏里州</a>（1.40）、<a  href='http://www.qianmu.org/南达科他州' target='_blank'>南达科他州</a>（1.40）、<a  href='http://www.qianmu.org/堪萨斯州' target='_blank'>堪萨斯州</a>（1.36）、<a  href='http://www.qianmu.org/密西西比州' target='_blank'>密西西比州</a>（1.31）、<a  href='http://www.qianmu.org/俄亥俄州' target='_blank'>俄亥俄州</a>（1.26）、<a  href='http://www.qianmu.org/北卡罗来纳州' target='_blank'>北卡罗来纳州</a>（1.26）、<a  href='http://www.qianmu.org/肯塔基州' target='_blank'>肯塔基州</a>（1.25）、<a  href='http://www.qianmu.org/威斯康辛州' target='_blank'>威斯康辛州</a>（1.23）</p><p>二级州：<a  href='http://www.qianmu.org/新罕布什尔州' target='_blank'>新罕布什尔州</a>（1.24）、康涅狄格州（1.21）、<a  href='http://www.qianmu.org/特拉华州' target='_blank'>特拉华州</a>（1.19）、<a  href='http://www.qianmu.org/新泽西州' target='_blank'>新泽西州</a>（1.19）、<a  href='http://www.qianmu.org/爱达荷州' target='_blank'>爱达荷州</a>（1.18）、宾夕法尼亚州（1.17）、<a  href='http://www.qianmu.org/路易斯安那州' target='_blank'>路易斯安那州</a>（1.12）、麻省（1.10）、<a  href='http://www.qianmu.org/蒙大拿州' target='_blank'>蒙大拿州</a>（1.09）、<a  href='http://www.qianmu.org/俄克拉荷马州' target='_blank'>俄克拉荷马州</a>（1.08）、佛罗里达州（1.07）、纽约（1.06）、<a  href='http://www.qianmu.org/明尼苏达州' target='_blank'>明尼苏达州</a>（1.03）、<a  href='http://www.qianmu.org/西弗吉尼亚州' target='_blank'>西弗吉尼亚州</a>（1.02）、<a  href='http://www.qianmu.org/马里兰州' target='_blank'>马里兰州</a>（1.01）、<a  href='http://www.qianmu.org/阿拉巴马州' target='_blank'>阿拉巴马州</a>（1.00）、<a  href='http://www.qianmu.org/怀俄明州' target='_blank'>怀俄明州</a>（0.98）、<a  href='http://www.qianmu.org/南卡罗来纳州' target='_blank'>南卡罗来纳州</a>（0.94）、<a  href='http://www.qianmu.org/弗吉尼亚州' target='_blank'>弗吉尼亚州</a>（0.93）、<a  href='http://www.qianmu.org/佛蒙特州' target='_blank'>佛蒙特州</a>（0.91）、<a  href='http://www.qianmu.org/佐治亚州' target='_blank'>佐治亚州</a>（0.88）</p><p>三级州：<a  href='http://www.qianmu.org/华盛顿' target='_blank'>华盛顿</a>（0.79）、夏威夷（0.79）、<a  href='http://www.qianmu.org/犹他州' target='_blank'>犹他州</a>（0.77）、德州（0.75）、<a  href='http://www.qianmu.org/俄勒冈州' target='_blank'>俄勒冈州</a>（0.72）、<a  href='http://www.qianmu.org/新墨西哥州' target='_blank'>新墨西哥州</a>（0.71）、<a  href='http://www.qianmu.org/科罗拉多州' target='_blank'>科罗拉多州</a>（0.69）、加州（0.64）、<a  href='http://www.qianmu.org/阿拉斯加州' target='_blank'>阿拉斯加州</a>（0.58）、<a  href='http://www.qianmu.org/亚利桑那州' target='_blank'>亚利桑那州</a>（0.57）、<a  href='http://www.qianmu.org/内华达州' target='_blank'>内华达州</a>（0.40）*(3)</p><h3>护理学教师</h3><p>护理学教师美国各州就业情况：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:189px">			<p>州名</p>			</td>			<td style="width:189px">			<p>就业人数</p>			</td>			<td style="width:189px">			<p>薪水/年</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p><a  href='http://www.qianmu.org/德克萨斯州' target='_blank'>德克萨斯州</a></p>			</td>			<td style="width:189px">			<p>3920</p>			</td>			<td style="width:189px">			<p>$63,180</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p><a  href='http://www.qianmu.org/俄亥俄州' target='_blank'>俄亥俄州</a></p>			</td>			<td style="width:189px">			<p>3650</p>			</td>			<td style="width:189px">			<p>$62,390</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>纽约</p>			</td>			<td style="width:189px">			<p>3480</p>			</td>			<td style="width:189px">			<p>$78,420</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>加州</p>			</td>			<td style="width:189px">			<p>3300</p>			</td>			<td style="width:189px">			<p>$89,060</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p><a  href='http://www.qianmu.org/宾夕法尼亚州' target='_blank'>宾夕法尼亚州</a></p>			</td>			<td style="width:189px">			<p>3200</p>			</td>			<td style="width:189px">			<p>$75,500</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p><a  href='http://www.qianmu.org/肯塔基州' target='_blank'>肯塔基州</a></p>			</td>			<td style="width:189px">			<p>1530</p>			</td>			<td style="width:189px">			<p>$62,800</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p><a  href='http://www.qianmu.org/阿拉巴马州' target='_blank'>阿拉巴马州</a></p>			</td>			<td style="width:189px">			<p>1410</p>			</td>			<td style="width:189px">			<p>$58,320</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>西弗吉尼亚</p>			</td>			<td style="width:189px">			<p>500</p>			</td>			<td style="width:189px">			<p>$55,260</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p><a  href='http://www.qianmu.org/俄克拉荷马州' target='_blank'>俄克拉荷马州</a></p>			</td>			<td style="width:189px">			<p>1060</p>			</td>			<td style="width:189px">			<p>$67,400</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>马里兰</p>			</td>			<td style="width:189px">			<p>830</p>			</td>			<td style="width:189px">			<p>$89,560</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>内华达</p>			</td>			<td style="width:189px">			<p>560</p>			</td>			<td style="width:189px">			<p>$81,910</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p><a  href='http://www.qianmu.org/新泽西州' target='_blank'>新泽西州</a></p>			</td>			<td style="width:189px">			<p>1100</p>			</td>			<td style="width:189px">			<p>$81,160</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p><a  href='http://www.qianmu.org/特拉华州' target='_blank'>特拉华州</a></p>			</td>			<td style="width:189px">			<p>230</p>			</td>			<td style="width:189px">			<p>$81,120</p>			</td>		</tr>	</tbody></table><p>*(4)</p><p><strong>重要产业所在州&mdash;&mdash;</strong></p><p>一级州：肯塔基州（2.07）、阿拉巴马州（1.79）、俄亥俄州（1.67）、<a  href='http://www.qianmu.org/西弗吉尼亚州' target='_blank'>西弗吉尼亚州</a>（1.62）、俄克拉荷马州（1.60）、<a  href='http://www.qianmu.org/缅因州' target='_blank'>缅因州</a>（1.60）、<a  href='http://www.qianmu.org/蒙大拿州' target='_blank'>蒙大拿州</a>（1.42）、<a  href='http://www.qianmu.org/内布拉斯加州' target='_blank'>内布拉斯加州</a>（1.36）、<a  href='http://www.qianmu.org/阿肯色州' target='_blank'>阿肯色州</a>（1.36）、特拉华州（1.34）、<a  href='http://www.qianmu.org/威斯康辛州' target='_blank'>威斯康辛州</a>（1.32）、宾夕法尼亚州（1.32）、<a  href='http://www.qianmu.org/田纳西州' target='_blank'>田纳西州</a>（1.28）、<a  href='http://www.qianmu.org/南卡罗来纳州' target='_blank'>南卡罗来纳州</a>（1.26）</p><p>二级州：<a  href='http://www.qianmu.org/南达科他州' target='_blank'>南达科他州</a>（1.20）、<a  href='http://www.qianmu.org/北卡罗来纳州' target='_blank'>北卡罗来纳州</a>（1.20）、<a  href='http://www.qianmu.org/爱荷华州' target='_blank'>爱荷华州</a>（1.18）、<a  href='http://www.qianmu.org/怀俄明州' target='_blank'>怀俄明州</a>（1.16）、<a  href='http://www.qianmu.org/内华达州' target='_blank'>内华达州</a>（1.15）、<a  href='http://www.qianmu.org/密歇根州' target='_blank'>密歇根州</a>（1.06）、<a  href='http://www.qianmu.org/路易斯安那州' target='_blank'>路易斯安那州</a>（1.04）、<a  href='http://www.qianmu.org/康涅狄格州' target='_blank'>康涅狄格州</a>（1.04）、<a  href='http://www.qianmu.org/印第安纳州' target='_blank'>印第安纳州</a>（1.02）、<a  href='http://www.qianmu.org/爱达荷州' target='_blank'>爱达荷州</a>（0.99）、<a  href='http://www.qianmu.org/密苏里州' target='_blank'>密苏里州</a>（0.98）、<a  href='http://www.qianmu.org/亚利桑那州' target='_blank'>亚利桑那州</a>（0.96）、罗德岛（0.96）、纽约（0.94）、<a  href='http://www.qianmu.org/弗吉尼亚州' target='_blank'>弗吉尼亚州</a>（0.92）、<a  href='http://www.qianmu.org/犹他州' target='_blank'>犹他州</a>（0.90）、<a  href='http://www.qianmu.org/堪萨斯州' target='_blank'>堪萨斯州</a>（0.90）、<a  href='http://www.qianmu.org/新罕布什尔州' target='_blank'>新罕布什尔州</a>（0.88）、<a  href='http://www.qianmu.org/科罗拉多州' target='_blank'>科罗拉多州</a>（0.87）、<a  href='http://www.qianmu.org/北达科他州' target='_blank'>北达科他州</a>（0.87）、德州（0.86）、<a  href='http://www.qianmu.org/佐治亚州' target='_blank'>佐治亚州</a>（0.85）、<a  href='http://www.qianmu.org/华盛顿' target='_blank'>华盛顿</a>（0.84）、<a  href='http://www.qianmu.org/明尼苏达州' target='_blank'>明尼苏达州</a>（0.81）、麻省（0.81）</p><p>三级州：<a  href='http://www.qianmu.org/马里兰州' target='_blank'>马里兰州</a>（0.77）、<a  href='http://www.qianmu.org/佛罗里达州' target='_blank'>佛罗里达州</a>（0.76）、<a  href='http://www.qianmu.org/伊利诺伊州' target='_blank'>伊利诺伊州</a>（0.75）、新泽西州（0.67）、<a  href='http://www.qianmu.org/新墨西哥州' target='_blank'>新墨西哥州</a>（0.65）、<a  href='http://www.qianmu.org/夏威夷州' target='_blank'>夏威夷州</a>（0.60）、加州（0.53）、<a  href='http://www.qianmu.org/俄勒冈州' target='_blank'>俄勒冈州</a>（0.43）*(4)</p><h2>学生评价</h2><p>&ldquo;I didn&#39;t expect nursing to be this hard. I thought nurses just nurtured patients. I didn&#39;t know nursing involved all this science and learning about medication and basically having some of the same knowledge as a doctor.&rdquo;</p><p>Shonte, junior, nursing, Bowie State University</p><p><strong>Are You Ready To...?</strong></p><ul>	<li>Join a student organization such as Sigma Theta Tau International or the National Student Nurses Association</li>	<li>Prepare for the National Council Licensure Exam for Registered Nurses (NCLEX-RN)</li>	<li>Gain hands-on experience in hospitals, schools, community health organizations, mental health institutions, and other health-care settings</li>	<li>Learn about ethical issues related to terminal illness and death</li>	<li>Spend long hours studying and memorizing scientific information</li>	<li>Take many prerequisite courses before being admitted to the nursing program*(5)</li></ul><p><strong>It Helps To Be...</strong></p><ul>	<li>A caregiver with an inquisitive mind. Do you enjoy detective stories? Do you like the challenge of figuring out a mystery? These interests will serve you well when you&rsquo;re helping to diagnose and treat a patient&rsquo;s health problems.*(5)</li></ul><h2>相关专业</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/生物化学' target='_blank'>生物化学</a></p>			</td>			<td style="width:285px">			<p>Biochemistry&nbsp;</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>生物学</p>			</td>			<td style="width:285px">			<p>Biology</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>生物<a  href='http://www.qianmu.org/心理学' target='_blank'>心理学</a></p>			</td>			<td style="width:285px">			<p>Biopsychology</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/细胞生物学' target='_blank'>细胞生物学</a></p>			</td>			<td style="width:285px">			<p>Cell Biology&nbsp;</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/化学' target='_blank'>化学</a></p>			</td>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/化学' target='_blank'>Chemistry</a></p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>脊椎推拿疗法</p>			</td>			<td style="width:285px">			<p>Chiropractic</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>循环技术</p>			</td>			<td style="width:285px">			<p>Circulation Technology</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/营养学' target='_blank'>营养学</a></p>			</td>			<td style="width:285px">			<p>Dietetics</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/健康管理' target='_blank'>健康管理</a></p>			</td>			<td style="width:285px">			<p>Health Administration</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>人类发展学</p>			</td>			<td style="width:285px">			<p>Human Development</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>医疗技术</p>			</td>			<td style="width:285px">			<p>Medical Technology</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/职业疗法' target='_blank'>职业治疗</a>法</p>			</td>			<td style="width:285px">			<p>Occupational Therapy</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/药理学' target='_blank'>药理学</a></p>			</td>			<td style="width:285px">			<p>Pharmacology&nbsp;</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/药学' target='_blank'>药学</a></p>			</td>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/药学' target='_blank'>Pharmacy</a>&nbsp;</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>理疗</p>			</td>			<td style="width:285px">			<p>Physical Therapy</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/医学' target='_blank'>医学</a>前置课程</p>			</td>			<td style="width:285px">			<p>Pre-Medicine&nbsp;</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>验光前置课程</p>			</td>			<td style="width:285px">			<p>Pre-Optometry</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p><a  href='http://www.qianmu.org/兽医' target='_blank'>兽医</a>前置课程</p>			</td>			<td style="width:285px">			<p>Pre-Veterinary Medicine</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>放射技术</p>			</td>			<td style="width:285px">			<p>Radiologic Technology</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>康复治疗</p>			</td>			<td style="width:285px">			<p>Rehabilitation Services</p>			</td>		</tr>		<tr>			<td style="width:285px">			<p>呼吸治疗</p>			</td>			<td style="width:285px">			<p>Respiratory Therapy</p>			</td>		</tr>	</tbody></table><p>参考资料：</p><p>(1)<a  href='http://www.qianmu.org/redirect?code=CrXRF8CSwHR2VXPixV5Bmg1QlNnjUbPdZRZP1HdyhJplnqkC4fA8b82ClhO3rfLVT1ShEJffZnobduCbbtq5kdXC9bnAZkfB-z-w2W4FZq4cA2XsOAaN' target='_blank'>护理学</a> 维基百科</p><p>(2)<a  href='http://www.qianmu.org/redirect?code=trmo1nqowLo4O00CFwVIbRf1w53KadUd-WenjCLbhD4By33zKd0W7G-osj111goqEJE14Nk2abfCfqlRax63Szp5hVY9sMhy1I' target='_blank'>Occupational Employment and Wages, May 2013 29-1141 Registered Nurses</a> US Bureau of Labor <a  href='http://www.qianmu.org/统计学' target='_blank'>Statistics</a></p><p>(3)<a  href='http://www.qianmu.org/redirect?code=4rjT-BDPwYZ8xJzU5fPrEEfbYkkmVbW1nrvgXOk_BoSYrgwI01cr1MUN59deJ4FUQGNfYOEwEDTzBoN5qUN1Z1SomZ_ragFM32' target='_blank'>Occupational Employment and Wages, May 2013 31-1014 Nursing Assistants</a> US Bureau of Labor Statistics</p><p>(4)<a  href='http://www.qianmu.org/redirect?code=MrO2caRpLBGgpjeEXXXXXXWK4sVpB03h-P-PUyNS4vlodAdhdAMpUA9PGwUoqlUQfPXvZBpL31Gx3FUVteQ' target='_blank'>Occupational Employment and Wages, May 2013 25-1072 Nursing Instructors and Teachers, Postsecondary</a> US Bureau of Labor Statistics</p><p>(5) <a  href='http://www.qianmu.org/redirect?code=ZrygfZoAkawhomeX6bwUMz_YFLhPaMbRiPkU6vpW_2CJBs3cbm44-lMeL_mBDloh4DwPsk6YWo-N3AM0BUCJvmB27iM6Z-Ri4D7pv-bCHozguN_3m6Z5rhOagCHo-XuF-wPsk9FWj9iPu3r2WqOSP1NX5EqodUyDnWfUaTCIjw9shpEUcDt0Vep1' target='_blank'><a href='http://www.qianmu.org/专业列表' target='_blank'  >Major</a>: Nursing (RN)</a> College Board</p><h1>学校列表</h1><h2>美国</h2><h3>本科</h3><p><strong>综合性大学（非完全列表）：</strong></p><table border="1px">	<tbody>		<tr>			<td><a  href='http://www.qianmu.org/德克萨斯大学奥斯汀分校' target='_blank'>德克萨斯大学奥斯汀分校</a></td>			<td><a  href='http://www.qianmu.org/威斯康辛大学麦迪逊分校' target='_blank'>威斯康辛大学麦迪逊分校</a></td>			<td><a  href='http://www.qianmu.org/弗吉尼亚大学' target='_blank'>弗吉尼亚大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/北卡罗来纳大学教堂山分校' target='_blank'>北卡罗来纳大学教堂山分校</a></td>			<td><a  href='http://www.qianmu.org/乔治敦大学' target='_blank'>乔治敦大学</a></td>			<td><a  href='http://www.qianmu.org/纽约大学' target='_blank'>纽约大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/佛罗里达大学' target='_blank'>佛罗里达大学</a></td>			<td><a  href='http://www.qianmu.org/东北大学' target='_blank'>东北大学</a></td>			<td><a  href='http://www.qianmu.org/密歇根州立大学' target='_blank'>密歇根州立大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/罗格斯大学' target='_blank'>罗格斯大学</a></td>			<td><a  href='http://www.qianmu.org/亚利桑那大学' target='_blank'>亚利桑那大学</a></td>			<td><a  href='http://www.qianmu.org/纽约州立大学水牛城分校' target='_blank'>纽约州立大学水牛城分校</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/纽约州立大学宾汉姆顿分校' target='_blank'>纽约州立大学宾汉姆顿分校</a></td>			<td><a  href='http://www.qianmu.org/克莱蒙森大学' target='_blank'>克莱蒙森大学</a></td>			<td><a  href='http://www.qianmu.org/印第安纳大学伯明顿分校' target='_blank'>印第安纳大学伯明顿分校</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/德雷塞尔大学' target='_blank'>德雷塞尔大学</a></td>			<td><a  href='http://www.qianmu.org/夏威夷大学马诺阿分校' target='_blank'>夏威夷大学马诺阿分校</a></td>			<td><a  href='http://www.qianmu.org/新墨西哥大学' target='_blank'>新墨西哥大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/阿拉巴马大学伯明翰分校' target='_blank'>阿拉巴马大学伯明翰分校</a></td>			<td><a  href='http://www.qianmu.org/欧道明大学' target='_blank'>欧道明大学</a></td>			<td><a  href='http://www.qianmu.org/弗吉尼亚联邦大学' target='_blank'>弗吉尼亚联邦大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/怀俄明大学' target='_blank'>怀俄明大学</a></td>			<td><a  href='http://www.qianmu.org/肯塔基大学' target='_blank'>肯塔基大学</a></td>			<td><a  href='http://www.qianmu.org/路易斯安那州立大学' target='_blank'>路易斯安那州立大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/波士顿学院' target='_blank'>波士顿学院</a></td>			<td><a  href='http://www.qianmu.org/迈阿密大学' target='_blank'>迈阿密大学</a></td>			<td><a  href='http://www.qianmu.org/普渡大学西拉法叶分校' target='_blank'>普渡大学西拉法叶分校</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/圣路易斯大学' target='_blank'>圣路易斯大学</a></td>			<td><a  href='http://www.qianmu.org/俄亥俄州立大学' target='_blank'>俄亥俄州立大学</a></td>			<td><a  href='http://www.qianmu.org/艾茉莉大学' target='_blank'>艾茉莉大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/克雷顿大学' target='_blank'>克雷顿大学</a></td>			<td><a  href='http://www.qianmu.org/特拉华大学' target='_blank'>特拉华大学</a></td>			<td><a  href='http://www.qianmu.org/爱荷华大学' target='_blank'>爱荷华大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/伊利诺伊大学芝加哥分校' target='_blank'>伊利诺伊大学芝加哥分校</a></td>			<td><a  href='http://www.qianmu.org/薛顿贺尔大学' target='_blank'>薛顿贺尔大学</a></td>			<td><a  href='http://www.qianmu.org/田纳西大学' target='_blank'>田纳西大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/圣约翰大学' target='_blank'>圣约翰大学</a></td>			<td><a  href='http://www.qianmu.org/西密歇根大学' target='_blank'>西密歇根大学</a></td>			<td><a  href='http://www.qianmu.org/伊利诺伊州立大学' target='_blank'>伊利诺伊州立大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/马萨诸塞大学洛厄尔分校' target='_blank'>马萨诸塞大学洛厄尔分校</a></td>			<td><a  href='http://www.qianmu.org/路易维尔大学' target='_blank'>路易维尔大学</a></td>			<td><a  href='http://www.qianmu.org/犹他州立大学' target='_blank'>犹他州立大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/中佛罗里达大学' target='_blank'>中佛罗里达大学</a></td>			<td><a  href='http://www.qianmu.org/北达科他州立大学' target='_blank'>北达科他州立大学</a></td>			<td><a  href='http://www.qianmu.org/阿兹塞太平洋大学' target='_blank'>阿兹塞太平洋大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/拜欧拉大学' target='_blank'>拜欧拉大学</a></td>			<td><a  href='http://www.qianmu.org/宾州印第安纳大学' target='_blank'>宾州印第安纳大学</a></td>			<td><a  href='http://www.qianmu.org/波尔州立大学' target='_blank'>波尔州立大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/阿拉巴马大学亨茨维尔分校' target='_blank'>阿拉巴马大学亨茨维尔分校</a></td>			<td><a  href='http://www.qianmu.org/安德鲁斯大学' target='_blank'>安德鲁斯大学</a></td>			<td><a  href='http://www.qianmu.org/新墨西哥州立大学' target='_blank'>新墨西哥州立大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/北卡罗来纳大学格林波若分校' target='_blank'>北卡罗来纳大学格林波若分校</a></td>			<td><a  href='http://www.qianmu.org/依马库雷塔大学' target='_blank'>依马库雷塔大学</a></td>			<td><a  href='http://www.qianmu.org/密苏里大学堪萨斯城分校' target='_blank'>密苏里大学堪萨斯城分校</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/蒙大拿州立大学' target='_blank'>蒙大拿州立大学</a></td>			<td><a  href='http://www.qianmu.org/北卡罗来纳大学夏洛特分校' target='_blank'>北卡罗来纳大学夏洛特分校</a></td>			<td><a  href='http://www.qianmu.org/南达科他州立大学' target='_blank'>南达科他州立大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/肯特州立大学' target='_blank'>肯特州立大学</a></td>			<td><a  href='http://www.qianmu.org/科罗拉多大学丹佛分校' target='_blank'>科罗拉多大学丹佛分校</a></td>			<td><a  href='http://www.qianmu.org/北达科他大学' target='_blank'>北达科他大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/佩斯大学' target='_blank'>佩斯大学</a></td>			<td><a  href='http://www.qianmu.org/阿拉巴马大学' target='_blank'>阿拉巴马大学</a></td>			<td><a  href='http://www.qianmu.org/犹他大学' target='_blank'>犹他大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/辛辛那提大学' target='_blank'>辛辛那提大学</a></td>			<td><a  href='http://www.qianmu.org/南卡罗来纳大学' target='_blank'>南卡罗来纳大学</a></td>			<td><a  href='http://www.qianmu.org/堪萨斯大学' target='_blank'>堪萨斯大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/圣地亚哥州立大学' target='_blank'>圣地亚哥州立大学</a></td>			<td><a  href='http://www.qianmu.org/天普大学' target='_blank'>天普大学</a></td>			<td><a  href='http://www.qianmu.org/密西西比大学' target='_blank'>密西西比大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/缅因大学' target='_blank'>缅因大学</a></td>			<td><a  href='http://www.qianmu.org/内华达大学雷诺分校' target='_blank'>内华达大学雷诺分校</a></td>			<td><a  href='http://www.qianmu.org/南佛罗里达大学' target='_blank'>南佛罗里达大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/韦恩州立大学' target='_blank'>韦恩州立大学</a></td>			<td><a  href='http://www.qianmu.org/马萨诸塞大学阿默斯特分校' target='_blank'>马萨诸塞大学阿默斯特分校</a></td>			<td><a  href='http://www.qianmu.org/密歇根大学安娜堡分校' target='_blank'>密歇根大学安娜堡分校</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/杨百翰大学' target='_blank'>杨百翰大学</a></td>			<td><a  href='http://www.qianmu.org/华盛顿州立大学' target='_blank'>华盛顿州立大学</a></td>			<td><a  href='http://www.qianmu.org/马凯特大学' target='_blank'>马凯特大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/密苏里大学' target='_blank'>密苏里大学</a></td>			<td><a  href='http://www.qianmu.org/新罕布什尔大学' target='_blank'>新罕布什尔大学</a></td>			<td><a  href='http://www.qianmu.org/芝加哥洛约拉大学' target='_blank'>芝加哥洛约拉大学</a></td>		</tr>		<tr>			<td>阿肯色大学</td>			<td><a  href='http://www.qianmu.org/贝勒大学' target='_blank'>贝勒大学</a></td>			<td><a  href='http://www.qianmu.org/佛蒙特大学' target='_blank'>佛蒙特大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/塔尔萨大学' target='_blank'>塔尔萨大学</a></td>			<td><a  href='http://www.qianmu.org/密苏里科技大学' target='_blank'>密苏里科技大学</a></td>			<td><a  href='http://www.qianmu.org/纽约州立大学石溪分校' target='_blank'>纽约州立大学石溪分校</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/美国天主大学' target='_blank'>美国天主大学</a></td>			<td><a  href='http://www.qianmu.org/罗德岛大学' target='_blank'>罗德岛大学</a></td>			<td><a  href='http://www.qianmu.org/佛罗里达州立大学' target='_blank'>佛罗里达州立大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/旧金山大学' target='_blank'>旧金山大学</a></td>			<td><a  href='http://www.qianmu.org/杜肯大学' target='_blank'>杜肯大学</a></td>			<td><a  href='http://www.qianmu.org/德克萨斯基督大学' target='_blank'>德克萨斯基督大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/乔治梅森大学' target='_blank'>乔治梅森大学</a></td>			<td>&nbsp;</td>			<td>&nbsp;</td>		</tr>	</tbody></table><p><strong>文理学院（非完全列表）：</strong></p><p><a  href='http://www.qianmu.org/中央学院' target='_blank'>中央学院</a></p><h3>研究生</h3><p><strong>非完全列表：</strong></p><table border="1px">	<tbody>		<tr>			<td><a  href='http://www.qianmu.org/耶鲁大学' target='_blank'>耶鲁大学</a></td>			<td><a  href='http://www.qianmu.org/加州大学洛杉矶分校' target='_blank'>加州大学洛杉矶分校</a></td>			<td><a  href='http://www.qianmu.org/德克萨斯大学奥斯汀分校' target='_blank'>德克萨斯大学奥斯汀分校</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/威斯康辛大学麦迪逊分校' target='_blank'>威斯康辛大学麦迪逊分校</a></td>			<td><a  href='http://www.qianmu.org/华盛顿大学' target='_blank'>华盛顿大学</a></td>			<td><a  href='http://www.qianmu.org/弗吉尼亚大学' target='_blank'>弗吉尼亚大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/北卡罗来纳大学教堂山分校' target='_blank'>北卡罗来纳大学教堂山分校</a></td>			<td><a  href='http://www.qianmu.org/加州大学戴维斯分校' target='_blank'>加州大学戴维斯分校</a></td>			<td><a  href='http://www.qianmu.org/乔治敦大学' target='_blank'>乔治敦大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/纽约大学' target='_blank'>纽约大学</a></td>			<td><a  href='http://www.qianmu.org/加州大学尔湾分校' target='_blank'>加州大学尔湾分校</a></td>			<td><a  href='http://www.qianmu.org/佛罗里达大学' target='_blank'>佛罗里达大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/德克萨斯基督大学' target='_blank'>德克萨斯基督大学</a></td>			<td><a  href='http://www.qianmu.org/乔治梅森大学' target='_blank'>乔治梅森大学</a></td>			<td><a  href='http://www.qianmu.org/圣路易斯大学' target='_blank'>圣路易斯大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/田纳西大学' target='_blank'>田纳西大学</a></td>			<td><a  href='http://www.qianmu.org/旧金山大学' target='_blank'>旧金山大学</a></td>			<td><a  href='http://www.qianmu.org/美国天主大学' target='_blank'>美国天主大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/罗德岛大学' target='_blank'>罗德岛大学</a></td>			<td><a  href='http://www.qianmu.org/薛顿贺尔大学' target='_blank'>薛顿贺尔大学</a></td>			<td><a  href='http://www.qianmu.org/杜肯大学' target='_blank'>杜肯大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/阿拉巴马大学' target='_blank'>阿拉巴马大学</a></td>			<td><a  href='http://www.qianmu.org/犹他大学' target='_blank'>犹他大学</a></td>			<td><a  href='http://www.qianmu.org/辛辛那提大学' target='_blank'>辛辛那提大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/奥本大学' target='_blank'>奥本大学</a></td>			<td><a  href='http://www.qianmu.org/南卡罗来纳大学' target='_blank'>南卡罗来纳大学</a></td>			<td><a  href='http://www.qianmu.org/堪萨斯大学' target='_blank'>堪萨斯大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/圣地亚哥州立大学' target='_blank'>圣地亚哥州立大学</a></td>			<td><a  href='http://www.qianmu.org/天普大学' target='_blank'>天普大学</a></td>			<td><a  href='http://www.qianmu.org/缅因大学' target='_blank'>缅因大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/内华达大学雷诺分校' target='_blank'>内华达大学雷诺分校</a></td>			<td><a  href='http://www.qianmu.org/南佛罗里达大学' target='_blank'>南佛罗里达大学</a></td>			<td><a  href='http://www.qianmu.org/韦恩州立大学' target='_blank'>韦恩州立大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/德保罗大学' target='_blank'>德保罗大学</a></td>			<td><a  href='http://www.qianmu.org/贝勒大学' target='_blank'>贝勒大学</a></td>			<td><a  href='http://www.qianmu.org/阿肯色大学费耶特维尔分校' target='_blank'>阿肯色大学费耶特维尔分校</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/德州农工大学' target='_blank'>德州农工大学</a></td>			<td><a  href='http://www.qianmu.org/杨百翰大学' target='_blank'>杨百翰大学</a></td>			<td><a  href='http://www.qianmu.org/约翰霍普金斯大学' target='_blank'>约翰霍普金斯大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/马萨诸塞大学阿默斯特分校' target='_blank'>马萨诸塞大学阿默斯特分校</a></td>			<td><a  href='http://www.qianmu.org/密歇根大学安娜堡分校' target='_blank'>密歇根大学安娜堡分校</a></td>			<td><a  href='http://www.qianmu.org/乔治华盛顿大学' target='_blank'>乔治华盛顿大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/杜克大学' target='_blank'>杜克大学</a></td>			<td><a  href='http://www.qianmu.org/明尼苏达大学双城分校' target='_blank'>明尼苏达大学双城分校</a></td>			<td><a  href='http://www.qianmu.org/东北大学' target='_blank'>东北大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/密歇根州立大学' target='_blank'>密歇根州立大学</a></td>			<td><a  href='http://www.qianmu.org/罗格斯大学' target='_blank'>罗格斯大学</a></td>			<td><a  href='http://www.qianmu.org/纽约州立大学宾汉姆顿分校' target='_blank'>纽约州立大学宾汉姆顿分校</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/克莱蒙森大学' target='_blank'>克莱蒙森大学</a></td>			<td><a  href='http://www.qianmu.org/康涅狄格大学' target='_blank'>康涅狄格大学</a></td>			<td><a  href='http://www.qianmu.org/德雷塞尔大学' target='_blank'>德雷塞尔大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/西弗吉尼亚大学' target='_blank'>西弗吉尼亚大学</a></td>			<td><a  href='http://www.qianmu.org/夏威夷大学马诺阿分校' target='_blank'>夏威夷大学马诺阿分校</a></td>			<td><a  href='http://www.qianmu.org/新墨西哥大学' target='_blank'>新墨西哥大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/阿拉巴马大学伯明翰分校' target='_blank'>阿拉巴马大学伯明翰分校</a></td>			<td><a  href='http://www.qianmu.org/欧道明大学' target='_blank'>欧道明大学</a></td>			<td><a  href='http://www.qianmu.org/弗吉尼亚联邦大学' target='_blank'>弗吉尼亚联邦大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/怀俄明大学' target='_blank'>怀俄明大学</a></td>			<td><a  href='http://www.qianmu.org/肯塔基大学' target='_blank'>肯塔基大学</a></td>			<td><a  href='http://www.qianmu.org/华盛顿州立大学' target='_blank'>华盛顿州立大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/马凯特大学' target='_blank'>马凯特大学</a></td>			<td><a  href='http://www.qianmu.org/密苏里大学' target='_blank'>密苏里大学</a></td>			<td><a  href='http://www.qianmu.org/新罕布什尔大学' target='_blank'>新罕布什尔大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/芝加哥洛约拉大学' target='_blank'>芝加哥洛约拉大学</a></td>			<td><a  href='http://www.qianmu.org/佛蒙特大学' target='_blank'>佛蒙特大学</a></td>			<td><a  href='http://www.qianmu.org/艾茉莉大学' target='_blank'>艾茉莉大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/凯斯西储大学' target='_blank'>凯斯西储大学</a></td>			<td><a  href='http://www.qianmu.org/俄亥俄州立大学' target='_blank'>俄亥俄州立大学</a></td>			<td><a  href='http://www.qianmu.org/迈阿密大学' target='_blank'>迈阿密大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/克雷顿大学' target='_blank'>克雷顿大学</a></td>			<td><a  href='http://www.qianmu.org/爱荷华大学' target='_blank'>爱荷华大学</a></td>			<td><a  href='http://www.qianmu.org/特拉华大学' target='_blank'>特拉华大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/纽约州立大学石溪分校' target='_blank'>纽约州立大学石溪分校</a></td>			<td><a  href='http://www.qianmu.org/普渡大学西拉法叶分校' target='_blank'>普渡大学西拉法叶分校</a></td>			<td><a  href='http://www.qianmu.org/圣地亚哥大学' target='_blank'>圣地亚哥大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/北达科他大学' target='_blank'>北达科他大学</a></td>			<td><a  href='http://www.qianmu.org/佩斯大学' target='_blank'>佩斯大学</a></td>			<td>&nbsp;</td>		</tr>	</tbody></table></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2015-07-07</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=902;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '902' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '0';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=902;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

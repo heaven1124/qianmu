@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>皇后大学-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="皇后大学" />
+<meta name="description"  id="description"  content="皇后大学:皇后大学（Queen's University）是一所大型公立综合性全国大学，成立于1841年，位于加拿大东部小城金斯顿，提供本科、硕士、博士，三种学位类型。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">皇后大学 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>排名</p>			</td>			<td>			<p>4</p>			</td>		</tr>		<tr>			<td>			<p>国家</p>			</td>			<td>			<p>加拿大</p>			</td>		</tr>		<tr>			<td>			<p>州省</p>			</td>			<td>			<p>安大略</p>			</td>		</tr>		<tr>			<td>			<p>城市</p>			</td>			<td>			<p><a href="http://www.qianmu.org/金斯顿（安大略省）" target="_blank">金斯顿</a></p>			</td>		</tr>		<tr>			<td>			<p>性质</p>			</td>			<td>			<p>公立，男女合校</p>			</td>		</tr>		<tr>			<td>			<p>成立年份</p>			</td>			<td>			<p>1841年</p>			</td>		</tr>		<tr>			<td>			<p>宗教信仰</p>			</td>			<td>			<p>无</p>			</td>		</tr>		<tr>			<td>			<p>学生人数</p>			</td>			<td>			<p>18,531</p>			</td>		</tr>		<tr>			<td>			<p>学校分类</p>			</td>			<td>			<p>医博类大学</p>			</td>		</tr>		<tr>			<td>			<p>网址</p>			</td>			<td>			<p>www.queensu.ca</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>皇后大学（Queen&#39;s University）是一所大型公立综合性全国大学，成立于1841年，位于加拿大东部小城<a href="http://www.qianmu.org/金斯顿（安大略省）" target="_blank">金斯顿</a>，提供本科、硕士、博士，三种学位类型。</p><p>创始于加拿大建国前二十六年，1841年10月16日，系以英国<a href="http://www.qianmu.org/维多利亚（英属哥伦比亚）" target="_blank">维多利亚</a>女王命名。皇后大学的校园里随处可见的是以石灰岩为主独特的新罗马式和哥德复兴式建筑。</p><p><strong>校训：</strong>Sapientia et Doctrina Stabilitas，中译：智者不忧不惑</p><h2>申请点评</h2><p>（1）Macleans排名第4；QS排名第175位，加拿大国内排名第8位；</p><p>（2）共19个专业进入QS世界排名200强，其中<a href="http://www.qianmu.org/地理学" target="_blank">地理学</a>排名最高，为41位；<a href="http://www.qianmu.org/土木工程" target="_blank">土木工程</a>进入世界前150名，在加拿大仅次于皇后大学、UBC以及<a href="http://www.qianmu.org/麦吉尔大学" target="_blank">麦吉尔大学</a></p><p>（3）学生满意度相对很高&mdash;&mdash;其新生保持率在95%以上，为加拿大最高</p><p>&nbsp;</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>麦考林排名</p>			</td>			<td style="width:75px">			<p>4</p>			</td>			<td style="width:98px">			<p>学费（/年）</p>			</td>			<td style="width:75px">			<p>$22,617</p>			</td>			<td style="width:135px">			<p>申请截止日期</p>			</td>			<td>			<p>2月1日</p>			</td>		</tr>		<tr>			<td>			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td style="width:75px">			<p>88</p>			</td>			<td style="width:98px">			<p>食宿（/年）</p>			</td>			<td style="width:75px">			<p>-</p>			</td>			<td style="width:135px">			<p>开学时间</p>			</td>			<td>			<p>每年8-9月</p>			</td>		</tr>		<tr>			<td>			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td style="width:75px">			<p>7.0</p>			</td>			<td style="width:98px">			<p>申请费</p>			</td>			<td style="width:75px">			<p>$225</p>			</td>			<td style="width:135px">			<p>可申请学期</p>			</td>			<td>			<p>秋季</p>			</td>		</tr>		<tr>			<td>			<p><a href="http://www.qianmu.org/SAT" target="_blank">SAT</a>均分</p>			</td>			<td style="width:75px">			<p>1390-1710</p>			</td>			<td style="width:98px">			<p><a href="http://www.qianmu.org/ACT" target="_blank">ACT</a>综合均分</p>			</td>			<td style="width:75px">			<p>20-35</p>			</td>			<td style="width:135px">			<p>是否提供<a href="http://www.qianmu.org/双录取" target="_blank">双录取</a></p>			</td>			<td>			<p>Yes</p>			</td>		</tr>		<tr>			<td>			<p>平均<a href="http://www.qianmu.org/GPA" target="_blank">GPA</a></p>			</td>			<td style="width:75px">			<p>3.5</p>			</td>			<td style="width:98px">			<p>录取率</p>			</td>			<td style="width:75px">			<p>-</p>			</td>			<td style="width:135px">			<p>是否认可高考成绩</p>			</td>			<td>			<p>Yes</p>			</td>		</tr>	</tbody></table><p>注：</p><p>（1）TOEFL单项阅读与口语要求不低于22分，写作要求不低于24分，听力要求不低于20分；IELTS无单项要求；<a href="http://www.qianmu.org/MELAB" target="_blank">MELAB</a>要求90分以上，无单项要求</p><p>（2）要求高中平均分至少在80分以上，要求有高中毕业且有高考和会考成绩；</p><p>（3）<a href="http://www.qianmu.org/IB" target="_blank">IB</a>课程要求至少在28分以上</p><p>（4）SAT阅读均分：470-580；SAT<a href="http://www.qianmu.org/数学" target="_blank">数学</a>均分：460-570；SAT写作均分：460-560</p><h2>教学质量</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>本科生人数：</p>			</td>			<td>			<p>14,951</p>			</td>			<td>			<p>国际学生比例：</p>			</td>			<td style="width:68px">			<p>-</p>			</td>			<td style="width:133px">			<p><a href="http://www.qianmu.org/学期制度" target="_blank">学期制度</a></p>			</td>			<td style="width:70px">			<p>Semester</p>			</td>		</tr>		<tr>			<td>			<p>研究生人数：</p>			</td>			<td>			<p>3,580</p>			</td>			<td>			<p>新生保持率</p>			</td>			<td style="width:68px">			<p>95%</p>			</td>			<td style="width:133px">			<p>教授水平满意度</p>			</td>			<td style="width:70px">			<p>93%</p>			</td>		</tr>		<tr>			<td>			<p>师生比：</p>			</td>			<td>			<p>1：10</p>			</td>			<td>			<p>六年毕业率</p>			</td>			<td style="width:68px">			<p>-</p>			</td>			<td style="width:133px">			<p>教授博士学位比率</p>			</td>			<td style="width:70px">			<p>-</p>			</td>		</tr>	</tbody></table><h2>申请说明</h2><p>皇后大学通过其学校官网在线或纸质申请，必需的<a href="http://www.qianmu.org/申请材料" target="_blank">申请材料</a>包括：</p><p>（1）皇后大学申请表</p><p>（2）托福/雅思</p><p>（3）高考或IB、SAT/ACT等成绩</p><p>（4）<a href="http://www.qianmu.org/推荐信" target="_blank">推荐信</a>、<a href="http://www.qianmu.org/Essay" target="_blank">Essay</a></p><p>（5）高中<a href="http://www.qianmu.org/在读证明" target="_blank">在读证明</a>或高中毕业证</p><p>（6）高中<a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a>，需<a href="http://www.qianmu.org/翻译" target="_blank">翻译</a>，建议公证</p><p>（7）<a href="http://www.qianmu.org/资金证明" target="_blank">资金证明</a></p><p>注：皇后大学无需<a href="http://www.qianmu.org/面试" target="_blank">面试</a></p><p><strong>费用与奖学金</strong></p><p>皇后大学2013-2014学年学费平均约22,617加元，按专业不同分布在18,730-26,505加元之间。算上一年食宿外加医疗保险费、书本费、生活费等，国内学生约需担保金23万人民币。</p><p><strong>奖学金列表：</strong></p><p>（1）Principal&#39;s Scholarship,金额8000加元；</p><p>（2）Excellence Scholarship，金额1500-200加元；</p><p>（3）Queen&#39;s University international Admission Scholarship，金额9000加元，仅有10个名额；</p><p>（4）Mehran Bibi Sheikh Memorial Entrance Scholarship，金额1500加元，只有2个名额，1个授给女生，1个授给男生；</p><p>（5）另有交换生<a href="http://www.qianmu.org/奖学金" target="_blank">奖学金</a>，转么授予交换生，金额最多可达3万加元，只有1个名额；</p><p>注：上述奖学金均无需额外申请，自动随Offer发放</p><h2>转学申请</h2><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:93px">			<p>TOEFL要求</p>			</td>			<td style="width:75px">			<p>90</p>			</td>			<td style="width:104px">			<p>GPA要求</p>			</td>			<td style="width:114px">			<p>2.6以上</p>			</td>			<td style="width:114px">			<p>申请截止日期</p>			</td>			<td style="width:75px">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:93px">			<p>IELTS要求</p>			</td>			<td style="width:75px">			<p>6.5</p>			</td>			<td style="width:104px">			<p>最低转学学分</p>			</td>			<td style="width:114px">			<p>4</p>			</td>			<td style="width:114px">			<p>最高转学学分</p>			</td>			<td style="width:75px">			<p>9</p>			</td>		</tr>	</tbody></table><p>注：皇后大学转学要求本科GPA不得低于2.6，单门课程最低GPA要求不详。</p><p><strong>申请说明</strong></p><p>皇后大学至多可以转入9个学分，仅可在秋季学期转学，只可入读大一或大二其中的任何一个学期。</p><p>&nbsp;</p><p>参考资料：</p><p>本文数据主要采自皇后大学官网和College Board</p><h2>专业设置</h2><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:217px">学术写作</td>			<td style="width:443px">Academic Writing</td>			<td style="width:419px">Certificate</td>		</tr>		<tr>			<td>艺术史</td>			<td>Art History</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>天文学与天体物理学</td>			<td>Astronomy and Astrophysics</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>生物化学</td>			<td>Biochemistry</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>生物学</td>			<td>Biology</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>生物与数学</td>			<td>Biology and Mathematics</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>生物与心理</td>			<td>Biology and Psychology</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>生物医学计算</td>			<td>Biomedical Computing</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>生物技术</td>			<td>Biotechnology</td>			<td>Bachelor&#39;s, Bachelor&#39;s + Diploma</td>		</tr>		<tr>			<td>商科/管理</td>			<td>Business / Management</td>			<td>Certificate</td>		</tr>		<tr>			<td>化学工程</td>			<td>Chemical Engineering</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>化学</td>			<td>Chemistry</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>土木工程</td>			<td>Civil Engineering</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>古典文学研究</td>			<td>Classical Studies</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>认知科学</td>			<td>Cognitive Science</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>贸易</td>			<td>Commerce</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>贸易与法律</td>			<td>Commerce and Law combined</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>计算机工程</td>			<td>Computer Engineering</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>计算机科学</td>			<td>Computer Science</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>计算机与数学</td>			<td>Computing and Mathematics</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>计算机和艺术创作</td>			<td>Computing and the Creative Arts</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>教育</td>			<td>Concurrent Education</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>戏剧</td>			<td>Drama</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>经济学</td>			<td>Economics</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>教育学</td>			<td>Education</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>电气工程</td>			<td>Electrical Engineering</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>员工关系</td>			<td>Employment Relations</td>			<td>Certificate</td>		</tr>		<tr>			<td>工程化学</td>			<td>Engineering Chemistry</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>工程物理</td>			<td>Engineering Physics</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>英语语言与文学</td>			<td>English Language and Literature</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>环境生物学</td>			<td>Environmental Biology</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>环境化学</td>			<td>Environmental Chemistry</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>环境地理（地球系统科学）</td>			<td>Environmental Geography (Earth Systems Sciences)</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>环境地质</td>			<td>Environmental Geology</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>环境生命科学</td>			<td>Environmental Life Sciences</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>环境研究</td>			<td>Environmental Studies</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>环境毒理学</td>			<td>Environmental Toxicology</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>电影与媒体</td>			<td>Film and Media</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>美术</td>			<td>Fine Art</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>法语研究</td>			<td>French Studies</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>性别研究</td>			<td>Gender Studies</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>地理信息科学</td>			<td>Geographic Information Science</td>			<td>Certificate</td>		</tr>		<tr>			<td>地理</td>			<td>Geography</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>地质工程</td>			<td>Geological Engineering</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>地质科学</td>			<td>Geological Sciences</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>全球发展研究</td>			<td>Global Development Studies</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>健康科学</td>			<td>Health Sciences</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>健康研究</td>			<td>Health Studies</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>历史</td>			<td>History</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>国际研究</td>			<td>International Studies</td>			<td>Certificate</td>		</tr>		<tr>			<td>运动机能学</td>			<td>Kinesiology</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>语言，文学与文化</td>			<td>Languages, Literatures and Cultures</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>法律</td>			<td>Law</td>			<td>Certificate</td>		</tr>		<tr>			<td>人文学科</td>			<td>Liberal Studies</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>生命科学</td>			<td>Life Sciences</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>数学物理</td>			<td>Mathematical Physics</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>数学与工程</td>			<td>Mathematics and Engineering</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>数学与统计</td>			<td>Mathematics and Statistics</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>机械与材料工程</td>			<td>Mechanical and Materials Engineering</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>媒体研究</td>			<td>Media Studies</td>			<td>Certificate</td>		</tr>		<tr>			<td>采矿工程</td>			<td>Mining Engineering</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>采矿工程技术</td>			<td>Mining Engineering Technology</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>音乐</td>			<td>Music</td>			<td>Bachelor&#39;s, Bachelor&#39;s + Diploma</td>		</tr>		<tr>			<td>音乐剧</td>			<td>Music Theatre</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>护理学</td>			<td>Nursing</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>哲学</td>			<td>Philosophy</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>物理</td>			<td>Physics</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>政治研究</td>			<td>Political Studies</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>心理学</td>			<td>Psychology</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>宗教研究</td>			<td>Religious Studies</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>性与性别多样性</td>			<td>Sexual and Gender Diversity</td>			<td>Certificate</td>		</tr>		<tr>			<td>社会学</td>			<td>Sociology</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>软件设计</td>			<td>Software Design</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>舞台与银幕研究</td>			<td>Stage and Screen Studies</td>			<td>Bachelor&#39;s</td>		</tr>		<tr>			<td>统计学</td>			<td>Statistics</td>			<td>Bachelor&#39;s</td>		</tr>	</tbody></table><h1>研究生申请</h1><p><strong>院系设置</strong></p><p>皇后大学共设有以下六个学术学院，分别是：</p><ul>	<li><a href="http://www.qianmu.org/文理学院" target="_blank">文理学院</a>（Faculty of Arts and Science）</li>	<li><a href="http://www.qianmu.org/教育学" target="_blank">教育学</a>院（Faculty of Education）</li>	<li>工程与应用科学学院（Faculty of Engineering and Applied Science）</li>	<li><a href="http://www.qianmu.org/健康科学" target="_blank">健康科学</a>学院（Faculty of Health Sciences）</li>	<li><a href="http://www.qianmu.org/法学" target="_blank">法学</a>院（Faculty of <a href="http://www.qianmu.org/法学" target="_blank">Law</a>）</li>	<li>商学院（School of Business）*(1)</li></ul><p><strong>基本要求</strong></p><p>皇后大学研究生项目的基本申请要求如下：</p><ul>	<li>学位要求：	<ul>		<li>硕士：要求正规大学本科毕业，并取得学士学位*(2)</li>		<li>博士：一般要求硕士毕业方可申请</li>	</ul>	</li>	<li>本科GPA要求：按项目不同而不同，最低要求为80分以上，少数项目会要求85乃至90分分以上。需要注意的是，皇后大学对于国际学生和北美本土（含美国和加拿大）毕业的学生本科GPA要求不同：北美本土本科毕业的学生通常只要求75分以上，少数项目要求80-85分以上。换言之，也就是要较非北美毕业学生少5分的样子*(2)</li>	<li><a href="http://www.qianmu.org/GRE" target="_blank">GRE</a>/<a href="http://www.qianmu.org/GMAT" target="_blank">GMAT</a>要求：视专业不同而不同，多数项目均无需GRE/GMAT成绩*(2)</li>	<li>语言要求：皇后大学规定的最低语言要求如下：	<ul>		<li>TOEFL：总分88分以上，单项写作不低于24分，口语与阅读不低于22分，听力不低于20分*(2)</li>		<li>IELTS：总分要求7.0以上，无单项分数要求</li>		<li><a href="http://www.qianmu.org/PTE" target="_blank">PTE</a>：总分要求65以上，无单项分数要求</li>		<li>MELAB：总分80以上，无单项分数要求</li>	</ul>	</li>	<li>申请时间：皇后大学实行Semester学制，每年分春秋两个学期，每年1月和9月开学。秋季学期为其主要入学学期，但多数项目春秋两个学期均可申请。具体申请时间按项目不同而不同</li></ul><p>注：申请前（非入学前）在北美、英澳或新西兰等<a href="http://www.qianmu.org/英语" target="_blank">英语</a>母语地区就读过一年以上的学生，可以豁免TOEFL/IELTS成绩。另需注意的是，皇后大学研究生设有<a href="http://www.qianmu.org/语言课程" target="_blank">语言课程</a>，接受双录取。皇后大学的语言课程无语言成绩要求，读完语言预备课程（ESLA 150 (University Preparation) level）或高级语言课程（ESLA 140 (Advanced)）并取得A-以上成绩，便可直接进入皇后大学的正式课程学习，无需再参加TOEFL/IELTS考试*(3)(4)</p><p><strong>申请材料与步骤</strong></p><p>皇后大学研究生项目即可通过纸质材料，亦可通过在线申请，申请的步骤及材料要求如下：</p><ul>	<li>第一步：确定自己欲申请的专业和项目，确保满足学校项目要求。项目列表见下方的外部链接*(2)</li>	<li>第二步：查找并指定自己的导师。皇后大学所有研究类型的项目（特点是需要撰写论文）在申请时均需要指定自己的导师。申请者需要提前联系导师，以确定该导师该年度是否招收学生，如能取得导师的初步认可则更好。专业性质的（一般无需撰写论文）硕士项目，如M.Eng、<a href="http://www.qianmu.org/MBA" target="_blank">MBA</a>、<a href="http://www.qianmu.org/LLM" target="_blank">LLM</a>等，无需指定导师</li>	<li>第三步：递交申请。可通过在线方式申请，亦可使用纸质材料申请。需要递交以下纸质材料：	<ul>		<li>两份本科成绩单：有学校盖章的纸质正式版本，不可使用扫描件代替，无需公证*(5)</li>		<li>在读证明/<a href="http://www.qianmu.org/毕业证明" target="_blank">毕业证明</a>：如成绩单中未能体现申请者获得（或将要获得）的学位类型及毕业（或预计毕业）时间的话，需要递交在读证明/毕业证明；如成绩单中有这些信息的体现，则无需提供</li>		<li>推荐信：2封，在校学生2封推荐信均需由学生导师或教授撰写；已毕业五年以上的学生，则只需要1封推荐信是由自己教授或导师撰写的即可，另1封可由自己单位的同事或领导来撰写</li>		<li>TOEFL/IELTS成绩单</li>		<li>其它材料：<a href="http://www.qianmu.org/个人陈述" target="_blank">个人陈述</a>、<a href="http://www.qianmu.org/个人简历" target="_blank">个人简历</a>、课程描述等，仅部分项目需要</li>		<li>申请费：105加元</li>	</ul>	</li></ul><p>在线填写（或联系欲申请的项目获取纸质申请表）申请表，并将上述材料打包寄往皇后大学，其邮寄地址及联系方式如下：</p><p><strong>Mailing Address:</strong></p><p>School of Graduate Studies</p><p>Queen&#39;s University</p><p>Gordon Hall Room 425</p><p>74 Union Street</p><p>Kingston, Ontario</p><p>Canada K7L 3N6*(5)</p><p><strong>Tel: </strong>613-533-6100</p><p><strong>Fax: </strong>613-533-6015</p><p><strong>E-mail: </strong>grad.studies@queensu.ca*(6)</p><p><strong>费用与奖学金</strong></p><p>皇后大学研究生项目的学费较为统一，为14,391.02/年，部分专业类硕士（M.Eng、MBA等）有不同的学费，具体可见各专业的申请说明。*(7)</p><p>所有以研究为主导的项目（也即需要撰写论文的项目，包括MA、MS、PhD等）秋季学期申请的话，均可以确保获得5,000加元（硕士）或7,500加元（PhD）的奖学金。除上述奖学金外，各系各项目还会有自己的奖助学金，所有项目均会公布其平均奖学金额度，项目不同，金额不同。奖学金毕竟有限，申请者需尽早申请。皇后大学的奖学金均无需单独申请，自动随Offer发放，需要注意的是，专业类硕士（M.Eng、MBA等）通常没有奖学金。*(2)</p><p>外部链接：</p><ul>	<li>各项目申请要求：<a href="http://www.qianmu.org/redirect?code=Erbpef5wkxAv4jIeDDDDDeFyR95wG73s0J0JvuzJIQUa2bZsrbIis0b2wvSmyh9UwvS0HIqjJIq4yhb7s2kZHIWYBj5_BwWpQyIpxnxNxNHpEsPCwkbTd4xtwkbTsuh3jlotPlbTPGKz3h6H3mUDcs6E3rPzxznIimDqHk209weoPhVxIc2Xgy2aXFA3fweoPcnqlFnh9rn3V" target="_blank">APPLICATION REQUIREMENTS 2015-2016</a>(PDF)</li>	<li>申请入口：<a href="http://www.qianmu.org/redirect?code=BraKR4skLbTirsBVEEEEEE-Lrj5hOjwAx0W6Az5_WF61DK7iBzf6lLUO5FIBpLzm4LClOLXQ0TuKtbs1OrsIV" target="_blank">GRADUATE ADMISSIONS ONLINE SERVICE</a></li>	<li>项目列表：<a href="http://www.qianmu.org/redirect?code=QrzUA2QVwAbLSxbEyxORS1zPkujh3WYf15q3oy6yB3CpEHjsHOgcB26CGrdSYp_b_0pBKJSV7pRNOUlBvyoeYOzCU5yglLOzcMdj5izBKLSH7pJXOUTUV-kcZB9Q3W" target="_blank">Graduate Programs</a></li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=KruBHN7PwYZ8xv3aRRRRRRxHLo1IhS2yTiqQ6CtpZHzp375Okxt4ZVbOZJeO6He4kUy" target="_blank">Academic Programs &amp; Departments</a> Queen&#39;s University</p><p>(2) <a href="http://www.qianmu.org/redirect?code=QrzUA2QUws9rfUp5MMMMMz4U4zOgEq7Cb1_4_4ZsNw3b8Z0WhOZ7zf67vfeRjhbVjXbWnpL0qmL3cW3KqR_VbGP24amDr5iBVGxabJ30BhGVmtk3wfAw975Mb1x0ClUuikkKyC" target="_blank">Preparing for Graduate Studies</a> Queen&#39;s University</p><p>(3) <a href="http://www.qianmu.org/redirect?code=orDtO5apLBGgpjUAQQQQQQVRY1CdUmcip-p-eqo-LEfWGS6y8h6J8KT-eOoa92jQedKaFXPBu4knbXgBfePOjeg2_wPraWP3uWI3flgovWz" target="_blank">English for Academic Purposes Program Admission Requirements</a> Queen&#39;s University</p><p>(4) <a href="http://www.qianmu.org/redirect?code=Trq48pt9kltmgDMqaaaaaaE_DG26yHKVn4n4To943uwp1U8VMUdVniSpZjKAz2RAFnXfkUaZm2XDy4o" target="_blank">English Proficiency Exam Waiver</a> Queen&#39;s University</p><p>(5) <a href="http://www.qianmu.org/redirect?code=CrXRF8znkkP-G5w6hhhhh36dFkbIi_qH7RjRjn9sckmd8HfZ5hjZThMZfN96bNj6wNzdakz8VuO5wktd3uXk8e9G0LeESXl3VyeNf_5v8RFEdLk9CyP" target="_blank">How to apply in 5 steps</a> Queen&#39;s University</p><p>(6)&nbsp;<a href="http://www.qianmu.org/redirect?code=ErbpefwzLo3V1t-7OOOOOOhcovmOHfTUS8K1K1ZpSbkYv_HpTUXc5PpcmPjRJxHanLHm" target="_blank">Contact Queen&#39;s</a>&nbsp;Queen&#39;s University</p><p>(7) <a href="http://www.qianmu.org/redirect?code=Rr0CBrkBwCpmLKp5MMM222R3uQ4Ewiz361j1jCYFjXaOy7J86qJg61AOPTOmjQAgwcdmuG4OwCd1HIFLJSFLb3_7aMRkcIFv1Ni01-hd1S_HY0VbWbWfMnsOA0mfMnsOA0mfMJWO0LsOT9uXzWi92vJ82rSh-bFV6GgXZWdC_P9CYPJ4" target="_blank">Tuition and Fees 2014-15 International Students</a> Queen&#39;s University</p><p>&nbsp;</p><h2>专业设置</h2><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:325px">会计</td>			<td style="width:537px">Accounting</td>			<td style="width:439px">Graduate Diploma</td>		</tr>		<tr>			<td>老龄化与健康</td>			<td>Aging and Health</td>			<td>Graduate Diploma, Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>解剖病理学</td>			<td>Anatomic Pathology</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>解剖学</td>			<td>Anatomical Sciences</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>麻醉学</td>			<td>Anesthesiology</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>应用可持续性</td>			<td>Applied Sustainability</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>艺术维护</td>			<td>Art Conservation</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>艺术史</td>			<td>Art History</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>艺术领导力</td>			<td>Arts Leadership</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>艺术管理</td>			<td>Arts Management</td>			<td>Graduate Diploma</td>		</tr>		<tr>			<td>天文学与天体物理学</td>			<td>Astronomy and Astrophysics</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>生物学</td>			<td>Biology</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>生物医学与分子科学</td>			<td>Biomedical and Molecular Sciences</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>生物医学工程</td>			<td>Biomedical Engineering</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>生物统计学</td>			<td>Biostatistics</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>商科/管理</td>			<td>Business / Management</td>			<td>Master&#39;s, Doctoral, Graduate Diploma</td>		</tr>		<tr>			<td>工商管理（MBA）</td>			<td>Business Administration (MBA)</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>生意与法律</td>			<td>Business and Law combined</td>			<td>Master&#39;s, Graduate Diploma, Juris Doctor</td>		</tr>		<tr>			<td>癌症研究</td>			<td>Cancer Research</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>心脏病学</td>			<td>Cardiology</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>化学工程</td>			<td>Chemical Engineering</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>化学</td>			<td>Chemistry</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>土木工程</td>			<td>Civil Engineering</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>古典文学研究</td>			<td>Classical Studies</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>融合医学研究</td>			<td>Combined Medicine/Research</td>			<td>Doctor of Medicine, Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>贸易与法律</td>			<td>Commerce and Law combined</td>			<td>Juris Doctor</td>		</tr>		<tr>			<td>计算机工程</td>			<td>Computer Engineering</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>计算机科学</td>			<td>Computer Science</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>病危护理</td>			<td>Critical Care</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>文化学习</td>			<td>Cultural Studies</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>放射诊断学</td>			<td>Diagnostic Radiology</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>地球与能源领导力</td>			<td>Earth and Energy Resources Leadership</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>经济学</td>			<td>Economics</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>经济学与法律</td>			<td>Economics and Law combined</td>			<td>Master&#39;s, Juris Doctor</td>		</tr>		<tr>			<td>教育学</td>			<td>Education</td>			<td>Master&#39;s, Doctoral, Graduate Diploma</td>		</tr>		<tr>			<td>电气工程</td>			<td>Electrical Engineering</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>急诊医学</td>			<td>Emergency Medicine</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>工程化学</td>			<td>Engineering Chemistry</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>工程物理</td>			<td>Engineering Physics</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>英语语言与文学</td>			<td>English Language and Literature</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>创业与创新</td>			<td>Entrepreneurship and Innovation</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>环境生物学</td>			<td>Environmental Biology</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>环境化学</td>			<td>Environmental Chemistry</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>环境地理（地球系统科学）</td>			<td>Environmental Geography (Earth Systems Sciences)</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>环境地质学</td>			<td>Environmental Geology</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>环境生命科学</td>			<td>Environmental Life Sciences</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>环境研究</td>			<td>Environmental Studies</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>环境毒理学</td>			<td>Environmental Toxicology</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>传染病学</td>			<td>Epidemiology</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>高级工商管理</td>			<td>Executive MBA</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>家庭医学</td>			<td>Family Medicine</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>家庭医学：麻醉</td>			<td>Family Medicine: Anesthesia</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>家庭医学：老年护理</td>			<td>Family Medicine: Care of the Elderly</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>家庭医学：急诊医学</td>			<td>Family Medicine: Emergency Medicine</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>家庭医学：全球健康</td>			<td>Family Medicine: Global Health</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>家庭医学：本土健康</td>			<td>Family Medicine: Indigenous Health</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>家庭医学：智力与发育障碍</td>			<td>Family Medicine: Intellectual and Developmental Disabilities</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>家庭医学：乡村技术</td>			<td>Family Medicine: Rural Skills</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>家庭医学：妇女健康</td>			<td>Family Medicine: Women&#39;s Health</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>金融</td>			<td>Finance</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>法语研究</td>			<td>French Studies</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>肠胃病学</td>			<td>Gastroenterology</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>性别研究</td>			<td>Gender Studies</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>普通内科学</td>			<td>General Internal Medicine</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>普通外科</td>			<td>General Surgery</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>地质工程</td>			<td>GeoEngineering</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>地理学</td>			<td>Geography</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>地质工程</td>			<td>Geological Engineering</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>地质学</td>			<td>Geological Sciences</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>全球发展研究</td>			<td>Global Development Studies</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>健康研究</td>			<td>Health Studies</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>医疗质量</td>			<td>Healthcare Quality</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>血液学</td>			<td>Hematology</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>历史</td>			<td>History</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>劳资关系</td>			<td>Industrial Relations</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>劳资关系与法律</td>			<td>Industrial Relations and Law combined</td>			<td>Master&#39;s, Juris Doctor</td>		</tr>		<tr>			<td>内科（核心课程）</td>			<td>Internal Medicine (Core Program)</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>国际商业</td>			<td>International Business</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>运动机能学</td>			<td>Kinesiology</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>法律</td>			<td>Law</td>			<td>Juris Doctor, Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>管理分析</td>			<td>Management Analytics</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>数学物理学</td>			<td>Mathematical Physics</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>数学与工程</td>			<td>Mathematics and Engineering</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>数学与统计</td>			<td>Mathematics and Statistics</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>机械与材料工程</td>			<td>Mechanical and Materials Engineering</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>临床肿瘤内科学</td>			<td>Medical Oncology</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>医学</td>			<td>Medicine</td>			<td>Doctor of Medicine, Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>采矿工程</td>			<td>Mining Engineering</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>肾脏学</td>			<td>Nephrology</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>神经病学</td>			<td>Neurology</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>神经科学研究</td>			<td>Neuroscience Studies</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>护理学</td>			<td>Nursing</td>			<td>Master&#39;s, Graduate Diploma, Doctoral</td>		</tr>		<tr>			<td>妇产科学</td>			<td>Obstetrics and Gynaecology</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>职业疗法</td>			<td>Occupational Therapy</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>眼科学</td>			<td>Ophthalmology</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>矫形外科</td>			<td>Orthopaedic Surgery</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>姑息治疗医学</td>			<td>Palliative Care Medicine</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>病理学与分子医学</td>			<td>Pathology and Molecular Medicine</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>儿科学</td>			<td>Pediatrics</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>哲学</td>			<td>Philosophy</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>理疗与康复</td>			<td>Physical Medicine and Rehabilitation</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>理疗学</td>			<td>Physical Therapy</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>物理</td>			<td>Physics</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>政法思想</td>			<td>Political and Legal Thought</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>政治研究</td>			<td>Political Studies</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>专业调研</td>			<td>Professional Inquiry</td>			<td>Graduate Diploma</td>		</tr>		<tr>			<td>精神病学</td>			<td>Psychiatry</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>心理学</td>			<td>Psychology</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>公共行政</td>			<td>Public Administration</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>公共行政与法律</td>			<td>Public Administration and Law combined</td>			<td>Master&#39;s, Juris Doctor</td>		</tr>		<tr>			<td>公共健康</td>			<td>Public Health</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>公共卫生与预防医学</td>			<td>Public Health and Preventive Medicine</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>射线肿瘤学</td>			<td>Radiation Oncology</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>康复学</td>			<td>Rehabilitation Science</td>			<td>Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>宗教研究</td>			<td>Religious Studies</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>呼吸病学</td>			<td>Respirology</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>风湿病学</td>			<td>Rheumatology</td>			<td>Postgraduate Medical</td>		</tr>		<tr>			<td>风险政策与监管</td>			<td>Risk Policy and Regulation</td>			<td>Graduate Diploma</td>		</tr>		<tr>			<td>采掘业社会绩效管理</td>			<td>Social Performance Management in the Extractive Industries</td>			<td>Graduate Diploma</td>		</tr>		<tr>			<td>社会学</td>			<td>Sociology</td>			<td>Bachelor&#39;s, Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>统计学</td>			<td>Statistics</td>			<td>Bachelor&#39;s, Master&#39;s, Doctoral</td>		</tr>		<tr>			<td>城市与区域规划</td>			<td>Urban and Regional Planning</td>			<td>Master&#39;s</td>		</tr>		<tr>			<td>泌尿学</td>			<td>Urology</td>			<td>Postgraduate Medical</td>		</tr>	</tbody></table><h2>工程与应用科学学院</h2><p><br /><strong>基本信息：</strong><br />电气工程</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:17.5%">			<p>QS世界排名</p>			</td>			<td style="width:13.04%">			<p>-</p>			</td>			<td style="width:13.98%">			<p>学费</p>			</td>			<td style="width:19.94%">			<p>$14,391.02</p>			</td>			<td style="width:18.3%">			<p>申请截止日期</p>			</td>			<td style="width:17.22%">			<p>1月31日</p>			</td>		</tr>		<tr>			<td style="width:17.5%">			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td style="width:13.04%">			<p>88</p>			</td>			<td style="width:13.98%">			<p><a href="http://www.qianmu.org/GPA" target="_blank">GPA</a>要求</p>			</td>			<td style="width:19.94%">			<p>80分以上</p>			</td>			<td style="width:18.3%">			<p>可申请学期</p>			</td>			<td style="width:17.22%">			<p>秋季、春季</p>			</td>		</tr>		<tr>			<td style="width:17.5%">			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td style="width:13.04%">			<p>7.0</p>			</td>			<td style="width:13.98%">			<p><a href="http://www.qianmu.org/GRE" target="_blank">GRE</a>要求</p>			</td>			<td style="width:19.94%">			<p>Not Required</p>			</td>			<td style="width:18.3%">			<p>工作经验要求</p>			</td>			<td style="width:17.22%">			<p>无</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>注：</p><p>（1）上表排名是2015年QS<a href="http://www.qianmu.org/电气工程" target="_blank">电气工程</a>专业的世界排名，该榜单共排出200所学校，加拿大共8所学校上榜，皇后大学未能上榜</p><p>（2）TOEFL单项写作要求不低于24分，口语与阅读要求不低于22分，听力不低于20分；IELTS无单项要求</p><p>（3）皇后大学实行Semester学制，秋季学期9月开学，春季学期1月开学。该项目秋季学期1月31日申请截止，春季学期8月15日申请截止。对于秋季学期申请，学校通常在2月中旬-4月下旬之间出录取通知</p><p><strong>申请说明</strong></p><p>皇后大学<a href="http://www.qianmu.org/土木工程" target="_blank">电气与计算机工程</a>系（Department of Electrical &amp; <a href="http://www.qianmu.org/计算机工程" target="_blank">Computer Engineering</a>）拥有一个国家光子学实验室，一个能源与电力应用实验室，以及一套皇后大学的独有的微电子设备，实行小班规模制度，拥有2名加拿大研究首席研究院（Canada Research Chairs），12名IEEE成员或学者。该系研究生共设有以下3种个学位项目，分别是：</p><ul>	<li>工程硕士（M.Eng）：为期2个学期外加4-8个月的实习，该项目无需撰写学位论文。要求申请者本科毕业，拥有工程学或其它相近的理科专业背景，无需也不接受GRE成绩。该项目一年学费为18,717.02加元，且无法获得任何<a href="http://www.qianmu.org/奖学金" target="_blank">奖学金</a>*(1)(2)</li>	<li>应用科学硕士（M.A.Sc）：为期2年，需要撰写学位论文，一年学费为$14,391.02加元。要求申请者本科毕业，拥有工程学专业背景，无需也不接受GRE成绩。该项目所有学生均可确保获得19,740 - 26,880加元的奖学金资助，该奖学金会在Offer中直接发放，无需额外申请*(1)(2)</li>	<li>博士（Ph.D）：为期4年，需要撰写学位论文，一年学费为$14,391.02加元。要求申请者硕士（M.Eng不可申请）毕业，拥有工程学专业背景，无需也不接受GRE成绩。该项目所有学生均可确保获得20,475 - 27,615加元的奖学金资助，该奖学金会在Offer中直接发放，无需额外申请*(1)(2)</li></ul><p>注：除研究申请中要求的<a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a>、<a href="http://www.qianmu.org/推荐信" target="_blank">推荐信</a>等材料外，上述项目还均需要递交额外的<a href="http://www.qianmu.org/个人陈述" target="_blank">个人陈述</a>、<a href="http://www.qianmu.org/个人简历" target="_blank">个人简历</a>，以及一个可选的课程描述等<a href="http://www.qianmu.org/申请材料" target="_blank">申请材料</a>*(1)</p><p><strong>专业设置</strong></p><p>皇后大学电气工程系开始有以下研究领域，包括：</p><ul>	<li>通信（Communications）</li>	<li>计算机与<a href="http://www.qianmu.org/软件工程" target="_blank">软件工程</a>（Computer &amp; <a href="http://www.qianmu.org/软件工程" target="_blank">Software Engineering</a>）</li>	<li>微电子、电磁学与光子学（Microelectronics, Electromagnetics and Photonics）</li>	<li>电力电子（Power Electronics）</li>	<li><a href="http://www.qianmu.org/生物医学" target="_blank">生物医学</a>与智能系统（Biomedical and Intelligent Systems）*(1)</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=KruBHNWZk_OdHI9bvvvvvvxKWI7X392YololnxMl5BETH_DYs_qYo_HXnfET0BilWUKGNQ3CirHMRTUugmTqMCPqlBYDlBPqMSP-Q" target="_blank">Electrical &amp; Computer Engineering</a> Queen&#39;s University</p><p>(2) <a href="http://www.qianmu.org/redirect?code=IrnDV7gMLwBRmJ4AFsUUfQhAQuU9H31r9V1C6TZ9SkA6k-eFnaVsBD8GMXSkye_iptPSpCDt-Yt-a9SeMyr1Ua95egiL6mq_28v9pMma3EmEiLEy-Vg9hJgBW-EiXftwVvS27bMRLRP-VII9R5nurJjVH_2uDwyLVy8r0orBz1F859Gre2VYdvN8trkPWENGhwbz1b" target="_blank">Tuition and Fees 2014-15 International Students</a> Queen&#39;s University</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2019-07-16</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1190;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1190' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1190;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

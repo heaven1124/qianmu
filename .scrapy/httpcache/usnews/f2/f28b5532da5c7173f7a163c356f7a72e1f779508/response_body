@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>马里兰大学巴尔的摩郡分校-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="马里兰大学巴尔的摩郡分校" />
+<meta name="description"  id="description"  content="马里兰大学巴尔的摩郡分校:马里兰大学巴尔的摩郡分校（University of Maryland, Baltimore County，缩写UMBC）优势专业主要集中在STEM领域，也是学校最为重视的专业。她的住宿、学术、饮食评价都相对优秀，申请难度相对较低。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">马里兰大学巴尔的摩郡分校 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:130px">			<p>排名</p>			</td>			<td style="width:277px">			<p>160*(2)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国家</p>			</td>			<td style="width:277px">			<p>美国</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>州省</p>			</td>			<td style="width:277px">			<p><a href="http://www.qianmu.org/马里兰州" target="_blank">马里兰州</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>城市</p>			</td>			<td style="width:277px">			<p><a href="http://www.qianmu.org/巴尔的摩" target="_blank">巴尔的摩</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校训</p>			</td>			<td style="width:277px">			<p>An Honors University in Maryland*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>汉译</p>			</td>			<td style="width:277px">			<p>马里兰之耀</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>性质</p>			</td>			<td style="width:277px">			<p>公立，男女合校</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>成立年份</p>			</td>			<td style="width:277px">			<p>1966年*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>宗教信仰</p>			</td>			<td style="width:277px">			<p>无</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校园</p>			</td>			<td style="width:277px">			<p>2.02Km<sup>2</sup>，郊区*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学生人数</p>			</td>			<td style="width:277px">			<p>13,839</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>本科生人数</p>			</td>			<td style="width:277px">			<p>11,243*(3)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>研究生人数</p>			</td>			<td style="width:277px">			<p>2,596*(3)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>师生比</p>			</td>			<td style="width:277px">			<p>1:19*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国际学生比例</p>			</td>			<td style="width:277px">			<p>4%*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学校分类</p>			</td>			<td style="width:277px">			<p><a href="http://www.qianmu.org/全国性大学" target="_blank">全国性大学</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学校集团</p>			</td>			<td style="width:277px">			<p><a href="http://www.qianmu.org/马里兰大学系统" target="_blank">马里兰大学系统</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>认证机构</p>			</td>			<td style="width:277px">			<p><a href="http://www.qianmu.org/中部各州学院及学校协会" target="_blank">中部各州学院及学校协会</a>（MSACS）</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>网址</p>			</td>			<td style="width:277px">			<p>www.umbc.edu</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>马里兰大学巴尔的摩郡分校（University of Maryland, Baltimore County，缩写UMBC）是一所位于美国<a href="http://www.qianmu.org/马里兰州" target="_blank">马里兰州</a>首府<a href="http://www.qianmu.org/巴尔的摩" target="_blank">巴尔的摩</a>市的公立研究型大学。成立于1966年，是<a href="http://www.qianmu.org/马里兰大学系统" target="_blank">马里兰大学系统</a>的一员，主要偏向自然科学与工科专业，也包括部分文理与艺术专业。近年来，马里兰大学巴尔的摩郡分校已成为一所主要的研究型大学，且主要以<a href="http://www.qianmu.org/STEM" target="_blank">STEM</a>专业为主。STEM即英文&ldquo;Science、Technology、Engineering、<a href="http://www.qianmu.org/数学" target="_blank">Mathematics</a>&rdquo;的缩写。</p><p>注意：马里兰大学巴尔的摩郡分校最易与马里兰大学巴尔的摩分校（University of Maryland, Baltimore）混淆，二者都位于巴尔的摩，均为马里兰大学的一员，但这两所学校是相互独立的大学，互不隶属。前者是一所综合性研究型大学，同时招收本科生和研究生；后者主要招收研究生，本科生招收的很少。</p><p><strong>校园环境</strong></p><p>马里兰大学巴尔的摩郡分校校园距离巴尔的摩市中心仅15分钟车程，距离美国首都<a href="http://www.qianmu.org/华盛顿" target="_blank">华盛顿</a>也不过45分钟的车程；距离马里兰州第三大城市弗雷德里克（Fredrick）也只有45分钟车程；据巴尔的摩-华盛顿国际机场更是只有5分钟的车程。*(1)</p><p>马里兰大学巴尔的摩郡分校占地500英亩（约2.03平方公里），除了众多学术型建筑及教学楼外，还拥有一座集图书馆与画廊为一体的阿尔滨&middot;澳库恩图书馆画廊（Albin O. Kuhn Library &amp; Gallery）、一大片的绿地和一个广场广场&mdash;&mdash;这两个地方是众多的学生活动开展的地方。此外，马里兰大学巴尔的摩郡分校还设有一个研究与技术园（Research and Technology Park），占地71英亩，有众多的技术、生物科学及研究机构入驻这里，大多都与学校有合作关系。入驻公司包括：美国地质调查局（US Geological Survey）,美国林业服务中心（US <a href="http://www.qianmu.org/林业科学" target="_blank">Forestry</a> Service）、健脉设备咨询（CardioMed Device Consultants）、Audacious Inquiry、Med-IQ等等。</p><h2><strong>申请点评</strong></h2><p>马里兰大学巴尔的摩郡分校优势专业主要集中在STEM领域，也是学校最为重视的专业。她的住宿、学术、饮食评价都相对优秀，申请难度相对较低。</p><p>参考资料：</p><p>(1)<a href="http://www.qianmu.org/redirect?code=vrJH6YhlL7YsCr89VVVVVUM7BOm2ytISvCLSX3d7vh6PkOd8WGI2j2I3vhn7W0CsIKyYTuPf0uCNuYsKu1Aq4iyEpnNXGBsbpn710nA84KkeLYsAQiCN" target="_blank">University of Maryland, Baltimore County</a> Wikipedia</p><p>(2) <a href="http://www.qianmu.org/redirect?code=IrnDV7PLks07EejBXXXXXvpPEFNWhpJZUmJriTSjUAKZlAKrnAqWdbdGCb2PCUpw3jt_Xh9IR1IIRl8_vjCTAj9I3uGLVs37reHMvnwzDXRINXBMA43JWkxKDnEKVswhIeHpfnFKEsWfmuvfH_sykWpachBSYXleVJECrW" target="_blank">University of Maryland--Baltimore County</a> USNEWS</p><p>(3) <a href="http://www.qianmu.org/redirect?code=Gr-dDk5jL5VUFGulffffffYcovmOHfTUXcmtdF9DzqfyrC_E3M9z-vcZXYy9SU9yzUCecYvyU" target="_blank">UMBC Facts</a> University of Maryland,Baltimore County</p><p>(4) <a href="http://www.qianmu.org/redirect?code=8rL6TCd9wZUg3rk0hc3ls6B4eRg8H1PO7p_1A9hdFXIky7h1vhKpt5TvkrOhH3kq2z5OmhI2SAOT1cU6lDkc3OwHzknJKxds01rmpmtOxNgAv9rW1aQIa8js5h2Bnmt0n5dTr6EK_PdFq-EWwhmVOYhzUqs3W1yUH8kUnQOwuInXJlsfwrbFuy" target="_blank">University of Maryland: Baltimore County</a> College Board</p><p>&nbsp;</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:121px">			<p>USNEWS排名</p>			</td>			<td style="width:75px">			<p>160</p>			</td>			<td style="width:97px">			<p>学费(/年)</p>			</td>			<td style="width:74px">			<p>$24,492</p>			</td>			<td style="width:123px">			<p>申请截止日期</p>			</td>			<td style="width:78px">			<p>2月1日</p>			</td>		</tr>		<tr>			<td style="width:121px">			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td style="width:75px">			<p>80</p>			</td>			<td style="width:97px">			<p>食宿(/年)</p>			</td>			<td style="width:74px">			<p>$11,218</p>			</td>			<td style="width:123px">			<p>开学时间</p>			</td>			<td style="width:78px">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:121px">			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td style="width:75px">			<p>-</p>			</td>			<td style="width:97px">			<p>申请费</p>			</td>			<td style="width:74px">			<p>$50</p>			</td>			<td style="width:123px">			<p>可申请学期</p>			</td>			<td style="width:78px">			<p>秋季、春季、夏季</p>			</td>		</tr>		<tr>			<td style="width:121px">			<p><a href="http://www.qianmu.org/SAT" target="_blank">SAT</a>均分</p>			</td>			<td style="width:75px">			<p>1190-1390(1600)</p>			</td>			<td style="width:97px">			<p>录取率</p>			</td>			<td style="width:74px">			<p>59%</p>			</td>			<td style="width:123px">			<p>奖学金形式</p>			</td>			<td style="width:78px">			<p>Merit-based</p>			</td>		</tr>		<tr>			<td style="width:121px">			<p>GPA均分</p>			</td>			<td style="width:75px">			<p>3.6</p>			</td>			<td style="width:97px">			<p>申请人数</p>			</td>			<td style="width:74px">			<p>10,629</p>			</td>			<td style="width:123px">			<p>是否提供<a href="http://www.qianmu.org/双录取" target="_blank">双录取</a></p>			</td>			<td style="width:78px">			<p>Yes</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)(4)</p><p>注：</p><p>（1）<a href="http://www.qianmu.org/2021USNEWS美国综合性大学排名">上表为2021USNEWS美国综合性大学排名</a></p><p>（2）如申请者未达到入学语言要求，且TOEFL总分48分以上，IELTS总分5.5以上，须入读语言课程</p><p>（3）该校另有<a href="http://www.qianmu.org/Early Action" target="_blank">EA</a>申请方式，截止日期为11月1日；春季学期11月1日申请截止*(4)</p><p>（4）该校国际学生可无需SAT/<a href="http://www.qianmu.org/ACT" target="_blank">ACT</a>成绩；但欲申请的<a href="http://www.qianmu.org/奖学金" target="_blank">奖学金</a>学生，要求递交SAT/ACT成绩，且SAT阅读+数学总分要求达到1300以上*(4)</p><h2>教学质量</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>本科生人数</p>			</td>			<td>			<p>11,243</p>			</td>			<td>			<p>小班比例(&lt;20)</p>			</td>			<td>			<p>38.9%</p>			</td>			<td>			<p><a href="http://www.qianmu.org/学期制度" target="_blank">学期制度</a></p>			</td>			<td>			<p>Semseter</p>			</td>		</tr>		<tr>			<td>			<p>研究生人数</p>			</td>			<td>			<p>2,596</p>			</td>			<td>			<p>中班比例(20-49)</p>			</td>			<td>			<p>48.9%</p>			</td>			<td>			<p>教授水平满意度</p>			</td>			<td>			<p>93%</p>			</td>		</tr>		<tr>			<td>			<p>国际学生比例</p>			</td>			<td>			<p>4%</p>			</td>			<td>			<p>大班比例(&gt;50)</p>			</td>			<td>			<p>12.2%</p>			</td>			<td>			<p>就业实习满意度</p>			</td>			<td>			<p>77%</p>			</td>		</tr>		<tr>			<td>			<p>师生比</p>			</td>			<td>			<p>1:19</p>			</td>			<td>			<p>六年毕业率</p>			</td>			<td>			<p>-</p>			</td>			<td>			<p>校园融洽度</p>			</td>			<td>			<p>72%</p>			</td>		</tr>		<tr>			<td>			<p>四年毕业率</p>			</td>			<td>			<p>38%</p>			</td>			<td>			<p>新生保持率</p>			</td>			<td>			<p>89%</p>			</td>			<td>			<p>教师博士学位比例</p>			</td>			<td>			<p>87%</p>			</td>		</tr>		<tr>			<td>毕业2年平均薪水</td>			<td>$39,400</td>			<td>就业率</td>			<td>61%</td>			<td>校友网络认可度</td>			<td>69%</td>		</tr>	</tbody></table><p>*(1)(2)(3)(5)(6)</p><p>注：该校本科94%的学生都是马里兰州内的学生*(1)</p><p><strong>校园安全</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:143px">校园安全事件</td>			<td style="width:403px">Criminal Offenses -- On-Campus&nbsp;</td>			<td style="width:103px">2012</td>			<td style="width:100px">2013</td>			<td style="width:97px">2014</td>		</tr>		<tr>			<td>谋杀</td>			<td>Murder/Non-negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>过失杀人</td>			<td>Negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸</td>			<td>Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>3</p>			</td>		</tr>		<tr>			<td>乱伦</td>			<td>Incest</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸幼童罪</td>			<td>Statutory Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>猥亵</td>			<td>Fondling</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>6</p>			</td>		</tr>		<tr>			<td>性侵犯-强迫</td>			<td>Sex offenses - Forcible</td>			<td>			<p>4</p>			</td>			<td>			<p>4</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>性侵犯-非强迫</td>			<td>Sex offenses - non-forcible (incest and statutory rape only)</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>抢劫</td>			<td>Robbery</td>			<td>			<p>1</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>暴力袭击</td>			<td>Aggravated assault</td>			<td>			<p>2</p>			</td>			<td>			<p>1</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>盗窃</td>			<td>Burglary</td>			<td>			<p>5</p>			</td>			<td>			<p>10</p>			</td>			<td>			<p>5</p>			</td>		</tr>		<tr>			<td>汽车盗窃</td>			<td>Motor vehicle theft</td>			<td>			<p>2</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>纵火</td>			<td>Arson</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>		</tr>	</tbody></table><p>*(2)</p><p><strong>录取统计</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:14.28%">			<p>招生年份</p>			</td>			<td style="width:14.28%">			<p>招生人数</p>			</td>			<td style="width:14.28%">			<p>女生比例</p>			</td>			<td style="width:14.28%">			<p>国际学生比例</p>			</td>			<td style="width:14.28%">			<p>住校生比例</p>			</td>			<td style="width:14.28%">			<p>高中平均GPA</p>			</td>			<td style="width:14.28%">			<p>SAT均分（阅读+数学）</p>			</td>		</tr>		<tr>			<td style="width:14.28%">			<p>2016</p>			</td>			<td style="width:14.28%">			<p>1,538</p>			</td>			<td style="width:14.28%">			<p>40%</p>			</td>			<td style="width:14.28%">			<p>4%</p>			</td>			<td style="width:14.28%">			<p>75%</p>			</td>			<td style="width:14.28%">			<p>3.75</p>			</td>			<td style="width:14.28%">			<p>1216</p>			</td>		</tr>	</tbody></table><p>*(3)</p><h2>申请说明</h2><p><strong>SAT</strong><strong>与ACT</strong></p><p>马里兰大学巴尔的摩郡分校不要求国际学生递交SAT/ACT成绩，但欲申请奖学金的话，则必需有SAT/ACT成绩。2015年秋季，该校录取学生的SAT/ACT平均分数如下：</p><ul>	<li>SAT均分（25%-75%）：SAT阅读540-640；SAT数学570-670；SAT写作530-630*(1)</li>	<li>ACT均分（25%-75%）：24-29*(1)</li></ul><p><strong>GPA与班级排名</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:26.96%">			<p>GPA</p>			</td>			<td style="width:23.48%">&nbsp;</td>			<td style="width:24.78%">			<p>班级排名</p>			</td>			<td style="width:24.78%">&nbsp;</td>		</tr>		<tr>			<td style="width:26.96%">			<p>分段</p>			</td>			<td style="width:23.48%">			<p>占比</p>			</td>			<td style="width:24.78%">			<p>分段</p>			</td>			<td style="width:24.78%">			<p>占比</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.75以上</p>			</td>			<td style="width:23.48%">			<p>53%</p>			</td>			<td style="width:24.78%">			<p>TOP10%</p>			</td>			<td style="width:24.78%">			<p>27%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.5-3.74</p>			</td>			<td style="width:23.48%">			<p>18%</p>			</td>			<td style="width:24.78%">			<p>TOP25%</p>			</td>			<td style="width:24.78%">			<p>56%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.25-3.49</p>			</td>			<td style="width:23.48%">			<p>12%</p>			</td>			<td style="width:24.78%">			<p>TOP50%</p>			</td>			<td style="width:24.78%">			<p>83%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.0-3.24</p>			</td>			<td style="width:23.48%">			<p>9%</p>			</td>			<td style="width:24.78%">			<p>50%以下</p>			</td>			<td style="width:24.78%">			<p>17%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>2.50-2.99</p>			</td>			<td style="width:23.48%">			<p>7%</p>			</td>			<td style="width:24.78%">			<p>75%以下</p>			</td>			<td style="width:24.78%">			<p>3%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>2.49以下</p>			</td>			<td style="width:23.48%">&nbsp;</td>			<td style="width:24.78%">&nbsp;</td>			<td style="width:24.78%">&nbsp;</td>		</tr>	</tbody></table><p><strong>申请材料</strong></p><p>马里兰大学巴尔的摩郡分校通过Common Application申请，申请时可以指定自己的专业，也可以不指定，未明确自己专业的学生，可以选择类似&ldquo;Undecided&rdquo;的选项作为自己的选择。该校每年9月1日起开始开放申请，要求申请者递交以下<a href="http://www.qianmu.org/申请材料" target="_blank">申请材料</a>：</p><ul>	<li>完成申请表：通过Common Application系统在线申请*(4)</li>	<li>申请费：$50</li>	<li><a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a>：需<a href="http://www.qianmu.org/翻译" target="_blank">翻译</a>，但无需公证</li>	<li><a href="http://www.qianmu.org/Essay" target="_blank">Essay</a>：包含于申请表之中</li>	<li>会考成绩或高考成绩：如有的话，需要递交</li>	<li>TOEFL/IELTS成绩</li>	<li>SAT/ACT成绩：非必需，但欲申请奖学金的话，必需递交</li>	<li><a href="http://www.qianmu.org/资金证明" target="_blank">资金证明</a>：国际学生需提供至少$35,000的资金证明*(4)</li>	<li>护照复印件</li>	<li>其它材料：<a href="http://www.qianmu.org/舞蹈" target="_blank">舞蹈</a>、<a href="http://www.qianmu.org/音乐" target="_blank">音乐</a>与<a href="http://www.qianmu.org/戏剧" target="_blank">戏剧</a>专业要求试镜；<a href="http://www.qianmu.org/视觉艺术" target="_blank">视觉艺术</a>专业要求递交<a href="http://www.qianmu.org/个人作品" target="_blank">个人作品</a>*(7)</li></ul><p>注：马里兰大学巴尔的摩郡分校国际学生无需<a href="http://www.qianmu.org/面试" target="_blank">面试</a></p><p><strong>费用与奖学金</strong></p><p>马里兰大学巴尔的摩郡分校向国际学生提供有少量的<a href="http://www.qianmu.org/Merit-based" target="_blank">Merit-based</a>奖学金，该奖学金无需单独申请，自动随Offer发放。欲申请马里兰大学巴尔的摩郡分校奖学金的学生，需有SAT/ACT成绩，且应尽量申请秋季学期入学，并尽早完成申请。2015年度共有82名国际学生获得奖学金，奖学金总额为$1,605,360，平均金额为$19,577。*(8)</p><p><strong>费用列表</strong><strong>：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:23.04%">			<p>支出项目</p>			</td>			<td style="width:55.76%">			<p>项目英文名</p>			</td>			<td style="width:21.18%">			<p>2016-2017学年费用</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>学费</p>			</td>			<td style="width:55.76%">			<p>Tuition and fees</p>			</td>			<td style="width:21.18%">			<p>$24,492</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>住宿费用</p>			</td>			<td style="width:55.76%">			<p>Room and board</p>			</td>			<td style="width:21.18%">			<p>$11,218</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>书本费</p>			</td>			<td style="width:55.76%">			<p>Books and supplies</p>			</td>			<td style="width:21.18%">			<p>$1,200</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>个人花费</p>			</td>			<td style="width:55.76%">			<p>Estimated personal expenses</p>			</td>			<td style="width:21.18%">			<p>$1,524</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>交通费</p>			</td>			<td style="width:55.76%">			<p>Transportation expenses</p>			</td>			<td style="width:21.18%">			<p>$1,292</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>合计</p>			</td>			<td style="width:55.76%">			<p>Estimated Total</p>			</td>			<td style="width:21.18%">			<p>$39,726</p>			</td>		</tr>	</tbody></table><p>*(2)</p><h2>转学申请</h2><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:102px">			<p>TOEFL要求</p>			</td>			<td style="width:75px">			<p>80</p>			</td>			<td style="width:116px">			<p><a href="http://www.qianmu.org/GPA" target="_blank">GPA</a>要求</p>			</td>			<td style="width:74px">			<p>-</p>			</td>			<td style="width:123px">			<p>申请截止日期</p>			</td>			<td style="width:78px">			<p>6月1日</p>			</td>		</tr>		<tr>			<td style="width:102px">			<p>IELTS要求</p>			</td>			<td style="width:75px">			<p>-</p>			</td>			<td style="width:116px">			<p>SAT要求</p>			</td>			<td style="width:74px">			<p>Not Required</p>			</td>			<td style="width:123px">			<p>开学时间</p>			</td>			<td style="width:78px">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:102px">			<p>最高可转学分</p>			</td>			<td style="width:75px">			<p>90</p>			</td>			<td style="width:116px">			<p>最低学分要求</p>			</td>			<td style="width:74px">			<p>12</p>			</td>			<td style="width:123px">			<p>可申请学期</p>			</td>			<td style="width:78px">			<p>秋季、春季、夏季</p>			</td>		</tr>		<tr>			<td style="width:102px">			<p>申请人数</p>			</td>			<td style="width:75px">			<p>2,246</p>			</td>			<td style="width:116px">			<p>录取人数</p>			</td>			<td style="width:74px">			<p>1,821</p>			</td>			<td style="width:123px">			<p>录取率</p>			</td>			<td style="width:78px">			<p>81%</p>			</td>		</tr>	</tbody></table><p>*(1)(4)(9)</p><p>注：</p><p>（1）TOEFL与IELTS要求请见新生申请的<a href="http://www.qianmu.org/条件录取" target="_blank">条件录取</a>说明</p><p>（2）秋季学期和夏季学期均建议3月15日之前申请；春季学期11月1日截止</p><p>（3）国际学生的成绩单需经AACRAO评估递交</p><p><strong>申请说明</strong></p><p>马里兰大学巴尔的摩郡分校春夏秋三个学期均可转学，可入读大一第二学期、大二、大三、大四其中任何一个学期。无最低转学学分要求，大一在读即可申请。该校要求在原学校未修够30个学分的申请者同时递交高中成绩单。该校转学申请无需SAT/ACT成绩。*(1)(13)</p><p><strong>联系方式</strong></p><p><strong>Admission Office</strong></p><p>1000 Hilltop Circle</p><p>Baltimore, <a href="http://www.qianmu.org/MD" target="_blank">MD</a>&nbsp; 21250</p><p><strong>Phone: </strong>(410) 455-2291</p><p><strong>Toll Free:</strong> (800) 862-2482</p><p><strong>Fax:</strong> (410) 455-1094</p><p><strong>Email : </strong>admissions@umbc.edu</p><p><strong>Contact: </strong>Dale Bittinger, Director of Admissions*(1)</p><p><strong>English Language Institute</strong></p><p>E-mail: eli@umbc.edu</p><p>Web: www.umbc.edu/eli</p><p>Telephone: 410-455-2831</p><p>Fax: 410-455-1115*(4)</p><h2>专业设置</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:91px">			<p><strong>专业名称</strong></p>			</td>			<td style="width:173px">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:113px">			<p><strong>专业名称</strong></p>			</td>			<td style="width:203px">			<p><strong>专业英文名</strong></p>			</td>		</tr>		<tr>			<td style="width:91px">			<p>化学工程</p>			</td>			<td style="width:173px">			<p>Chemical Engineering</p>			</td>			<td style="width:113px">			<p>心理学</p>			</td>			<td style="width:203px">			<p><a href="http://www.qianmu.org/心理学" target="_blank">Psychology</a></p>			</td>		</tr>		<tr>			<td style="width:91px">			<p>计算机工程</p>			</td>			<td style="width:173px">			<p><a href="http://www.qianmu.org/计算机工程" target="_blank">Computer Engineering</a></p>			</td>			<td style="width:113px">			<p><a href="http://www.qianmu.org/社会学" target="_blank">社会学</a></p>			</td>			<td style="width:203px">			<p><a href="http://www.qianmu.org/社会学" target="_blank">Sociology</a></p>			</td>		</tr>		<tr>			<td style="width:91px">			<p>计算机科学</p>			</td>			<td style="width:173px">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">Computer Science</a></p>			</td>			<td style="width:113px">			<p>文化<a href="http://www.qianmu.org/人类学" target="_blank">人类学</a></p>			</td>			<td style="width:203px">			<p>Cultural Anthropology</p>			</td>		</tr>		<tr>			<td style="width:91px">			<p>信息系统</p>			</td>			<td style="width:173px">			<p><a href="http://www.qianmu.org/信息系统管理" target="_blank">Information Systems</a></p>			</td>			<td style="width:113px">			<p>性别与女性研究</p>			</td>			<td style="width:203px">			<p>Gender and Women&#39;s Studies</p>			</td>		</tr>		<tr>			<td style="width:91px">			<p>商业技术管理</p>			</td>			<td style="width:173px">			<p>Business Technology Administration</p>			</td>			<td style="width:113px">			<p>卫生管理与政策</p>			</td>			<td style="width:203px">			<p>Health Administration &amp; Policy</p>			</td>		</tr>		<tr>			<td style="width:91px">			<p>机械工程</p>			</td>			<td style="width:173px">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">Mechanical Engineering</a></p>			</td>			<td style="width:113px">			<p>急救服务</p>			</td>			<td style="width:203px">			<p>Emergency Health Services</p>			</td>		</tr>		<tr>			<td style="width:91px">			<p>老年服务管理</p>			</td>			<td style="width:173px">			<p><a href="http://www.qianmu.org/管理学" target="_blank">Management</a> of Aging Services</p>			</td>			<td style="width:113px">			<p>音乐</p>			</td>			<td style="width:203px">			<p>Music</p>			</td>		</tr>		<tr>			<td style="width:91px">			<p>非洲研究</p>			</td>			<td style="width:173px">			<p>Africana Studies</p>			</td>			<td style="width:113px">			<p>舞蹈</p>			</td>			<td style="width:203px">			<p>Dance</p>			</td>		</tr>		<tr>			<td style="width:91px">			<p>美国研究</p>			</td>			<td style="width:173px">			<p>American Studies</p>			</td>			<td style="width:113px">			<p>戏剧</p>			</td>			<td style="width:203px">			<p>Theatre</p>			</td>		</tr>		<tr>			<td style="width:91px">			<p>古代研究</p>			</td>			<td style="width:173px">			<p>Ancient Studies</p>			</td>			<td style="width:113px">			<p>表演</p>			</td>			<td style="width:203px">			<p>Acting</p>			</td>		</tr>		<tr>			<td style="width:91px">			<p>亚洲研究</p>			</td>			<td style="width:173px">			<p>Asian Studies</p>			</td>			<td style="width:113px">			<p>视觉与表演艺术</p>			</td>			<td style="width:203px">			<p>Visual and Performing Arts</p>			</td>		</tr>		<tr>			<td style="width:91px">			<p><a href="http://www.qianmu.org/经济学" target="_blank">经济学</a></p>			</td>			<td style="width:173px">			<p><a href="http://www.qianmu.org/经济学" target="_blank">Economics</a></p>			</td>			<td style="width:113px">			<p>视觉艺术</p>			</td>			<td style="width:203px">			<p>Visual Arts</p>			</td>		</tr>		<tr>			<td style="width:91px">			<p><a href="http://www.qianmu.org/金融" target="_blank">金融</a>经济学</p>			</td>			<td style="width:173px">			<p>Financial Economics</p>			</td>			<td style="width:113px">			<p>设计</p>			</td>			<td style="width:203px">			<p>Design</p>			</td>		</tr>		<tr>			<td style="width:91px">			<p><a href="http://www.qianmu.org/英语" target="_blank">英语</a></p>			</td>			<td style="width:173px">			<p>English</p>			</td>			<td style="width:113px">			<p><a href="http://www.qianmu.org/社会工作" target="_blank">社会工作</a></p>			</td>			<td style="width:203px">			<p>Social Work</p>			</td>		</tr>		<tr>			<td style="width:91px">			<p>现代语言及<a href="http://www.qianmu.org/语言学" target="_blank">语言学</a></p>			</td>			<td style="width:173px">			<p>Modern Languages and Linguistics</p>			</td>			<td style="width:113px">			<p><a href="http://www.qianmu.org/生物化学" target="_blank">生物化学</a>与<a href="http://www.qianmu.org/分子生物学" target="_blank">分子生物学</a></p>			</td>			<td style="width:203px">			<p>Biochemistry and Molecular Biology</p>			</td>		</tr>		<tr>			<td style="width:91px">			<p>环境研究</p>			</td>			<td style="width:173px">			<p>Environmental Studies</p>			</td>			<td style="width:113px">			<p><a href="http://www.qianmu.org/生物信息学" target="_blank">生物信息学</a>与<a href="http://www.qianmu.org/生物信息学" target="_blank">计算生物学</a></p>			</td>			<td style="width:203px">			<p>Bioinformatics and Computational Biology</p>			</td>		</tr>		<tr>			<td style="width:91px">			<p><a href="http://www.qianmu.org/环境科学" target="_blank">环境科学</a></p>			</td>			<td style="width:173px">			<p>Environmental Science</p>			</td>			<td style="width:113px">			<p>生物科学</p>			</td>			<td style="width:203px">			<p>Biological Sciences</p>			</td>		</tr>		<tr>			<td style="width:91px">			<p>地理</p>			</td>			<td style="width:173px">			<p><a href="http://www.qianmu.org/地理学" target="_blank">Geography</a></p>			</td>			<td style="width:113px">			<p>化学</p>			</td>			<td style="width:203px">			<p><a href="http://www.qianmu.org/化学" target="_blank">Chemistry</a></p>			</td>		</tr>		<tr>			<td style="width:91px">			<p>全球研究</p>			</td>			<td style="width:173px">			<p>Global Studies</p>			</td>			<td style="width:113px">			<p>化学教育</p>			</td>			<td style="width:203px">			<p>Chemistry Education</p>			</td>		</tr>		<tr>			<td style="width:91px">			<p><a href="http://www.qianmu.org/历史" target="_blank">历史</a></p>			</td>			<td style="width:173px">			<p><a href="http://www.qianmu.org/历史" target="_blank">History</a></p>			</td>			<td style="width:113px">			<p>数学</p>			</td>			<td style="width:203px">			<p>Mathematics</p>			</td>		</tr>		<tr>			<td style="width:91px">			<p>媒体与传播研究</p>			</td>			<td style="width:173px">			<p>Media and Communication Studies</p>			</td>			<td style="width:113px">			<p><a href="http://www.qianmu.org/统计学" target="_blank">统计学</a></p>			</td>			<td style="width:203px">			<p><a href="http://www.qianmu.org/统计学" target="_blank">Statistics</a></p>			</td>		</tr>		<tr>			<td style="width:91px">			<p><a href="http://www.qianmu.org/哲学" target="_blank">哲学</a></p>			</td>			<td style="width:173px">			<p>Philosophy</p>			</td>			<td style="width:113px">			<p>物理</p>			</td>			<td style="width:203px">			<p><a href="http://www.qianmu.org/物理" target="_blank">Physics</a></p>			</td>		</tr>		<tr>			<td style="width:91px">			<p><a href="http://www.qianmu.org/政治学" target="_blank">政治学</a></p>			</td>			<td style="width:173px">			<p><a href="http://www.qianmu.org/政治学" target="_blank">Political Science</a></p>			</td>			<td style="width:113px">			<p>物理教育</p>			</td>			<td style="width:203px">			<p>Physics Education</p>			</td>		</tr>	</tbody></table><p>*(9)</p><p>外部链接：</p><p>普通申请表：<a href="http://www.qianmu.org/redirect?code=7r_i3IzGLmpEbjkFvvvvvvrunoGiaPST7ahlhlA9g0pPiUxB4-JvsoaRxTL7i3lA5T4g9S6vjZEClVAw5_-Vox5D8P1pb3dWS36_CcmXXHmQj05z3uacGu" target="_blank">Common Application</a>(PDF)</p><p>资金证明表：<a href="http://www.qianmu.org/redirect?code=Nr20uKNDLZv0Op3yVNcAjFSRr8isH6a-ssQOVbRe-NET8Esf0-udo7p8WV-xpS928VGSBAQcc33Ea-kkty8KZqDqOAfzi_-xJ-Pp73Va7d" target="_blank">STATEMENT OF FINANCIAL SUPPORT</a>(PDF)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=JrvWrUjyLx29RZ5GzzzzzwNAN1MDV1jLgsrtk6KIZ6F9wTfP5syw-QLuDnq_vaDiqmD7R_vc9N9cIZoz8tHmDE_RmxK4mvbgMVLvIyRp1kbcTkFafbJbvgqdu_LO2g1KjeSqiP_Cild8Q72n-IzHrpI_zmBWngA2AWxp3t9IgnN1vL" target="_blank">University of Maryland: Baltimore County</a> College Board</p><p>(2) <a href="http://www.qianmu.org/redirect?code=VrxbIdzkwhmWQRvu44444opQ6pm-nIEfBdK0Bc3HFzKeNdYeNcJeRUwLw6pLinpLYUKQ7zrEFgJFFgRS76KxX_SVdk0Cz_WVXcNiBZeTW4p9MuTpdmVd84_WOmg7ebR7hAVxJ1apNb-1ThDmu3OmTAgpafDRiTd_KQb4xuW2u6" target="_blank">University of Maryland--Baltimore County</a> USNEWS</p><p>(3) <a href="http://www.qianmu.org/redirect?code=hrfXwi0Ww_8kIpOk7iakm_BXnCEz9hBz1_husbAr1ab3nwx2cd6g05VZIfhWblE8YRFd3v7bVZlYhmrI53UWtOeevSCHMYffpKLWSw4ffBpeW56dzJE" target="_blank">UMBC Facts</a> University of Maryland,Baltimore County</p><p>(4) <a href="http://www.qianmu.org/redirect?code=Nr20uKH_wWuxTdfU8iQ1dnO2snLBFip1f8Ggh2VAhPSsA8zQ7dkxsZPKR11T5uK9xdA1AcuM4xJ31fnuMQCNAOszvdMVDgdZu5QmRPv1b5VklJL" target="_blank">Undergraduate Conditional Admission​</a>&nbsp;University of Maryland,Baltimore County</p><p>(5) <a href="http://www.qianmu.org/redirect?code=Erbpef5WkqQ6KHUzPPPPPKsshiU3dE-AjM-LJkIXjaTECF-WbYnDCFRL9hXt9FDYBKZESKO-CPXFCPtnaQDebP-5Ch4UCrKYsjayXjKvFb3NrjgoHQaJkQTs65KY6zg7R5KdHb-1RQ8vFzg7k" target="_blank">University of Maryland - Baltimore County</a> College Prowler</p><p>(6) <a href="http://www.qianmu.org/redirect?code=5rk_5oaUws9rfx4hvvvvvAtUu2GdY4qQ3SqLNIV83CMQOCMLWC0d6IzsmLzXKLzP3lMoHtc80b880V7omlqYNlc83VSYmlqgGQ_pBgFUQfuE3v6J3gDUQouEYvx-38xNltx1Htuq7OFzrZL37AVzSue8P" target="_blank">National University Ranking</a> USNEWS</p><p>(7)<a href="http://www.qianmu.org/redirect?code=PrgaXqFawJr7tI4hvvvvvvjUu2GdY4qQ0b0b6FELPpyQWCBbzrELW0t_xAIlhvtMh3t_joDFx1Q6j4mFhs6NI1M8" target="_blank">Visual and Performing Arts</a> University of Maryland,Baltimore County</p><p>(8) <a href="http://www.qianmu.org/redirect?code=Lr8sWSLhLa4bV7gommmmmmDbqCDMsjlK0xnrnrKa3gOKBPsZjRqtNXEblUIhzSYOoysHQh2Hmh2gqJdVHkUVT2kBKP6BaMZF6dWn7rfsdUhLwHSm0" target="_blank">International Undergraduate and Graduate Students</a> University of Maryland,Baltimore County</p><p>(9) <a href="http://www.qianmu.org/redirect?code=jr4AsclLwolVBD3XfzFlFzfJgdmRtfIBdUwjqFSo1tXwz5Q4lzj2PLt9sJFv_nZeKvEO5K7NSHvZziTGytITbdrDK4u49jzwhufq9TgO5NEEAmIS1XtZP" target="_blank">International Transfer Students (Continuing University Study)</a> University of Maryland,Baltimore County</p><p>&nbsp;</p><h1>研究生申请</h1><p><strong>院系设置</strong></p><p>马里兰大学巴尔的摩郡分校共设有以下5个学术学院，分别是：</p><ul>	<li>老年服务<a href="http://www.qianmu.org/管理学" target="_blank">管理学</a>院（Erickson School of Management of Aging Services）</li>	<li>艺术与人文社科学院（College of Arts, Humanities and Social Sciences）</li>	<li>自然与数学科学学院（College of Natural and Mathematical Sciences）</li>	<li>工程与信息技术学院（College of Engineering and Information Technology）</li>	<li>社会工作学院（School of Social Work）*(1)</li></ul><p>注：社会工作学院只招收本科生</p><p><strong>基本要求</strong></p><p>马里兰大学巴尔的摩郡分校研究生院（Graduate School）规定的基本申请条件如下：</p><ul>	<li>学位要求：要求正规大学本科毕业并取得学士学位*(2)&nbsp;</li>	<li>GPA要求：本科GPA要求不低于3.0分*(2)</li>	<li>语言要求：TOEFL要求不低于80分，IELTS要求不低于6.5分，均无单项分数要求*(3)</li>	<li><a href="http://www.qianmu.org/GRE" target="_blank">GRE</a>要求：绝大部分专业均需要递交GRE成绩，部分理科递交<a href="http://www.qianmu.org/GRE Subject" target="_blank">GRE Subject</a>成绩，商科专业要求递交<a href="http://www.qianmu.org/GMAT" target="_blank">GMAT</a>成绩</li>	<li>申请时间：马里兰大学巴尔的摩郡分校未设定有统一的申请截止时间，其申请时间由各系各项目确定，多在1月1日-5月1日间申请截止。</li></ul><p>注：具体申请截止日期和GRE要求请见下方的外部链接</p><p><strong>申请说明</strong></p><p>马里兰大学巴尔的摩郡分校各项目的申请均由马里兰大学巴尔的摩郡分校研究生学习办公室（Office of Graduate Studies）统一管理，要求的具体申请材料如下：</p><ul>	<li>完成在线申请表：通过Apply Web系统申请*(2)</li>	<li>申请费：$50*(4)</li>	<li>成绩单：接受经由<a href="http://www.qianmu.org/WES" target="_blank">WES</a>公证递交的成绩单，但未作强制要求*(3)</li>	<li>GRE成绩</li>	<li>TOEFL/IELTS成绩</li>	<li><a href="http://www.qianmu.org/推荐信" target="_blank">推荐信</a>： 3封</li>	<li>资金证明：申请时可无需递交，但录取后必需递交；2014-15学年该校要求国际学生准备至少$31,562的资金证明*(5)</li>	<li>其他材料：如<a href="http://www.qianmu.org/个人陈述" target="_blank">个人陈述</a>、个人作品、<a href="http://www.qianmu.org/个人简历" target="_blank">个人简历</a>、<a href="http://www.qianmu.org/写作样本" target="_blank">写作样本</a>等，部分专业可能会需要</li></ul><p><strong>费用与奖学金</strong></p><p>马里兰大学巴尔的摩郡分校主要由学生所申请的系所或项目提供，其形式以<a href="http://www.qianmu.org/TA" target="_blank">TA</a>、<a href="http://www.qianmu.org/RA" target="_blank">RA</a>和Fellowship为主。学生在申请时应主动与系里的导师或招生办联系，以期获得由导师或系里提供的RA、TA奖学金。该校奖学金形式均为Merit-based，无需单独申请，自动随Offer发放。一般而言，PhD学生的获奖几率要远远大于硕士学生获得的几率。*(6)</p><p><strong>费用列表（2014-15</strong><strong>学年）：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:21.92%">			<p><strong>支出项目</strong></p>			</td>			<td style="width:37.4%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:26.54%">			<p><strong>费用（/</strong><strong>学期）</strong></p>			</td>			<td style="width:14.14%">			<p><strong>费用（/</strong><strong>年）</strong></p>			</td>		</tr>		<tr>			<td style="width:21.92%">			<p>学费</p>			</td>			<td style="width:37.4%">			<p>Tuition</p>			</td>			<td style="width:26.54%">			<p>$7,902</p>			</td>			<td style="width:14.14%">			<p>$15,804</p>			</td>		</tr>		<tr>			<td style="width:21.92%">			<p>杂费</p>			</td>			<td style="width:37.4%">			<p>Mandatory Fees</p>			</td>			<td style="width:26.54%">			<p>$1,071</p>			</td>			<td style="width:14.14%">			<p>$2,142</p>			</td>		</tr>		<tr>			<td style="width:21.92%">			<p>住宿费</p>			</td>			<td style="width:37.4%">			<p>Housing</p>			</td>			<td style="width:26.54%">			<p>-</p>			</td>			<td style="width:14.14%">			<p>$6,600</p>			</td>		</tr>		<tr>			<td style="width:21.92%">			<p>膳费</p>			</td>			<td style="width:37.4%">			<p>Meals</p>			</td>			<td style="width:26.54%">			<p>-</p>			</td>			<td style="width:14.14%">			<p>$4,000</p>			</td>		</tr>		<tr>			<td style="width:21.92%">			<p>医疗保险费</p>			</td>			<td style="width:37.4%">			<p>Health Insurance（Required）</p>			</td>			<td style="width:26.54%">			<p>800（春季）;900（秋季）</p>			</td>			<td style="width:14.14%">			<p>$1,700</p>			</td>		</tr>		<tr>			<td style="width:21.92%">			<p>书本及其它个人花费</p>			</td>			<td style="width:37.4%">			<p>Books、Supplies，other Living Expense</p>			</td>			<td style="width:26.54%">			<p>-</p>			</td>			<td style="width:14.14%">			<p>$2,000</p>			</td>		</tr>		<tr>			<td style="width:21.92%">			<p>合计</p>			</td>			<td style="width:37.4%">			<p>Total</p>			</td>			<td style="width:26.54%">			<p>&nbsp;</p>			</td>			<td style="width:14.14%">			<p>$31,562</p>			</td>		</tr>	</tbody></table><p>*(5)</p><p><strong>联系方式</strong></p><p><strong>姓名：</strong>Kathy Ruth</p><p><strong>职务：</strong>International Graduate Admissions Coordinator</p><p><strong>Email</strong><strong>：</strong>jrutledge@umbc.edu</p><p><strong>电话：</strong>410.455.1781</p><p><strong>职责：</strong>International applicantsTranscripts from foreign universities*(7)</p><p>外部链接：</p><p>研究生勤工助学手册：<a href="http://www.qianmu.org/redirect?code=FrFYCW9MLwBRmJ5x7FEGS4SGTZSBqjma__-dJ7QaragAj15HZ-tTZzIh0NtmHjez3H2qRF3Yw4Dlw59uaBoXLqWvOVFHDc-zheEoKVZ--dHmaBnNq9trG8MmsrkmmvRXLJ" target="_blank">Graduate Assistant Handbook</a>(PDF)</p><p>研究生申请指南：<a href="http://www.qianmu.org/redirect?code=UrsQlJ0fkdft_3xpKKKKKLzSTGWoOvRnQSyryrb3kS_0lhQLteRUQVRh48Astg-1lgDfJviNj2Eyjjjnkdr51J-5CMU5p2VS62WF-Ltu0lIx2o9sQJIqyjJUKhwI2DMupYfCZwNx1dShi6EpeKdAL-iX" target="_blank">Degree-Seeking Application and Guidelines</a>(PDF)</p><p>资金证明表：<a href="http://www.qianmu.org/redirect?code=8rL6TCNEkoeaLlqo-AGXZrYGWj5p44VY5S_mz-fURGBNC_FF3Y0Vt85ArOPWB8zE3DJCENnAQI8pPyIetjCwkUbAtl0CnxRD1Wyn-EQ36XvlZbOe_1H3KRBG_PucvJEFYHUzhCm5VyZ_ECKYtldgCEEd2qUzgPdxTJ9ZY6R5BMr2KzS_0AOFUtx" target="_blank">Financial Responsibility for F-1 Students</a>(PDF)</p><p>各项目申请时间与条件列表：<a href="http://www.qianmu.org/redirect?code=vrJH6YyDw-IwEDp5MMMB111oFYZBVdWEikCkCgrKhNhlKACo_kjEN8CX_8HwbBHEeAHX_Bv07veM7TVbqyxswHow5QzscQOWcGzKTG6Rl_O" target="_blank">Admissions Requirements &amp; Deadlines</a></p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=WrSJLFCILgeaoY4T2BkVlaap9xbEv87aHeJR3oq6-OYpsQ30O-_Qgl-W-1q7Tj3Acu2hLd7KIEc" target="_blank">Colleges and Schools</a> University of Maryland,Baltimore County</p><p>(2) <a href="http://www.qianmu.org/redirect?code=_r75g1xbkDUFumuF111111g82oW4Z0DmGXGXAIKeRhlmBM_Xx7v4Bp_43C0e37rVMnEFNG-xYn-yNKSyQOtcOnH-QGHLbz2RXrgRGcnaB" target="_blank">Admissions Requirements &amp; Deadlines</a> University of Maryland,Baltimore County</p><p>(3) <a href="http://www.qianmu.org/redirect?code=wrYmhljwkxAv4jxpKKKKKLKg30RPnWZBHwHw19ykojJBQzb1TwcMeUGWeL2soLcFELGWo61leL1zoMjz76PrVaKdCaYHoLPyoGcyeQud7QYJou" target="_blank">International Admissions</a> University of Maryland,Baltimore County</p><p>(4) <a href="http://www.qianmu.org/redirect?code=lreSUwjywRjyJFesccccccMrGEi7zKg_Gwoxoxeyzgs6wkJyKFmnRej_TcNjRFCD3FAaTL2FkbWlzZiAwpre4puPYjsS9BJCGcHCAuXdvX3H7eaipeq6Vh" target="_blank">Application Fee</a> University of Maryland,Baltimore County</p><p>(5) <a href="http://www.qianmu.org/redirect?code=9rpcSXLxwGY_PUTCAAAIwwI8KteC3p_jNV0V0szaGLcENbkx09qP3bMx3li_GlqrQ89i_Rrw_je4PZOw_wWYJuf7JuX4HGlBtZeuFRlJaziZ6Trtngrqy_h8cM7UyKDna0wPTwIbxMfhU3VhS8NPQbOKU05hl3fhF1" target="_blank">Financial Responsibility for F-1 Students</a> University of Maryland,Baltimore County</p><p>(6) <a href="http://www.qianmu.org/redirect?code=0rRNYshvwlsJdMKc6J1ovKFi400eHZZhIF_FO6TTF5Z6s14dTdUmmOYf-rh6W3UYmex1VfmwEsu9dYmFTItpFzKCO9DtzXhDEpZU57vFL6g2Lgd3dOjep6pHn" target="_blank">International Undergraduate and Graduate Students</a> University of Maryland,Baltimore County</p><p>(7) <a href="http://www.qianmu.org/redirect?code=nrIeztgGkNYOnxs2WP4FKHY4q6x0NomRvb8Jb5193gLpTF31iRyTLWi-0v_FLyFDEAhmbS-VyeA1PIfaF-46bY7_8MiTtCRRW5N9fA4C-6" target="_blank">Graduate School Staff</a> University of Maryland,Baltimore County</p><h2>艺术与人文社科学院</h2><p>马里兰大学巴尔的摩郡分校艺术与人文社科学院（College of Arts, Humanities and Social Sciences）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:151px">			<p><strong>专业名称</strong></p>			</td>			<td style="width:264px">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:164px">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>经济政策分析</p>			</td>			<td style="width:264px">			<p>Economic Policy Analysis</p>			</td>			<td style="width:164px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p><a href="http://www.qianmu.org/教育学" target="_blank">教育学</a></p>			</td>			<td style="width:264px">			<p>Education</p>			</td>			<td style="width:164px">			<p>MA、MAT</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>教学系统开发</p>			</td>			<td style="width:264px">			<p>Instructional Systems Development</p>			</td>			<td style="width:164px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>教学</p>			</td>			<td style="width:264px">			<p>Teaching</p>			</td>			<td style="width:164px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>英语外教</p>			</td>			<td style="width:264px">			<p>TESOL</p>			</td>			<td style="width:164px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>语言素养与文化</p>			</td>			<td style="width:264px">			<p>Language Literacy &amp; Culture</p>			</td>			<td style="width:164px">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>文学与技术</p>			</td>			<td style="width:264px">			<p>Texts, Technologies and Literature</p>			</td>			<td style="width:164px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p><a href="http://www.qianmu.org/地理信息系统" target="_blank">地理信息系统</a></p>			</td>			<td style="width:264px">			<p>Geographic Information Systems</p>			</td>			<td style="width:164px">			<p>MPS</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>地理与环境系统</p>			</td>			<td style="width:264px">			<p>Geography and Environmental Systems</p>			</td>			<td style="width:164px">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>历史研究</p>			</td>			<td style="width:264px">			<p>Historical Studies</p>			</td>			<td style="width:164px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>跨文化传播</p>			</td>			<td style="width:264px">			<p>Intercultural Communication</p>			</td>			<td style="width:164px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>应用<a href="http://www.qianmu.org/发展心理学" target="_blank">发展心理学</a></p>			</td>			<td style="width:264px">			<p>Applied Developmental Psychology</p>			</td>			<td style="width:164px">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>人类服务心理学</p>			</td>			<td style="width:264px">			<p>Human Services Psychology</p>			</td>			<td style="width:164px">			<p>MA、PhD</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p><a href="http://www.qianmu.org/工业与组织心理学" target="_blank">工业与组织心理学</a></p>			</td>			<td style="width:264px">			<p>Industrial/Organizational Psychology</p>			</td>			<td style="width:164px">			<p>MPS</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p><a href="http://www.qianmu.org/公共事务" target="_blank">公共政策</a></p>			</td>			<td style="width:264px">			<p>Public Policy</p>			</td>			<td style="width:164px">			<p>MPP、PhD</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>应用社会学</p>			</td>			<td style="width:264px">			<p>Applied Sociology</p>			</td>			<td style="width:164px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>急救服务</p>			</td>			<td style="width:264px">			<p>Emergency Health Services</p>			</td>			<td style="width:164px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>数字艺术与成像</p>			</td>			<td style="width:264px">			<p>Imaging and Digital Arts</p>			</td>			<td style="width:164px">			<p>MFA</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=erlnE6BTk1JUIsQheeeeeedten2Gs13AX2CuCuh8lLUv4OfS5i9lVfqORe86_1pdS8oe9G0BHXsBEts8W3OZTm" target="_blank">Majors and Programs</a> University of Maryland,Baltimore County</p><h2>自然与数学科学学院</h2><p>马里兰大学巴尔的摩郡分校自然与数学科学学院（College of Natural and Mathematical Sciences）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:148px">			<p><strong>专业名称</strong></p>			</td>			<td style="width:259px">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:161px">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>生物科学</p>			</td>			<td style="width:259px">			<p>Biological Sciences</p>			</td>			<td style="width:161px">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>生物化学</p>			</td>			<td style="width:259px">			<p>Biochemistry</p>			</td>			<td style="width:161px">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>生物技术</p>			</td>			<td style="width:259px">			<p>Biotechnology</p>			</td>			<td style="width:161px">			<p>MPS</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p><a href="http://www.qianmu.org/分子生物学" target="_blank">分子与细胞生物学</a></p>			</td>			<td style="width:259px">			<p>Molecular and Cell Biology</p>			</td>			<td style="width:161px">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>分子生物学应用</p>			</td>			<td style="width:259px">			<p>Molecular Biology, Applied</p>			</td>			<td style="width:161px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>神经科学与认知科学</p>			</td>			<td style="width:259px">			<p>Neurosciences and Cognitive Sciences</p>			</td>			<td style="width:161px">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>海洋河口环境科学</p>			</td>			<td style="width:259px">			<p>Marine-Estuarine Environmental Science</p>			</td>			<td style="width:161px">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>化学</p>			</td>			<td style="width:259px">			<p>Chemistry</p>			</td>			<td style="width:161px">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p><a href="http://www.qianmu.org/应用数学" target="_blank">应用数学</a></p>			</td>			<td style="width:259px">			<p><a href="http://www.qianmu.org/应用数学" target="_blank">Applied Mathematics</a></p>			</td>			<td style="width:161px">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>统计学</p>			</td>			<td style="width:259px">			<p>Statistics</p>			</td>			<td style="width:161px">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>物理</p>			</td>			<td style="width:259px">			<p>Physics</p>			</td>			<td style="width:161px">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>大气物理学</p>			</td>			<td style="width:259px">			<p>Atmospheric Physics</p>			</td>			<td style="width:161px">			<p>MS、PhD</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=crr9Mj-dLH56-BeEXXXXXXeD1JbA-H9dbJbkbkoZU5lfOQFX5NHdS9hY2FkeoukZg-v3myaJTnHJ0ThECcN96w" target="_blank">Majors and Programs</a> University of Maryland,Baltimore County</p><h2>工程与信息技术学院</h2><p>马里兰大学巴尔的摩郡分校工程与信息技术学院（College of Engineering and Information Technology）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:148px">			<p><strong>专业名称</strong></p>			</td>			<td style="width:259px">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:161px">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>化学与<a href="http://www.qianmu.org/生物医学工程" target="_blank">生物医学工程</a></p>			</td>			<td style="width:259px">			<p>Chemical and Biochemical Engineering</p>			</td>			<td style="width:161px">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p><a href="http://www.qianmu.org/环境工程" target="_blank">环境工程</a></p>			</td>			<td style="width:259px">			<p><a href="http://www.qianmu.org/环境工程" target="_blank">Environmental Engineering</a></p>			</td>			<td style="width:161px">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>计算机工程</p>			</td>			<td style="width:259px">			<p>Computer Engineering</p>			</td>			<td style="width:161px">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>计算机科学</p>			</td>			<td style="width:259px">			<p>Computer Science</p>			</td>			<td style="width:161px">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>电气工程</p>			</td>			<td style="width:259px">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">Electrical Engineering</a></p>			</td>			<td style="width:161px">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>网络安全</p>			</td>			<td style="width:259px">			<p>Cybersecurity</p>			</td>			<td style="width:161px">			<p>MPS</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>卫生信息技术</p>			</td>			<td style="width:259px">			<p>Health Information Technology</p>			</td>			<td style="width:161px">			<p>MPS</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>工程管理</p>			</td>			<td style="width:259px">			<p>Engineering Management</p>			</td>			<td style="width:161px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>信息系统</p>			</td>			<td style="width:259px">			<p>Information Systems</p>			</td>			<td style="width:161px">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>人本计算</p>			</td>			<td style="width:259px">			<p>Human Centered Computing</p>			</td>			<td style="width:161px">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>机械工程</p>			</td>			<td style="width:259px">			<p>Mechanical Engineering</p>			</td>			<td style="width:161px">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:148px">			<p>网络安全</p>			</td>			<td style="width:259px">			<p>Cybersecurity</p>			</td>			<td style="width:161px">			<p>MPS</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=Erbpef5-kSynchSNyyyyyyUTGWoOvRniKh0h0OC4BE59KygL0_pIZJML-E4zZhTX-jgdHyg7HOCq0j4n" target="_blank">Majors and Programs</a> University of Maryland,Baltimore County</p><h2>老年服务管理学院</h2><p>马里兰大学巴尔的摩郡分校埃里克森老年服务管理学院（Erickson School of Management of Aging Services）研究生开设有以下两个学位项目，分别是：</p><ul>	<li>老年服务管理硕士（MA in Management of Aging Services）</li>	<li>老年学博士（PhD in Gerontology）*(1)</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=3rHk7m9Lks07EKTozzzzzzHLpADnBaZTZjz_z_7rIULq95A1aBXuKTVRNs4V1GgUQvSyjjiAlWnAS0lGVui92d" target="_blank">Majors and Programs</a> University of Maryland,Baltimore County</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2020-09-23</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1608;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1608' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1608;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

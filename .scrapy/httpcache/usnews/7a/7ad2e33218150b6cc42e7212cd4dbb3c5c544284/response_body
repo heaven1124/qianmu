@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>纽约市立学院-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="纽约市立学院" />
+<meta name="description"  id="description"  content="纽约市立学院:纽约市立学院（The City College of New York，缩写CCNY），成立于1847年，是纽约市立大学系统中的一所四年制学院，是纽约市立大学系统的创始学校，也是历史最悠久的分校，至2012年止计有11位校友获得诺贝尔奖。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">纽约市立学院 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:130px">			<p>排名</p>			</td>			<td style="width:293px">			<p>176*(2)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国家</p>			</td>			<td style="width:293px">			<p>美国</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>州省</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/纽约州" target="_blank">纽约州</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>城市</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/纽约市" target="_blank">纽约市</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校训</p>			</td>			<td style="width:293px">			<p>Respice, Adspice, Prospice(look behind, look here, look ahead)*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>汉译</p>			</td>			<td style="width:293px">			<p>以史为鉴，立足当下，面向未来</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>性质</p>			</td>			<td style="width:293px">			<p>公立，男女合校</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>成立年份</p>			</td>			<td style="width:293px">			<p>1847年*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>宗教信仰</p>			</td>			<td style="width:293px">			<p>无</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校园</p>			</td>			<td style="width:293px">			<p>0.14Km<sup>2</sup>，市区*(2)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学生人数</p>			</td>			<td style="width:293px">			<p>15,464</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>本科生人数</p>			</td>			<td style="width:293px">			<p>14,902*(3)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>研究生人数</p>			</td>			<td style="width:293px">			<p>2,693*(3)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>师生比</p>			</td>			<td style="width:293px">			<p>1:14*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国际学生比例</p>			</td>			<td style="width:293px">			<p>本科：7.3%</p>			<p>研究生：14.8%*(3)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学校分类</p>			</td>			<td style="width:293px">			<p>北部<a href="http://www.qianmu.org/地方性大学" target="_blank">地方性大学</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学校集团</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/纽约市立大学系统" target="_blank">纽约市立大学系统</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>认证机构</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/中部各州学院及学校协会" target="_blank">中部各州学院及学校协会</a>（NCACS）</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>网址</p>			</td>			<td style="width:293px">			<p>www.ccny.cuny.edu</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>纽约市立学院（The City College of New York，缩写CCNY），或作&ldquo;<a href="http://www.qianmu.org/纽约市" target="_blank">纽约市</a>立大学城市学院&rdquo;，成立于1847年，是<a href="http://www.qianmu.org/纽约市立大学系统" target="_blank">纽约市立大学系统</a>中的一所四年制学院，是纽约市立<a href="http://www.qianmu.org/大学系统" target="_blank">大学系统</a>的创始学校，也是<a href="http://www.qianmu.org/历史" target="_blank">历史</a>最悠久的分校，至2012年止计有11位校友获得诺贝尔奖。纽约市立学院相对于纽约市立大学系统其它四年制分校的就读学生人数而言，其规模属于中等。在2012年，纽约市立学院共有16,161位在学生，其中包括13,113位大学部学生和3,048位研究生。纽约市立学院预计在2014年秋季学期，于该校南校园启用两栋新颖绿建筑(LEED-Gold)研究大楼。</p><p><strong>学校历史</strong></p><p>二十世纪初纽约市立学院曾经辉煌一时。它提倡精英教育，为许多家境贫寒但学业成绩出众的学生（特别是新移民）提供免费教育，被昵称为平民哈佛（The poor man&#39;s Harvard）。然而六十年代后受平权运动的影响而逐渐衰落。</p><p>纽约市立学院历来培育出不少杰出人才，其中较知名者有曾担任美国国务卿的克林&middot;鲍威尔和亨利&middot;基辛格以及1997年时代杂志风云人物、美国资讯产业巨头安迪&middot;葛洛夫。而历来纽约市立学院有为数众多的毕业生任职于纽约首屈一指的大企业公司，包括花旗银行、摩根大通银行、高盛投资银行、大都会人寿保险等。</p><p>1921年，爱因斯坦选择纽约市立学院为其美国巡回演讲首场之举办地点。2004年，美国前总统克林顿担任纽约市立学院毕业典礼演讲致词嘉宾。</p><p><strong>诺贝尔奖得主</strong></p><ul>	<li>2005 经济奖 - 罗伯特&middot;约翰&middot;奥曼，1950年<a href="http://www.qianmu.org/数学" target="_blank">数学</a>系系友。</li>	<li>1988 <a href="http://www.qianmu.org/物理" target="_blank">物理</a>奖 - 里昂&middot;莱德曼，1943年物理系系友。</li>	<li>1985 <a href="http://www.qianmu.org/化学" target="_blank">化学</a>奖 - 赫伯特&middot;豪普特曼，1937年数学系系友。</li>	<li>1985 化学奖 - 杰罗姆&middot;卡尔，1937年校友。</li>	<li>1978 物理奖 - 阿诺&middot;潘齐亚斯，1954年物理系系友。</li>	<li>1973 和平奖 - 亨利&middot;季辛吉，<a href="http://www.qianmu.org/会计" target="_blank">会计</a>系系友，1943年因进入美国陆军服役休学。</li>	<li>1972 经济奖 - 肯尼斯&middot;约瑟夫&middot;艾罗，1940年数学系暨社会科学系友。</li>	<li>1970 生理<a href="http://www.qianmu.org/医学" target="_blank">医学</a>奖 - 胡利叶斯&middot;艾克索罗德，1933年生物学系校友。</li>	<li>1965 物理奖 - 胡利安&middot;施温格，1933年入学，后转学至<a href="http://www.qianmu.org/哥伦比亚大学" target="_blank">哥伦比亚大学</a>。</li>	<li>1961 物理奖 - 罗伯特&middot;霍夫施塔特，1935年物理系校友。</li>	<li>1959 生理医学奖 - 亚瑟&middot;科恩伯格，1937年生物学系校友。</li></ul><h2>申请点评</h2><p><strong>好评项：</strong></p><p>1.The fact that you are in Manhattan</p><p>2.The diverse population</p><p>3.The international students</p><p>4.The Rudin Learning Center</p><p>5.We&#39;re like a mini United Nations in Harlem</p><p>6.Terrific professors</p><p>7.The Neo-Gothic architecture of the campus</p><p>8.The many scholarships available</p><p>9.Great alumni base</p><p>10.Many great academic programs at the school*(5)</p><p><strong>差评项：</strong></p><p>1.No matter how you get to campus, you have to walk up a hill</p><p>2.The Administration building</p><p>3.The cashiers at the cafeteria</p><p>4.Really thick accents you can&#39;t understand</p><p>5.High school students hanging around campus</p><p>6.Worst WiFi ever</p><p>7.No football team</p><p>8.No frisbee on the lawn</p><p>9.Pricey food</p><p>10.Not enough hot guys*(5)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=FrFYCWPww36DmlElkkkkkk4BFYZBVdWExSVB4S-GbzhqybE8vMezYodvrvdj2FMvPhAsbXlDslnaFj3VtMrFZyEcKzqoJeRjjnMIRca" target="_blank">City College of New York</a> Wikipedia</p><p>(2) <a href="http://www.qianmu.org/redirect?code=pr9ExTHJkIT16dGAWWWWWXs3SMtEIz5-xy5vfr_9xcP-7cPvdcuE0B0j8cXbucXmgrRhLsvnyNnLcsKIot1G7fiJ57Hh18ZJpnBjgd-WTXZhgeQ_496WUCKEtXBjb7-Jx8T9Z2Gc" target="_blank">CUNY--City College</a> USNEWS</p><p>(3) <a href="http://www.qianmu.org/redirect?code=FrFYCW9MLwBRm6luhhhhhPdfV-Ek6c1J9ZXnXnR7e-FyWWVwnozhDlF9NSuCPAoZEQInMwpSbCGkqKXgN0lPOaxNOM4dw6ZRSofkn6Pkw6-uT7xPXBFeQqurHWTID" target="_blank">City Facts 2013</a> City College of New York</p><p>(4) <a href="http://www.qianmu.org/redirect?code=WrSJLFTEwgqXDKgXegcHuIFqywltcePdoNCi3SANfsmfvo2qy1N6nmvyo1F-CqIe6KXBO6IDP6wXdJjtpHBx0fEh1gQ2q-zJTEzt_x8O5ZcwS4x9d1nvq3y8FzJSDj1TwYh06C9Ejvpd1nAiZdmdOvpuSIY39Oi70k3pakhKhNoJy76Fz94-vw4" target="_blank">City University of New York: City College</a> College Board</p><p>(5)&nbsp;<a href="http://www.qianmu.org/redirect?code=7r_i3IVhk5gArq6Py0IVle3idQFUScbPibrfwAF6CsnL6h_XN31EF00iV__7BFUMZ5e_wdzEPNhDRqSbU94lH3QElxwLs2CH9X6_sxQ_NglBCNlCCyaeXi_vYPSWl6JipCm3wDdqmZv3NU30VHZ" target="_blank">CUNY City College of New York</a> College Prowler riorit</p><p>&nbsp;</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:121px">			<p>USNEWS排名</p>			</td>			<td style="width:75px">			<p>176</p>			</td>			<td style="width:97px">			<p>学费(/年)</p>			</td>			<td style="width:74px">			<p>$17,210</p>			</td>			<td style="width:123px">			<p>申请截止日期</p>			</td>			<td style="width:78px">			<p>3月15日</p>			</td>		</tr>		<tr>			<td style="width:121px">			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>分数</p>			</td>			<td style="width:75px">			<p>61</p>			</td>			<td style="width:97px">			<p>食宿(/年)</p>			</td>			<td style="width:74px">			<p>$13,848</p>			</td>			<td style="width:123px">			<p>开学时间</p>			</td>			<td style="width:78px">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:121px">			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>分数</p>			</td>			<td style="width:75px">			<p>-</p>			</td>			<td style="width:97px">			<p>申请费</p>			</td>			<td style="width:74px">			<p>$65</p>			</td>			<td style="width:123px">			<p>可申请学期</p>			</td>			<td style="width:78px">			<p>秋季、春季</p>			</td>		</tr>		<tr>			<td style="width:121px">			<p><a href="http://www.qianmu.org/SAT" target="_blank">SAT</a>均分</p>			</td>			<td style="width:75px">			<p>950-1190</p>			</td>			<td style="width:97px">			<p>录取率</p>			</td>			<td style="width:74px">			<p>6.2%</p>			</td>			<td style="width:123px">			<p>奖学金形式</p>			</td>			<td style="width:78px">			<p>Need-aware &amp; Merit-based</p>			</td>		</tr>		<tr>			<td style="width:121px">			<p><a href="http://www.qianmu.org/GPA" target="_blank">GPA</a>均分</p>			</td>			<td style="width:75px">			<p>3.3</p>			</td>			<td style="width:97px">			<p>申请人数</p>			</td>			<td style="width:74px">			<p>24,497</p>			</td>			<td style="width:123px">			<p>是否提供<a href="http://www.qianmu.org/双录取" target="_blank">双录取</a></p>			</td>			<td style="width:78px">			<p>No</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)(4)</p><p>注：</p><p>（1）IELTS单项要求不详；TOEFL无单项要求*(4)</p><p>（2）春季学期9月15日申请截止*(4)</p><p>（3）上表SAT均分不含写作单项的成绩</p><h2>教学质量</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>本科生人数</p>			</td>			<td>			<p>12,209</p>			</td>			<td>			<p>小班比例(&lt;20)</p>			</td>			<td>			<p>43.6%</p>			</td>			<td>			<p><a href="http://www.qianmu.org/学期制度" target="_blank">学期制度</a></p>			</td>			<td>			<p>Semseter</p>			</td>		</tr>		<tr>			<td>			<p>研究生人数</p>			</td>			<td>			<p>2,693</p>			</td>			<td>			<p>中班比例(20-49)</p>			</td>			<td>			<p>56.1%</p>			</td>			<td>			<p>教授水平满意度</p>			</td>			<td>			<p>79%</p>			</td>		</tr>		<tr>			<td>			<p>国际学生比例</p>			</td>			<td>			<p>7.3%</p>			</td>			<td>			<p>大班比例(&gt;50)</p>			</td>			<td>			<p>10%</p>			</td>			<td>			<p>课业轻松程度</p>			</td>			<td>			<p>54%</p>			</td>		</tr>		<tr>			<td>			<p>师生比</p>			</td>			<td>			<p>1:14</p>			</td>			<td>			<p>六年毕业率</p>			</td>			<td>			<p>44%</p>			</td>			<td>			<p>学生满意度</p>			</td>			<td>			<p>-</p>			</td>		</tr>		<tr>			<td>			<p>四年毕业率</p>			</td>			<td>			<p>10%</p>			</td>			<td>			<p>新生保持率</p>			</td>			<td>			<p>86%</p>			</td>			<td>			<p>教师博士学位比例</p>			</td>			<td>			<p>-</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)(5)</p><p>注：2013年秋季学期该校共有15,464名学生入学，其中本科生12,629名，研究生2,835名。对应的国际学生分别为926和419名，分别占比7.3%和14.8%*(3)</p><h2>申请说明</h2><p><strong>SAT</strong><strong>与ACT</strong></p><p>纽约市立学院要求国际学生递交SAT/<a href="http://www.qianmu.org/ACT" target="_blank">ACT</a>成绩，2013年秋季，该校录取学生的SAT平均分数如下：</p><ul>	<li>SAT均分（25%-75%）：SAT阅读450-510；SAT数学520-580*(1)</li></ul><p>注：98%的学生递交的是SAT成绩；SAT/ACT成绩要求3月1日前递交给学校 *(1)</p><p><strong>AP</strong><strong>、IB</strong><strong>与A-level</strong></p><p>纽约市立学院接受<a href="http://www.qianmu.org/AP" target="_blank">AP</a>、<a href="http://www.qianmu.org/IB" target="_blank">IB</a>与<a href="http://www.qianmu.org/A-level" target="_blank">A-level</a>课程转学分，最高可转32个学分&mdash;&mdash;约相当于一个学年所修读的学分数。AP课程要求3分以上；IB课程高水准（Higher-level）和标准水准（Standard-level）课程均可抵学分，要求5分以上；A-level课程要求E以上。具体可转学分课程、及其可转学分数与分数要求，请见下方的外部链接。*(6)(7)(8)(9)</p><p><strong>申请材料</strong></p><p>纽约市立学院通过纽约市立大学系统申请，申请时可以指定自己的专业，也可以不指定，未明确自己专业的学生，可以选择类似&ldquo;Undecided&rdquo;的选项作为自己的选择。该校每年8月份起开始开放申请，要求申请者递交以下<a href="http://www.qianmu.org/申请材料" target="_blank">申请材料</a>：</p><ul>	<li>完成申请表：通过纽约市立大学系统在线申请*(10)</li>	<li>申请费：$65</li>	<li><a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a>：需<a href="http://www.qianmu.org/翻译" target="_blank">翻译</a>，但无需公证</li>	<li><a href="http://www.qianmu.org/个人陈述" target="_blank">个人陈述</a>或<a href="http://www.qianmu.org/Essay" target="_blank">Essay</a></li>	<li><a href="http://www.qianmu.org/推荐信" target="_blank">推荐信</a></li>	<li>TOEFL/IELTS成绩</li>	<li>SAT/ACT成绩</li>	<li><a href="http://www.qianmu.org/资金证明" target="_blank">资金证明</a>：申请时可无需递交</li></ul><p>注：纽约市立学院国际学生无需<a href="http://www.qianmu.org/面试" target="_blank">面试</a></p><p><strong>费用与奖学金</strong></p><p>纽约市立学院向国际学生提供有少量的<a href="http://www.qianmu.org/Merit-based" target="_blank">Merit-based</a><a href="http://www.qianmu.org/奖学金" target="_blank">奖学金</a>，纽约市立学院的奖学金需单独申请，一般每年10月份开始开放申请，第二年2月初截止。该学院所有学生都可以申请由学校提供的奖学金，要求的学术成绩如下：</p><ul>	<li>高中平均分85分以上，或GPA3.0以上</li>	<li>SAT阅读+数学1100分以上，或ACT综合24分以上*(11)</li></ul><p><strong>费用列表</strong><strong>：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:23.04%">			<p>支出项目</p>			</td>			<td style="width:55.76%">			<p>项目英文名</p>			</td>			<td style="width:21.18%">			<p>2015-2016学年费用</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>学费</p>			</td>			<td style="width:55.76%">			<p>Tuition and fees</p>			</td>			<td style="width:21.18%">			<p>$17,210</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>住宿费用</p>			</td>			<td style="width:55.76%">			<p>Room Only</p>			</td>			<td style="width:21.18%">			<p>--</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>书本费</p>			</td>			<td style="width:55.76%">			<p>Books and supplies</p>			</td>			<td style="width:21.18%">			<p>--</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>个人花费</p>			</td>			<td style="width:55.76%">			<p>Estimated personal expenses</p>			</td>			<td style="width:21.18%">			<p>--</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>交通费</p>			</td>			<td style="width:55.76%">			<p>Transportation expenses</p>			</td>			<td style="width:21.18%">			<p>--</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>合计</p>			</td>			<td style="width:55.76%">			<p>Estimated Total</p>			</td>			<td style="width:21.18%">			<p>$17,210</p>			</td>		</tr>	</tbody></table><p>*(1)</p><h2>转学申请</h2><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:102px">			<p>TOEFL分数</p>			</td>			<td style="width:75px">			<p>61</p>			</td>			<td style="width:116px">			<p>申请费</p>			</td>			<td style="width:74px">			<p>$50</p>			</td>			<td style="width:123px">			<p>申请截止日期</p>			</td>			<td style="width:78px">			<p>3月31日</p>			</td>		</tr>		<tr>			<td style="width:102px">			<p>IELTS分数</p>			</td>			<td style="width:75px">			<p>-</p>			</td>			<td style="width:116px">			<p>GPA要求</p>			</td>			<td style="width:74px">			<p>2.0</p>			</td>			<td style="width:123px">			<p>开学时间</p>			</td>			<td style="width:78px">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:102px">			<p>最高可转学分</p>			</td>			<td style="width:75px">			<p>90</p>			</td>			<td style="width:116px">			<p>最低学分要求</p>			</td>			<td style="width:74px">			<p>-</p>			</td>			<td style="width:123px">			<p>可申请学期</p>			</td>			<td style="width:78px">			<p>秋季</p>			</td>		</tr>		<tr>			<td style="width:102px">申请人数</td>			<td style="width:75px">12,439</td>			<td style="width:116px">录取人数</td>			<td style="width:74px">1,713</td>			<td style="width:123px">			<p>录取率</p>			</td>			<td style="width:78px">13%</td>		</tr>	</tbody></table><p>*(1)(12)</p><p><strong>申请说明</strong></p><p>纽约市立学院仅秋季和春季学期可以转学，可入读大一、大二、大三、大四等任何学期。校要求申请者已修学分达到15个学分以上，方才可以转学生的身份申请&mdash;&mdash;一般需读完大一第一学期达到此要求。该校转学申请无需SAT/ACT成绩。*(1)(12)</p><p><strong>联系方式</strong></p><p><strong>Mailing Address:</strong></p><p>The City College/CUNY</p><p>160 Convent Avenue at 138th Street</p><p>New York, N.Y. 10031</p><p><strong>Phone:</strong> 212.650.6977</p><p><strong>Fax:</strong> 212. 650.6417</p><p><strong>Emai:</strong> admissions@ccny.cuny.edu*(12)</p><h2>专业设置</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:21.22%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:31.62%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:19.08%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:28.08%">			<p><strong>专业英文名</strong></p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>广告与<a href="http://www.qianmu.org/公共关系" target="_blank">公共关系</a></p>			</td>			<td style="width:31.62%">			<p><a href="http://www.qianmu.org/广告学" target="_blank">Advertising</a>/<a href="http://www.qianmu.org/公共关系" target="_blank">Public Relations</a></p>			</td>			<td style="width:19.08%">			<p>国际问题研究</p>			</td>			<td style="width:28.08%">			<p>International Studies</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/人类学" target="_blank">人类学</a></p>			</td>			<td style="width:31.62%">			<p>Anthropology</p>			</td>			<td style="width:19.08%">			<p><a href="http://www.qianmu.org/意大利语" target="_blank">意大利语</a></p>			</td>			<td style="width:28.08%">			<p>Italian</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/建筑学" target="_blank">建筑学</a></p>			</td>			<td style="width:31.62%">			<p>Architecture</p>			</td>			<td style="width:19.08%">			<p>意大利研究</p>			</td>			<td style="width:28.08%">			<p>Italian Studies</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>艺术</p>			</td>			<td style="width:31.62%">			<p>Art</p>			</td>			<td style="width:19.08%">			<p><a href="http://www.qianmu.org/犹太研究" target="_blank">犹太研究</a></p>			</td>			<td style="width:28.08%">			<p>Jewish Studies</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>中小学艺术教育</p>			</td>			<td style="width:31.62%">			<p>Art Education (K-12)</p>			</td>			<td style="width:19.08%">			<p><a href="http://www.qianmu.org/新闻学" target="_blank">新闻学</a></p>			</td>			<td style="width:28.08%">			<p>Journalism</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/艺术史" target="_blank">艺术史</a></p>			</td>			<td style="width:31.62%">			<p>Art <a href="http://www.qianmu.org/历史" target="_blank">History</a></p>			</td>			<td style="width:19.08%">			<p><a href="http://www.qianmu.org/景观设计" target="_blank">景观设计</a></p>			</td>			<td style="width:28.08%">			<p>Landscape Architecture</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>亚洲研究</p>			</td>			<td style="width:31.62%">			<p>Asian Studies</p>			</td>			<td style="width:19.08%">			<p>拉美与拉美裔研究</p>			</td>			<td style="width:28.08%">			<p>Latin American and Latino Studies</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>医学博士本硕博连读</p>			</td>			<td style="width:31.62%">			<p>BS/<a href="http://www.qianmu.org/MD" target="_blank">MD</a> Program</p>			</td>			<td style="width:19.08%">			<p>文学</p>			</td>			<td style="width:28.08%">			<p>Literature</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>早期双语教育</p>			</td>			<td style="width:31.62%">			<p>Bilingual Childhood Education</p>			</td>			<td style="width:19.08%">			<p>数学</p>			</td>			<td style="width:28.08%">			<p><a href="http://www.qianmu.org/数学" target="_blank">Mathematics</a></p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>生物学</p>			</td>			<td style="width:31.62%">			<p>Biology</p>			</td>			<td style="width:19.08%">			<p>中学数学教育</p>			</td>			<td style="width:28.08%">			<p>Mathematics Education (Secondary)</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>医学教育</p>			</td>			<td style="width:31.62%">			<p>Biomedical Education</p>			</td>			<td style="width:19.08%">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">机械工程</a></p>			</td>			<td style="width:28.08%">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">Mechanical Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/生物医学工程" target="_blank">生物医学工程</a></p>			</td>			<td style="width:31.62%">			<p><a href="http://www.qianmu.org/生物医学工程" target="_blank">Biomedical Engineering</a></p>			</td>			<td style="width:19.08%">			<p>媒体与<a href="http://www.qianmu.org/传播学" target="_blank">传播艺术</a></p>			</td>			<td style="width:28.08%">			<p>Media and Communication Arts</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>黑人研究</p>			</td>			<td style="width:31.62%">			<p>Black Studies</p>			</td>			<td style="width:19.08%">			<p>医学教育</p>			</td>			<td style="width:28.08%">			<p>Medical Education</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/化学工程" target="_blank">化学工程</a></p>			</td>			<td style="width:31.62%">			<p>Chemical Engineering</p>			</td>			<td style="width:19.08%">			<p><a href="http://www.qianmu.org/音乐" target="_blank">音乐</a></p>			</td>			<td style="width:28.08%">			<p>Music</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>化学</p>			</td>			<td style="width:31.62%">			<p><a href="http://www.qianmu.org/化学" target="_blank">Chemistry</a></p>			</td>			<td style="width:19.08%">			<p>中学音乐教育</p>			</td>			<td style="width:28.08%">			<p>Music Education (Secondary)</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>儿童教育</p>			</td>			<td style="width:31.62%">			<p>Childhood Education</p>			</td>			<td style="width:19.08%">			<p><a href="http://www.qianmu.org/哲学" target="_blank">哲学</a></p>			</td>			<td style="width:28.08%">			<p>Philosophy</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">土木工程</a></p>			</td>			<td style="width:31.62%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">Civil Engineering</a></p>			</td>			<td style="width:19.08%">			<p>助理<a href="http://www.qianmu.org/医师" target="_blank">医师</a></p>			</td>			<td style="width:28.08%">			<p>Physician Assistant Program</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/比较文学" target="_blank">比较文学</a></p>			</td>			<td style="width:31.62%">			<p>Comparative Literature</p>			</td>			<td style="width:19.08%">			<p>物理</p>			</td>			<td style="width:28.08%">			<p><a href="http://www.qianmu.org/物理" target="_blank">Physics</a></p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/计算机工程" target="_blank">计算机工程</a></p>			</td>			<td style="width:31.62%">			<p><a href="http://www.qianmu.org/计算机工程" target="_blank">Computer Engineering</a></p>			</td>			<td style="width:19.08%">			<p><a href="http://www.qianmu.org/政治学" target="_blank">政治学</a></p>			</td>			<td style="width:28.08%">			<p><a href="http://www.qianmu.org/政治学" target="_blank">Political Science</a></p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">计算机科学</a></p>			</td>			<td style="width:31.62%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">Computer Science</a></p>			</td>			<td style="width:19.08%">			<p>流行音乐研究</p>			</td>			<td style="width:28.08%">			<p>Popular Music Studies</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>创意写作</p>			</td>			<td style="width:31.62%">			<p>Creative Writing</p>			</td>			<td style="width:19.08%">			<p><a href="http://www.qianmu.org/法学预科" target="_blank">法学预科</a></p>			</td>			<td style="width:28.08%">			<p>Pre-<a href="http://www.qianmu.org/法学" target="_blank">Law</a></p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/早期教育" target="_blank">早期教育</a></p>			</td>			<td style="width:31.62%">			<p>Early Childhood Education</p>			</td>			<td style="width:19.08%">			<p>医学预科</p>			</td>			<td style="width:28.08%">			<p>Premedical Studies</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>地球系统科学与<a href="http://www.qianmu.org/环境工程" target="_blank">环境工程</a></p>			</td>			<td style="width:31.62%">			<p>Earth System Science and <a href="http://www.qianmu.org/环境工程" target="_blank">Environmental Engineering</a></p>			</td>			<td style="width:19.08%">			<p><a href="http://www.qianmu.org/心理学" target="_blank">心理学</a></p>			</td>			<td style="width:28.08%">			<p><a href="http://www.qianmu.org/心理学" target="_blank">Psychology</a></p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>地球与大气科学</p>			</td>			<td style="width:31.62%">			<p>Earth and Atmospheric Sciences</p>			</td>			<td style="width:19.08%">			<p><a href="http://www.qianmu.org/公共事务" target="_blank">公共政策</a>与<a href="http://www.qianmu.org/公共事务" target="_blank">公共事务</a></p>			</td>			<td style="width:28.08%">			<p>Public Policy and Public Affairs</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">经济学</a>与商学</p>			</td>			<td style="width:31.62%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">Economics</a> and Business</p>			</td>			<td style="width:19.08%">			<p>公共关系</p>			</td>			<td style="width:28.08%">			<p>Public Relations</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">电气工程</a></p>			</td>			<td style="width:31.62%">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">Electrical Engineering</a></p>			</td>			<td style="width:19.08%">			<p>中学科学教育</p>			</td>			<td style="width:28.08%">			<p>Science Education (Secondary)</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>电子设计与多媒体</p>			</td>			<td style="width:31.62%">			<p>Electronic Design and Multimedia</p>			</td>			<td style="width:19.08%">			<p>中学社科教育</p>			</td>			<td style="width:28.08%">			<p>Social Studies Education (Secondary)</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/英语" target="_blank">英语</a></p>			</td>			<td style="width:31.62%">			<p>English</p>			</td>			<td style="width:19.08%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">社会学</a></p>			</td>			<td style="width:28.08%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">Sociology</a></p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/中学教育" target="_blank">中学教育</a></p>			</td>			<td style="width:31.62%">			<p>English Education (Secondary)</p>			</td>			<td style="width:19.08%">			<p>音乐与音频技术</p>			</td>			<td style="width:28.08%">			<p>Sonic Arts (Music and Audio Technology)</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>英语外教</p>			</td>			<td style="width:31.62%">			<p>English as a Second Language</p>			</td>			<td style="width:19.08%">			<p><a href="http://www.qianmu.org/西班牙语" target="_blank">西班牙语</a></p>			</td>			<td style="width:28.08%">			<p>Spanish</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>环境地球系统科学</p>			</td>			<td style="width:31.62%">			<p>Environmental Earth Systems Science</p>			</td>			<td style="width:19.08%">			<p>中学西班牙语教育</p>			</td>			<td style="width:28.08%">			<p>Spanish Education (Secondary)</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>影视制作</p>			</td>			<td style="width:31.62%">			<p>Film and Video Production</p>			</td>			<td style="width:19.08%">			<p><a href="http://www.qianmu.org/戏剧" target="_blank">戏剧</a>与语音</p>			</td>			<td style="width:28.08%">			<p>Theatre and Speech</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>外国语言与文学</p>			</td>			<td style="width:31.62%">			<p>Foreign Languages and Literatures</p>			</td>			<td style="width:19.08%">			<p><a href="http://www.qianmu.org/美术" target="_blank">工作室艺术</a></p>			</td>			<td style="width:28.08%">			<p>Studio Art</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/法语" target="_blank">法语</a></p>			</td>			<td style="width:31.62%">			<p>French</p>			</td>			<td style="width:19.08%">			<p>戏剧</p>			</td>			<td style="width:28.08%">			<p>Theater</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>历史</p>			</td>			<td style="width:31.62%">			<p>History</p>			</td>			<td style="width:19.08%">			<p>女性研究</p>			</td>			<td style="width:28.08%">			<p>Women&#39;s Studies</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>国际教育</p>			</td>			<td style="width:31.62%">			<p>International Education</p>			</td>			<td style="width:19.08%">&nbsp;</td>			<td style="width:28.08%">&nbsp;</td>		</tr>	</tbody></table><p>*(13)</p><p>外部资料：</p><ul>	<li>申请指南：<a href="http://www.qianmu.org/redirect?code=Hr3vKzA-LUrJdepaRRRRRfr4_e7oIzZMLHRKRKPduVQd__-DH3BpLClx5s-Mg6U_nJMFiUalBs2lpF7gZy7dWy-UklqYkTefrbRJZ5EIJbtdGdVuP-m95AVaUqhTSbcQvh8iOhcVs2j" target="_blank">Freshman Applicants Admission Application Worksheet</a>(PDF)</li>	<li>申请材料清单：<a href="http://www.qianmu.org/redirect?code=lreSUwjywRjyJ_h4OOOOOnRzp7x83baAHw5BN_mDh7rb89A6ZlqIz9q_Z3w_MlB6jO53zeA6MlA7jx4mzeXmGC28Ywo3KVW0KUIvuNi0mNiJZvg1yKbogu2s30y1yKbogu2s3ubEhe8sawUo6mVzq9ugNITL_9fwB3e2ZjT2Zx-hBIXPBjui" target="_blank">Freshman Supporting Documents Checklist</a>(PDF)</li>	<li>AP分数换算表：<a href="http://www.qianmu.org/redirect?code=qrTydP_wLMS38fQDUUUUUOH3tIjaBN_eZ9yDyDSbJEs966dqxFoZaxmetd-WYR7BUH6PD-pFdLz2dmG_Wp-XAPrvGZev_qFj_Weg_g3lyKE_9kSnTWqvFT8j-7GwJrjIkyEev9XjvUy7is2j" target="_blank">AP Equivalency Chart</a>(PDF)</li>	<li>IB分数换算表：<a href="http://www.qianmu.org/redirect?code=yrZqibekLbTirejJ66666SI2L3YrbBXoG5G5sRHinRRo8CpP7ZjDx3ponEZPx9Krn9XP7AX5TScCVBDAXO5KXF1m1F5Ere_EZWMpKiqPQilqKiDqPI_a0kQV3FbAW9bUPIbV0DMmG" target="_blank">IB Equivalency Chart</a>(PDF)</li>	<li>A-level分数换算表：<a href="http://www.qianmu.org/redirect?code=xrVOpgS7wzOaR96MHHHHH7ESigqt7e3PEdRgRgwLIUXaWWp6dxzHVJgE8vGWOpgGnTdR5XysLtkaLf54XWFNCqwGVaDna8bNXrQ3XYyY2paPRZkaHvh8795aP6hoMtF7MWl-B3cB_B6Zs30RINj4InPThClJ" target="_blank">A Level Equivalency Chart</a>(PDF)</li>	<li>本科日志：<a href="http://www.qianmu.org/redirect?code=wrYmhljmkYo9ibiVcccccAG6lUiHwqXKh0h0OC9ZJCCKyt4BdLe-EU4Kh57-J7a0l5IHfp4HjbhhHFZhKSwaKXCXKjM-n118lE1Xliufl07sFi9bY40sdA9sfDSJQl9xO" target="_blank">Undergraduate Bulletin 2013 - 2015</a>(PDF)</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=DroIGD4nwmHu4da3CCCCCVRN9cXoHcsehARE1zhkCYPud6WOpA8QBD09qwFlnrhcSbhascsCISICx98rp5yVZXNIRYd9RJDlAM6ivPaQcTn-RTjg962QlaKvrj6Kg0aKUz4jRFMlzhnInlSjkl7puROfbhxhkCyWwQG3cVxfFMyiANb" target="_blank">City University of New York: City College</a> College Board</p><p>(2) <a href="http://www.qianmu.org/redirect?code=srULj0BNLT819_QDUUUUUOcunoGiaPST16basYxl7p4DOLAbOLVcDHEAa_aEsc6Jlc64f6gYyO-tUn9Gpp90ZcCWABqPALoOLuZFrS3JGNHzUVe-xMP6Sqc5Q1wJ06AKOWhA26GxrCR5TW3zq4x" target="_blank">CUNY--City College</a> USNEWS</p><p>(3) <a href="http://www.qianmu.org/redirect?code=brEVbyf-LUrJdydZChOHGoSO7Yl-A_kwQXRrGl4VtLjzBDO2vwoS58jTQ2qNaCC5y81rP_Ruo5oeSHl8LBWGmrWyMyV7GESvRLWBCG--q_sWYMTDwn2FlZO6OSzL4cTn_xhfg" target="_blank">City Facts 2013</a> City College of New York</p><p>(4) <a href="http://www.qianmu.org/redirect?code=OrMxo-D6LFLdYTvskkkkkklmc9KYFaHr4J4JMlOd8llrRyVEuQG_X9Vr8UQEXqkZ1KwRBd7RLdEw1K6iV8Ai1syeL-IJb97JVKLi" target="_blank">Freshman Students Admissions</a> City College of New York</p><p>(5) <a href="http://www.qianmu.org/redirect?code=Lr8sWS9nwmHu4jElkkkkk80nr-2UyfBdK0Bc3HFzKeNdJLs6KVFdJ0BcGhIgpLLdp0sf5wq1aNuWFM9gA8ptAHpjA4Q1JLsVxYxVKYR_vjE50aFKvjsdzg3t-U-T0aFS" target="_blank">CUNY City College of New York</a> City College of New York</p><p>(6) <a href="http://www.qianmu.org/redirect?code=8rL6TCNlk9aKYUCfYYYYYYiXXp_e9EbiqyjWjWcF71CLPPEU2f4-FXnCa8i-GF6O4bVZhRqxh6JKh9GHUEXRqmbT-yFKcdmYk8W3mgR3Gjx9O" target="_blank">Admissions Freshman Students</a> City College of New York</p><p>(7) <a href="http://www.qianmu.org/redirect?code=orDtO5aDLZv0OW1233333VqDAUIk0fs6WSWSmtMQbtt6Fai5qIyBsDr5UT6yqDY37TY_qIg_OFxzqT6yUuYhUZzGSGg2NqgCpslcaSGdVSuGaSzGdfgBpgYXCd4-Hds5aIbV0DMmG" target="_blank">IB Equivalency Chart</a> City College of New York</p><p>(8) <a href="http://www.qianmu.org/redirect?code=3rHk7m1_LfWcHhqkCX-PiCSnvYeOaxW-zbl_y-y-rP9UDOOUlqjAUPP5ntqq6hJ5vxtwcyGy3lw7rEmXzq63RaXq0cFyGy-4UUJdf8l-y1WJZl9rhC7ss128hqMUva1woNa8Jw4llY0-GdDpCEECS2YUwGufO-46a089" target="_blank">A Level Equivalency Chart</a> City College of New York</p><p>(9) <a href="http://www.qianmu.org/redirect?code=WrSJLFCeLPImakrzyyyyyTeL7iGj6Xtvm0m0ggQPefQQsZL7OVRb3K_7sfhROKSXMfSNOViNICqaOfhRsxh9szjK9zdGzDzuRkr4HP7O087C0lbynNy5ovkt2THQY_BQk1IUKl" target="_blank">AP Equivalency Chart</a> City College of New York</p><p>(10) <a href="http://www.qianmu.org/redirect?code=srULj0BoLzABI--7OOOOONuPfx_DigqVynomyqifmhkSN-3i2AQzl8HzBALDB4QhEwSpL8OeE4QeRwXKZZqgT2fRFE9yhSHRhAqgiYfRnYf0xgqgTkpsxAoVwgqgTkpsxAoVxkDRh4JKv8o_snEks7MBv0PpsbZMsoi5SX2lSXTbR7aMB72rL" target="_blank">Freshman Supporting Documents Checklist</a> City College of New York</p><p>(11) <a href="http://www.qianmu.org/redirect?code=Nr20uKH7wzOaRiUrQDNH0chKVYL7P6d17NO7fT0DzprtQum68OR63jMAgxBosm1myObO860mzvPLhTaqQKhxRzE9njxhQRBfsTa7ClIFMvmURFnmFNlpBju5" target="_blank">Scholarships &amp; Awards</a> City College of New York</p><p>(12) <a href="http://www.qianmu.org/redirect?code=YrwF0v4kkniNSP2Kooooo-USTGWoOvRnX2CuCuh8MvUtYYJhD70A0KQoSx21EmK1VL1ly8mA1_ZPxvpMOfULlfr0rpG0F1FQ98wkSII0xv2z1vHjlxv3zlw2iMF84e1zXeJJcp0goUND" target="_blank">Undergraduate Bulletin 2013 - 2015</a> City College of New York</p><p>(13) <a href="http://www.qianmu.org/redirect?code=XrChP9xuLRgWEzLNMMMMJ00awZlP6qL459yDyDSbJfzbb9gQxoKjCHmPx9zrJfmPEomEJqSwAqgTAqSx5XQdfgCODIT2JGQ5z" target="_blank">UNDERGRADUATE Areas Of Study</a> City College of New York</p><p>&nbsp;</p><h1>研究生申请</h1><p><strong>院系设置</strong></p><p>纽约市立学院共设有以下4个学术学院，分别是：</p><ul>	<li>建筑学院（Bernard and Anne Spitzer School of Architecture）</li>	<li><a href="http://www.qianmu.org/教育学" target="_blank">教育学</a>院（School of Education）</li>	<li>工程学院（Grove School of Engineering）</li>	<li><a href="http://www.qianmu.org/文理学院" target="_blank">文理学院</a>（College of Liberal Arts and Science）*(1)</li></ul><p>其中文理学院，又分为以下四个学部，分别是：</p><ul>	<li>艺术与人文部（Division of Humanities and the Arts）</li>	<li>科学部（Division of Science）</li>	<li>社会科学部（Division of Social Sciences）</li>	<li>交叉科学部（Division of Interdisciplinary Studies at the Center for Worker Education (Cwe)）</li></ul><p><strong>基本要求</strong></p><p>纽约市立学院规定的基本申请条件如下：</p><ul>	<li>学位要求：要求四年制正规大学本科毕业并取得学士学位*(2)</li>	<li>GPA要求：未设定有统一的最低GPA分数要求，但一般而言，本科GPA尤其是高年级GPA最好不低于3.0分*(2)</li>	<li>语言要求：TOEFL要求不低于61分，无单项成绩要求；IELTS要求未详</li>	<li><strong>G</strong>RE要求：只有为数不多的专业要求递交<a href="http://www.qianmu.org/GRE" target="_blank">GRE</a>成绩，具体列表见下。</li></ul><p><strong>需要GRE</strong><strong>成绩的专业列表：</strong></p><ul>	<li>工程学院所有PhD项目（All PhD programs in Engineering）</li>	<li><a href="http://www.qianmu.org/生物医学" target="_blank">生物医学</a>工程（Biomedical Engineering (All degree levels)）：所有阶段，包括硕士和博士</li>	<li>化学工程（Chemical Engineering (All degree levels)）：所有阶段，包括硕士和博士</li>	<li><a href="http://www.qianmu.org/国际关系学" target="_blank">国际关系</a>（International Relations）</li>	<li>心理学（General Psychology）</li>	<li>建筑学（Architecture I &amp; II）：M.Arch I &amp; II项目均需要递交GRE成绩*(2)</li></ul><p><strong>申请时间</strong></p><p>纽约市立学院多数项目秋季学期和春季学期都可申请，多在1月-4月间结束申请。该校秋季学期各项目的申请时间如下：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:12.92%">			<p><strong>学院</strong></p>			</td>			<td style="width:23.28%">			<p><strong>专业/</strong><strong>项目</strong></p>			</td>			<td style="width:19.96%">			<p><strong>申请截止日期</strong></p>			</td>			<td style="width:24.94%">			<p><strong>专业/</strong><strong>项目</strong></p>			</td>			<td style="width:18.9%">			<p><strong>申请截止日期</strong></p>			</td>		</tr>		<tr>			<td rowspan="2" style="width:12.92%">			<p>建筑学院</p>			</td>			<td style="width:23.28%">			<p>建筑学硕士</p>			</td>			<td style="width:19.96%">			<p>1月15日</p>			</td>			<td style="width:24.94%">			<p>城市设计硕士</p>			</td>			<td style="width:18.9%">			<p>1月30日</p>			</td>		</tr>		<tr>			<td style="width:23.28%">			<p>景观设计硕士</p>			</td>			<td style="width:19.96%">			<p>1月30日</p>			</td>			<td style="width:24.94%">&nbsp;</td>			<td style="width:18.9%">&nbsp;</td>		</tr>		<tr>			<td style="width:12.92%">			<p>教育学院</p>			</td>			<td style="width:23.28%">			<p>所有项目</p>			</td>			<td style="width:19.96%">			<p>3月15日</p>			</td>			<td style="width:24.94%">&nbsp;</td>			<td style="width:18.9%">&nbsp;</td>		</tr>		<tr>			<td rowspan="3" style="width:12.92%">			<p>工程学院</p>			</td>			<td style="width:23.28%">			<p>化学工程博士</p>			</td>			<td style="width:19.96%">			<p>12月31日</p>			</td>			<td style="width:24.94%">			<p>电气工程博士</p>			</td>			<td style="width:18.9%">			<p>2月1日</p>			</td>		</tr>		<tr>			<td style="width:23.28%">			<p>生物医学工程博士</p>			</td>			<td style="width:19.96%">			<p>2月1日</p>			</td>			<td style="width:24.94%">			<p>机械工程博士</p>			</td>			<td style="width:18.9%">			<p>2月1日</p>			</td>		</tr>		<tr>			<td style="width:23.28%">			<p>土木工程博士</p>			</td>			<td style="width:19.96%">			<p>2月1日</p>			</td>			<td style="width:24.94%">			<p>其它项目</p>			</td>			<td style="width:18.9%">			<p>5月1日</p>			</td>		</tr>		<tr>			<td rowspan="7" style="width:12.92%">			<p>文理学院</p>			</td>			<td style="width:23.28%">			<p>数字艺术</p>			</td>			<td style="width:19.96%">			<p>2月1日</p>			</td>			<td style="width:24.94%">			<p>品牌传播</p>			</td>			<td style="width:18.9%">			<p>4月1日</p>			</td>		</tr>		<tr>			<td style="width:23.28%">			<p>国际关系（<a href="http://www.qianmu.org/Early Action" target="_blank">EA</a>申请方式）</p>			</td>			<td style="width:19.96%">			<p>2月1日</p>			</td>			<td style="width:24.94%">			<p>经济学</p>			</td>			<td style="width:18.9%">			<p>4月1日</p>			</td>		</tr>		<tr>			<td style="width:23.28%">			<p>国际关系（<a href="http://www.qianmu.org/Regular Decision" target="_blank">RD</a>申请方式）</p>			</td>			<td style="width:19.96%">			<p>4月1日</p>			</td>			<td style="width:24.94%">			<p>历史</p>			</td>			<td style="width:18.9%">			<p>4月1日</p>			</td>		</tr>		<tr>			<td style="width:23.28%">			<p>心理健康咨询</p>			</td>			<td style="width:19.96%">			<p>2月15日</p>			</td>			<td style="width:24.94%">			<p>心理学</p>			</td>			<td style="width:18.9%">			<p>4月15日</p>			</td>		</tr>		<tr>			<td style="width:23.28%">			<p>音乐、工作室艺术</p>			</td>			<td style="width:19.96%">			<p>3月1日</p>			</td>			<td style="width:24.94%">			<p>社会学-美国研究方向</p>			</td>			<td style="width:18.9%">			<p>6月15日</p>			</td>		</tr>		<tr>			<td style="width:23.28%">			<p>公共服务管理</p>			</td>			<td style="width:19.96%">			<p>3月1日</p>			</td>			<td style="width:24.94%">			<p>其它项目</p>			</td>			<td style="width:18.9%">			<p>5月1日</p>			</td>		</tr>		<tr>			<td style="width:23.28%">			<p>媒体艺术制作</p>			</td>			<td style="width:19.96%">			<p>3月1日</p>			</td>			<td style="width:24.94%">&nbsp;</td>			<td style="width:18.9%">&nbsp;</td>		</tr>	</tbody></table><p>*(3)</p><p><strong>申请说明</strong></p><p>2013年秋季学期该校共有15,464名学生入学，其中本科生12,629名，研究生2,835名。对应的国际学生分别为926和419名，分别占比7.3%和14.8%。*(3)</p><p>该校各项目均有大致统一的申请材料要求，具体如下：</p><ul>	<li>完成在线申请表：通过纽约市立大学系统申请*(4)</li>	<li>申请费：$125</li>	<li>成绩单：该校对成绩单的翻译要求非常高，仅限学生在读学校、美国使领馆或美国大学的教师等提供的翻译，方视为有效成绩单。鉴于国内学校基本上不会提供官方的英文成绩单，建议国内学生的成绩单经中国学位与研究生教育发展中心（CDGDC）或全国高等学校学生信息咨询与就业指导中心（CHESICC）认证递交*(5)</li>	<li>GRE成绩：部分专业必需，具体见上方的基本要求</li>	<li>TOEFL/IELTS成绩</li>	<li>推荐信：3封</li>	<li>资金证明：申请时可无需递交，但录取后必需递交</li>	<li>其他材料：如面试、试镜、个人陈述、<a href="http://www.qianmu.org/个人作品" target="_blank">个人作品</a>、<a href="http://www.qianmu.org/个人简历" target="_blank">个人简历</a>、<a href="http://www.qianmu.org/写作样本" target="_blank">写作样本</a>等，部分专业可能会需要</li></ul><p><strong>费用与奖学金</strong></p><p>纽约市立学院主要由学生所申请的系所或项目提供，其形式以<a href="http://www.qianmu.org/TA" target="_blank">TA</a>、<a href="http://www.qianmu.org/RA" target="_blank">RA</a>和Fellowship为主。学生在申请时应主动与系里的导师或招生办联系，以期获得由导师或系里提供的RA、TA奖学金。该校奖学金形式均为Merit-based，无需单独申请，自动随Offer发放。一般而言，PhD学生的获奖几率要远远大于硕士学生获得的几率。</p><p><strong>学费列表：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:22.9%">			<p>项目名称</p>			</td>			<td style="width:56.54%">			<p>项目英文名</p>			</td>			<td style="width:20.54%">			<p>学费（/学分）</p>			</td>		</tr>		<tr>			<td style="width:22.9%">			<p>建筑学与工程学硕士</p>			</td>			<td style="width:56.54%">			<p>Masters in Architecture &amp; Engineering</p>			</td>			<td style="width:20.54%">			<p>$830</p>			</td>		</tr>		<tr>			<td style="width:22.9%">			<p><a href="http://www.qianmu.org/公共事务" target="_blank">公共管理</a>硕士</p>			</td>			<td style="width:56.54%">			<p>Masters in Public Administration</p>			</td>			<td style="width:20.54%">			<p>$875</p>			</td>		</tr>		<tr>			<td style="width:22.9%">			<p>品牌传播硕士</p>			</td>			<td style="width:56.54%">			<p>Masters of Professional Studies in Branding and Integrated Communications</p>			</td>			<td style="width:20.54%">			<p>$915</p>			</td>		</tr>		<tr>			<td style="width:22.9%">			<p>其它所有硕士项目</p>			</td>			<td style="width:56.54%">			<p>All Other Masters Programs</p>			</td>			<td style="width:20.54%">			<p>$745</p>			</td>		</tr>		<tr>			<td style="width:22.9%">			<p>所有博士项目</p>			</td>			<td style="width:56.54%">			<p>All Doctoral Programs</p>			</td>			<td style="width:20.54%">			<p>$836</p>			</td>		</tr>	</tbody></table><p>*(6)</p><p>注：上表是2014-15学年的学费列表。纽约市立学院实行Semester学期制度，一般每学期需修9-12个学分，一学年需注册两个学期。按每学期注册9个学分计算，该校常规硕士专业的的学费为13,410美元。算上其它杂费（Fees）、食宿、书本费、医疗保险费等，纽约市立学院一学年的花费约3.3万美元。</p><p><strong>联系方式</strong></p><p><strong>Mailing Address:</strong></p><p>The City College of New York</p><p>Office of Graduate Admissions</p><p>Wille Administration Building, Room A-101</p><p>160 Convent Avenue</p><p>New York, NY 10031</p><p><strong>Phone: </strong>(212) 650-6448</p><p><strong>Email: </strong>graduateadmissions@ccny.cuny.edu*(2)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=vrJH6Yy6wKwjs5h4OOOOOnnm6CpP_xAMUpUsUsAWBsy-bbcs3oOm4V8e_Uwk9kHTiSxfGutYKIiJK84AGy4nXvFaQdFOHYeik71jSCvGLt3H5cYHP7MukmwFr" target="_blank">Graduate Degree Overview</a> City College of New York</p><p>(2) <a href="http://www.qianmu.org/redirect?code=lreSUwjIw0DYWVWLSSSSSNXl8PxjAN5cdEnTnT8JZFMj44t7YCoQaAIk-3sj0FSH3dMiX5S9oecAofASP7AMA_rjOAbjlB7j3XMkRF6MgQSWuQhcUYJaZAWt2fP2om" target="_blank">Frequently Asked Questions</a> City College of New York</p><p>(3) <a href="http://www.qianmu.org/redirect?code=vrJH6YhfL_HK0gcF6iXySAaUsSjNeJmaNvVZ7_CahcZ1AYIEShK-pwX1S5SVhOBQhzISX4iyFhg_w7mIa2SBlws9TJrvWk-6AZnPmWUqWAdyaFx9q93in1DlIabEV7Xvegw7weiras" target="_blank">Programs and Deadlines</a> City College of New York</p><p>(4) <a href="http://www.qianmu.org/redirect?code=ArAjQuHmLGCeMXa4Y5UpLvr0zQRMkPjrT_1TOFvMS7vco-idOrHxqSHR1Or1eSEkXYOS7FfNWCJNrvxfyDubMhtUCzMehnhtsMMut9VShsi4tCqqwlGtprcior1y" target="_blank">Step 2: Requirements</a> City College of New York</p><p>(5) <a href="http://www.qianmu.org/redirect?code=ErbpefwoLzABI57-ZZZZZnZW50qNKtiOV-EQEQa_yAbCwwpytI_T07Kvagwn2jxFMIpJdUerD9kzDn9a1dMH-f57DLmlxaAkBKViL-Ml1SJH7YPUok4N_NBc" target="_blank">Guidelines for Official Translation of Documents</a> City College of New York</p><p>(6) <a href="http://www.qianmu.org/redirect?code=-rGz4Of7kjzL8vSNyyyyyyrTGWoOvRnHwxpxpomehSmmw-KWn9DrItVWwS_Wi9KbiaQzptkz2tQrwtIkINcPI-AjnTo4Mim34CFRF9N" target="_blank">Tuition and Fees Fall 2014</a> City College of New York</p><h2>工程学院</h2><p>纽约市立学院格罗夫工程学院（Grove School of Engineering）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:283px">			<p><strong>专业名称</strong></p>			</td>			<td style="width:505px">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:302px">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:283px">			<p>生物医学工程</p>			</td>			<td style="width:505px">			<p>Biomedical Engineering</p>			</td>			<td style="width:302px">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:283px">			<p>化学工程</p>			</td>			<td style="width:505px">			<p>Chemical Engineering</p>			</td>			<td style="width:302px">			<p>ME、PhD</p>			</td>		</tr>		<tr>			<td style="width:283px">			<p>土木工程</p>			</td>			<td style="width:505px">			<p>Civil Engineering</p>			</td>			<td style="width:302px">			<p>ME、PhD</p>			</td>		</tr>		<tr>			<td style="width:283px">			<p>计算机与<a href="http://www.qianmu.org/信息系统管理" target="_blank">信息系统管理</a></p>			</td>			<td style="width:505px">			<p>Computer and <a href="http://www.qianmu.org/信息系统管理" target="_blank">Information Systems</a> <a href="http://www.qianmu.org/管理学" target="_blank">Management</a></p>			</td>			<td style="width:302px">			<p>MIS、MS</p>			</td>		</tr>		<tr>			<td style="width:283px">			<p>计算机科学</p>			</td>			<td style="width:505px">			<p>Computer Science</p>			</td>			<td style="width:302px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:283px">			<p>地球系统与<a href="http://www.qianmu.org/环境科学" target="_blank">环境科学</a>技术</p>			</td>			<td style="width:505px">			<p>Earth Systems and Environmental Science and Technology</p>			</td>			<td style="width:302px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:283px">			<p>电气工程</p>			</td>			<td style="width:505px">			<p>Electrical Engineering</p>			</td>			<td style="width:302px">			<p>ME、PhD</p>			</td>		</tr>		<tr>			<td style="width:283px">			<p>机械工程</p>			</td>			<td style="width:505px">			<p>Mechanical Engineering</p>			</td>			<td style="width:302px">			<p>ME、PhD</p>			</td>		</tr>		<tr>			<td style="width:283px">			<p>城市环境与可持续发展</p>			</td>			<td style="width:505px">			<p>Sustainability in the Urban Environment - Interdisciplinary Program</p>			</td>			<td style="width:302px">			<p>MS</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>其中，计算机科学专业开设有以下研究领域，分别是：</p><ul>	<li>算法（Algorithms）</li>	<li>计算机安全（Computer Security）：含系统安全、网络安全和信息安全</li>	<li>计算系统（Computing Systems）</li>	<li>密码学（Cryptography）</li>	<li><a href="http://www.qianmu.org/离散数学" target="_blank">离散数学</a>（Discrete Mathematics）</li>	<li>多媒体计算（Multimedia Computing）</li>	<li>编程与编程语言（Programming and Programming Languages）</li>	<li>科学与统计计算（Scientific and Statistical Computing）</li>	<li>文本处理（Text Processing）</li>	<li><a href="http://www.qianmu.org/理论计算机科学" target="_blank">理论计算机科学</a>（Theoretical Computer Science）</li>	<li>用户界面设计与人机交互（User Interface Design / Human Computer Interaction）*(2)</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=lreSUw0uLRgWEOOd-----QQhQxnLTpkwS8K1K1ZpiQ10gg3zZMHbnkuZWR1WYR7BUH6PB3cN2krF2Utp6NtYMC0qwJDCP0enMjzJuI4H282pBwYp5Pj9kg86w" target="_blank">Graduate Degree Overview</a> City College of New York</p><p>(2)&nbsp;<a href="http://www.qianmu.org/redirect?code=rrcuJRvNkGpktXqOc8bBirYWLkcp4E3m6aq8fQX8Ypc6hQcAQYkOGC5AOE_Xp9ETEyPYpOhXjRW2RIrx8HIT3_p8RQMJqkPnbFi" target="_blank">Computer Science Research</a>&nbsp;City College of New York</p><h2>建筑学院</h2><p>纽约市立学院伯纳德与安妮&middot;斯皮策建筑学院（Bernard and Anne Spitzer School of Architecture）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:149px">			<p><strong>专业名称</strong></p>			</td>			<td style="width:261px">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:158px">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:149px">			<p>建筑学</p>			</td>			<td style="width:261px">			<p>Architecture I</p>			</td>			<td style="width:158px">			<p>M.Arch</p>			</td>		</tr>		<tr>			<td style="width:149px">			<p>景观设计</p>			</td>			<td style="width:261px">			<p>Landscape Architecture I</p>			</td>			<td style="width:158px">			<p>MLA</p>			</td>		</tr>		<tr>			<td style="width:149px">			<p>城市环境及其可持续发展</p>			</td>			<td style="width:261px">			<p>Sustainability in the Urban Environment-Interdisciplinary Program</p>			</td>			<td style="width:158px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:149px">			<p>城市设计</p>			</td>			<td style="width:261px">			<p>Urban Design</p>			</td>			<td style="width:158px">			<p>MUP</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=Erbpef5ik0k8m4OcEEEEEWWh_T8SFaCoetetiAL9bAAo0OUXN-DgQOcVFsWI7OZU8sZm7LEmQrnvQYoPQytqEOEzUmlFTriN-G07CWoICFAmVpoOf" target="_blank">Graduate Degree Overview</a> City College of New York</p><h2>教育学院</h2><p>纽约市立学院教育学院（School of Education）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:168px">			<p><strong>专业名称</strong></p>			</td>			<td style="width:322px">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:79px">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>艺术教育（K-12年级）</p>			</td>			<td style="width:322px">			<p>Art Education(Grades K-12)</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>双语早期教育（1-6年级）</p>			</td>			<td style="width:322px">			<p>Bilingual Childhood Education(Grades 1-6)</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>双语<a href="http://www.qianmu.org/特殊教育" target="_blank">特殊教育</a>（1-6年级）</p>			</td>			<td style="width:322px">			<p>Bilingual Special Education(Grades 1-6)</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>儿童教育（1-6年级）</p>			</td>			<td style="width:322px">			<p>Childhood Education(Grades 1-6)</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>幼儿教育（出生-2年级）</p>			</td>			<td style="width:322px">			<p>Early Childhood Education(Grades Birth-2)</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>教育领导</p>			</td>			<td style="width:322px">			<p>Educational Leadership</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>戏曲教育（K-12年级）</p>			</td>			<td style="width:322px">			<p>Educational Theatre(Grades K-12)</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>英语教育（7-12年级）</p>			</td>			<td style="width:322px">			<p>English Education(Grades 7-12)</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>识字教育（等级5-12）</p>			</td>			<td style="width:322px">			<p>Literacy(Grades 5-12)</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>识字教育（等级出生-6）</p>			</td>			<td style="width:322px">			<p>Literacy(Grades Birth-6)</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>数学教育（5-9年级）</p>			</td>			<td style="width:322px">			<p>Mathematics Education(Grades 5-9)</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>数学教育（7-12年级）</p>			</td>			<td style="width:322px">			<p>Mathematics Education(Grades 7-12)</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>科学教育（5-9年级）</p>			</td>			<td style="width:322px">			<p>Science Education(Grades 5-9)</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>生物教育（7-12年级）</p>			</td>			<td style="width:322px">			<p>Science Education - BIOLOGY(Grades 7-12)</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>化学教育（7-12年级）</p>			</td>			<td style="width:322px">			<p>Science Education - CHEMISTRY(Grades 7-12)</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>地球与大气科学教育（7-12年级）</p>			</td>			<td style="width:322px">			<p>Science Education - EARTH &amp; ATMOSPHERIC SCIENCE(Grades 7-12)</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>物理教育（7-12年级）</p>			</td>			<td style="width:322px">			<p>Science Education - PHYSICS(Grades 7-12)</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>社科教育（7-12年级）</p>			</td>			<td style="width:322px">			<p>Social Studies Education(Grades 7-12)</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>特殊教育（1-6年级）</p>			</td>			<td style="width:322px">			<p>Special Education(Grades 1-6)</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>特殊教育（5-9年级）</p>			</td>			<td style="width:322px">			<p>Special Education(Grades 5-9)</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>英语外教</p>			</td>			<td style="width:322px">			<p>TESOL Teaching English to Students of Other Languages</p>			</td>			<td style="width:79px">			<p>M.Ed</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=srULj0-lwvLQzIyDIz_xdqhHu7wm9w5zWAefmmi4BNXWCTOGtO1lIRSwk_hlp9oEOl7hV50xHOkc14zzHGVlyFunK8htoLFuVoyCLoIfPV2AWUzVfmox49QcYOK9IXuwZ" target="_blank">Graduate Degree Overview</a> City College of New York</p><h2>艺术与人文部</h2><p>纽约市立学院艺术与人文部（Division of Humanities and the Arts）隶属于文理学院，研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:168px">			<p><strong>专业名称</strong></p>			</td>			<td style="width:322px">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:79px">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>艺术史与博物馆</p>			</td>			<td style="width:322px">			<p>Art History, Museum Studies</p>			</td>			<td style="width:79px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>品牌与传播</p>			</td>			<td style="width:322px">			<p>Branding + Integrated Communication</p>			</td>			<td style="width:79px">			<p>MPS</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>创意写作</p>			</td>			<td style="width:322px">			<p>Creative Writing</p>			</td>			<td style="width:79px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>数字与艺术实践</p>			</td>			<td style="width:322px">			<p>Digital and Interdisciplinary Art Practice</p>			</td>			<td style="width:79px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>英语文学</p>			</td>			<td style="width:322px">			<p>English Literature</p>			</td>			<td style="width:79px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>工作室艺术</p>			</td>			<td style="width:322px">			<p><a href="http://www.qianmu.org/美术" target="_blank">Fine Arts</a> - Studio Arts</p>			</td>			<td style="width:79px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>历史</p>			</td>			<td style="width:322px">			<p>History</p>			</td>			<td style="width:79px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>语言与识字</p>			</td>			<td style="width:322px">			<p>Language and Literacy</p>			</td>			<td style="width:79px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>影视制作</p>			</td>			<td style="width:322px">			<p>Media Arts Production - Film &amp; Video</p>			</td>			<td style="width:79px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>音乐</p>			</td>			<td style="width:322px">			<p>Music</p>			</td>			<td style="width:79px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>西班牙语</p>			</td>			<td style="width:322px">			<p>Spanish</p>			</td>			<td style="width:79px">			<p>MA</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>其中，工作室艺术开设有以下专业方向，分别是：</p><ul>	<li><a href="http://www.qianmu.org/陶瓷艺术" target="_blank">陶瓷艺术</a>（Ceramics）</li>	<li>电子设计与多媒体（Electronic Design and Multimedia）</li>	<li><a href="http://www.qianmu.org/绘画艺术" target="_blank">绘画艺术</a>（Painting And Drawing）</li>	<li><a href="http://www.qianmu.org/摄影艺术" target="_blank">摄影艺术</a>（Photography）</li>	<li><a href="http://www.qianmu.org/版画艺术" target="_blank">版画艺术</a>（Printmaking）</li>	<li>雕刻艺术（Sculpture）*(2)</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=xrVOpgXvLJD7tVZ_77777hhplP6qL459yDyDSbJfzbb9gQxoKjCHmPx9zrjomEkqzE5oKnmQyrhmyS98y_geVZ9U-XYRvZOTnShQyrhm-xOByH8" target="_blank">Graduate Degree Overview</a> City College of New York</p><p>(2)&nbsp;<a href="http://www.qianmu.org/redirect?code=YrwF0v4KkgdlWu8WVVVVVVeus4OgQPBprly6s8_x0jC1DZLusj6T3UyTr8_fhiVl37SpDUn-sE9-3NX1DEXZ38X19iy64NPK0-ECfPU" target="_blank">Facilities</a>&nbsp;City College of New York</p><p>&nbsp;</p><h2>自然科学部</h2><p>纽约市立学院科学部（Division of Science）隶属于文理学院，研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:168px">			<p><strong>专业名称</strong></p>			</td>			<td style="width:322px">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:79px">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:168px">			<p><a href="http://www.qianmu.org/生物化学" target="_blank">生物化学</a></p>			</td>			<td style="width:322px">			<p>Biochemistry</p>			</td>			<td style="width:79px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>生物学</p>			</td>			<td style="width:322px">			<p>Biology</p>			</td>			<td style="width:79px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>生物技术</p>			</td>			<td style="width:322px">			<p>Biotechnology</p>			</td>			<td style="width:79px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>化学</p>			</td>			<td style="width:322px">			<p>Chemistry</p>			</td>			<td style="width:79px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>地球与大气科学</p>			</td>			<td style="width:322px">			<p>Earth and Atmospheric Sciences</p>			</td>			<td style="width:79px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>数学</p>			</td>			<td style="width:322px">			<p>Mathematics</p>			</td>			<td style="width:79px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>物理</p>			</td>			<td style="width:322px">			<p>Physics</p>			</td>			<td style="width:79px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>城市环境与可持续发展</p>			</td>			<td style="width:322px">			<p>Sustainability in the Urban Environment - Interdisciplinary Program</p>			</td>			<td style="width:79px">			<p>MS</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=grPZ_xIrL0-Qko3yC_qKI-hndWO1rsGhbEC_B8yiaVHxQf8oRrWhUoGw5SamWiZvlBArPhdJQ9GUaDUIVTyK8tlJvrmbkQaYkrqSlOO-uAPBenWWhZEPqgZLsSClTd0I1" target="_blank">Graduate Degree Overview</a> City College of New York</p><h2>社会科学部</h2><p>纽约市立学院社会科学部（Division of Social Sciences）隶属于文理学院，研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:168px">			<p><strong>专业名称</strong></p>			</td>			<td style="width:322px">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:79px">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>经济学</p>			</td>			<td style="width:322px">			<p>Economics</p>			</td>			<td style="width:79px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>国际关系</p>			</td>			<td style="width:322px">			<p>International Relations</p>			</td>			<td style="width:79px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>心理健康咨询</p>			</td>			<td style="width:322px">			<p>Mental Health Counseling</p>			</td>			<td style="width:79px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>心理学</p>			</td>			<td style="width:322px">			<p>Psychology</p>			</td>			<td style="width:79px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>公共服务管理</p>			</td>			<td style="width:322px">			<p>Public Service Management</p>			</td>			<td style="width:79px">			<p>MPA</p>			</td>		</tr>		<tr>			<td style="width:168px">			<p>社会学</p>			</td>			<td style="width:322px">			<p>Sociology</p>			</td>			<td style="width:79px">			<p>MA</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>其中，心理学开设有以下专业方向：</p><ul>	<li><a href="http://www.qianmu.org/发展心理学" target="_blank">发展心理学</a>（Lifespan Developmental Psychology）</li>	<li>人类因素与应用认知（Human Factors &amp; Applied Cognition）</li>	<li><a href="http://www.qianmu.org/工业与组织心理学" target="_blank">工业与组织心理学</a>（Industrial/Organizational Psychology）</li>	<li>一般心理学（Psychology in the Public Interest）</li>	<li>学校心理学（School Psychology）</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=BraKR4eskL3ojgO05GqmfyUHEHZW4SBCYyRYSR55UqeiWNcHjCnA5coOeRR87mRZsT2CyAFoXSqPR-x5gbt2WY9jchz_8IY9R_tJg85CQA9hhSf7R-SIgZQBF_AzB7amY" target="_blank">Graduate Degree Overview</a> City College of New York</p><h2>交叉科学部</h2><p>纽约市立学院个人教育中心交叉科学部（Division of Interdisciplinary Studies at the Center for Worker Education (Cwe)）隶属于文理学院，研究生开设有以下1个学位项目：</p><ul>	<li>美国研究硕士（MA in Study of the Americas）*(1)</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=DroIGDytkO9fNvg7v7Lw5DY_bhZItsjRW0Db-f4HRJRsNh5dqm4zdSJYljCUUTOQ7mvPFWnaUeqdUFsifggZGRxR4t2Mo9_3kn7Z9v4RGWGnAQdG3Ioam3VEPCU1fgQYQ" target="_blank">Graduate Degree Overview</a> City College of New York</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2020-09-23</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1952;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1952' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1952;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

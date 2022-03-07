@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>路易斯安那大学拉法叶分校-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="路易斯安那大学拉法叶分校" />
+<meta name="description"  id="description"  content="路易斯安那大学拉法叶分校:路易斯安那大学拉法叶分校（University of Louisiana, Lafayette，简称UL Lafayette）是一所中等大小的公立综合性全国大学，成立于1898年，位于美国南部小城拉法叶，提供本科、硕士、博士，三种学位类型。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">路易斯安那大学拉法叶分校 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>排名</p>			</td>			<td>			<p>298-389</p>			</td>		</tr>		<tr>			<td>			<p>国家</p>			</td>			<td>			<p>美国</p>			</td>		</tr>		<tr>			<td>			<p>州省</p>			</td>			<td>			<p><a href="http://www.qianmu.org/路易斯安那州" target="_blank">路易斯安那州</a></p>			</td>		</tr>		<tr>			<td>			<p>城市</p>			</td>			<td>			<p>拉法叶</p>			</td>		</tr>		<tr>			<td>			<p>性质</p>			</td>			<td>			<p>公立，男女合校</p>			</td>		</tr>		<tr>			<td>			<p>成立年份</p>			</td>			<td>			<p>1898</p>			</td>		</tr>		<tr>			<td>			<p>宗教信仰</p>			</td>			<td>			<p>无</p>			</td>		</tr>		<tr>			<td>			<p>学生人数</p>			</td>			<td>			<p>17,508</p>			</td>		</tr>		<tr>			<td>本科生人数</td>			<td>			<p>15,870</p>			</td>		</tr>		<tr>			<td>研究生人数</td>			<td>			<p>1,638</p>			</td>		</tr>		<tr>			<td>			<p>学校分类</p>			</td>			<td>			<p>综合性大学</p>			</td>		</tr>		<tr>			<td>			<p>网址</p>			</td>			<td>			<p>www.louisiana.edu</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>路易斯安那大学拉法叶分校（University of Louisiana, Lafayette，简称UL Lafayette）是一所中等大小的公立综合性全国大学，成立于1898年，位于美国南部小城拉法叶，提供本科、硕士、博士，三种学位类型。</p><h2>申请点评</h2><p><strong>好评项：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p><p>1.Nightlife.</p><p>2.Local Atmosphere.</p><p>3.Health &amp; Safety.</p><p>4.Guys and girls.</p><p>5.The diversity.</p><p>6.The student life.</p><p>7.COMPUTER LABS.</p><p>8.Convenient.</p><p>9.The dining halls.</p><p>10.Varsity sports.</p><p><strong>坏评项：</strong></p><p>1.Computers.</p><p>2.Campus Housing.</p><p>3.Academics.</p><p>4.The weather.</p><p>5.Parking.</p><p>6.A lot of old facilitie.</p><p>7.Greek Life.</p><p>&nbsp;</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:111px">			<p><a href="http://www.qianmu.org/USNEWS排名" target="_blank">USNEWS排名</a></p>			</td>			<td style="width:75px">			<p>298-389</p>			</td>			<td style="width:95px">			<p>学费(/年)</p>			</td>			<td style="width:95px">			<p>$23,290</p>			</td>			<td style="width:123px">			<p>申请截止日期</p>			</td>			<td style="width:114px">			<p>6月1日</p>			</td>		</tr>		<tr>			<td style="width:111px">			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td style="width:75px">			<p>71</p>			</td>			<td style="width:95px">			<p>食宿(/年)</p>			</td>			<td style="width:95px">			<p>$8,566</p>			</td>			<td style="width:123px">			<p>开学时间</p>			</td>			<td style="width:114px">			<p>每年8月-9月</p>			</td>		</tr>		<tr>			<td style="width:111px">			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td style="width:75px">			<p>6.0</p>			</td>			<td style="width:95px">			<p>申请费</p>			</td>			<td style="width:95px">			<p>$30</p>			</td>			<td style="width:123px">			<p>可申请学期</p>			</td>			<td style="width:114px">			<p>秋季</p>			</td>		</tr>		<tr>			<td style="width:111px">			<p><a href="http://www.qianmu.org/SAT" target="_blank">SAT</a>均分</p>			</td>			<td style="width:75px">			<p>1400 - 1770</p>			</td>			<td style="width:95px">			<p>申请人数</p>			</td>			<td style="width:95px">			<p>10,899</p>			</td>			<td style="width:123px">			<p><a href="http://www.qianmu.org/奖学金" target="_blank">奖学金</a>形式</p>			</td>			<td style="width:114px">			<p><a href="http://www.qianmu.org/Merit-based" target="_blank">Merit-based</a></p>			</td>		</tr>		<tr>			<td style="width:111px">			<p>平均<a href="http://www.qianmu.org/GPA" target="_blank">GPA</a></p>			</td>			<td style="width:75px">			<p>3.3</p>			</td>			<td style="width:95px">			<p>录取率</p>			</td>			<td style="width:95px">			<p>55%</p>			</td>			<td style="width:123px">			<p>是否提供<a href="http://www.qianmu.org/双录取" target="_blank">双录取</a></p>			</td>			<td style="width:114px">			<p>No</p>			</td>		</tr>	</tbody></table><p>注：被录取学生SAT均分范围：阅读460-590，数学470-590，写作未详；<a href="http://www.qianmu.org/ACT" target="_blank">ACT</a>综合均分21-25</p><h2>教学质量</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>本科生人数</p>			</td>			<td>			<p>15,870</p>			</td>			<td>			<p>小班比例(&lt;20)</p>			</td>			<td>			<p>34.3%</p>			</td>			<td>			<p><a href="http://www.qianmu.org/学期制度" target="_blank">学期制度</a></p>			</td>			<td>			<p>Semester</p>			</td>		</tr>		<tr>			<td>			<p>研究生人数</p>			</td>			<td>			<p>1,638</p>			</td>			<td>			<p>中班比例(20-49)</p>			</td>			<td>			<p>57.2%</p>			</td>			<td>			<p>教授水平满意度</p>			</td>			<td>			<p>81%</p>			</td>		</tr>		<tr>			<td>			<p>国际学生比例</p>			</td>			<td>			<p>2%</p>			</td>			<td>			<p>大班比例(&gt;50)</p>			</td>			<td>			<p>8.6%</p>			</td>			<td>			<p>就业实习满意度</p>			</td>			<td>			<p>50%</p>			</td>		</tr>		<tr>			<td>			<p>师生比</p>			</td>			<td>			<p>1:23</p>			</td>			<td>			<p>六年毕业率</p>			</td>			<td>			<p>45%</p>			</td>			<td>			<p>学生满意度</p>			</td>			<td>			<p>-</p>			</td>		</tr>		<tr>			<td>			<p>四年毕业率</p>			</td>			<td>			<p>15%</p>			</td>			<td>			<p>新生保持率</p>			</td>			<td>			<p>76%</p>			</td>			<td>			<p>教授博士学位比率</p>			</td>			<td>			<p>75%</p>			</td>		</tr>		<tr>			<td>毕业2年平均薪水</td>			<td>$29,800</td>			<td>就业率</td>			<td>48%</td>			<td>校友网络认可度</td>			<td>83%</td>		</tr>	</tbody></table><p><strong>校园安全</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:143px">校园安全事件</td>			<td style="width:403px">Criminal Offenses -- On-Campus&nbsp;</td>			<td style="width:103px">2012</td>			<td style="width:100px">2013</td>			<td style="width:97px">2014</td>		</tr>		<tr>			<td>谋杀</td>			<td>Murder/Non-negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>过失杀人</td>			<td>Negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸</td>			<td>Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>乱伦</td>			<td>Incest</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸幼童罪</td>			<td>Statutory Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>猥亵</td>			<td>Fondling</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>性侵犯-强迫</td>			<td>Sex offenses - Forcible</td>			<td>			<p>2</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>性侵犯-非强迫</td>			<td>Sex offenses - non-forcible (incest and statutory rape only)</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>抢劫</td>			<td>Robbery</td>			<td>			<p>5</p>			</td>			<td>			<p>4</p>			</td>			<td>			<p>2</p>			</td>		</tr>		<tr>			<td>暴力袭击</td>			<td>Aggravated assault</td>			<td>			<p>2</p>			</td>			<td>			<p>7</p>			</td>			<td>			<p>7</p>			</td>		</tr>		<tr>			<td>盗窃</td>			<td>Burglary</td>			<td>			<p>32</p>			</td>			<td>			<p>17</p>			</td>			<td>			<p>26</p>			</td>		</tr>		<tr>			<td>汽车盗窃</td>			<td>Motor vehicle theft</td>			<td>			<p>2</p>			</td>			<td>			<p>5</p>			</td>			<td>			<p>4</p>			</td>		</tr>		<tr>			<td>纵火</td>			<td>Arson</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>	</tbody></table><p>*(1)</p><h2>申请说明</h2><p><strong>GPA与班级排名</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td colspan="2" style="width:54.28%">			<p>GPA</p>			</td>			<td colspan="2" style="width:45.72%">			<p>班级排名</p>			</td>		</tr>		<tr>			<td style="width:37.16%">			<p>分段</p>			</td>			<td style="width:17.12%">			<p>占比</p>			</td>			<td style="width:28.8%">			<p>分段</p>			</td>			<td style="width:16.92%">			<p>占比</p>			</td>		</tr>		<tr>			<td style="width:37.16%">			<p>3.75以上</p>			</td>			<td style="width:17.12%">			<p>20%</p>			</td>			<td style="width:28.8%">			<p>TOP10%</p>			</td>			<td style="width:16.92%">			<p>19%</p>			</td>		</tr>		<tr>			<td style="width:37.16%">			<p>3.5-3.74</p>			</td>			<td style="width:17.12%">			<p>16%</p>			</td>			<td style="width:28.8%">			<p>TOP25%</p>			</td>			<td style="width:16.92%">			<p>43%</p>			</td>		</tr>		<tr>			<td style="width:37.16%">			<p>3.25-3.49</p>			</td>			<td style="width:17.12%">			<p>18%</p>			</td>			<td style="width:28.8%">			<p>TOP50%</p>			</td>			<td style="width:16.92%">			<p>74%</p>			</td>		</tr>		<tr>			<td style="width:37.16%">			<p>3.0-3.24</p>			</td>			<td style="width:17.12%">			<p>19%</p>			</td>			<td style="width:28.8%">			<p>50%以下</p>			</td>			<td style="width:16.92%">			<p>26%</p>			</td>		</tr>		<tr>			<td style="width:37.16%">			<p>2.99以下</p>			</td>			<td style="width:17.12%">			<p>27%</p>			</td>			<td style="width:28.8%">			<p>75%以下</p>			</td>			<td style="width:16.92%">			<p>8%</p>			</td>		</tr>	</tbody></table><p>*(2)</p><p><strong>申请材料</strong></p><p>路易斯安那大学拉法叶分校通过学校官网在线或纸质申请，必需的<a href="http://www.qianmu.org/申请材料" target="_blank">申请材料</a>包括：</p><ul>	<li>路易斯安那大学拉法叶分校申请表</li>	<li>托福与雅思成绩</li>	<li>SAT或ACT</li>	<li><a href="http://www.qianmu.org/推荐信" target="_blank">推荐信</a>、<a href="http://www.qianmu.org/Essay" target="_blank">Essay</a></li>	<li>高中<a href="http://www.qianmu.org/在读证明" target="_blank">在读证明</a>或高中毕业证</li>	<li>高中<a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a>，需<a href="http://www.qianmu.org/翻译" target="_blank">翻译</a>，建议公证</li>	<li><a href="http://www.qianmu.org/资金证明" target="_blank">资金证明</a></li></ul><p>注：路易斯安那大学拉法叶分校无需<a href="http://www.qianmu.org/面试" target="_blank">面试</a>。</p><p><strong>费用与奖学金</strong></p><p>路易斯安那大学拉法叶分校向国际学生提供Merit-based奖学金，2015年共有128名国际学生获奖，获奖总额为$1,554,798,平均获奖金额为$12,146，按本科生人数和国际学生比例计算，国际学生获奖率为40.3%。</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:23.04%">			<p>支出项目</p>			</td>			<td style="width:55.76%">			<p>项目英文名</p>			</td>			<td style="width:21.18%">			<p>2015-2016学年费用</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>学费</p>			</td>			<td style="width:55.76%">			<p>Tuition and fees</p>			</td>			<td style="width:21.18%">			<p>$22,280</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>住宿费用</p>			</td>			<td style="width:55.76%">			<p>Room and board</p>			</td>			<td style="width:21.18%">			<p>$8,566</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>书本费</p>			</td>			<td style="width:55.76%">			<p>Books and supplies</p>			</td>			<td style="width:21.18%">			<p>$1,200</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>个人花费</p>			</td>			<td style="width:55.76%">			<p>Estimated personal expenses</p>			</td>			<td style="width:21.18%">			<p>$1,970</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>交通费</p>			</td>			<td style="width:55.76%">			<p>Transportation expenses</p>			</td>			<td style="width:21.18%">			<p>$1,294</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>合计</p>			</td>			<td style="width:55.76%">			<p>Estimated Total</p>			</td>			<td style="width:21.18%">			<p>$35,310</p>			</td>		</tr>	</tbody></table><p>*(2)</p><h2>转学申请</h2><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:93px">			<p>TOEFL要求</p>			</td>			<td style="width:75px">			<p>71</p>			</td>			<td style="width:104px">			<p>GPA要求</p>			</td>			<td style="width:105px">			<p>2.0</p>			</td>			<td style="width:114px">			<p>申请截止日期</p>			</td>			<td style="width:85px">			<p>滚动录取</p>			</td>		</tr>		<tr>			<td style="width:93px">			<p>IELTS要求</p>			</td>			<td style="width:75px">			<p>6.0</p>			</td>			<td style="width:104px">			<p>SAT要求</p>			</td>			<td style="width:105px">			<p>Not Required</p>			</td>			<td style="width:114px">			<p>开学时间</p>			</td>			<td style="width:85px">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:93px">最高转学学分</td>			<td style="width:75px">-</td>			<td style="width:104px">最低学分要求</td>			<td style="width:105px">18</td>			<td style="width:114px">			<p>可申请学期</p>			</td>			<td style="width:85px">秋季、春季、夏季</td>		</tr>		<tr>			<td style="width:93px">			<p>申请人数</p>			</td>			<td style="width:75px">			<p>2,863</p>			</td>			<td style="width:104px">			<p>录取人数</p>			</td>			<td style="width:105px">			<p>1,561</p>			</td>			<td style="width:114px">			<p>录取率</p>			</td>			<td style="width:85px">			<p>54%</p>			</td>		</tr>	</tbody></table><p>注：路易斯安那大学拉法叶分校要求转学申请者GPA2.0以上，如考虑转学分，单门课程GPA须在1.0以上</p><p><strong>申请说明</strong></p><p>路易斯安那大学拉法叶分校秋季、春季、夏季三个学期均可申请转学，学生读大一、大二、大三、大四其中任何一个学期皆可申请。</p><h2>专业设置</h2><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:191px">专业名称</td>			<td style="width:368px">专业英文名</td>			<td style="width:101px">开设学位</td>			<td style="width:465px">所属科系</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/会计" target="_blank">会计</a></td>			<td><a href="http://www.qianmu.org/会计" target="_blank">Accounting</a></td>			<td>BSBA</td>			<td>Department of Accounting</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/人类学" target="_blank">人类学</a></td>			<td>Anthropology</td>			<td>BA</td>			<td>Department of <a href="http://www.qianmu.org/社会学" target="_blank">Sociology</a>, Anthropology &amp; Child and Family Studies</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/建筑学" target="_blank">建筑学</a></td>			<td>Architectural Studies</td>			<td>BS</td>			<td>School of Architecture &amp; Design</td>		</tr>		<tr>			<td>运动训练</td>			<td>Athletic Training</td>			<td>BS</td>			<td>School of Kinesiology</td>		</tr>		<tr>			<td>生物学</td>			<td>Biology</td>			<td>BS</td>			<td>Department of Biology</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/化学工程" target="_blank">化学工程</a></td>			<td>Chemical Engineering</td>			<td>BSCHE</td>			<td>Department of Chemical Engineering</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/化学" target="_blank">化学</a></td>			<td><a href="http://www.qianmu.org/化学" target="_blank">Chemistry</a></td>			<td>BS</td>			<td>Department of Chemistry</td>		</tr>		<tr>			<td>儿童与家庭研究</td>			<td>Child and Family Studies</td>			<td>BS</td>			<td>Department of Sociology, Anthropology &amp; Child and Family Studies</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/土木工程" target="_blank">土木工程</a></td>			<td><a href="http://www.qianmu.org/土木工程" target="_blank">Civil Engineering</a></td>			<td>BSCIE</td>			<td>Department of Civil Engineering</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/计算机科学" target="_blank">计算机科学</a></td>			<td><a href="http://www.qianmu.org/计算机科学" target="_blank">Computer Science</a></td>			<td>BS</td>			<td>School of Computing and Informatics&nbsp;(B.S.)</td>		</tr>		<tr>			<td>刑事司法</td>			<td>Criminal Justice</td>			<td>BS</td>			<td>Department of Criminal Justice</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/营养学" target="_blank">营养学</a></td>			<td>Dietetics</td>			<td>BS</td>			<td>Department of Allied Health</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/早期教育" target="_blank">早期教育</a></td>			<td>Early Childhood Education</td>			<td>BS</td>			<td>Department of Curriculum and Instruction</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/经济学" target="_blank">经济学</a></td>			<td><a href="http://www.qianmu.org/经济学" target="_blank">Economics</a></td>			<td>BSBA</td>			<td>Department of Economics and <a href="http://www.qianmu.org/金融" target="_blank">Finance</a></td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/土木工程" target="_blank">电气与计算机工程</a></td>			<td>Electrical and <a href="http://www.qianmu.org/计算机工程" target="_blank">Computer Engineering</a></td>			<td>BS</td>			<td>Department of Electrical and Computer Engineering</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/小学教育" target="_blank">小学教育</a></td>			<td>Elementary Education</td>			<td>BS</td>			<td>Department of Curriculum and Instruction</td>		</tr>		<tr>			<td>英语</td>			<td>English</td>			<td>BA</td>			<td>Department of English</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/环境科学" target="_blank">环境科学</a></td>			<td>Environmental Science</td>			<td>BS</td>			<td>School of Geosciences</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/金融" target="_blank">金融</a></td>			<td>Finance</td>			<td>BS BA</td>			<td>Department of Economics and Finance</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/法语" target="_blank">法语</a></td>			<td>French</td>			<td>BA</td>			<td>Department of Modern Languages</td>		</tr>		<tr>			<td>通识教育</td>			<td>General Studies</td>			<td>BGS</td>			<td>College of General Studies</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/地质学" target="_blank">地质学</a></td>			<td>Geology</td>			<td>BS</td>			<td>School of Geosciences</td>		</tr>		<tr>			<td>健康信息管理</td>			<td>Health Information <a href="http://www.qianmu.org/管理学" target="_blank">Management</a></td>			<td>BS</td>			<td>Department of Allied Health</td>		</tr>		<tr>			<td>卫生服务管理</td>			<td>Health Services Administration</td>			<td>BS</td>			<td>Department of Allied Health</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/历史" target="_blank">历史</a></td>			<td><a href="http://www.qianmu.org/历史" target="_blank">History</a></td>			<td>BA</td>			<td>Department of History &amp; <a href="http://www.qianmu.org/地理学" target="_blank">Geography</a></td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/酒店管理" target="_blank">酒店管理</a></td>			<td>Hospitality Management</td>			<td>BSBA</td>			<td>Department of <a href="http://www.qianmu.org/市场营销" target="_blank">Marketing</a> and Hospitality</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/工业设计" target="_blank">工业设计</a></td>			<td>Industrial Design</td>			<td>BID</td>			<td>Department of Architecture and Design</td>		</tr>		<tr>			<td>工业技术</td>			<td>Industrial Technology</td>			<td>BSIT</td>			<td>Department of Industrial Technology</td>		</tr>		<tr>			<td>信息学</td>			<td>Informatics</td>			<td>BS</td>			<td>School of Computing and Informatics</td>		</tr>		<tr>			<td>保险与风险管理</td>			<td>Insurance and <a href="http://www.qianmu.org/风险管理与保险" target="_blank">Risk Management</a></td>			<td>BSBA</td>			<td>Department of Economics and Finance</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/室内设计" target="_blank">室内设计</a></td>			<td>Interior Design</td>			<td>BOID</td>			<td>Department of Architecture and Design</td>		</tr>		<tr>			<td>中小学教育</td>			<td>K-12 Education</td>			<td>BABS</td>			<td>Department of Curriculum and Instruction</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/运动学" target="_blank">运动学</a></td>			<td>Kinesiology</td>			<td>BS</td>			<td>School of Kinesiology</td>		</tr>		<tr>			<td>管理</td>			<td>Management</td>			<td>BSBA</td>			<td>Department of Management</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/市场营销" target="_blank">市场营销</a></td>			<td>Marketing</td>			<td>BSBA</td>			<td>Department of Marketing and Hospitalilty</td>		</tr>		<tr>			<td>大众传播</td>			<td>Mass Communication</td>			<td>BA</td>			<td>Department of Communication</td>		</tr>		<tr>			<td>广播学</td>			<td>Broadcasting</td>			<td>BA</td>			<td>Department of Communication</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/新闻学" target="_blank">新闻学</a></td>			<td>Journalism</td>			<td>BA</td>			<td>Department of Communication</td>		</tr>		<tr>			<td>媒体<a href="http://www.qianmu.org/广告学" target="_blank">广告学</a></td>			<td>Media <a href="http://www.qianmu.org/广告学" target="_blank">Advertising</a></td>			<td>BA</td>			<td>Department of Communication</td>		</tr>		<tr>			<td>数学</td>			<td><a href="http://www.qianmu.org/数学" target="_blank">Mathematics</a></td>			<td>BS</td>			<td>Department of Mathematics</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/机械工程" target="_blank">机械工程</a></td>			<td><a href="http://www.qianmu.org/机械工程" target="_blank">Mechanical Engineering</a></td>			<td>BSME</td>			<td>Department of Mechanical Engineering</td>		</tr>		<tr>			<td>中年级教育</td>			<td>Middle School Education (4-8)</td>			<td>BS</td>			<td>Department of Curriculum and Instruction</td>		</tr>		<tr>			<td>现代语言</td>			<td>Modern Languages</td>			<td>BA</td>			<td>Department of Modern Languages</td>		</tr>		<tr>			<td>移动影像艺术</td>			<td>Moving Image Arts</td>			<td>BA</td>			<td>Department of Moving Image Arts</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/音乐" target="_blank">音乐</a></td>			<td>Music</td>			<td>BM、BAMM</td>			<td>School of Music and Performing Arts</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/护理" target="_blank">护理</a></td>			<td>Nursing</td>			<td>BSN</td>			<td>Department of Nursing</td>		</tr>		<tr>			<td>组织传播</td>			<td>Organizational Communication</td>			<td>BS</td>			<td>Department of Communication</td>		</tr>		<tr>			<td>表演艺术</td>			<td>Performance Arts</td>			<td>BFA</td>			<td>Department of Performing Arts</td>		</tr>		<tr>			<td>石油工程</td>			<td>Petroleum Engineering</td>			<td>BSPE</td>			<td>Department of Petroleum Engineering</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/物理" target="_blank">物理</a></td>			<td><a href="http://www.qianmu.org/物理" target="_blank">Physics</a></td>			<td>BS</td>			<td>Department of Physics</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/政治学" target="_blank">政治学</a></td>			<td><a href="http://www.qianmu.org/政治学" target="_blank">Political Science</a></td>			<td>BA</td>			<td>Department of Political Science</td>		</tr>		<tr>			<td>土地与资源管理</td>			<td>Professional Land and Resource Management</td>			<td>BSBA</td>			<td>Department of Management</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/心理学" target="_blank">心理学</a></td>			<td><a href="http://www.qianmu.org/心理学" target="_blank">Psychology</a></td>			<td>BS</td>			<td>Department of Psychology</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/公共关系" target="_blank">公共关系</a></td>			<td><a href="http://www.qianmu.org/公共关系" target="_blank">Public Relations</a></td>			<td>BA</td>			<td>Department of Communication</td>		</tr>		<tr>			<td>中学师范教育</td>			<td>Secondary Education and Teaching (6-12)</td>			<td>BST</td>			<td>Department of Curriculum and Instruction</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/语言病理学" target="_blank">语言病理学</a>与<a href="http://www.qianmu.org/听力学" target="_blank">听力学</a></td>			<td>Speech Pathology and Audiology</td>			<td>BS</td>			<td>Department of Communicative Disorders</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/社会学" target="_blank">社会学</a></td>			<td>Sociology</td>			<td>BA</td>			<td>Department of Sociology, Anthropology, and Child and Family Studies</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/视觉艺术" target="_blank">视觉艺术</a></td>			<td>Visual Arts</td>			<td>BFA</td>			<td>Department of Visual Arts</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/艺术史" target="_blank">艺术史</a></td>			<td>Art History</td>			<td>BFA</td>			<td>Department of Visual Arts</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/陶瓷艺术" target="_blank">陶瓷艺术</a></td>			<td>Ceramics</td>			<td>BFA</td>			<td>Department of Visual Arts</td>		</tr>		<tr>			<td>电脑艺术与动画艺术</td>			<td>Computer Art &amp; Animation</td>			<td>BFA</td>			<td>Department of Visual Arts</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/平面设计" target="_blank">平面设计</a></td>			<td>Graphic Design</td>			<td>BFA</td>			<td>Department of Visual Arts</td>		</tr>		<tr>			<td>媒体艺术</td>			<td>Media Art</td>			<td>BFA</td>			<td>Department of Visual Arts</td>		</tr>		<tr>			<td>金属与珠宝设计</td>			<td>Metalwork &amp; Jewelry</td>			<td>BFA</td>			<td>Department of Visual Arts</td>		</tr>		<tr>			<td>绘画与<a href="http://www.qianmu.org/摄影艺术" target="_blank">摄影艺术</a></td>			<td>Painting, Photography</td>			<td>BFA</td>			<td>Department of Visual Arts</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/版画艺术" target="_blank">版画艺术</a></td>			<td>Printmaking</td>			<td>BFA</td>			<td>Department of Visual Arts</td>		</tr>		<tr>			<td><a href="http://www.qianmu.org/雕塑艺术" target="_blank">雕塑艺术</a></td>			<td>Sculpture</td>			<td>BFA</td>			<td>Department of Visual Arts</td>		</tr>	</tbody></table><p>*(4)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=YrwF0vB6wKwjsYAxTTTTT4w5DMklcm1hZA1CB_HfZuqhLuqC0u8lU9UdG9y5G9Lob0lIkxmCLPCCb4_cGBYRC1Yumo_ECBYRHTOWvdlcF4wsx4IWZoYmnpUrFdKrHT21avwTOgyqkSys_q9GOOjQ4O6ZelWmk" target="_blank">University of Louisiana--Lafayette</a>&nbsp;USNEWS</p><p>(2) <a href="http://www.qianmu.org/redirect?code=QrzUA2ucLYq_Z8_ZtttttGsvmc9KYceZ7aApR8Tl3j5T3pr8WjZfzwtosTKWSHAOCcAB_RpPQvQPdIQY7ETngyHLXVuaXZlMglU_wprRgMfjWMZL-7ahPO8oF1gMVLvIyRpoZrhBZRJ-wJ0WFyOAbTO7SpO7v1c6aDi6WmOC5J" target="_blank">University of Louisiana at Lafayette</a> College Board</p><p>(3) <a href="http://www.qianmu.org/redirect?code=frh1ZEbpLBGgpj_ZtttttGtF9dVsJdBt5IbKXx5HxBjyAzWs9djEYBms4t5gGyjsDyJ_Wz5AgLmZGBBhsbkdA-3cNlk0QoR_w2MJosvnZOOuQHO_q" target="_blank">University of Louisiana - Lafayette</a>&nbsp;College Prowler</p><p>(4) <a href="http://www.qianmu.org/redirect?code=Trq48pthk5gArqMmPwBiOL3VEba_UhrUpDvgIgqCPV1VN6OAVRwN9zS1w4YPuSD83vqCxJ4OBnaM_ETM4HiGx_zTs8HNIx_a_DaH05wCLOKPpyR_3Zg4wY_M43Zg6" target="_blank">Alphabetical Majors &amp; Degrees</a>&nbsp;University of Louisiana, Lafayette</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2020-09-24</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1722;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1722' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1722;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

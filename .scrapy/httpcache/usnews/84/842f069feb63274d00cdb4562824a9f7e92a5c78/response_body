@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>新泽西理工学院-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="新泽西理工学院" />
+<meta name="description"  id="description"  content="新泽西理工学院:新泽西理工学院（New Jersey Institute of Technology，缩写NJIT）是一所中等大小的公立综合性全国大学，成立于1881年，位于美国东部中型城市纽华克（Newark,NJ），提供本科、硕士、博士，三种学位类型。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">新泽西理工学院 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:130px">			<p>排名</p>			</td>			<td style="width:293px">			<p>118*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国家</p>			</td>			<td style="width:293px">			<p>美国</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>州省</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/新泽西州" target="_blank">新泽西州</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>城市</p>			</td>			<td style="width:293px">			<p>纽华克</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>性质</p>			</td>			<td style="width:293px">			<p>公立，男女合校</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>成立年份</p>			</td>			<td style="width:293px">			<p>1881年*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>宗教信仰</p>			</td>			<td style="width:293px">			<p>无</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校园</p>			</td>			<td style="width:293px">			<p>0.19Km<sup>2</sup>，市区*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学生人数</p>			</td>			<td style="width:293px">			<p>12,125</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>本科生人数</p>			</td>			<td style="width:293px">			<p>8,008*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>研究生人数</p>			</td>			<td style="width:293px">			<p>3,317*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>师生比</p>			</td>			<td style="width:293px">			<p>1:17*(5)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国际学生比例</p>			</td>			<td style="width:293px">			<p>本科：4%</p>			<p>研究生：42.9%*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学校分类</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/全国性大学" target="_blank">全国性大学</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>认证机构</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/中部各州学院及学校协会" target="_blank">中部各州学院及学校协会</a>（MSACS）</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>网址</p>			</td>			<td style="width:293px">			<p>www.njit.edu</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>新泽西理工学院（New Jersey Institute of Technology，缩写NJIT）是美国的一所公立研究型大学，位于<a href="http://www.qianmu.org/新泽西州" target="_blank">新泽西州</a>的纽华克市，位处纽约大都会区之中，步行便可至纽华克市中心，距离<a href="http://www.qianmu.org/纽约市" target="_blank">纽约市</a>亦不过14.5公里，乘坐地铁20分钟便可以到达。*(1)</p><p>新泽西理工学院成立于1881年，1884年正式授课，初名纽华克技术学校（Newark Technical School），随后便成长为一所工程学院，更名为纽华克工程学院（Newark College of Engineering）。1975年，<a href="http://www.qianmu.org/建筑学" target="_blank">建筑学</a>院成立，同时学校正式更名为新泽西理工学院。现共拥有6个学院&mdash;&mdash;其中5个College，1个School。*(1)</p><p><strong>学术研究</strong></p><p>新泽西理工学院素以<a href="http://www.qianmu.org/纳米技术" target="_blank">纳米技术</a>、太阳<a href="http://www.qianmu.org/物理" target="_blank">物理</a>、高分子科学闻名。该校的研究领域主要向纳米技术、<a href="http://www.qianmu.org/材料科学与工程" target="_blank">材料科学</a>、<a href="http://www.qianmu.org/生物医学工程" target="_blank">生物医学工程</a>（包括干细胞研究）、信号处理、交通规划以及太阳能物理倾斜。该校的<a href="http://www.qianmu.org/应用数学" target="_blank">应用数学</a>专业，被认为是美国论文产率最高的专业。该校同样关注经济发展，设有一个创业发展中心（Enterprise Development Center，缩写EDC），自1988年设立之日起，至今已帮助了90家校园初创企业。*(1)</p><p>新泽西理工拥有众多科研中心，包括：国家运输与工程成产效率中心（National Center for Transportation and Industrial Productivity）、SmartCampus等。此外，该校还拥有一个太阳地球研究中心（Center for Solar-Terrestrial Research），并负责运行一个位于<a href="http://www.qianmu.org/加利福尼亚州" target="_blank">加利福尼亚州</a>的大熊湖天文台（Big Bear Solar Observatory）以及另一个同样位于加利福尼亚州的欧文太阳能阵列（Owens Valley Solar Array）。*(2)</p><h2>申请点评</h2><p><strong>好评项：</strong></p><p>1.Athletic center</p><p>2.The events held by student organizations</p><p>3.Many resume-building programs</p><p>4.Quality education</p><p>5.Variety of food choices</p><p>6.Affordable</p><p>7.Availability of campus areas for student use</p><p>8.Diverse student body</p><p>9.Easy to get financial aid</p><p>10.Facilities are very modern. *(6)</p><p><strong>差评项：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p><p>1. Not enough parties. Campus in general can be very boring, as activities might be few and far between.</p><p>2.Lack of female students</p><p>3.No social scene on the weekends</p><p>4.Some professors do not speak English well and have thick accents.</p><p>5.There are often severe errors with the Bursar&#39;s Office, sometimes resulting in students paying too much or being dropped from their classes.</p><p>6.Commuting to the school, even if it is done only on occasion, can be very difficult.</p><p>7.Courses are very hard.</p><p>8.Tutoring is not always available or helpful.</p><p>9.Advisers can be very hard to meet with.*(6)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=7r_i3IzxLyQ82q12333333z78r4diE2LF54Wz5h6wQh0PSX2NAL0Bd7OiO7uR742nUhrF7i6UG1WIOLSpmxcR7ep-sZP4QVJdmofdLoq4psiZKtjRIQYgN" target="_blank">New Jersey Institute of Technology</a> Wikipedia</p><p>(2) <a href="http://www.qianmu.org/redirect?code=erlnE6bmwnkBwmVWRgV-cbf1Ge5US2Z1t0uWjvQNdJxcS1z_qhXxdVQ9EwOxmmg6jogfAsP2ZKbtdQdDhUibh1TYTUNU4ld1IEw4WbsFR-Rg3a08dQ9W9TiFAB6OAOMrCdhoxbc1iW9" target="_blank">New Jersey Institute of Technology-Research</a> Wikipedia</p><p>(3) <a href="http://www.qianmu.org/redirect?code=mrtw23qQkrW5UK9bo0HM9mmb_vL2HdXRZ7V2XT9Y3VRj2f7BkR05OSY8BCUEsp9loonCh3xVK-M0_KITrAWcEUYs3CixfzY-SWmuRGCmX16Fd5QQR19O1GsQY3ps7obxakYl9UEUVm83pHj7VUxWCpvF9TOdYYiuuiF0jRYAuWHUVwHP_2zB" target="_blank">New Jersey Institute of Technology</a> USNEWS</p><p>(4) <a href="http://www.qianmu.org/redirect?code=xrVOpg_Hkp6PZx4PqqqqqqkA5Ls6kVrtY9amamo43PwWOOV41BUXhf-so905r02E4W7FT9YXkCYqll0ZeGsqXfNVOTcQlEzwEuwyICtf" target="_blank">Enrollment FactBook</a> NJIT</p><p>(5) <a href="http://www.qianmu.org/redirect?code=dr1GqVprL0-QkmUAQQQQQQfNAPQWw3sg61MFMFnEsysAIENAniOi_3Or234n9qzQ9Iprg6f3WeF_XOTy" target="_blank">Quick Facts About NJIT</a> NJIT</p><p>(6) <a href="http://www.qianmu.org/redirect?code=lreSUwjawJr7tg2U22222RpDpAb5PTjHSxX4Puod6V_xTDqifh7KifvZFHYhBjEmDg8dkeNIcCkI7EdpF7UR-sgESKUQduVgQ3uUQ6crd1w2u1_TJYKLdwCe6M0m3ETjsMa1dpLfbqcAEUY02dx" target="_blank">New Jersey Institute of Technology</a> College Prowler</p><p>&nbsp;</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/USNEWS排名" target="_blank">USNEWS排名</a></p>			</td>			<td style="width:13.3%">			<p>118</p>			</td>			<td style="width:17.16%">			<p>学费(/年)</p>			</td>			<td style="width:12.96%">			<p>$30,326</p>			</td>			<td style="width:21.5%">			<p>申请截止日期</p>			</td>			<td style="width:13.82%">			<p>3月1日</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td style="width:13.3%">			<p>79</p>			</td>			<td style="width:17.16%">			<p>食宿(/年)</p>			</td>			<td style="width:12.96%">			<p>$13,296</p>			</td>			<td style="width:21.5%">			<p>开学时间</p>			</td>			<td style="width:13.82%">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td style="width:13.3%">			<p>6.0</p>			</td>			<td style="width:17.16%">			<p>申请费</p>			</td>			<td style="width:12.96%">			<p>$75</p>			</td>			<td style="width:21.5%">			<p>可申请学期</p>			</td>			<td style="width:13.82%">			<p>秋季、春季</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><strong>SAT</strong><strong>要求</strong></p>			</td>			<td style="width:13.3%">			<p>1180-1390(1600)</p>			</td>			<td style="width:17.16%">			<p>录取率</p>			</td>			<td style="width:12.96%">			<p>61%</p>			</td>			<td style="width:21.5%">			<p>奖学金形式</p>			</td>			<td style="width:13.82%">			<p>Merit-based &amp; Need-aware</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/GPA" target="_blank">GPA</a>均分</p>			</td>			<td style="width:13.3%">			<p>3.5</p>			</td>			<td style="width:17.16%">			<p>申请人数</p>			</td>			<td style="width:12.96%">			<p>6,045</p>			</td>			<td style="width:21.5%">			<p>是否提供<a href="http://www.qianmu.org/双录取" target="_blank">双录取</a></p>			</td>			<td style="width:13.82%">			<p>No</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)(4)</p><p>注：</p><p>（1）TOEFL与IELTS均无单项分数要求。新泽西理工不提供<a href="http://www.qianmu.org/条件录取" target="_blank">条件录取</a>；所有国际学生入学后都可能会被要求参加一个入学<a href="http://www.qianmu.org/英语" target="_blank">英语</a>测试，学校将根据该测试成绩，决定学生是否需要修读<a href="http://www.qianmu.org/语言课程" target="_blank">语言课程</a>，以及&mdash;&mdash;如需修读&mdash;&mdash;语言课程的时数和修读方式。该入学测试不会影响学生的学生签证身份*(4)</p><p>（2）新泽西理工要求国际学生递交<a href="http://www.qianmu.org/SAT" target="_blank">SAT</a>/<a href="http://www.qianmu.org/ACT" target="_blank">ACT</a>成绩。SAT只参考阅读与<a href="http://www.qianmu.org/数学" target="_blank">数学</a>两个单项的成绩，录取学生的平均分多在1160分左右。国际学生的SAT最好不要低于1000分，如低于1000分，学校建议学生重新参加SAT考试</p><p>（3）秋季学期包括EAI和EAII两种录取方式，截止日期分别为11月15日和12月15日，之后采取滚动录取方式；最终截止日期为3月1日；春季学期11月15日申请截止*(3)</p><h2>教学质量</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:19.66%">			<p>本科生人数</p>			</td>			<td style="width:9.4%">			<p>8,008</p>			</td>			<td style="width:22.3%">			<p>小班比例(&lt;20)</p>			</td>			<td style="width:9.84%">			<p>37%</p>			</td>			<td style="width:25.28%">			<p><a href="http://www.qianmu.org/学期制度" target="_blank">学期制度</a></p>			</td>			<td style="width:13.54%">			<p>Semseter</p>			</td>		</tr>		<tr>			<td style="width:19.66%">			<p>研究生人数</p>			</td>			<td style="width:9.4%">			<p>3,317</p>			</td>			<td style="width:22.3%">			<p>中班比例(20-49)</p>			</td>			<td style="width:9.84%">			<p>57.3%</p>			</td>			<td style="width:25.28%">			<p>教授水平满意度</p>			</td>			<td style="width:13.54%">			<p>91%</p>			</td>		</tr>		<tr>			<td style="width:19.66%">			<p>国际学生比例</p>			</td>			<td style="width:9.4%">			<p>4%</p>			</td>			<td style="width:22.3%">			<p>大班比例(&gt;50)</p>			</td>			<td style="width:9.84%">			<p>5.7%</p>			</td>			<td style="width:25.28%">			<p>校园融洽度</p>			</td>			<td style="width:13.54%">			<p>70%</p>			</td>		</tr>		<tr>			<td style="width:19.66%">			<p>师生比</p>			</td>			<td style="width:9.4%">			<p>1:17</p>			</td>			<td style="width:22.3%">			<p>六年毕业率</p>			</td>			<td style="width:9.84%">			<p>61%</p>			</td>			<td style="width:25.28%">			<p>学生满意度</p>			</td>			<td style="width:13.54%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:19.66%">			<p>四年毕业率</p>			</td>			<td style="width:9.4%">			<p>24%</p>			</td>			<td style="width:22.3%">			<p>新生保持率</p>			</td>			<td style="width:9.84%">			<p>88%</p>			</td>			<td style="width:25.28%">			<p>教师博士学位比例</p>			</td>			<td style="width:13.54%">			<p>100%</p>			</td>		</tr>		<tr>			<td style="width:19.66%">毕业2年平均薪水</td>			<td style="width:9.4%">$49,800</td>			<td style="width:22.3%">就业率</td>			<td style="width:9.84%">59%</td>			<td style="width:25.28%">校友网络认可度</td>			<td style="width:13.54%">55%</td>		</tr>	</tbody></table><p>*(1)(2)(3)(5)(6)</p><p><strong>校园安全</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:143px">校园安全事件</td>			<td style="width:403px">Criminal Offenses -- On-Campus&nbsp;</td>			<td style="width:103px">2012</td>			<td style="width:100px">2013</td>			<td style="width:97px">2014</td>		</tr>		<tr>			<td>谋杀</td>			<td>Murder/Non-negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>过失杀人</td>			<td>Negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸</td>			<td>Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>乱伦</td>			<td>Incest</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸幼童罪</td>			<td>Statutory Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>猥亵</td>			<td>Fondling</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>5</p>			</td>		</tr>		<tr>			<td>性侵犯-强迫</td>			<td>Sex offenses - Forcible</td>			<td>			<p>0</p>			</td>			<td>			<p>3</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>性侵犯-非强迫</td>			<td>Sex offenses - non-forcible (incest and statutory rape only)</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>抢劫</td>			<td>Robbery</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>暴力袭击</td>			<td>Aggravated assault</td>			<td>			<p>1</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>盗窃</td>			<td>Burglary</td>			<td>			<p>8</p>			</td>			<td>			<p>4</p>			</td>			<td>			<p>3</p>			</td>		</tr>		<tr>			<td>汽车盗窃</td>			<td>Motor vehicle theft</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>纵火</td>			<td>Arson</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>	</tbody></table><p>*(2)</p><p><strong>录取统计</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td rowspan="2" style="width:9.64%">			<p>年份</p>			</td>			<td colspan="6" style="width:58.2%">			<p>国际学生人数</p>			</td>			<td rowspan="2" style="width:14.86%">			<p>本科生总数</p>			</td>			<td rowspan="2" style="width:17.32%">			<p>国际学生比例</p>			</td>		</tr>		<tr>			<td style="width:9.7%">			<p>大一</p>			</td>			<td style="width:9.7%">			<p>大二</p>			</td>			<td style="width:9.7%">			<p>大三</p>			</td>			<td style="width:9.7%">			<p>大四</p>			</td>			<td style="width:9.7%">			<p>其它</p>			</td>			<td style="width:9.7%">			<p>总数</p>			</td>		</tr>		<tr>			<td style="width:9.64%">			<p>2013</p>			</td>			<td style="width:9.7%">			<p>62</p>			</td>			<td style="width:9.7%">			<p>72</p>			</td>			<td style="width:9.7%">			<p>75</p>			</td>			<td style="width:9.7%">			<p>85</p>			</td>			<td style="width:9.7%">			<p>21</p>			</td>			<td style="width:9.7%">			<p>315</p>			</td>			<td style="width:14.86%">			<p>7286</p>			</td>			<td style="width:17.32%">			<p>4.3%</p>			</td>		</tr>		<tr>			<td style="width:9.64%">			<p>2012</p>			</td>			<td style="width:9.7%">			<p>84</p>			</td>			<td style="width:9.7%">			<p>49</p>			</td>			<td style="width:9.7%">			<p>73</p>			</td>			<td style="width:9.7%">			<p>85</p>			</td>			<td style="width:9.7%">			<p>27</p>			</td>			<td style="width:9.7%">			<p>318</p>			</td>			<td style="width:14.86%">			<p>7111</p>			</td>			<td style="width:17.32%">			<p>4.5%</p>			</td>		</tr>		<tr>			<td style="width:9.64%">			<p>2011</p>			</td>			<td style="width:9.7%">			<p>57</p>			</td>			<td style="width:9.7%">			<p>55</p>			</td>			<td style="width:9.7%">			<p>72</p>			</td>			<td style="width:9.7%">			<p>65</p>			</td>			<td style="width:9.7%">			<p>15</p>			</td>			<td style="width:9.7%">			<p>264</p>			</td>			<td style="width:14.86%">			<p>6604</p>			</td>			<td style="width:17.32%">			<p>4.0%</p>			</td>		</tr>		<tr>			<td style="width:9.64%">			<p>2010</p>			</td>			<td style="width:9.7%">			<p>64</p>			</td>			<td style="width:9.7%">			<p>64</p>			</td>			<td style="width:9.7%">			<p>71</p>			</td>			<td style="width:9.7%">			<p>79</p>			</td>			<td style="width:9.7%">			<p>22</p>			</td>			<td style="width:9.7%">			<p>300</p>			</td>			<td style="width:14.86%">			<p>6103</p>			</td>			<td style="width:17.32%">			<p>4.9%</p>			</td>		</tr>		<tr>			<td style="width:9.64%">			<p>2009</p>			</td>			<td style="width:9.7%">			<p>64</p>			</td>			<td style="width:9.7%">			<p>47</p>			</td>			<td style="width:9.7%">			<p>58</p>			</td>			<td style="width:9.7%">			<p>76</p>			</td>			<td style="width:9.7%">			<p>4</p>			</td>			<td style="width:9.7%">			<p>249</p>			</td>			<td style="width:14.86%">			<p>5924</p>			</td>			<td style="width:17.32%">			<p>4.2%</p>			</td>		</tr>	</tbody></table><p>*(3)</p><h2>申请说明</h2><p><strong>GPA与班级排名</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:26.96%">			<p>GPA</p>			</td>			<td style="width:23.48%">&nbsp;</td>			<td style="width:24.78%">			<p>班级排名</p>			</td>			<td style="width:24.78%">&nbsp;</td>		</tr>		<tr>			<td style="width:26.96%">			<p>分段</p>			</td>			<td style="width:23.48%">			<p>占比</p>			</td>			<td style="width:24.78%">			<p>分段</p>			</td>			<td style="width:24.78%">			<p>占比</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.75以上</p>			</td>			<td style="width:23.48%">			<p>36%</p>			</td>			<td style="width:24.78%">			<p>TOP10%</p>			</td>			<td style="width:24.78%">			<p>31%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.5-3.74</p>			</td>			<td style="width:23.48%">			<p>22%</p>			</td>			<td style="width:24.78%">			<p>TOP25%</p>			</td>			<td style="width:24.78%">			<p>59%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.25-3.49</p>			</td>			<td style="width:23.48%">			<p>18%</p>			</td>			<td style="width:24.78%">			<p>TOP50%</p>			</td>			<td style="width:24.78%">			<p>87%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.0-3.24</p>			</td>			<td style="width:23.48%">			<p>14%</p>			</td>			<td style="width:24.78%">			<p>50%以下</p>			</td>			<td style="width:24.78%">			<p>13%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>2.50-2.99</p>			</td>			<td style="width:23.48%">			<p>9%</p>			</td>			<td style="width:24.78%">			<p>75%以下</p>			</td>			<td style="width:24.78%">			<p>3%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>2.49以下</p>			</td>			<td style="width:23.48%">			<p>1%</p>			</td>			<td style="width:24.78%">&nbsp;</td>			<td style="width:24.78%">&nbsp;</td>		</tr>	</tbody></table><p><strong>SAT</strong><strong>与ACT</strong></p><p>新泽西理工学院要求国际学生必需递交SAT和ACT成绩，无最低分数要求。SAT无需SATⅡ成绩，只参考阅读与数学两个单项。2015年秋季，新泽西理工学院录取学生的SAT 平均分如下：</p><ul>	<li>SAT均分（25%-75%）：阅读520-630分；数学590-680分；写作510-630*(1)</li>	<li>ACT综合均分：未详</li></ul><p><strong>申请材料</strong></p><p>新泽西理工学院通过学校官网系统申请，申请时可无需指定自己的专业，要求申请者递交以下<a href="http://www.qianmu.org/申请材料" target="_blank">申请材料</a>：</p><ul>	<li>完成在线申请表：通过学校官网申请*(4)</li>	<li>申请费：$70</li>	<li>TOEFL/IELTS成绩</li>	<li><a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a>：需<a href="http://www.qianmu.org/翻译" target="_blank">翻译</a>，需经<a href="http://www.qianmu.org/WES" target="_blank">WES</a>公证递交</li>	<li>SAT/ACT：必需；SAT无需SATⅡ成绩，ACT无需Writing成绩</li>	<li>护照复印件</li>	<li><a href="http://www.qianmu.org/资金证明" target="_blank">资金证明</a>：申请时可无需递交，录取后必需递交(7)</li></ul><p><strong>费用与奖学金</strong></p><p>新泽西理工学院向国际学生提供有较为丰厚的<a href="http://www.qianmu.org/Merit-based" target="_blank">Merit-based</a><a href="http://www.qianmu.org/奖学金" target="_blank">奖学金</a>。2015年共有87名国际学生获奖，获奖总额为$2,192,039,平均获奖金额为$25,196，按本科生人数和国际学生比例计算，国际学生获奖率为23.0%。新泽西理工学院本科国际学生的奖学金来源，主要有以下三项，分别是：</p><ul>	<li>Private Loans：该项一般国际学生实质无法获取，要求有一位美国公民或永久居民作为担保*(8)</li>	<li>International Presidential Scholarship：是该校国际学生最主要的奖学金来源，要求SAT阅读+数学不低于1150分</li>	<li>Albert Dorman Honors College Scholarship：仅限菁英学院的学生可以申请</li></ul><p><strong>费用明细：</strong></p><p>新泽西理工学院向国际学生提供Need-aware和Merit-based奖学金，2015年度共有81名国际学生获得奖学金总额为$2,159,441，平均金额为$26,659。</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:23.04%">			<p>支出项目</p>			</td>			<td style="width:55.76%">			<p>项目英文名</p>			</td>			<td style="width:21.18%">			<p>2015-2016学年费用</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>学费</p>			</td>			<td style="width:55.76%">			<p>Tuition and fees</p>			</td>			<td style="width:21.18%">			<p>$30,326</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>住宿费用</p>			</td>			<td style="width:55.76%">			<p>Room and board</p>			</td>			<td style="width:21.18%">			<p>$13,296</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>书本费</p>			</td>			<td style="width:55.76%">			<p>Books and supplies</p>			</td>			<td style="width:21.18%">			<p>$2,600</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>个人花费</p>			</td>			<td style="width:55.76%">			<p>Estimated personal expenses</p>			</td>			<td style="width:21.18%">			<p>$2,400</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>交通费</p>			</td>			<td style="width:55.76%">			<p>Transportation expenses</p>			</td>			<td style="width:21.18%">			<p>$1,200</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>合计</p>			</td>			<td style="width:55.76%">			<p>Estimated Total</p>			</td>			<td style="width:21.18%">			<p>$49,822</p>			</td>		</tr>	</tbody></table><h2>转学申请</h2><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:17.7%">			<p>TOEFL要求</p>			</td>			<td style="width:13.1%">			<p>79</p>			</td>			<td style="width:20.28%">			<p>GPA要求</p>			</td>			<td style="width:12.76%">			<p>2.5</p>			</td>			<td style="width:21.3%">			<p>申请截止日期</p>			</td>			<td style="width:14.86%">			<p>滚动录取</p>			</td>		</tr>		<tr>			<td style="width:17.7%">			<p>IELTS要求</p>			</td>			<td style="width:13.1%">			<p>6.0</p>			</td>			<td style="width:20.28%">			<p>SAT要求</p>			</td>			<td style="width:12.76%">			<p>Not Required</p>			</td>			<td style="width:21.3%">			<p>开学时间</p>			</td>			<td style="width:14.86%">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:17.7%">			<p>最高可转学分</p>			</td>			<td style="width:13.1%">			<p>109</p>			</td>			<td style="width:20.28%">			<p>最低学分要求</p>			</td>			<td style="width:12.76%">			<p>15</p>			</td>			<td style="width:21.3%">			<p>可申请学期</p>			</td>			<td style="width:14.86%">			<p>秋季、春季</p>			</td>		</tr>		<tr>			<td style="width:17.7%">申请人数</td>			<td style="width:13.1%">1,956</td>			<td style="width:20.28%">录取人数</td>			<td style="width:12.76%">1,072</td>			<td style="width:21.3%">			<p>录取率</p>			</td>			<td style="width:14.86%">54%</td>		</tr>	</tbody></table><p>*(1)(4)(9)</p><p>注：</p><p>（1）春季学期11月15日申请截止</p><p>（2）新泽西理工学院要求转学申请者GPA2.5以上，如考虑转学分，单门课程GPA须在2.0以上</p><p><strong>申请说明</strong></p><p>新泽西理工学院秋季、春季两个个学期均可以转学，可入读大一、大二、大三其中任何一个学期。要求申请者在原学校修够15个学分（修完学校要求课程，如英语写作、数学以及化学或物理专业要求的理科课程）。*(1)(9)</p><p><strong>联系方式</strong></p><p><strong>Office of University Admissions</strong></p><p>New Jersey Institute of Technology</p><p>Office of University Admissions</p><p>Fenster Hall, Room 100</p><p>University Heights</p><p>Newark, NJ 07102</p><p><strong>Phone: </strong>973-596-3300</p><p><strong>Fax: </strong>973-596-3461</p><p><strong>Email: </strong>admissions@njit.edu*(10)</p><h2>专业设置</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:20.62%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:28.8%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:18.24%">			<p><strong>专业名称</strong></p>			</td>			<td colspan="2" style="width:32.34%">			<p><strong>专业英文名</strong></p>			</td>		</tr>		<tr>			<td colspan="5" style="width:100.0%">			<p><strong>工程学院（Newark College of Engineering</strong><strong>）</strong></p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p><a href="http://www.qianmu.org/生物医学" target="_blank">生物医学</a>工程</p>			</td>			<td style="width:28.8%">			<p><a href="http://www.qianmu.org/生物医学工程" target="_blank">Biomedical Engineering</a></p>			</td>			<td style="width:18.24%">			<p>施工管理技术</p>			</td>			<td colspan="2" style="width:32.34%">			<p>Construction <a href="http://www.qianmu.org/管理学" target="_blank">Management</a> Technology</p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p>生物<a href="http://www.qianmu.org/医学" target="_blank">医学</a>工程-生物仪器方向</p>			</td>			<td style="width:28.8%">			<p>Biomedical Engineering: Bioinstrumentation</p>			</td>			<td style="width:18.24%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">电气与计算机工程</a>技术</p>			</td>			<td colspan="2" style="width:32.34%">			<p>Electrical and <a href="http://www.qianmu.org/计算机工程" target="_blank">Computer Engineering</a> Technology</p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p>生物医学工程-生物材料方向</p>			</td>			<td style="width:28.8%">			<p>Biomedical Engineering: Biomaterials</p>			</td>			<td style="width:18.24%">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">电气工程</a></p>			</td>			<td colspan="2" style="width:32.34%">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">Electrical Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p>生物医学工程-生物力学方向</p>			</td>			<td style="width:28.8%">			<p>Biomedical Engineering: Biomechanics</p>			</td>			<td style="width:18.24%">			<p>工程科学</p>			</td>			<td colspan="2" style="width:32.34%">			<p>Engineering Science</p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p>生物医学工程-组织工程方向</p>			</td>			<td style="width:28.8%">			<p>Biomedical Engineering: Tissue Engineering</p>			</td>			<td style="width:18.24%">			<p><a href="http://www.qianmu.org/工业工程" target="_blank">工业工程</a></p>			</td>			<td colspan="2" style="width:32.34%">			<p><a href="http://www.qianmu.org/工业工程" target="_blank">Industrial Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p><a href="http://www.qianmu.org/化学工程" target="_blank">化学工程</a></p>			</td>			<td style="width:28.8%">			<p>Chemical Engineering</p>			</td>			<td style="width:18.24%">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">机械工程</a></p>			</td>			<td colspan="2" style="width:32.34%">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">Mechanical Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">土木工程</a></p>			</td>			<td style="width:28.8%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">Civil Engineering</a></p>			</td>			<td style="width:18.24%">			<p>机械工程技术</p>			</td>			<td colspan="2" style="width:32.34%">			<p>Mechanical Engineering Technology</p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p><a href="http://www.qianmu.org/计算机工程" target="_blank">计算机工程</a></p>			</td>			<td style="width:28.8%">			<p>Computer Engineering</p>			</td>			<td style="width:18.24%">			<p>医学信息技术</p>			</td>			<td colspan="2" style="width:32.34%">			<p>Medical Informatics Technology</p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p>计算机技术</p>			</td>			<td style="width:28.8%">			<p>Computer Technology</p>			</td>			<td style="width:18.24%">			<p>测绘工程技术</p>			</td>			<td colspan="2" style="width:32.34%">			<p>Surveying Engineering Technology</p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p>混凝土产业管理</p>			</td>			<td style="width:28.8%">			<p>Concrete Industry Management</p>			</td>			<td style="width:18.24%">			<p>技术教育</p>			</td>			<td colspan="2" style="width:32.34%">			<p>Technology Education</p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p>建筑工程技术</p>			</td>			<td style="width:28.8%">			<p>Construction Engineering Technology</p>			</td>			<td colspan="2" style="width:18.38%">			<p>&nbsp;</p>			</td>			<td style="width:32.2%">			<p>&nbsp;</p>			</td>		</tr>		<tr>			<td colspan="5" style="width:100.0%">			<p><strong>计算学院（College of Computing Sciences</strong><strong>）</strong></p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p><a href="http://www.qianmu.org/生物信息学" target="_blank">生物信息学</a></p>			</td>			<td style="width:28.8%">			<p>Bioinformatics</p>			</td>			<td style="width:18.24%">			<p>人机交互</p>			</td>			<td colspan="2" style="width:32.34%">			<p>Human Computer Interaction</p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p>商业与信息系统</p>			</td>			<td style="width:28.8%">			<p>Business &amp; <a href="http://www.qianmu.org/信息系统管理" target="_blank">Information Systems</a></p>			</td>			<td style="width:18.24%">			<p>信息系统</p>			</td>			<td colspan="2" style="width:32.34%">			<p>Information Systems</p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">计算机科学</a></p>			</td>			<td style="width:28.8%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">Computer Science</a></p>			</td>			<td style="width:18.24%">			<p>信息技术</p>			</td>			<td colspan="2" style="width:32.34%">			<p>Information Technology</p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p>计算与商业</p>			</td>			<td style="width:28.8%">			<p>Computing and Business</p>			</td>			<td style="width:18.24%">			<p>网络与信息系统</p>			</td>			<td colspan="2" style="width:32.34%">			<p>Web and Information Systems</p>			</td>		</tr>		<tr>			<td colspan="5" style="width:100.0%">			<p><strong>建筑设计学院（College of Architecture and Design</strong><strong>）</strong></p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p>建筑学</p>			</td>			<td style="width:28.8%">			<p>Architecture</p>			</td>			<td style="width:18.24%">			<p><a href="http://www.qianmu.org/室内设计" target="_blank">室内设计</a></p>			</td>			<td colspan="2" style="width:32.34%">			<p>Interior Design</p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p>数字设计</p>			</td>			<td style="width:28.8%">			<p>Digital Design</p>			</td>			<td style="width:18.24%">			<p><a href="http://www.qianmu.org/工业设计" target="_blank">工业设计</a></p>			</td>			<td colspan="2" style="width:32.34%">			<p>Industrial Design</p>			</td>		</tr>		<tr>			<td colspan="5" style="width:100.0%">			<p>商学院（School of Management）</p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p><a href="http://www.qianmu.org/会计" target="_blank">会计</a></p>			</td>			<td style="width:28.8%">			<p><a href="http://www.qianmu.org/会计" target="_blank">Accounting</a></p>			</td>			<td style="width:18.24%">			<p><a href="http://www.qianmu.org/国际贸易" target="_blank">国际贸易</a></p>			</td>			<td colspan="2" style="width:32.34%">			<p>International Business</p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p>商学</p>			</td>			<td style="width:28.8%">			<p>Business</p>			</td>			<td style="width:18.24%">			<p><a href="http://www.qianmu.org/管理学" target="_blank">管理学</a></p>			</td>			<td colspan="2" style="width:32.34%">			<p>Management</p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p><a href="http://www.qianmu.org/金融" target="_blank">金融</a></p>			</td>			<td style="width:28.8%">			<p><a href="http://www.qianmu.org/金融" target="_blank">Finance</a></p>			</td>			<td style="width:18.24%">			<p>管理信息系统</p>			</td>			<td colspan="2" style="width:32.34%">			<p>Management Information Systems</p>			</td>		</tr>		<tr>			<td colspan="5" style="width:100.0%">			<p><strong>文理学院（College of Science and Liberal Arts</strong><strong>）</strong></p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p>应用数学</p>			</td>			<td style="width:28.8%">			<p>Applied Math</p>			</td>			<td style="width:18.24%">			<p><a href="http://www.qianmu.org/环境科学" target="_blank">环境科学</a></p>			</td>			<td colspan="2" style="width:32.34%">			<p>Environmental Sciences</p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p>应用物理学</p>			</td>			<td style="width:28.8%">			<p>Applied <a href="http://www.qianmu.org/物理" target="_blank">Physics</a></p>			</td>			<td style="width:18.24%">			<p><a href="http://www.qianmu.org/历史" target="_blank">历史</a></p>			</td>			<td colspan="2" style="width:32.34%">			<p><a href="http://www.qianmu.org/历史" target="_blank">History</a></p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p>应用统计</p>			</td>			<td style="width:28.8%">			<p>Applied <a href="http://www.qianmu.org/统计学" target="_blank">Statistics</a></p>			</td>			<td style="width:18.24%">			<p>法律、科技与文化</p>			</td>			<td colspan="2" style="width:32.34%">			<p><a href="http://www.qianmu.org/法学" target="_blank">Law</a>, Technology and Culture</p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p><a href="http://www.qianmu.org/生物化学" target="_blank">生物化学</a></p>			</td>			<td style="width:28.8%">			<p>Biochemistry</p>			</td>			<td style="width:18.24%">			<p>数学生物学</p>			</td>			<td colspan="2" style="width:32.34%">			<p>Mathematical Biology</p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p>生物学</p>			</td>			<td style="width:28.8%">			<p>Biology</p>			</td>			<td style="width:18.24%">			<p>数学</p>			</td>			<td colspan="2" style="width:32.34%">			<p>Mathematical Sciences</p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p><a href="http://www.qianmu.org/生物物理" target="_blank">生物物理</a>学</p>			</td>			<td style="width:28.8%">			<p>Biophysics</p>			</td>			<td style="width:18.24%">			<p>金融与<a href="http://www.qianmu.org/精算" target="_blank">精算</a></p>			</td>			<td colspan="2" style="width:32.34%">			<p><a href="http://www.qianmu.org/数学" target="_blank">Mathematics</a> of Finance and <a href="http://www.qianmu.org/精算" target="_blank">Actuarial Science</a></p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p><a href="http://www.qianmu.org/化学" target="_blank">化学</a></p>			</td>			<td style="width:28.8%">			<p><a href="http://www.qianmu.org/化学" target="_blank">Chemistry</a></p>			</td>			<td style="width:18.24%">			<p>科学、技术与社会</p>			</td>			<td colspan="2" style="width:32.34%">			<p>Science, Technology &amp; Society</p>			</td>		</tr>		<tr>			<td style="width:20.62%">			<p>传播与媒体</p>			</td>			<td style="width:28.8%">			<p>Communication &amp; Media</p>			</td>			<td style="width:18.24%">			<p><a href="http://www.qianmu.org/戏剧" target="_blank">戏剧</a>、艺术与技术</p>			</td>			<td colspan="2" style="width:32.34%">			<p>Theatre, Arts and Technology</p>			</td>		</tr>	</tbody></table><p>*(11)</p><p>外部链接：</p><ul>	<li>奖学金政策：<a href="http://www.qianmu.org/redirect?code=zrQ-nH7ZLDXYcx12333333WDAUIk0fs6WSWSmtwDF7I6Fc412bjt_snLKticBs-L_sj_XDO4Hrs4tDx3V_84X2pueCbwpo7SZDN" target="_blank">Student Financial Aid Services Polices &amp; Procedures Guide</a>(PDF)</li>	<li>资金证明表：<a href="http://www.qianmu.org/redirect?code=DroIGD4VwAbLSeV1UUUUUaoZWuwBGQgqIAIA3fPZi4wqiTOA6JE_jeSZ7f4ZuXw1xXqPlfEPTkwtsKMclKqZuXw_ujOGHgDpskwtKtsZu8jclX6_uXhxpFTfYez-MTMvo5Rm1A_t6AmqnAaWMlcfXvQ" target="_blank">International Student Financial Statement Form</a>(PDF)</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=orDtO5ZnkkP-G5w6hhhhh3AdFkbIFZ0HAu4D5Yaqa8sSkqnXFm4p0QjzMYytF8yRUq4uMu410mdpMYaKDlewO0eSTFxvn7j0aLRh96Nh4TSc9zFU2G_WqpsWqyojIsch8LyY8gryqsPiqgrypB1wWBXVzjqY" target="_blank">New Jersey Institute of Technology</a> College Board</p><p>(2) <a href="http://www.qianmu.org/redirect?code=BraKR4eqkW_gBj9bvvvvvrirEay1z_Ak5r0eG8Rtq520LBr3LBg7pir8zdzS607sT07ZSOHCxDGljczoLLzbHvXRNTD2NtztsDMfLvomiBjgd-WTXQqxIySDl4oJWgCKB38nHfZLR_B5czes3d_I3h5E1SOEehVNDRKC93aqV7pe" target="_blank">New Jersey Institute of Technology</a> USNEWS</p><p>(3) <a href="https://www.njit.edu/admissions/dates-deadlines" target="_blank">Enrollment FactBook</a> NJIT</p><p>(4) <a href="http://www.qianmu.org/redirect?code=frh1ZEbZLDXYcyfSuuuuupaW50qNKtiOF5g6g6IfzXi5-zc5DIcYQRG6u94B3df-kczqKwS3_lt30P8DIE8N7EEAgO0sYRLNGPB7GkwgF9rfs7iZzHYXRpb25hQIRZqV2NP2AL0lnLv7D-n" target="_blank">International Students Admission Criteria</a></p><p>(5) <a href="http://www.qianmu.org/redirect?code=brEVbykyk8-j0BRwqeLyOFCJSE63h1URY4DYSOSqmo-TqQcRyC8BH_c2F7UA9t5_SGCRQUGwp3hvPn2TBBBHqPce5iBQTSPUFTX8dUP3zYYxEU5Z_PAlVWb2zCfQTlW1PWmp3TbyUe1mXTOvyDsVUDRrE_6" target="_blank">New Jersey Institute of Technology</a> College Prowler</p><p>(6) <a href="http://www.qianmu.org/redirect?code=VrxbId70kiLYy2XYjjjiccc76lUiHwqXKh0h0OCe6y7iKygL0_pIZyp40Vpb0E796J-IZhUaKR" target="_blank">Quick Facts About NJIT</a> NJIT</p><p>(7) <a href="http://www.qianmu.org/redirect?code=Trq48ptfkdft_3tEgggggVF9KWI7X392Rc7U7U2zmnRj8Lhjd3WqLMCRIHT4u_4c-kKHG-xM5ju45z52RHy4w9-0xeY4FTz-468wSCvOFchqJ3JcSA0qHXFmKAVNER_POtcfb3J0X0Zv6M5pHosF3cHEhqHCYahnJDsl4" target="_blank">International Student Financial Statement Form</a> NJIT</p><p>(8) <a href="http://www.qianmu.org/redirect?code=XrChP9_4wbton07XDDDDD6Ghzp7x83baCvxBxB2XWU46Kgp6Rez74nZh8IYUJ6dyXDZ3KIt_G6FUC7wnHYwFB5IHBqrmlAjsg2LIa-lE8hnoJQmiyjRc5ircA1WyTUW3ZtCXUTNKeSCHrZEwszHtm" target="_blank">Awards for International Students</a> NJIT</p><p>(9) <a href="http://www.qianmu.org/redirect?code=6ri8veriw8gc0Hd-FFFFF5ByWqQeKE6xSxfHfH5wcA50Hkh0uoaJLN0FdI6HNi7Qzh8ugJaKzQgKB5U6rmURJmOpbEitrCAcENPwEjTlPYlfL_IPoBtJ3XiQTW-6G" target="_blank">Transfers Admission Criteria</a> NJIT</p><p>(10) <a href="http://www.qianmu.org/redirect?code=1rdft_1OktZGdUXYjjjZ555moVQmCuLxjz_z_7rPolgmjlXGDb4s8SV9nFtvn9TRxLYR_2THIqOoIqG0DkXo_kTRxLYHr9Xv" target="_blank">Contact Admissions</a> NJIT</p><p>(11) <a href="http://www.qianmu.org/redirect?code=_r75g1xGkNYOnu5kZZZZZZWUshiU3dE-5rWhWhDfVNQ80ja8_zF2FE0A-fVi-E4zZhTXUXJaw31aIZCVTxfzTa7glBHg7bF2ZSkcXI-Ve1Q" target="_blank">Undergraduate Majors</a> NJIT</p><p>&nbsp;</p><h1>研究生申请</h1><p><strong>院系设置</strong></p><p>新泽西理工学院共设有以下15个学术学院，分别是：</p><ul>	<li>工程学院（Newark College of Engineering）</li>	<li>计算学院（College of Computing Sciences）</li>	<li>建筑设计学院（College of Architecture and Design）</li>	<li>商学院（School of Management）</li>	<li><a href="http://www.qianmu.org/文理学院" target="_blank">文理学院</a>（College of Science and Liberal Arts）*(1)</li></ul><p><strong>基本要求</strong></p><p>除医学和<a href="http://www.qianmu.org/法学" target="_blank">法学</a>项目外，新泽西理工学院其它研究生项目均由学校研究生学部（Graduate Division）负责，该学部规定的基本申请条件如下：</p><ul>	<li>学位要求：正规大学本科毕业并取得学士学位</li>	<li>GPA要求：硕士项目要求本科GPA不低于2.8分；博士项目要求GPA不低于3.5分&mdash;&mdash;包括本科和硕士阶段（如有）*(2)(3)</li>	<li>语言要求：TOEFL要求不低于79分。无单项分数要求；IELTS要求不低于6.5分，单项不低于6.0分，不接受条件录取*(2)(3)</li>	<li><strong>G</strong>RE要求：所有项目均需要有<a href="http://www.qianmu.org/GRE" target="_blank">GRE</a>成绩，部分商科项目可使用<a href="http://www.qianmu.org/GMAT" target="_blank">GMAT</a>代替GRE成绩*(2)(3)</li></ul><p><strong>申请时间</strong></p><p>新泽西理工学院研究生有统一的申请时间规定，具体如下：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:37.44%">			<p>入学学期</p>			</td>			<td style="width:31.28%">			<p>申请截止日期</p>			</td>			<td style="width:31.28%">			<p>申请推荐日期*</p>			</td>		</tr>		<tr>			<td style="width:37.44%">			<p>秋季学期</p>			</td>			<td style="width:31.28%">			<p>5月1日</p>			</td>			<td style="width:31.28%">			<p>1月15日</p>			</td>		</tr>		<tr>			<td style="width:37.44%">			<p>春季学期</p>			</td>			<td style="width:31.28%">			<p>11月15日</p>			</td>			<td style="width:31.28%">			<p>10月15日</p>			</td>		</tr>	</tbody></table><p>*(4)</p><p>注：申请推荐日期之前申请，有机会获得由学校或系里提供的奖学金，该日期之后申请，则不会考虑奖学金</p><p><strong>录取统计</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:14.28%">			<p>年份</p>			</td>			<td colspan="2" style="width:28.58%">			<p>国际学生人数</p>			</td>			<td style="width:14.28%">&nbsp;</td>			<td style="width:14.28%">&nbsp;</td>			<td style="width:14.28%">			<p>研究生总数</p>			</td>			<td style="width:14.28%">			<p>国际学生比例</p>			</td>		</tr>		<tr>			<td style="width:14.28%">&nbsp;</td>			<td style="width:14.28%">			<p>硕士生</p>			</td>			<td style="width:14.28%">			<p>博士生</p>			</td>			<td style="width:14.28%">			<p>其它</p>			</td>			<td colspan="2" style="width:28.58%">			<p>国际学生总数</p>			</td>			<td style="width:14.28%">&nbsp;</td>		</tr>		<tr>			<td style="width:14.28%">			<p>2016</p>			</td>			<td style="width:14.28%">			<p>1366</p>			</td>			<td style="width:14.28%">			<p>298</p>			</td>			<td style="width:14.28%">			<p>9</p>			</td>			<td style="width:14.28%">			<p>1673</p>			</td>			<td style="width:14.28%">			<p>3106</p>			</td>			<td style="width:14.28%">			<p>53.86%</p>			</td>		</tr>		<tr>			<td style="width:14.28%">			<p>2015</p>			</td>			<td style="width:14.28%">			<p>1469</p>			</td>			<td style="width:14.28%">			<p>298</p>			</td>			<td style="width:14.28%">			<p>16</p>			</td>			<td style="width:14.28%">			<p>1783</p>			</td>			<td style="width:14.28%">			<p>3317</p>			</td>			<td style="width:14.28%">			<p>53.75%</p>			</td>		</tr>		<tr>			<td style="width:14.28%">			<p>2014</p>			</td>			<td style="width:14.28%">			<p>1193</p>			</td>			<td style="width:14.28%">			<p>251</p>			</td>			<td style="width:14.28%">			<p>20</p>			</td>			<td style="width:14.28%">			<p>1464</p>			</td>			<td style="width:14.28%">			<p>3096</p>			</td>			<td style="width:14.28%">			<p>47.29%</p>			</td>		</tr>		<tr>			<td style="width:14.28%">			<p>2013</p>			</td>			<td style="width:14.28%">			<p>959</p>			</td>			<td style="width:14.28%">			<p>239</p>			</td>			<td style="width:14.28%">			<p>22</p>			</td>			<td style="width:14.28%">			<p>1220</p>			</td>			<td style="width:14.28%">			<p>2844</p>			</td>			<td style="width:14.28%">			<p>42.90%</p>			</td>		</tr>	</tbody></table><p>*(5)</p><p><strong>申请说明</strong></p><p>新泽西理工学院研究生有着统一的申请材料规定，具体如下：</p><ul>	<li>在线申请表，通过学校官网申请*(8)</li>	<li>申请费：$75</li>	<li>正式成绩单</li>	<li><a href="http://www.qianmu.org/毕业证明" target="_blank">毕业证明</a></li>	<li>GRE/GMAT成绩</li>	<li>TOEFL与IELTS成绩</li>	<li><a href="http://www.qianmu.org/推荐信" target="_blank">推荐信</a>：硕士项目要求1封；博士项目要求3封</li>	<li>资金证明：申请时无需递交，录取后必需递交*(6)</li>	<li>其它材料：<a href="http://www.qianmu.org/个人陈述" target="_blank">个人陈述</a>、<a href="http://www.qianmu.org/个人作品" target="_blank">个人作品</a>、<a href="http://www.qianmu.org/个人简历" target="_blank">个人简历</a>、<a href="http://www.qianmu.org/面试" target="_blank">面试</a>等部分专业可能会需要。一般而言，建筑类专业可能会要求递交个人作品，大多数专业均会要求递交个人陈述等</li></ul><p><strong>费用与奖学金</strong></p><p>新泽西理工学院的奖学金主要由学生所申请的系所或项目提供，其形式以<a href="http://www.qianmu.org/TA" target="_blank">TA</a>、<a href="http://www.qianmu.org/RA" target="_blank">RA</a>为主。学生在申请时应主动与系里的导师或招生办联系，以期获得由导师或系里提供的RA、TA奖学金。新泽西理工学院的奖学金形式以Merit-based为主，该奖学金无需单独申请，自动随Offer发放，其形式主要以TA和RA为主。一般而言，PhD学生的获奖几率要远远大于硕士学生获得的几率。*(7)(8)</p><p><strong>费用列表（2016-17</strong><strong>学年）：</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:38.22%">			<p>支出项目</p>			</td>			<td style="width:31.7%">			<p>项目英文名</p>			</td>			<td style="width:15.44%">			<p>费用（校内住宿）</p>			</td>			<td style="width:14.64%">			<p>费用（校外住宿）</p>			</td>		</tr>		<tr>			<td style="width:38.22%">			<p>学费</p>			</td>			<td style="width:31.7%">			<p>Tuition &amp; Fees</p>			</td>			<td style="width:15.44%">			<p>$30,898</p>			</td>			<td style="width:14.64%">			<p>$30,898</p>			</td>		</tr>		<tr>			<td style="width:38.22%">			<p>食宿费</p>			</td>			<td style="width:31.7%">			<p>Room &amp; Board (Living)</p>			</td>			<td style="width:15.44%">			<p>$13,400</p>			</td>			<td style="width:14.64%">			<p>$10,500</p>			</td>		</tr>		<tr>			<td style="width:38.22%">			<p>书本费</p>			</td>			<td style="width:31.7%">			<p>Books/Supplies</p>			</td>			<td style="width:15.44%">			<p>$1,700</p>			</td>			<td style="width:14.64%">			<p>$1,700</p>			</td>		</tr>		<tr>			<td style="width:38.22%">			<p>交通费</p>			</td>			<td style="width:31.7%">			<p>Transportation</p>			</td>			<td style="width:15.44%">			<p>$1,200</p>			</td>			<td style="width:14.64%">			<p>$3,200</p>			</td>		</tr>		<tr>			<td style="width:38.22%">			<p>杂费</p>			</td>			<td style="width:31.7%">			<p>Miscellaneous</p>			</td>			<td style="width:15.44%">			<p>$2,400</p>			</td>			<td style="width:14.64%">			<p>$2,400</p>			</td>		</tr>		<tr>			<td style="width:38.22%">			<p>合计（普通研究生项目）</p>			</td>			<td style="width:31.7%">			<p>Total(Graduate)</p>			</td>			<td style="width:15.44%">			<p>$49,598</p>			</td>			<td style="width:14.64%">			<p>$48,498</p>			</td>		</tr>	</tbody></table><p>*(9)</p><p><strong>联系方式</strong></p><p><strong>Office of University Admissions</strong></p><p>New Jersey Institute of Technology</p><p>Office of University Admissions</p><p>Fenster Hall, Room 100</p><p>University Heights</p><p>Newark, NJ 07102</p><p><strong>Phone: </strong>973-596-3300</p><p><strong>Fax: </strong>973-596-3461</p><p><strong>Email: </strong>admissions@njit.edu*(10)</p><p>外部链接：</p><p>研究申请指南：<a href="http://www.qianmu.org/redirect?code=2rNMmQnxLyQ82qMWLLLLLdWOBX8cLVIW0xnrnrKatQhzPq3zevvJn1z_hVgWK1wbUR-PF54VY-gBYHR3JhZF9JeS5FVp5Q9QVJPmIPyuvmhbqJU1DXxLU304l5" target="_blank">Graduate Application Instructions</a>(PDF)</p><p>推荐信表：<a href="http://www.qianmu.org/redirect?code=Gr-dDkOAwVJpb-escccccchk-IyvSFdfjqjqGoKkr1yfrEUqYmJO6V9vjD9Xwo_fwI6uE5hu-UzoE40tieE" target="_blank">Graduate Recommendation Form</a>(PDF)</p><p>建筑学补充申请表：<a href="http://www.qianmu.org/redirect?code=9rpcSXLPwYZ8xvvu444444KQ6mpP_xAMaWnWnHgh6TbPaTLNnRe50-KBXysruFZ9BI89i_Rrw_zrXmzfBmjHR" target="_blank">Architecture Supplemental Form</a>(PDF)</p><p>环境政策研究补充申请表：<a href="http://www.qianmu.org/redirect?code=qrTydPmskL3ojT9bvvvvvvMet4-X1Yd6NawGwGYEFxgQhRBQzbbDqJHr4m5iHhtzBJCa76W5HPRBHdXnvZbnHXsum7BIk7hxva" target="_blank">Environmental Policy Studies Supplemental Form</a>(PDF)</p><p>专业与技术传播补充申请表：<a href="http://www.qianmu.org/redirect?code=Nr20uK8ekvECxLyHSSSSSSfImrY_M6VqQ8Q8fcwIiyYqilYjmHZ6k8F-Vad-JTvo9T1bfazu1exuShq3Km4MPulRPynm" target="_blank">Professional &amp; Technical Communications Supplemental Form</a>(PDF)</p><p>国际学生资金证明表：<a href="http://www.qianmu.org/redirect?code=brEVbykXku1DPN5Ze12D4aCKIqMZ5e030ePICYs9UNW_OTR6nmlCqm_UPH3bDdEfcfAP-z5HZzKi3lkPGiOj9C6QKc2b3dU_jQ7of6mYoysjAoXSUm9rXaMScUI6DiCfTmRuGBoM1Yem-YimDr5u3FRzMwHuYmGz17ptaB_jrqvSh" target="_blank">International Student Financial Statement Form</a>(PDF)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=frh1ZEiLwolVBYcKeeeeeeZEnr-2UyfBOWcpcpq-8Lqxp_TxmbrMx4tR9A6IHLadmV7jvcMwKVkHbuxYu625ZwOers8JbGA" target="_blank">Colleges and Departments</a> NJIT</p><p>(2) <a href="http://www.qianmu.org/redirect?code=qrTydPt2wjNSr8rfYYYYYDkGEi7zKg_8rMrMPBsGeq78eX6Mx4tjHbFzlw6iqItYXIv0SrDbD1xbNRLMH-QbH1xrfKA9H1QnO-FSopUYHKU0V-FSoPoDl2A9pMA9oQA0t2MCap" target="_blank">Criteria and Checklists For Master&#39;s Programs</a> NJIT</p><p>(3) <a href="http://www.qianmu.org/redirect?code=wrYmhljjk78yswW8GGGGGY5Rqg1yVeKb9amamNv3q7sy9EK8QokF5whcMpv-SfMwUk8wHsyJh6y2hW8wo4H-h4y2T3MXt4y-RfHdbsLJ54vdot82TsD3zb5EQ9dlxhmu41" target="_blank">Criteria and Checklists For PhD Programs</a> NJIT</p><p>(4) <a href="http://www.qianmu.org/redirect?code=Rr0CBrktwQ4TaJ_N99999i9skcLmoIr-bWbWfRBsn0L-nGhWXkxHvZmK5z8KeSCBlSFnU2NmUTN9lSHoFzNoUTfYejXovZrHvZ6KeRrBlcfs5t" target="_blank">Dates &amp; Deadlines</a> NJIT</p><p>(5) <a href="http://www.qianmu.org/redirect?code=VrxbIdzHwSnOKi2U222222TDpAb5PTjHcsO1O1doSbTIxx4PsmhDpMazgl-LTDcPkY6-0wogcjonL6-UknReYSlqMfc8rta7wnNES7fp" target="_blank">Enrollment FactBook</a> NJIT</p><p>(6) <a href="http://www.qianmu.org/redirect?code=pr9ExTdLLK6SQaxV-OvqFF-BO-kGS3LSdsxcYYRYa5qQeiMUz-fwRKf1Woq6G6xYjVoqJgEXmSlB--y8H_gBGw_XUs7OSAa-OFBg8UywgUXm6hH0t0rfgJ_fghEEHzNVXOrmb116iiitigZgJ_fHhYEEUXyOMrG438Bv7eS0gN6_a" target="_blank">International Student Financial Statement Form</a> NJIT</p><p>(7) <a href="http://www.qianmu.org/redirect?code=pr9ExTHGkNYOnuAGffffffO71059d2IHd3FfFfjg1Rn4Fxc46AIJMSiHWZ_tsDiqCvWufL2dyYWR145z8QWkMUWwfSHwiSplDNhx07ATQQAOY" target="_blank">Graduate Admission FAQs-How do I apply for financial aid?</a> NJIT</p><p>(8) <a href="http://www.qianmu.org/redirect?code=Gr-dDkOuwN_n-g8jssssss5lnkvhL-JrAiAidHOlSIvrSw1ifRbXxf_c6XpqrfecxfY0-Evc-5UcyJI0eOr1Kz7o0k74hfLDVv-gdvZtKv6J3" target="_blank">Graduate Financial Support</a> NJIT</p><p>(9) <a href="http://www.njit.edu/financialaid/sites/financialaid/files/2017-2018%20Policies%20%26%20Procedures%20Guide.pdf" target="_blank">2016-2017 Cost of Attendance</a> NJIT</p><p>(10) <a href="http://www.qianmu.org/redirect?code=Nr20uKNwLMS38_jJ666666Y2L3YrbBXoG5G5sRj289Yo8gZ5t40DOpzrGCzPnRKonCXP730iG38iPrKd2cldsvG5SXUt2V" target="_blank">Contact Admissions</a> NJIT</p><h2>工程学院</h2><p>新泽西理工纽华克工程学院（Newark College of Engineering）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:26.42%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:55.82%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:17.76%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p>生物电子学</p>			</td>			<td style="width:55.82%">			<p>Bioelectronics</p>			</td>			<td style="width:17.76%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p>生物医学工程</p>			</td>			<td style="width:55.82%">			<p>Biomedical Engineering</p>			</td>			<td style="width:17.76%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p>生物制药工程</p>			</td>			<td style="width:55.82%">			<p>Biopharmaceutical Engineering</p>			</td>			<td style="width:17.76%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p>化学工程</p>			</td>			<td style="width:55.82%">			<p>Chemical Engineering</p>			</td>			<td style="width:17.76%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p>土木工程</p>			</td>			<td style="width:55.82%">			<p>Civil Engineering</p>			</td>			<td style="width:17.76%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p>计算机工程</p>			</td>			<td style="width:55.82%">			<p>Computer Engineering</p>			</td>			<td style="width:17.76%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p>基础设施系统</p>			</td>			<td style="width:55.82%">			<p>Critical Infrastructure Systems</p>			</td>			<td style="width:17.76%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p>电气工程</p>			</td>			<td style="width:55.82%">			<p>Electrical Engineering</p>			</td>			<td style="width:17.76%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p>工程管理</p>			</td>			<td style="width:55.82%">			<p>Engineering Management</p>			</td>			<td style="width:17.76%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p>工程科学</p>			</td>			<td style="width:55.82%">			<p>Engineering Science</p>			</td>			<td style="width:17.76%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p><a href="http://www.qianmu.org/环境工程" target="_blank">环境工程</a></p>			</td>			<td style="width:55.82%">			<p><a href="http://www.qianmu.org/环境工程" target="_blank">Environmental Engineering</a></p>			</td>			<td style="width:17.76%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p>医疗系统管理</p>			</td>			<td style="width:55.82%">			<p>Healthcare Systems Management</p>			</td>			<td style="width:17.76%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p>工业工程</p>			</td>			<td style="width:55.82%">			<p>Industrial Engineering</p>			</td>			<td style="width:17.76%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p>互联网工程</p>			</td>			<td style="width:55.82%">			<p>Internet Engineering</p>			</td>			<td style="width:17.76%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p>制造<a href="http://www.qianmu.org/系统工程" target="_blank">系统工程</a></p>			</td>			<td style="width:55.82%">			<p>Manufacturing <a href="http://www.qianmu.org/系统工程" target="_blank">Systems Engineering</a></p>			</td>			<td style="width:17.76%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p><a href="http://www.qianmu.org/材料科学与工程" target="_blank">材料科学与工程</a></p>			</td>			<td style="width:55.82%">			<p>Materials Science and Engineering</p>			</td>			<td style="width:17.76%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p>机械工程</p>			</td>			<td style="width:55.82%">			<p>Mechanical Engineering</p>			</td>			<td style="width:17.76%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p>职业安全与卫生工程</p>			</td>			<td style="width:55.82%">			<p>Occupational Safety and Health Engineering</p>			</td>			<td style="width:17.76%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p>制药工程</p>			</td>			<td style="width:55.82%">			<p>Pharmaceutical Engineering</p>			</td>			<td style="width:17.76%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p>医药系统管理</p>			</td>			<td style="width:55.82%">			<p>Pharmaceutical Systems Management</p>			</td>			<td style="width:17.76%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p>电力与能源系统</p>			</td>			<td style="width:55.82%">			<p>Power and Energy Systems</p>			</td>			<td style="width:17.76%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p><a href="http://www.qianmu.org/通讯工程" target="_blank">通信工程</a></p>			</td>			<td style="width:55.82%">			<p>Telecommunications</p>			</td>			<td style="width:17.76%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.42%">			<p><a href="http://www.qianmu.org/交通工程" target="_blank">交通工程</a></p>			</td>			<td style="width:55.82%">			<p>Transportation</p>			</td>			<td style="width:17.76%">			<p>MS、PhD</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=arBPkMlkkniNSQ8WVVVVVVJus4OgQPBpraUjm65qV29LDA9f3r6fCAjsV216YfELPAVaqxoLTxC6flELYzCmYzeUGFE8" target="_blank">Doctoral Degree Programs</a>&nbsp;NJIT</p><p>(2)&nbsp;<a href="http://www.qianmu.org/redirect?code=urKrNAmpwOBAjfkwEEEEEEOe_8ACbPs9kInokxnoSIceS759N7JeprnoS8R9k7gop1cikhcLSRfHMhSm-FCc-_CAMJ" target="_blank">Master&#39;s Degree Programs</a>&nbsp;NJIT</p><h2>计算学院</h2><p>新泽西理工计算科学学院（College of Computing Sciences）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:28.36%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:54.84%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:16.8%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:28.36%">			<p>生物信息学硕士</p>			</td>			<td style="width:54.84%">			<p>MS in Bioinformatics</p>			</td>			<td style="width:16.8%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:28.36%">			<p>商业与信息系统硕士</p>			</td>			<td style="width:54.84%">			<p>MS in&nbsp;Business and Information Systems</p>			</td>			<td style="width:16.8%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:28.36%">			<p>计算机科学硕士</p>			</td>			<td style="width:54.84%">			<p>MS in&nbsp;Computer Science</p>			</td>			<td style="width:16.8%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:28.36%">			<p>计算与商业硕士</p>			</td>			<td style="width:54.84%">			<p>MS in&nbsp;Computing and Business</p>			</td>			<td style="width:16.8%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:28.36%">			<p>网络安全与隐私硕士</p>			</td>			<td style="width:54.84%">			<p>MS in&nbsp;Cyber Security and Privacy</p>			</td>			<td style="width:16.8%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:28.36%">数据科学</td>			<td style="width:54.84%">MS in Data Science</td>			<td style="width:16.8%">MS</td>		</tr>		<tr>			<td style="width:28.36%">			<p>应急管理与商业连续性硕士</p>			</td>			<td style="width:54.84%">			<p>MS in&nbsp;Emergency Management &amp; Business Continuity</p>			</td>			<td style="width:16.8%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:28.36%">			<p>信息系统硕士</p>			</td>			<td style="width:54.84%">			<p>MS in&nbsp;Information Systems</p>			</td>			<td style="width:16.8%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:28.36%">			<p>IT管理与安全硕士</p>			</td>			<td style="width:54.84%">			<p>MS in&nbsp;IT Administration and Security</p>			</td>			<td style="width:16.8%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:28.36%">			<p>软件工程硕士</p>			</td>			<td style="width:54.84%">			<p>MS in&nbsp;Software Engineering</p>			</td>			<td style="width:16.8%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:28.36%">计算机科学博士</td>			<td style="width:54.84%">PhD in Computer Science</td>			<td style="width:16.8%">PhD</td>		</tr>		<tr>			<td style="width:28.36%">信息系统博士</td>			<td style="width:54.84%">PhD in Information System</td>			<td style="width:16.8%">PhD</td>		</tr>	</tbody></table><p>*(1)(2)</p><p><strong>专业方向</strong></p><p>计算机科学硕士（MS in Computer Science）开设有以下几个专业方向：</p><ul>	<li>计算机网络与安全（Computer Networking &amp; Security）</li>	<li>图像处理与模式识别（Image Processing &amp; Pattern Recognition）</li>	<li>计算机算法（Computer Algorithms）</li>	<li>数据库与数据挖掘（Database &amp; Data Mining）</li>	<li>生物信息学（Bioinformatics）</li>	<li>软件工程（Software Engineering）*(1)</li></ul><p>信息系统硕士（MS in&nbsp;Information Systems）开设有以下几个专业方向：</p><ul>	<li>系统分析与软件工程（Systems analysis and software engineering）</li>	<li>信息与通信技术（Information and communication technologies）</li>	<li>信息系统管理（Management of information systems）*(1)</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=frh1ZE-gkKhq9VYXCCCCCCSqg1yVeKb9TdYVNvrHEI615IoJQ3vrxgwmzIvezIdRzFvezIdJQKd1b3ZmEap" target="_blank">Graduate Programs</a> NJIT</p><p>(2)&nbsp;<a href="http://www.qianmu.org/redirect?code=8rL6TCPxLyQ8252YQGHZpqS1CUqA7RuqZ60j9go5-W0djqiUrwSmETfO9v-ccGjfU2ZaZOmYomrg-v_GkoD2RrIjJA0nhghalR" target="_blank">Doctoral Degrees</a>&nbsp;NJIT</p><h2>建筑设计学院</h2><p>新泽西理工建筑设计学院（College of Architecture and Design）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:28.36%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:54.84%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:16.8%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:28.36%">			<p>建筑学硕士</p>			</td>			<td style="width:54.84%">			<p>Master of&nbsp;Architecture</p>			</td>			<td style="width:16.8%">			<p>M.Arch</p>			</td>		</tr>		<tr>			<td style="width:28.36%">建筑学理学硕士</td>			<td style="width:54.84%">MS in&nbsp;Architecture</td>			<td style="width:16.8%">MS</td>		</tr>		<tr>			<td style="width:28.36%">			<p>基础设施规划硕士</p>			</td>			<td style="width:54.84%">			<p>Master of&nbsp;Infrastructure Planning</p>			</td>			<td style="width:16.8%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:28.36%">			<p>城市系统博士</p>			</td>			<td style="width:54.84%">			<p>Ph.D. in Urban Systems</p>			</td>			<td style="width:16.8%">			<p>PhD</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=yrZqibD4kMv2w_r-pppppp83GxzVU9tI3duzbUub5pM7UpLgWl0POsKimzpnHVv3NtgSwENztPuZqjjqxujEAuXuFmD9ptiTBsZn9KiL" target="_blank">Graduate Degree Programs</a> NJIT</p><h2>商学院</h2><p>新泽西理工商学院（School of Management）研究生开设有以下学位项目，分别是：</p><p>管理硕士（MS in Management，缩写MSM），分以下三个专业方向：</p><ul>	<li>商业分析（Business&nbsp;Analytics）</li>	<li>全球项目管理（Global Project Management）</li>	<li>网络系统与媒体（Web Systems and Media）*(1)</li></ul><p>工商管理硕士（MBA），分以下几个专业方向：</p><ul>	<li>金融（Finance）</li>	<li>医疗管理（Healthcare Management）</li>	<li>创新与创业（Innovation and Entrepreneurship）</li>	<li>市场营销（Marketing）</li>	<li>管理信息系统（MIS）</li>	<li>自定义方向（Custom Concentration）*(1)</li></ul><p>商业数据科学博士（PhD in Business Data Science）：已申请到TA、RA的PhD学生不可转到商学院硕士项目</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=QrzUA2QIw0DYWlT5310AxQ1ALAbRBKYOALKTlmVvOo4TaCLEnhgWhnd9i41Nup7wV6H1u2ULimEIfmBBlausSByRIUWxRhBiqtHSN" target="_blank">SOM Graduate Degree Programs</a> NJIT</p><h2>文理学院</h2><p>新泽西理工文理学院（College of Science and Liberal Arts）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:27.18%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:60.38%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:12.44%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:27.18%">			<p>应用数学</p>			</td>			<td style="width:60.38%">			<p>Applied Math</p>			</td>			<td style="width:12.44%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:27.18%">			<p>应用物理</p>			</td>			<td style="width:60.38%">			<p>Applied Physics</p>			</td>			<td style="width:12.44%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:27.18%">			<p>应用<a href="http://www.qianmu.org/统计学" target="_blank">统计学</a></p>			</td>			<td style="width:60.38%">			<p>Applied Statistics</p>			</td>			<td style="width:12.44%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:27.18%">			<p>生物学</p>			</td>			<td style="width:60.38%">			<p>Biology</p>			</td>			<td style="width:12.44%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:27.18%">			<p><a href="http://www.qianmu.org/生物信息学" target="_blank">生物统计学</a></p>			</td>			<td style="width:60.38%">			<p>Biostatistics</p>			</td>			<td style="width:12.44%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:27.18%">			<p>化学</p>			</td>			<td style="width:60.38%">			<p>Chemistry</p>			</td>			<td style="width:12.44%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:27.18%">			<p><a href="http://www.qianmu.org/生物信息学" target="_blank">计算生物学</a></p>			</td>			<td style="width:60.38%">			<p>Computational Biology</p>			</td>			<td style="width:12.44%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:27.18%">			<p>环境与可持续发展政策</p>			</td>			<td style="width:60.38%">			<p>Environmental and Sustainability Policy</p>			</td>			<td style="width:12.44%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:27.18%">			<p>环境科学</p>			</td>			<td style="width:60.38%">			<p>Environmental Science</p>			</td>			<td style="width:12.44%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:27.18%">			<p>历史</p>			</td>			<td style="width:60.38%">			<p>History</p>			</td>			<td style="width:12.44%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:27.18%">材料科学与工程</td>			<td style="width:60.38%">Materials Science and Engineering</td>			<td style="width:12.44%">PhD</td>		</tr>		<tr>			<td style="width:27.18%">			<p>数学与<a href="http://www.qianmu.org/金融工程" target="_blank">计算金融</a></p>			</td>			<td style="width:60.38%">			<p>Mathematical &amp; Computational Finance</p>			</td>			<td style="width:12.44%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:27.18%">			<p>数学科学</p>			</td>			<td style="width:60.38%">			<p>Mathematical Sciences</p>			</td>			<td style="width:12.44%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:27.18%">			<p>药物化学</p>			</td>			<td style="width:60.38%">			<p>Pharmaceutical Chemistry</p>			</td>			<td style="width:12.44%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:27.18%">			<p>物理</p>			</td>			<td style="width:60.38%">			<p>Physics</p>			</td>			<td style="width:12.44%">			<p>MS、PhD</p>			</td>		</tr>		<tr>			<td style="width:27.18%">			<p>专业与技术传播</p>			</td>			<td style="width:60.38%">			<p>Professional and Technical Communication</p>			</td>			<td style="width:12.44%">			<p>MS</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=ArAjQun3wwGN94aBSwxLQah3C1WIjQ3hTMZt2mCQzm849Nn9Z1oD60HkMpOtgKykDbjObKxJ46JvfWIiQm8HEFkxaIbKFkBxWwCfC" target="_blank">Graduate Degree Programs</a> NJIT</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2020-09-18</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1625;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1625' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1625;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

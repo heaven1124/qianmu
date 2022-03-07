@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>英属哥伦比亚大学-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="英属哥伦比亚大学" />
+<meta name="description"  id="description"  content="英属哥伦比亚大学:英属哥伦比亚大学（University of British Columbia，缩写UBC）是一所大型公立综合性全国大学，成立于1908年，位于加拿大西部大型城市温哥华，提供本科、硕士、博士、职业文凭、文凭课程五种学位类型。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">英属哥伦比亚大学 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>排名</p>			</td>			<td>			<p>3</p>			</td>		</tr>		<tr>			<td>			<p>国家</p>			</td>			<td>			<p>加拿大</p>			</td>		</tr>		<tr>			<td>			<p>州省</p>			</td>			<td>			<p>英属<a href="http://www.qianmu.org/哥伦比亚（南卡罗来纳州）" target="_blank">哥伦比亚</a></p>			</td>		</tr>		<tr>			<td>			<p>城市</p>			</td>			<td>			<p><a href="http://www.qianmu.org/温哥华" target="_blank">温哥华</a></p>			</td>		</tr>		<tr>			<td>			<p>性质</p>			</td>			<td>			<p>公立，男女合校</p>			</td>		</tr>		<tr>			<td>			<p>成立年份</p>			</td>			<td>			<p>1908年</p>			</td>		</tr>		<tr>			<td>			<p>宗教信仰</p>			</td>			<td>			<p>无</p>			</td>		</tr>		<tr>			<td>			<p>学生人数</p>			</td>			<td>			<p>48,768</p>			</td>		</tr>		<tr>			<td>			<p>学校分类</p>			</td>			<td>			<p>医博类大学</p>			</td>		</tr>		<tr>			<td>			<p>网址</p>			</td>			<td>			<p>www.ubc.ca</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>英属哥伦比亚大学（University of British Columbia，缩写UBC）是一所大型公立综合性全国大学，成立于1908年，位于加拿大西部大型城市<a href='http://www.qianmu.org/温哥华' target='_blank'>温哥华</a>，提供本科、硕士、博士、职业文凭、文凭课程五种学位类型。</p><p>英属哥伦比亚大学总共有两个主要校区，主校区位于温哥华市，为卑斯省最古老的大学，起初为研究性合作机构，后来逐渐发展为闻名国际的综合大学；另外位于基隆拿市的校区在2005年成立，取代原奥卡纳干大学学院。</p><p><strong>校训：</strong>Tuum est，中译：这是你的</p><h2>申请点评</h2><p>（1）Macleans排名第3，常年与<a href='http://www.qianmu.org/多伦多大学' target='_blank'>多伦多大学</a>、<a href='http://www.qianmu.org/麦吉尔大学' target='_blank'>麦吉尔大学</a>共同角逐加拿大前三的位置；</p><p>（2）<a href='http://www.qianmu.org/QS世界大学排名' target='_blank'>QS世界大学排名</a>世界第45位，加拿大国内第三；THE排名世界第30位，加拿大国内第二；</p><p>（3）THE六个专业领域均进入世界前50名，为加拿大仅有的一所六个专业领域均进入世界前50的大学</p><p>&nbsp;</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>麦考林排名</p>			</td>			<td style="width:62px">			<p>3</p>			</td>			<td style="width:91px">			<p>学费（/年）</p>			</td>			<td>			<p>$26,391</p>			</td>			<td>			<p>申请截止日期</p>			</td>			<td>			<p>1月15日</p>			</td>		</tr>		<tr>			<td>			<p><a href='http://www.qianmu.org/TOEFL' target='_blank'>TOEFL</a>要求</p>			</td>			<td style="width:62px">			<p>90</p>			</td>			<td style="width:91px">			<p>食宿（/年）</p>			</td>			<td>			<p>$6,000</p>			</td>			<td>			<p>开学时间</p>			</td>			<td>			<p>每年8-9月</p>			</td>		</tr>		<tr>			<td>			<p><a href='http://www.qianmu.org/IELTS' target='_blank'>IELTS</a>要求</p>			</td>			<td style="width:62px">			<p>6.5</p>			</td>			<td style="width:91px">			<p>申请费</p>			</td>			<td>			<p>$100</p>			</td>			<td>			<p>国际学生比例</p>			</td>			<td>			<p>-</p>			</td>		</tr>		<tr>			<td>			<p><a href='http://www.qianmu.org/SAT' target='_blank'>SAT</a>均分</p>			</td>			<td style="width:62px">			<p>-</p>			</td>			<td style="width:91px">			<p>申请人数</p>			</td>			<td>			<p>29,086</p>			</td>			<td>			<p>可申请学期</p>			</td>			<td>			<p>冬季、夏季</p>			</td>		</tr>		<tr>			<td>			<p>高中平均分要求</p>			</td>			<td style="width:62px">			<p>84分以上</p>			</td>			<td style="width:91px">			<p>录取率</p>			</td>			<td>			<p>46.5%</p>			</td>			<td>			<p>是否提供<a href='http://www.qianmu.org/双录取' target='_blank'>双录取</a></p>			</td>			<td>			<p>Yes</p>			</td>		</tr>	</tbody></table><p>注：</p><p>（1）TOEFL单项阅读与听力要求不低于22分，口语与写作要求不低于21分；IELTS单项要求不低于6.0；<a href='http://www.qianmu.org/MELAB' target='_blank'>MELAB</a>要求85分以上，无单项要求；<a href='http://www.qianmu.org/PTE' target='_blank'>PTE</a>要求65分以上，单项不低于60分</p><p>（2）<a href='http://www.qianmu.org/IB' target='_blank'>IB</a>课程要求至少24分以上，专业不同，分数要求不同</p><p>（3） UBC开设的ESL<a href='http://www.qianmu.org/语言课程' target='_blank'>语言课程</a>名为Intensive English Program，简称IEP，从Level10-Level700分作7个层级，Level700最高；获UBC<a href='http://www.qianmu.org/条件录取' target='_blank'>条件录取</a>Offer的学生，完成IEP Level600课程，可直接升读UBC本科</p><p>（4）UBC对每个学期的称呼与加拿大其他学校不同，其冬季学期等同其他大学的春季学期，夏季学期等同其他大学的春季学期；冬季和夏季学期申请截止日期均为1月15日</p><h2>教学质量</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>本科生人数：</p>			</td>			<td>			<p>38,388</p>			</td>			<td>			<p>国际学生比例：</p>			</td>			<td style="width:68px">			<p>-</p>			</td>			<td style="width:133px">			<p><a href='http://www.qianmu.org/学期制度' target='_blank'>学期制度</a></p>			</td>			<td style="width:70px">			<p>Semester</p>			</td>		</tr>		<tr>			<td>			<p>研究生人数：</p>			</td>			<td>			<p>10,380</p>			</td>			<td>			<p>校园安全度</p>			</td>			<td style="width:68px">			<p>-</p>			</td>			<td style="width:133px">			<p>教授水平满意度</p>			</td>			<td style="width:70px">			<p>86%</p>			</td>		</tr>		<tr>			<td>			<p>师生比：</p>			</td>			<td>			<p>1:13</p>			</td>			<td>			<p>新生保持率</p>			</td>			<td style="width:68px">			<p>79%</p>			</td>			<td style="width:133px">			<p>教授博士学位比率</p>			</td>			<td style="width:70px">			<p>99%</p>			</td>		</tr>	</tbody></table><h2>申请说明</h2><p>英属哥伦比亚大学通过学校官位在线申请，必需的<a href='http://www.qianmu.org/申请材料' target='_blank'>申请材料</a>包括：</p><p>（1）UBC国际学生申请表；</p><p>（2）托福/雅思；</p><p>（3）IB、SAT与<a href='http://www.qianmu.org/ACT' target='_blank'>ACT</a>；</p><p>（4）<a href='http://www.qianmu.org/推荐信' target='_blank'>推荐信</a>、<a href='http://www.qianmu.org/Essay' target='_blank'>Essay</a>；</p><p>（5）高中<a href='http://www.qianmu.org/在读证明' target='_blank'>在读证明</a>或高中毕业证；</p><p>（6）高中<a href='http://www.qianmu.org/成绩单' target='_blank'>成绩单</a>，需<a href='http://www.qianmu.org/翻译' target='_blank'>翻译</a>，建议公证；</p><p>（7）<a href='http://www.qianmu.org/资金证明' target='_blank'>资金证明</a></p><p>注：英属哥伦比亚大学无需<a href='http://www.qianmu.org/面试' target='_blank'>面试</a></p><p><strong>费用与奖学金</strong></p><p>英属哥伦比亚大学2013-2014学年学费平均约26,391加元，按专业不同分布在22000-27000之间，工程与科学专业偏高，人文与艺术专业偏低。一年食宿约6,000加元，医疗保险费450加元，外加其它生活费等，国内学生约需担保金22万人民币。</p><p>注：英属哥伦比亚大学学费依专业不同而不同，如农业与<a href='http://www.qianmu.org/环境科学' target='_blank'>环境科学</a>一年学费仅16350加元，人文科学仅15500加元，自然科学与工程学则要求30654加元</p><p><strong>奖学金列表：</strong></p><p>（1）International <a href='http://www.qianmu.org/专业列表' target='_blank'>Major</a> Entrance Scholarship，金额7000加元/年，连续4年发放，共28000加元，无需额外申请，随Offer自动发放；</p><p>（2）International Leader of Tomorrow Award，需单独申请，需家庭财产证明。仅限成绩优秀，家庭资金确实困难的学生，（如无<a href='http://www.qianmu.org/奖学金' target='_blank'>奖学金</a>支持，将无法来UBC学习的学生）。金额不详；</p><p>（3）Donald Wehrung International Student Award (DWISA)，需单独申请，金额不详；</p><p>（4）Outstanding International Student Award；金额2500-6000加元不等，仅第一次入学时有，无需额外申请，自动随Offer发放</p><p>注：第2项和第3项奖学金的申请截止日期均为1月31日，并且只针对持非Conditional Offer的学生</p><h2>转学申请</h2><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:93px">			<p>TOEFL要求</p>			</td>			<td style="width:75px">			<p>90</p>			</td>			<td style="width:104px">			<p><a href='http://www.qianmu.org/GPA' target='_blank'>GPA</a>要求</p>			</td>			<td style="width:114px">			<p>2.0以上</p>			</td>			<td style="width:114px">			<p>申请截止日期</p>			</td>			<td style="width:75px">			<p>1月31日</p>			</td>		</tr>		<tr>			<td style="width:93px">			<p>IELTS要求</p>			</td>			<td style="width:75px">			<p>6.5</p>			</td>			<td style="width:104px">			<p>最低转学学分</p>			</td>			<td style="width:114px">			<p>24</p>			</td>			<td style="width:114px">			<p>最高转学学分</p>			</td>			<td style="width:75px">			<p>60</p>			</td>		</tr>		<tr>			<td style="width:93px">			<p>申请人数</p>			</td>			<td style="width:75px">			<p>6,512</p>			</td>			<td style="width:104px">			<p>录取人数</p>			</td>			<td style="width:114px">			<p>2,536</p>			</td>			<td style="width:114px">			<p>录取率</p>			</td>			<td style="width:75px">			<p>38.9%</p>			</td>		</tr>	</tbody></table><p>注：英属哥伦比亚大学转学要求本科GPA不得低于3.0，单门课程要求2.0以上方可转学分。</p><p><strong>申请说明</strong></p><p>英属哥伦比亚大学要求至少修读24个学分以上方可转学分，一般读完大一即可达到此要求。冬季和夏季学期皆可申请转学，可入读大二、大三其中的任何一个学期。</p><h2>专业设置</h2><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:403px">人类学</td>			<td style="width:73px">Anthropology</td>		</tr>		<tr>			<td>应用动物生物学</td>			<td>Applied Animal Biology</td>		</tr>		<tr>			<td>应用植物和土壤科学</td>			<td>Applied Plant and Soil Sciences</td>		</tr>		<tr>			<td>考古学</td>			<td>Archaeology (concentration)</td>		</tr>		<tr>			<td>建筑学</td>			<td>Architecture</td>		</tr>		<tr>			<td>艺术史</td>			<td>Art History</td>		</tr>		<tr>			<td>艺术史和视觉文化</td>			<td>Art History and Visual Culture</td>		</tr>		<tr>			<td>亚洲区域学习</td>			<td>Asian Area Studies</td>		</tr>		<tr>			<td>亚洲语言与文化</td>			<td>Asian Language and Culture</td>		</tr>		<tr>			<td>天文学</td>			<td>Astronomy</td>		</tr>		<tr>			<td>大气科学</td>			<td>Atmospheric Science</td>		</tr>		<tr>			<td>管理学本硕连读</td>			<td>Bachelor + Master of Management Dual Degree</td>		</tr>		<tr>			<td>行为神经科学</td>			<td>Behavioural Neuroscience</td>		</tr>		<tr>			<td>生物化学</td>			<td>Biochemistry</td>		</tr>		<tr>			<td>生物化学与分子生物学</td>			<td>Biochemistry and Molecular Biology</td>		</tr>		<tr>			<td>生物</td>			<td>Biology</td>		</tr>		<tr>			<td>生物物理学</td>			<td>Biophysics</td>		</tr>		<tr>			<td>生物技术</td>			<td>Biotechnology</td>		</tr>		<tr>			<td>商业与计算机科学联合专业</td>			<td>Business and Computer Science Combined Major</td>		</tr>		<tr>			<td>加拿大研究</td>			<td>Canadian Studies</td>		</tr>		<tr>			<td>细胞，解剖学和生理学科学</td>			<td>Cellular, Anatomical, and Physiological Sciences</td>		</tr>		<tr>			<td>化学工程</td>			<td>Chemical Engineering</td>		</tr>		<tr>			<td>化学与生物工程</td>			<td>Chemical and Biological Engineering</td>		</tr>		<tr>			<td>化学</td>			<td>Chemistry</td>		</tr>		<tr>			<td>土木工程</td>			<td>Civil Engineering</td>		</tr>		<tr>			<td>古典，近东和宗教研究</td>			<td>Classical, Near Eastern, and Religious Studies</td>		</tr>		<tr>			<td>认知系统</td>			<td>Cognitive Systems (BA)</td>		</tr>		<tr>			<td>认知系统</td>			<td>Cognitive Systems (BSc)</td>		</tr>		<tr>			<td>贸易</td>			<td>Commerce</td>		</tr>		<tr>			<td>计算机工程</td>			<td>Computer Engineering</td>		</tr>		<tr>			<td>计算机科学</td>			<td>Computer Science (BA)</td>		</tr>		<tr>			<td>计算机科学</td>			<td>Computer Science (BSc)</td>		</tr>		<tr>			<td>创造性写作</td>			<td>Creative Writing</td>		</tr>		<tr>			<td>文化研究</td>			<td>Cultural Studies</td>		</tr>		<tr>			<td>数据科学</td>			<td>Data Science</td>		</tr>		<tr>			<td>口腔卫生学</td>			<td>Dental Hygiene</td>		</tr>		<tr>			<td>牙科学</td>			<td>Dentistry</td>		</tr>		<tr>			<td>饮食学</td>			<td>Dietetics</td>		</tr>		<tr>			<td>地球与环境科学</td>			<td>Earth and Environmental Sciences</td>		</tr>		<tr>			<td>地球和海洋研究</td>			<td>Earth and Ocean Sciences</td>		</tr>		<tr>			<td>生态与进化生物学</td>			<td>Ecology and Evolutionary Biology</td>		</tr>		<tr>			<td>经济学</td>			<td><a>Economics</a></td>		</tr>		<tr>			<td>经济学</td>			<td>Economics (BA)</td>		</tr>		<tr>			<td>经济学</td>			<td>Economics (BSc)</td>		</tr>		<tr>			<td>教育学&nbsp; 初中</td>			<td>Education - Middle Years</td>		</tr>		<tr>			<td>教育学&nbsp; 小学</td>			<td>Education &ndash; Elementary</td>		</tr>		<tr>			<td>教育学&nbsp; 国际学士学位</td>			<td>Education &ndash; International Baccalaureate</td>		</tr>		<tr>			<td>教育学&nbsp; NITEP（本土教师教育项目）</td>			<td>Education &ndash; NITEP (Indigenous Teacher Education Program)</td>		</tr>		<tr>			<td>教育学&nbsp; 高中</td>			<td>Education &ndash; Secondary</td>		</tr>		<tr>			<td>教育学WKTEP（West Kootenay Rural教师教育项目）</td>			<td>Education &ndash; WKTEP (West Kootenay Rural Teacher Education Program)</td>		</tr>		<tr>			<td>教育学&nbsp; 青少年教育</td>			<td>Education &ndash; Teaching Adolescents</td>		</tr>		<tr>			<td>教育学&nbsp; 儿童教育</td>			<td>Education &ndash; Teaching Children</td>		</tr>		<tr>			<td>电气工程</td>			<td>Electrical Engineering</td>		</tr>		<tr>			<td>工程物理学</td>			<td>Engineering Physics</td>		</tr>		<tr>			<td>英语</td>			<td>English</td>		</tr>		<tr>			<td>环境化学</td>			<td>Environmental Chemistry</td>		</tr>		<tr>			<td>环境设计</td>			<td>Environmental Design</td>		</tr>		<tr>			<td>环境工程</td>			<td>Environmental Engineering</td>		</tr>		<tr>			<td>环境科学</td>			<td>Environmental Sciences</td>		</tr>		<tr>			<td>电影制作</td>			<td>Film Production</td>		</tr>		<tr>			<td>电影研究</td>			<td>Film Studies</td>		</tr>		<tr>			<td>第一国家与濒危语言</td>			<td>First Nations and Endangered Languages</td>		</tr>		<tr>			<td>第一国家与本土研究</td>			<td>First Nations and Indigenous Studies</td>		</tr>		<tr>			<td>食品市场分析</td>			<td>Food Market Analysis</td>		</tr>		<tr>			<td>食品科学</td>			<td>Food Science</td>		</tr>		<tr>			<td>食品与营养科学</td>			<td>Food and Nutritional Sciences</td>		</tr>		<tr>			<td>食品与环境学</td>			<td>Food and the Environment</td>		</tr>		<tr>			<td>食品，营养与健康学</td>			<td>Food, Nutrition, and Health</td>		</tr>		<tr>			<td>林业科学</td>			<td>Forest Sciences</td>		</tr>		<tr>			<td>林业</td>			<td>Forestry</td>		</tr>		<tr>			<td>法语</td>			<td>French</td>		</tr>		<tr>			<td>法语与西班牙语</td>			<td>French and Spanish</td>		</tr>		<tr>			<td>淡水科学</td>			<td>Freshwater Science</td>		</tr>		<tr>			<td>性别与妇女研究</td>			<td>Gender and Women&#39;s Studies</td>		</tr>		<tr>			<td>性别，种族，性取向与社会正义</td>			<td>Gender, Race, Sexuality, and Social Justice</td>		</tr>		<tr>			<td>普通科学</td>			<td>General Science</td>		</tr>		<tr>			<td>通识教育</td>			<td>General Studies</td>		</tr>		<tr>			<td>地理科学</td>			<td>Geographical Sciences</td>		</tr>		<tr>			<td>地理</td>			<td>Geography</td>		</tr>		<tr>			<td>地理&nbsp; 环境和可持续性</td>			<td>Geography &ndash; Environment and Sustainability</td>		</tr>		<tr>			<td>地理&nbsp; 人文地理</td>			<td>Geography &ndash; Human Geography</td>		</tr>		<tr>			<td>地质工程</td>			<td>Geological Engineering</td>		</tr>		<tr>			<td>地质学</td>			<td>Geology</td>		</tr>		<tr>			<td>地球物理学</td>			<td>Geophysics</td>		</tr>		<tr>			<td>德语</td>			<td>German</td>		</tr>		<tr>			<td>全球资源系统</td>			<td>Global Resource Systems</td>		</tr>		<tr>			<td>历史</td>			<td>History</td>		</tr>		<tr>			<td>人体动力学&nbsp; 临床运动生理学</td>			<td>Human Kinetics &ndash; Clinical Exercise Physiology</td>		</tr>		<tr>			<td>人体动力学&nbsp; 健康促进</td>			<td>Human Kinetics &ndash; Health Promotion</td>		</tr>		<tr>			<td>本土研究</td>			<td>Indigenous Studies</td>		</tr>		<tr>			<td>集成计算机科学</td>			<td>Integrated Computer Science</td>		</tr>		<tr>			<td>集成工程</td>			<td>Integrated Engineering</td>		</tr>		<tr>			<td>集成科学</td>			<td>Integrated Sciences</td>		</tr>		<tr>			<td>多学科研究</td>			<td>Interdisciplinary Studies</td>		</tr>		<tr>			<td>国际商业</td>			<td>International Business</td>		</tr>		<tr>			<td>国际经济</td>			<td>International Economics</td>		</tr>		<tr>			<td>国际关系</td>			<td>International Relations</td>		</tr>		<tr>			<td>新闻业</td>			<td>Journalism</td>		</tr>		<tr>			<td>人体运动学&nbsp; 多学科研究</td>			<td>Kinesiology &ndash; Interdisciplinary Studies</td>		</tr>		<tr>			<td>人体运动学&nbsp; 人体动力学与健康科学</td>			<td>Kinesiology &ndash; Kinesiology and Health Science</td>		</tr>		<tr>			<td>人体运动学&nbsp; 体力活动，运动与健康的领导力教育</td>			<td>Kinesiology &ndash;Leadership Education for Physical Activity, Sport, and Health</td>		</tr>		<tr>			<td>拉丁美洲研究</td>			<td>Latin American Studies</td>		</tr>		<tr>			<td>法学</td>			<td>Law</td>		</tr>		<tr>			<td>语言学</td>			<td>Linguistics</td>		</tr>		<tr>			<td>管理学</td>			<td>Management</td>		</tr>		<tr>			<td>材料工程</td>			<td>Materials Engineering</td>		</tr>		<tr>			<td>数学科学</td>			<td>Mathematical Sciences</td>		</tr>		<tr>			<td>数学</td>			<td>Mathematics (BA)</td>		</tr>		<tr>			<td>数学</td>			<td>Mathematics (BSc)</td>		</tr>		<tr>			<td>数学与经济学</td>			<td>Mathematics and Economics</td>		</tr>		<tr>			<td>机械工程</td>			<td>Mechanical Engineering</td>		</tr>		<tr>			<td>媒体研究</td>			<td>Media Studies</td>		</tr>		<tr>			<td>医学实验室</td>			<td>Medical Laboratory Science</td>		</tr>		<tr>			<td>医学（南方医学项目）</td>			<td>Medicine (Southern Medical Program)</td>		</tr>		<tr>			<td>医学（Vancouver-Fraser医学项目）</td>			<td>Medicine (Vancouver-Fraser Medical Program)</td>		</tr>		<tr>			<td>中世纪研究</td>			<td>Medieval Studies</td>		</tr>		<tr>			<td>微生物学</td>			<td>Microbiology</td>		</tr>		<tr>			<td>微生物学与免疫学</td>			<td>Microbiology and Immunology</td>		</tr>		<tr>			<td>产科学</td>			<td>Midwifery</td>		</tr>		<tr>			<td>采矿工程</td>			<td>Mining Engineering</td>		</tr>		<tr>			<td>现代欧洲研究</td>			<td>Modern European Studies</td>		</tr>		<tr>			<td>博物馆研究</td>			<td>Museum Studies (concentration)</td>		</tr>		<tr>			<td>音乐</td>			<td>Music</td>		</tr>		<tr>			<td>音乐&nbsp; 高级表演</td>			<td>Music &ndash; Advanced Performance</td>		</tr>		<tr>			<td>音乐&nbsp; 作曲</td>			<td>Music &ndash; Composition</td>		</tr>		<tr>			<td>音乐&nbsp; 一般研究</td>			<td>Music &ndash; General Studies</td>		</tr>		<tr>			<td>音乐&nbsp; 学术</td>			<td>Music &ndash; Scholarship</td>		</tr>		<tr>			<td>自然资源保护</td>			<td>Natural Resources Conservation</td>		</tr>		<tr>			<td>护理学</td>			<td>Nursing</td>		</tr>		<tr>			<td>营养科学</td>			<td>Nutritional Sciences</td>		</tr>		<tr>			<td>作业疗法</td>			<td>Occupational Therapy</td>		</tr>		<tr>			<td>海洋学</td>			<td>Oceanography</td>		</tr>		<tr>			<td>药物学</td>			<td>Pharmacology</td>		</tr>		<tr>			<td>药剂学</td>			<td>Pharmacy</td>		</tr>		<tr>			<td>哲学</td>			<td>Philosophy</td>		</tr>		<tr>			<td>哲学，政治与经济</td>			<td><a>Philosophy, Politics, and Economics</a></td>		</tr>		<tr>			<td>理疗学</td>			<td>Physical Therapy</td>		</tr>		<tr>			<td>物理</td>			<td>Physics</td>		</tr>		<tr>			<td>政治学</td>			<td>Political Science</td>		</tr>		<tr>			<td>心理学</td>			<td>Psychology</td>		</tr>		<tr>			<td>心理学</td>			<td>Psychology (BA)</td>		</tr>		<tr>			<td>心理学</td>			<td>Psychology(BSc)</td>		</tr>		<tr>			<td>康复科学</td>			<td>Rehabilitation Science</td>		</tr>		<tr>			<td>宗教，文学与艺术</td>			<td>Religion, Literature, and the Arts</td>		</tr>		<tr>			<td>罗曼语研究</td>			<td>Romance Studies</td>		</tr>		<tr>			<td>科学结合专业</td>			<td>Science Combined Major</td>		</tr>		<tr>			<td>社会工作</td>			<td>Social Work</td>		</tr>		<tr>			<td>社会学</td>			<td>Sociology</td>		</tr>		<tr>			<td>西班牙语</td>			<td>Spanish</td>		</tr>		<tr>			<td>西班牙语（西班牙裔研究）</td>			<td>Spanish (Hispanic Studies)</td>		</tr>		<tr>			<td>言语学</td>			<td>Speech Sciences</td>		</tr>		<tr>			<td>统计学</td>			<td>Statistics</td>		</tr>		<tr>			<td>统计结合专业</td>			<td>Statistics Combined Majors</td>		</tr>		<tr>			<td>戏剧</td>			<td>Theatre</td>		</tr>		<tr>			<td>戏剧：演绎</td>			<td>Theatre: Acting</td>		</tr>		<tr>			<td>戏剧：设计与制作</td>			<td>Theatre: Design and Production</td>		</tr>		<tr>			<td>美国研究</td>			<td>United States Studies</td>		</tr>		<tr>			<td>城市林业</td>			<td>Urban Forestry</td>		</tr>		<tr>			<td>城市研究</td>			<td>Urban Studies</td>		</tr>		<tr>			<td>Vantage One：应用科学</td>			<td>Vantage One: Applied Science</td>		</tr>		<tr>			<td>Vantage One ：文科</td>			<td>Vantage One: Arts</td>		</tr>		<tr>			<td>Vantage One：管理学&nbsp;</td>			<td>Vantage One: Management</td>		</tr>		<tr>			<td>Vantage One ：科学</td>			<td>Vantage One: Science</td>		</tr>		<tr>			<td>视觉艺术</td>			<td>Visual Art (BA)</td>		</tr>		<tr>			<td>视觉艺术</td>			<td>Visual Art (BFA)</td>		</tr>		<tr>			<td>视觉艺术</td>			<td>Visual Arts (BFA)</td>		</tr>		<tr>			<td>木制品加工</td>			<td>Wood Products Processing</td>		</tr>		<tr>			<td>动物学</td>			<td>Zoology</td>		</tr>	</tbody></table><p>参考资料：</p><p>本文数据主要采自英属哥伦比亚大学官网和College Board</p><p>&nbsp;</p><h1>研究生申请</h1><h2>应用科学院</h2><p>英属哥伦比亚大学应用科学院（Faculty of Applied Science）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:336px">先进材料制造领导力工程硕士（MEL）</td>			<td style="width:619px">Master of Engineering Leadership in Advanced Materials Manufacturing (MEL)</td>			<td style="width:195px">Faculty of Applied Science</td>		</tr>		<tr>			<td>建筑学硕士（MARCH）</td>			<td>Master of Architecture (MARCH)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>建筑学高级研究硕士（MASA）</td>			<td>Master of Advanced Studies in Architecture (MASA)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>建筑学硕士与园林建筑学硕士（MARCLA)</td>			<td>Master of Architecture and Master of Landscape Architecture (MARCLA)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>化学与生物工程应用科学硕士（MASc）</td>			<td>Master of Applied Science in Chemical and Biological Engineering (MASc)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>化学与生物工程理科硕士（MSc）</td>			<td>Master of Science in Chemical and Biological Engineering (MSc)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>化学与生物工程博士（PhD）</td>			<td>Doctor of Philosophy in Chemical and Biological Engineering (PhD)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>化学与生物工程硕士（MEng）</td>			<td>Master of Engineering in Chemical and Biological Engineering (MEng)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>土木工程应用科学硕士（MASc）</td>			<td>Master of Applied Science in Civil Engineering (MASc)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>土木工程博士（PhD）</td>			<td>Doctor of Philosophy in Civil Engineering (PhD)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>土木工程硕士（MEng）</td>			<td>Master of Engineering in Civil Engineering (MEng)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>清洁能源工程领导力工程硕士（MEL）</td>			<td>Master of Engineering Leadership in Clean Energy Engineering (MEL)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>可信软件系统领导力工程硕士（MEL）</td>			<td>Master of Engineering Leadership in Dependable Software Systems (MEL)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>电气与计算机工程应用科学硕士（MASc）</td>			<td>Master of Applied Science in Electrical and Computer Engineering (MASc)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>电气与计算机工程博士（PhD）</td>			<td>Doctor of Philosophy in Electrical and Computer Engineering (PhD)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>电气与计算机工程硕士（MEng）</td>			<td>Master of Engineering in Electrical and Computer Engineering (MEng)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>绿色生物制品领导力工程硕士（MEL）</td>			<td>Master of Engineering Leadership in Green BioProducts (MEL)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>高性能建筑领导力工程硕士（MEL)</td>			<td>Master of Engineering Leadership in High Performance Buildings (MEL)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>一体化水资源管理领导力工程硕士（MEL）</td>			<td>Master of Engineering Leadership in Integrated Water Management (MEL)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>园林建筑高级研究硕士（MASLA）</td>			<td>Master of Advanced Studies in Landscape Architecture (MASLA)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>园林建筑硕士（MLA）</td>			<td>Master of Landscape Architecture (MLA)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>城市规划硕士（MUD）</td>			<td>Master of Urban Design (MUD)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>材料工程应用科学硕士（MASc）</td>			<td>Master of Applied Science in Materials Engineering (MASc)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>材料工程理科硕士（MSc）</td>			<td>Master of Science in Materials Engineering (MSc)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>材料工程博士（PhD）</td>			<td>Doctor of Philosophy in Materials Engineering (PhD)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>机械工程应用科学硕士（MASc）</td>			<td>Master of Applied Science in Mechanical Engineering (MASc)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>机械工程博士（PhD）</td>			<td>Doctor of Philosophy in Mechanical Engineering (PhD)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>机电一体化设计工程硕士（MEng）</td>			<td>Master of Engineering in Mechatronics Design (MEng)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>采矿工程应用科学硕士（MASc）</td>			<td>Master of Applied Science in Mining Engineering (MASc)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>采矿工程博士（PhD）</td>			<td>Doctor of Philosophy in Mining Engineering (PhD)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>采矿工程硕士（MEng）</td>			<td>Master of Engineering in Mining Engineering (MEng)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>海洋建筑与船舶工程领导力工程硕士（MEL）</td>			<td>Master of Engineering Leadership in Naval Architecture and Marine Engineering (MEL)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>海洋建筑与船舶工程硕士（MEng）</td>			<td>Master of Engineering in Naval Architecture and Marine Engineering (MEng)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>护理学理科硕士（MSN)</td>			<td>Master of Science in Nursing (MSN)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>护理学博士（PhD）</td>			<td>Doctor of Philosophy in Nursing (PhD)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>护理学硕士-护理师（MN)</td>			<td>Master of Nursing - Nurse Practitioner (MN)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>规划文科硕士（MAP）</td>			<td>Master of Arts in Planning (MAP)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>规划理科硕士（MSCP）</td>			<td>Master of Science in Planning (MSCP)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>规划博士（PhD）</td>			<td>Doctor of Philosophy in Planning (PhD)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>社区与地区规划硕士（MCRP）</td>			<td>Master of Community and Regional Planning (MCRP)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>老年人照护健康领导力与政策硕士（MHLP)</td>			<td>Master of Health Leadership and Policy in Seniors Care (MHLP)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>城市系统领导力工程硕士(MEL）</td>			<td>Master of Engineering Leadership in Urban Systems (MEL)</td>			<td>Faculty of Applied Science</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>文学院</h2><p>英属哥伦比亚大学文学院（Faculty of Arts）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:367px">古文化，宗教与种族文科硕士(MA）</td>			<td style="width:592px">Master of Arts in Ancient Culture, Religion and Ethnicity (MA)</td>			<td style="width:108px">Faculty of Arts</td>		</tr>		<tr>			<td>人类学文科硕士(MA)</td>			<td>Master of Arts in Anthropology (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>人类学博士(PhD）</td>			<td>Doctor of Philosophy in Anthropology (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>档案研究硕士（MAS）</td>			<td>Master of Archival Studies (MAS)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>档案研究硕士与图书馆和信息研究硕士（MASLIS)</td>			<td>Master of Archival Studies and Master of Library and Information Studies (MASLIS)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>艺术历史博士（PhD）</td>			<td>Doctor of Philosophy in Art History (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>艺术历史文科硕士（MA）</td>			<td>Master of Arts in Art History (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>艺术历史（关键展策研究）文科硕士（MA）</td>			<td>Master of Arts in Art History (Critical Curatorial Studies) (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>亚洲研究博士（PhD）</td>			<td>Doctor of Philosophy in Asian Studies (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>亚洲研究文科硕士（MA）</td>			<td>Master of Arts in Asian Studies (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>儿童文学文科硕士（MA）</td>			<td>Master of Arts in Children&#39;s Literature (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>指挥（合唱指挥）音乐硕士（MMUS）</td>			<td>Master of Music in Conducting (Emphasis Choral Conducting) (MMUS)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>古典及近东考古学文科硕士（MA）</td>			<td>Master of Arts in Classical and Near Eastern Archaeology (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>西洋古典学博士（PhD）</td>			<td>Doctor of Philosophy in Classics (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>西洋古典学文科硕士（MA）</td>			<td>Master of Arts in Classics (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>作曲音乐艺术博士（DMA）</td>			<td>Doctor of Musical Arts in Composition (DMA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>作曲音乐硕士（MMUS）</td>			<td>Master of Music in Composition (MMUS)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>创意写作（远程）艺术硕士（MFA）</td>			<td>Master of Fine Arts in Creative Writing (Distance) (MFA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>创意写作艺术硕士（MFA）</td>			<td>Master of Fine Arts in Creative Writing (MFA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>创意写作与戏剧艺术硕士（MFA）</td>			<td>Master of Fine Arts in Creative Writing and Theatre (MFA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>数字媒体硕士（MDM）</td>			<td>Master of Digital Media (MDM)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>经济学博士（PhD）</td>			<td>Doctor of Philosophy in Economics (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>经济学文科硕士（MA）</td>			<td>Master of Arts in Economics (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>英语博士（PhD）</td>			<td>Doctor of Philosophy in English (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>英语文科硕士（MA）</td>			<td>Master of Arts in English (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>音乐，民族音乐学文科硕士（MA）</td>			<td>Master of Arts in Music, Emphasis Ethnomusicology (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>音乐，民族音乐学博士（PhD）</td>			<td>Doctor of Philosophy in Music, Emphasis Ethnomusicology (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>电影制作艺术硕士(MFA)</td>			<td>Master of Fine Arts in Film Production (MFA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>电影制作与创意写作艺术硕士（MFA）</td>			<td>Master of Fine Arts in Film Production and Creative Writing (MFA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>电影研究文科硕士（MA）</td>			<td>Master of Arts in Film Studies (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>法语文科硕士（MA）</td>			<td>Master of Arts in French (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>法语博士（PhD）</td>			<td>Doctor of Philosophy in French (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>性别，种族与社会正义文科硕士（MA）</td>			<td>Master of Arts in Gender, Race, Sexuality and Social Justice (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>性别，种族与社会正义博士（PhD）</td>			<td>Doctor of Philosophy in Gender, Race, Sexuality and Social Justice (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>地理文科硕士（MA）</td>			<td>Master of Arts in Geography (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>地理理科硕士（MSc）</td>			<td>Master of Science in Geography (MSc)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>地理博士（PhD）</td>			<td>Doctor of Philosophy in Geography (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>日耳曼研究文科硕士（MA）</td>			<td>Master of Arts in Germanic Studies (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>日耳曼研究博士（PhD）</td>			<td>Doctor of Philosophy in Germanic Studies (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>吉他音乐硕士（MMUS）</td>			<td>Master of Music in Guitar (MMUS)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>羽管键琴音乐硕士（MMUS）</td>			<td>Master of Music in Harpsichord (MMUS)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>西班牙裔研究文科硕士（MA）</td>			<td>Master of Arts in Hispanic Studies (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>西班牙裔研究博士（PhD）</td>			<td>Doctor of Philosophy in Hispanic Studies (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>历史文科硕士（MA）</td>			<td>Master of Arts in History (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>历史博士（PhD）</td>			<td>Doctor of Philosophy in History (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>新闻学硕士（MJ）</td>			<td>Master of Journalism (MJ)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>博物馆与信息研究硕士（MLIS）</td>			<td>Master of Library and Information Studies (MLIS)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>博物馆，档案与信息研究博士（PhD）</td>			<td>Doctor of Philosophy in Library, Archival and Information Studies (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>语言学文科硕士（MA）</td>			<td>Master of Arts in Linguistics (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>语言学博士（PhD）</td>			<td>Doctor of Philosophy in Linguistics (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>音乐，音乐学文科硕士（MA）</td>			<td>Master of Arts in Music, Emphasis Musicology (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>音乐，音乐学博士（PhD）</td>			<td>Doctor of Philosophy in Music, Emphasis Musicology (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>歌剧音乐硕士（MMUS）</td>			<td>Master of Music in Opera (MMUS)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>指挥（管弦乐指挥）音乐硕士（MMUS）</td>			<td>Master of Music in Conducting (Emphasis Orchestral Conducting) (MMUS)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>管弦乐乐器音乐艺术博士（DMA）</td>			<td>Doctor of Musical Arts in Orchestral Instrument (DMA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>管弦乐乐器音乐硕士（MMUS）</td>			<td>Master of Music in Orchestral Instrument (MMUS)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>管风琴音乐硕士（MMUS）</td>			<td>Master of Music in Organ (MMUS)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>哲学文科硕士（MA）</td>			<td>Master of Arts in Philosophy (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>哲学博士（PhD）</td>			<td>Doctor of Philosophy in Philosophy (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>钢琴音乐艺术博士（DMA）</td>			<td>Doctor of Musical Arts in Piano (DMA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>钢琴音乐硕士（MMUS）</td>			<td>Master of Music in Piano (MMUS)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>政治科学博士（PhD）</td>			<td>Doctor of Philosophy in Political Science (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>政治科学文科硕士（MA）</td>			<td>Master of Arts in Political Science (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>心理学博士（PhD）</td>			<td>Doctor of Philosophy in Psychology (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>心理学文科硕士（MA）</td>			<td>Master of Arts in Psychology (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>公共政策与全球事务硕士（MPPGA）</td>			<td>Master of Public Policy and Global Affairs (MPPGA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>宗教研究博士（PhD）</td>			<td>Doctor of Philosophy in Religious Studies (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>宗教研究文科硕士（MA）</td>			<td>Master of Arts in Religious Studies (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>科学与技术研究文科硕士（MA）</td>			<td>Master of Arts in Science and Technology Studies (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>社会工作博士（PhD）</td>			<td>Doctor of Philosophy in Social Work (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>社会工作硕士（MSW）</td>			<td>Master of Social Work - Advanced (MSW)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>社会学博士（PhD）</td>			<td>Doctor of Philosophy in Sociology (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>社会学文科硕士（MA）</td>			<td>Master of Arts in Sociology (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>戏剧博士（PhD）</td>			<td>Doctor of Philosophy in Theatre (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>戏剧文科硕士（MA）</td>			<td>Master of Arts in Theatre (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>戏剧艺术硕士（MFA）</td>			<td>Master of Fine Arts in Theatre (MFA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>音乐，理论文科硕士（MA）</td>			<td>Master of Arts in Music, Emphasis Theory (MA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>音乐，理论博士（PhD）</td>			<td>Doctor of Philosophy in Music, Emphasis Theory (PhD)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>视觉艺术硕士（MFA）</td>			<td>Master of Fine Arts in Visual Art (MFA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>声乐音乐艺术博士（DMA）</td>			<td>Doctor of Musical Arts in Voice (DMA)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>声乐音乐硕士（MMUS）</td>			<td>Master of Music in Voice (MMUS)</td>			<td>Faculty of Arts</td>		</tr>		<tr>			<td>指挥（管乐器指挥）音乐硕士（MMUS）</td>			<td>Master of Music in Conducting (Emphasis Wind Conducting) (MMUS)</td>			<td>Faculty of Arts</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>工商行政管理学院</h2><p>英属哥伦比亚大学工商行政管理学院（Faculty of Commerce and Business Administration）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:317px">会计工商管理博士（PhD）</td>			<td style="width:668px">Doctor of Philosophy in Business Administration in Accounting (PhD)</td>			<td style="width:371px">Faculty of Commerce and Business Administration</td>		</tr>		<tr>			<td>工商管理硕士（MBA）</td>			<td>Master of Business Administration (MBA)</td>			<td>Faculty of Commerce and Business Administration</td>		</tr>		<tr>			<td>管理硕士（MM）</td>			<td>Master of Management (MM)</td>			<td>Faculty of Commerce and Business Administration</td>		</tr>		<tr>			<td>金融工商管理理科硕士（MSCB）</td>			<td>Master of Science in Business Administration in Finance (MSCB)</td>			<td>Faculty of Commerce and Business Administration</td>		</tr>		<tr>			<td>金融工商管理博士（PhD）</td>			<td>Doctor of Philosophy in Business Administration in Finance (PhD)</td>			<td>Faculty of Commerce and Business Administration</td>		</tr>		<tr>			<td>信息系统管理工商管理理科硕士（MSCB）</td>			<td>Master of Science in Business Administration in Management Information Systems (MSCB)</td>			<td>Faculty of Commerce and Business Administration</td>		</tr>		<tr>			<td>信息系统管理工商管理博士（PhD）</td>			<td>Doctor of Philosophy in Business Administration in Management Information Systems (PhD)</td>			<td>Faculty of Commerce and Business Administration</td>		</tr>		<tr>			<td>管理科学工商管理博士（PhD）</td>			<td>Doctor of Philosophy in Business Administration in Management Science (PhD)</td>			<td>Faculty of Commerce and Business Administration</td>		</tr>		<tr>			<td>市场营销工商管理博士（PhD）</td>			<td>Doctor of Philosophy in Business Administration in Marketing (PhD)</td>			<td>Faculty of Commerce and Business Administration</td>		</tr>		<tr>			<td>组织行为学工商管理博士（PhD）</td>			<td>Doctor of Philosophy in Business Administration in Organizational Behaviour (PhD)</td>			<td>Faculty of Commerce and Business Administration</td>		</tr>		<tr>			<td>策略和商业经济工商管理博士（PhD）</td>			<td>Doctor of Philosophy in Business Administration in Strategy and Business Economics (PhD)</td>			<td>Faculty of Commerce and Business Administration</td>		</tr>		<tr>			<td>运输与物流工商管理理科硕士（MSCB）</td>			<td>Master of Science in Business Administration in Transportation and Logistics (MSCB)</td>			<td>Faculty of Commerce and Business Administration</td>		</tr>		<tr>			<td>运输与物流工商管理博士（PhD）</td>			<td>Doctor of Philosophy in Business Administration in Transportation and Logistics (PhD)</td>			<td>Faculty of Commerce and Business Administration</td>		</tr>		<tr>			<td>城市土地经济学工商管理博士（PhD）</td>			<td>Doctor of Philosophy in Business Administration in Urban Land Economics (PhD)</td>			<td>Faculty of Commerce and Business Administration</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>牙医学院</h2><p>英属哥伦比亚大学牙医学院（Faculty of Dentistry）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:503px">颅面科学理科硕士（MSc）</td>			<td style="width:791px">Master of Science in Craniofacial Science (MSc)</td>			<td style="width:143px">Faculty of Dentistry</td>		</tr>		<tr>			<td>颅面科学博士（PhD）</td>			<td>Doctor of Philosophy in Craniofacial Science (PhD)</td>			<td>Faculty of Dentistry</td>		</tr>		<tr>			<td>颅面科学与牙髓学博士（PhD/Dip. Endodontics）</td>			<td>Doctor of Philosophy in Craniofacial Science and Diploma in Endodontics (PhD/Dip. Endodontics)</td>			<td>Faculty of Dentistry</td>		</tr>		<tr>			<td>颅面科学月牙髓学理科硕士（MSc/Dip. Endodontics）</td>			<td>Master of Science in Craniofacial Science and Diploma in Endodontics (MSc/Dip. Endodontics)</td>			<td>Faculty of Dentistry</td>		</tr>		<tr>			<td>颅面科学与畸齿矫正学博士（PhD/Dip. Orthodontics）</td>			<td>Doctor of Philosophy in Craniofacial Science and Diploma in Orthodontics (PhD/Dip. Orthodontics)</td>			<td>Faculty of Dentistry</td>		</tr>		<tr>			<td>颅面科学与畸齿矫正学理科硕士（MSc/Dip. Orthodontics）</td>			<td>Master of Science in Craniofacial Science and Diploma in Orthodontics (MSc/Dip. Orthodontics)</td>			<td>Faculty of Dentistry</td>		</tr>		<tr>			<td>颅面科学与儿童口腔医学博士（PhD/Dip. Pediatric Dentistry）</td>			<td>Doctor of Philosophy in Craniofacial Science and Diploma in Pediatric Dentistry (PhD/Dip. Pediatric Dentistry)</td>			<td>Faculty of Dentistry</td>		</tr>		<tr>			<td>颅面科学与儿童口腔医学理科硕士（MSc/Dip. Pediatric Dentistry）</td>			<td>Master of Science in Craniofacial Science and Diploma in Pediatric Dentristy (MSc/Dip. Pediatric Dentistry)</td>			<td>Faculty of Dentistry</td>		</tr>		<tr>			<td>颅面科学与牙周病学博士（PhD/Dip. Periodontics）</td>			<td>Doctor of Philosophy in Craniofacial Science and Diploma in Periodontics (PhD/Dip. Periodontics)</td>			<td>Faculty of Dentistry</td>		</tr>		<tr>			<td>颅面科学与牙周病学理科硕士（MSc/Dip. Periodontics）</td>			<td>Master of Science in Craniofacial Science and Diploma in Periodontics (MSc/Dip. Periodontics)</td>			<td>Faculty of Dentistry</td>		</tr>		<tr>			<td>颅面科学与假牙修复学博士(PhD/Dip. Prosthodontics)</td>			<td>Doctor of Philosophy in Craniofacial Science and Diploma in Prosthodontics (PhD/Dip. Prosthodontics)</td>			<td>Faculty of Dentistry</td>		</tr>		<tr>			<td>颅面科学与假牙修复学理科硕士(MSc/Dip. Prosthodontics)</td>			<td>Master of Science in Craniofacial Science and Diploma in Prosthodontics (MSc/Dip. Prosthodontics)</td>			<td>Faculty of Dentistry</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>教育学院</h2><p>英属哥伦比亚大学教育学院（Faculty of Education）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:440px">成人学习与教育 教育学硕士（MEd）</td>			<td style="width:697px">Master of Education in Adult Learning and Education (MEd)</td>			<td style="width:183px">Faculty of Education</td>		</tr>		<tr>			<td>成人学习与全球改变教育学硕士（MEd）</td>			<td>Master of Education in Adult Learning and Global Change (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>艺术教育文科硕士（MA）</td>			<td>Master of Arts in Art Education (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>艺术教育 教育学硕士（MEd）</td>			<td>Master of Education in Art Education (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>辅导心理学文科硕士（MA）</td>			<td>Master of Arts in Counselling Psychology (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>辅导心理学教育学硕士（MEd）</td>			<td>Master of Education in Counselling Psychology (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>辅导心理学博士（PhD）</td>			<td>Doctor of Philosophy in Counselling Psychology (PhD)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>课程与领导力教育学硕士（MEd）</td>			<td>Master of Education in Curriculum and Leadership (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>课程研究文科硕士（MA）</td>			<td>Master of Arts in Curriculum Studies (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>课程研究教育学硕士（Med）</td>			<td>Master of Education in Curriculum Studies (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>课程研究博士（PhD）</td>			<td>Doctor of Philosophy in Curriculum Studies (PhD)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>儿童早期教育文科硕士（MA）</td>			<td>Master of Arts in Early Childhood Education (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>儿童早期教育 教育学硕士（MEd）</td>			<td>Master of Education in Early Childhood Education (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>教育技术硕士（MET）</td>			<td>Master of Educational Technology (MET)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>教育管理及领导学教育学硕士（MEd）</td>			<td>Master of Education in Educational Administration and Leadership (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>教育领导力与政策教育学博士（EdD）</td>			<td>Doctor of Education in Educational Leadership and Policy (EdD)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>教育研究博士（PhD）</td>			<td>Doctor of Philosophy in Educational Studies (PhD)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>教育研究文科硕士（MA）</td>			<td>Master of Arts in Educational Studies (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>教育研究教育学硕士（MEd）</td>			<td>Master of Education in Educational Studies (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>高等教育 教育学硕士（MEd）</td>			<td>Master of Education in Higher Education (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>家政教育文科硕士（MA）</td>			<td>Master of Arts in Home Economics Education (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>家政教育 教育学硕士（MEd）</td>			<td>Master of Education in Home Economics Education (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>人类发展，学习与文化博士（PhD）</td>			<td>Doctor of Philosophy in Human Development, Learning, and Culture (PhD)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>人类发展，学习与文化文科硕士（MA）</td>			<td>Master of Arts in Human Development, Learning, and Culture (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>人类发展，学习与文化教育学博士（MEd）</td>			<td>Master of Education in Human Development, Learning, and Culture (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>高绩效指导和技术领导硕士（MHPCTL）</td>			<td>Master of High Performance Coaching and Technical Leadership (MHPCTL)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td style="width:440px">运动机能学文科硕士（MA）</td>			<td>Master of Arts in Kinesiology (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>运动机能学硕士（MKin）</td>			<td>Master of Kinesiology (MKin)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>运动机能学理科硕士（MSc）</td>			<td>Master of Science in Kinesiology (MSc)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>运动机能学博士（PhD）</td>			<td>Doctor of Philosophy in Kinesiology (PhD)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>语言和读写能力教育博士（PhD）</td>			<td>Doctor of Philosophy in Language and Literacy Education (PhD)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>读写能力教育文科硕士（MA）</td>			<td>Master of Arts in Literacy Education (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>读写能力教育 教育学硕士（MEd）</td>			<td>Master of Education in Literacy Education (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>数学教育文科硕士（MA）</td>			<td>Master of Arts in Mathematics Education (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>数学教育 教育学硕士（MEd)</td>			<td>Master of Education in Mathematics Education (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>测量、评价和研究方法博士（PhD）</td>			<td>Doctor of Philosophy in Measurement, Evaluation and Research Methodology (PhD)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>测量、评价和研究方法文科硕士（MA）</td>			<td>Master of Arts in Measurement, Evaluation and Research Methodology (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>测量、评价和研究方法教育学硕士（MEd）</td>			<td>Master of Education in Measurement, Evaluation and Research Methodology (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>媒体与技术研究教育文科硕士（MA）</td>			<td>Master of Arts in Media and Technology Studies Education (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>媒体与技术研究教育 教育学硕士（MEd）</td>			<td>Master of Education in Media and Technology Studies Education (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>现代语言教育文科硕士（MA）</td>			<td>Master of Arts in Modern Languages Education (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>现代语言教育 教育学硕士（MA）</td>			<td>Master of Education in Modern Languages Education (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>博物馆教育硕士（MMEd）</td>			<td>Master of Museum Education (MMEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>音乐教育文科硕士（MA）</td>			<td>Master of Arts in Music Education (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>音乐教育 教育学硕士（MEd）</td>			<td>Master of Education in Music Education (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>体育教育文科硕士（MA）</td>			<td>Master of Arts in Physical Education (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>体育教育 教育学硕士（MEd）</td>			<td>Master of Education in Physical Education (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>学校心理学文科硕士（MA）</td>			<td>Master of Arts in School Psychology (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>学校心理学教育学硕士（MEd）</td>			<td>Master of Education in School Psychology (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>学校心理学博士（PhD）</td>			<td>Doctor of Philosophy in School Psychology (PhD)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>科学教育文科硕士（MA）</td>			<td>Master of Arts in Science Education (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>科学教育 教育学硕士（MEd）</td>			<td>Master of Education in Science Education (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>社会研究教育文科硕士（MA）</td>			<td>Master of Arts in Social Studies Education (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>社会研究教育 教育学硕士（MEd）</td>			<td>Master of Education in Social Studies Education (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>社会，文化与政治教育 教育学硕士（MEd)</td>			<td>Master of Education in Society, Culture and Politics in Education (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>特殊教育硕士（MA）</td>			<td>Master of Arts in Special Education (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>特殊教育博士（PhD）</td>			<td>Doctor of Philosophy in Special Education (PhD)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>特殊教育 教育学硕士（MEd）</td>			<td>Master of Education in Special Education (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>英语第二语言教学文科硕士（MA）</td>			<td>Master of Arts in Teaching English as a Second Language (MA)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>英语第二语言教学教育学硕士（MEd）</td>			<td>Master of Education in Teaching English as a Second Language (MEd)</td>			<td>Faculty of Education</td>		</tr>		<tr>			<td>英语第二语言教学博士（PhD）</td>			<td>Doctor of Philosophy in Teaching English as a Second Language (PhD)</td>			<td>Faculty of Education</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>林学院</h2><p>英属哥伦比亚大学林学院（Faculty of Forestry）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:223px">林学应用科学硕士（MASc）</td>			<td style="width:493px">Master of Applied Science in Forestry (MASc)</td>			<td style="width:173px">Faculty of Forestry</td>		</tr>		<tr>			<td>林学硕士（MF）</td>			<td>Master of Forestry (MF)</td>			<td>Faculty of Forestry</td>		</tr>		<tr>			<td>林学理科硕士（MSc）</td>			<td>Master of Science in Forestry (MSc)</td>			<td>Faculty of Forestry</td>		</tr>		<tr>			<td>林学博士（PhD）</td>			<td>Doctor of Philosophy in Forestry (PhD)</td>			<td>Faculty of Forestry</td>		</tr>		<tr>			<td>森林可持续经营硕士（MSFM）</td>			<td>Master of Sustainable Forest Management (MSFM)</td>			<td>Faculty of Forestry</td>		</tr>		<tr>			<td>国际林业硕士（MIF）</td>			<td>Master of International Forestry (MIF)</td>			<td>Faculty of Forestry</td>		</tr>		<tr>			<td>测绘学环境管理硕士（MGEM）</td>			<td>Master of Geomatics for Environmental Management (MGEM)</td>			<td>Faculty of Forestry</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>土地和粮食系统学院</h2><p>英属哥伦比亚大学土地和粮食系统学院（Faculty of Land and Food Systems）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:331px">农业经济学理科硕士（MSc）</td>			<td style="width:652px">Master of Science in Agricultural Economics (MSc)</td>			<td style="width:289px">Faculty of Land and Food Systems</td>		</tr>		<tr>			<td>应用动物生物学理科硕士（MSc）</td>			<td>Master of Science in Applied Animal Biology (MSc)</td>			<td>Faculty of Land and Food Systems</td>		</tr>		<tr>			<td>应用动物生物学博士（PhD）</td>			<td>Doctor of Philosophy in Applied Animal Biology (PhD)</td>			<td>Faculty of Land and Food Systems</td>		</tr>		<tr>			<td>粮食与资源经济硕士（MFRE）</td>			<td>Master of Food and Resource Economics (MFRE)</td>			<td>Faculty of Land and Food Systems</td>		</tr>		<tr>			<td>粮食科学理科硕士（MSc）</td>			<td>Master of Science in Food Science (MSc)</td>			<td>Faculty of Land and Food Systems</td>		</tr>		<tr>			<td>粮食科学硕士（MFS）</td>			<td>Master of Food Science (MFS)</td>			<td>Faculty of Land and Food Systems</td>		</tr>		<tr>			<td>粮食科学博士（PhD）</td>			<td>Doctor of Philosophy in Food Science (PhD)</td>			<td>Faculty of Land and Food Systems</td>		</tr>		<tr>			<td>人类营养学理科硕士（MSc）</td>			<td>Master of Science in Human Nutrition (MSc)</td>			<td>Faculty of Land and Food Systems</td>		</tr>		<tr>			<td>人类营养学博士（PhD）</td>			<td>Doctor of Philosophy in Human Nutrition (PhD)</td>			<td>Faculty of Land and Food Systems</td>		</tr>		<tr>			<td>土地与粮食系统一体化研究理科硕士（MSc）</td>			<td>Master of Science in Integrated Studies in Land and Food Systems (MSc)</td>			<td>Faculty of Land and Food Systems</td>		</tr>		<tr>			<td>土地与粮食系统一体化研究博士（PhD）</td>			<td>Doctor of Philosophy in Integrated Studies in Land and Food Systems (PhD)</td>			<td>Faculty of Land and Food Systems</td>		</tr>		<tr>			<td>土地与水系统硕士（MLWS）</td>			<td>Master of Land and Water Systems (MLWS)</td>			<td>Faculty of Land and Food Systems</td>		</tr>		<tr>			<td>植物科学理科硕士（MSc）</td>			<td>Master of Science in Plant Science (MSc)</td>			<td>Faculty of Land and Food Systems</td>		</tr>		<tr>			<td>植物科学博士（PhD）</td>			<td>Doctor of Philosophy in Plant Science (PhD)</td>			<td>Faculty of Land and Food Systems</td>		</tr>		<tr>			<td>土壤科学理科硕士（MSc）</td>			<td>Master of Science in Soil Science (MSc)</td>			<td>Faculty of Land and Food Systems</td>		</tr>		<tr>			<td>土壤科学博士（PhD）</td>			<td>Doctor of Philosophy in Soil Science (PhD)</td>			<td>Faculty of Land and Food Systems</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>医学院</h2><p>英属哥伦比亚大学医学院（Faculty of Medicine）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:325px">听力学与言语学理科硕士（MSc）</td>			<td style="width:777px">Master of Science in Audiology and Speech Sciences (MSc)</td>			<td style="width:173px">Faculty of Medicine</td>		</tr>		<tr>			<td>听力学与言语学博士（PhD）</td>			<td>Doctor of Philosophy in Audiology and Speech Sciences (PhD)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>生物化学与分子生物学理科硕士（MSc）</td>			<td>Master of Science in Biochemistry and Molecular Biology (MSc)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>生物化学与分子生物学博士（PhD）</td>			<td>Doctor of Philosophy in Biochemistry and Molecular Biology (PhD)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>生物医学工程硕士（PhD）</td>			<td>Doctor of Philosophy in Biomedical Engineering (PhD)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>生物医学工程 工程硕士（MEng）</td>			<td>Master of Engineering in Biomedical Engineering (MEng)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>生物医学工程应用科学硕士（MASc）</td>			<td>Master of Applied Science in Biomedical Engineering (MASc)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>细胞与发育生物学理科硕士（MSc）</td>			<td>Master of Science in Cell and Developmental Biology (MSc)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>细胞与发育生物学博士（PhD）</td>			<td>Doctor of Philosophy in Cell and Developmental Biology (PhD)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>实验医学理科硕士（MSc）</td>			<td>Master of Science in Experimental Medicine (MSc)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>实验医学博士（PhD）</td>			<td>Doctor of Philosophy in Experimental Medicine (PhD)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>遗传咨询理科硕士（MSc）</td>			<td>Master of Science in Genetic Counselling (MSc)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>卫生管理硕士（MHA）</td>			<td>Master of Health Administration (MHA)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>健康科学硕士（MHSc）</td>			<td>Master of Health Science (MHSc)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>跨学科肿瘤学理科硕士（MSc）</td>			<td>Master of Science in Interdisciplinary Oncology (MSc)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>跨学科肿瘤学博士（PhD）</td>			<td>Doctor of Philosophy in Interdisciplinary Oncology (PhD)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>医学遗传学理科硕士（MSc）</td>			<td>Master of Science in Medical Genetics (MSc)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>医学遗传学博士（PhD）</td>			<td>Doctor of Philosophy in Medical Genetics (PhD)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>医学博士与哲学博士（MDPhD）</td>			<td>Doctor of Medicine and Doctor of Philosophy (MDPhD)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>神经系统科学理科硕士（MSc）</td>			<td>Master of Science in Neuroscience (MSc)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>神经系统科学博士（PhD）</td>			<td>Doctor of Philosophy in Neuroscience (PhD)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>职业与环境卫生理科硕士（MSc）</td>			<td>Master of Science in Occupational and Environmental Hygiene (MSc)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>作业疗法硕士（MOT）</td>			<td>Master of Occupational Therapy (MOT)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>病理学与实验室医学理科硕士（MSc）</td>			<td>Master of Science in Pathology and Laboratory Medicine (MSc)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>病理学与实验室医学博士（PhD）</td>			<td>Doctor of Philosophy in Pathology and Laboratory Medicine (PhD)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>药理学理科硕士（MSc）</td>			<td>Master of Science in Pharmacology (MSc)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>药理学博士（PhD）</td>			<td>Doctor of Philosophy in Pharmacology (PhD)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>理疗学硕士与康复学博士（MPTPHD）</td>			<td>Master of Physical Therapy and Doctor of Philosophy in Rehabilitation Sciences (MPTPHD)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>理疗学硕士（MPT）</td>			<td>Master of Physical Therapy (MPT)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>人口与公共健康理科硕士（MSc）</td>			<td>Master of Science in Population and Public Health (MSc)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>人口与公共健康博士（PhD）</td>			<td>Doctor of Philosophy in Population and Public Health (PhD)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>公共健康硕士与看护学理科硕士（MPH/MSN)</td>			<td>Master of Public Health and Master of Science in Nursing (MPH/MSN)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>公共健康硕士与牙科公共卫生（MPHDPH）</td>			<td>Master of Public Health and Diploma in Dental Public Health (MPHDPH)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>公共卫生硕士（MPH）</td>			<td>Master of Public Health (MPH)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>康复学理科硕士（MSc）</td>			<td>Master of Science in Rehabilitation Sciences (MSc)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>康复学硕士（MRSc）</td>			<td>Master of Rehabilitation Science (MRSc)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>康复学博士（PhD）</td>			<td>Doctor of Philosophy in Rehabilitation Sciences (PhD)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>生殖与发育科学理科硕士（MSc）</td>			<td>Master of Science in Reproductive and Developmental Sciences (MSc)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>生殖与发育科学博士（PhD）</td>			<td>Doctor of Philosophy in Reproductive and Developmental Sciences (PhD)</td>			<td>Faculty of Medicine</td>		</tr>		<tr>			<td>外科学理科硕士（MSc）</td>			<td>Master of Science in Surgery (MSc)</td>			<td>Faculty of Medicine</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>药学院</h2><p>英属哥伦比亚大学药学院（Faculty of Pharmaceutical Sciences）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:199px">药物科学理科硕士（MSc）</td>			<td style="width:475px">Master of Science in Pharmaceutical Sciences (MSc)</td>			<td style="width:307px">Faculty of Pharmaceutical Sciences</td>		</tr>		<tr>			<td>药物科学博士（PhD）</td>			<td>Doctor of Philosophy in Pharmaceutical Sciences (PhD)</td>			<td>Faculty of Pharmaceutical Sciences</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>科学院</h2><p>英属哥伦比亚大学科学院（Faculty of Science）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:303px">天文学理科硕士（MSc）</td>			<td style="width:533px">Master of Science in Astronomy (MSc)</td>			<td style="width:139px">Faculty of Science</td>		</tr>		<tr>			<td>天文学博士（PhD）</td>			<td>Doctor of Philosophy in Astronomy (PhD)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>大气科学理科硕士（MSc）</td>			<td>Master of Science in Atmospheric Science (MSc)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>大气科学博士（PhD）</td>			<td>Doctor of Philosophy in Atmospheric Science (PhD)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>生物信息学理科硕士（MSc）</td>			<td>Master of Science in Bioinformatics (MSc)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>生物信息学博士（PhD）</td>			<td>Doctor of Philosophy in Bioinformatics (PhD)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>植物学理科硕士（MSc）</td>			<td>Master of Science in Botany (MSc)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>植物学博士（PhD）</td>			<td>Doctor of Philosophy in Botany (PhD)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>化学理科硕士（MSc）</td>			<td>Master of Science in Chemistry (MSc)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>化学博士（PhD）</td>			<td>Doctor of Philosophy in Chemistry (PhD)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>计算机科学理科硕士（MSc）</td>			<td>Master of Science in Computer Science (MSc)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>计算机科学博士（PhD）</td>			<td>Doctor of Philosophy in Computer Science (PhD)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>数据科学硕士（MDS）</td>			<td>Master of Data Science (MDS)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>工程物理学应用科学硕士（MASc）</td>			<td>Master of Applied Science in Engineering Physics (MASc)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>基因组科学和技术理科硕士（MSc）</td>			<td>Master of Science in Genome Science and Technology (MSc)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>基因组科学和技术博士（PhD）</td>			<td>Doctor of Philosophy in Genome Science and Technology (PhD)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>地质工程 工程硕士（MEng）</td>			<td>Master of Engineering in Geological Engineering (MEng)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>地质工程应用科学硕士（MASc）</td>			<td>Master of Applied Science in Geological Engineering (MASc)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>地质工程博士（PhD）</td>			<td>Doctor of Philosophy in Geological Engineering (PhD)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>地质科学理科硕士（MSc）</td>			<td>Master of Science in Geological Sciences (MSc)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>地质科学博士（PhD）</td>			<td>Doctor of Philosophy in Geological Sciences (PhD)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>地球物理学应用科学硕士（MASc）</td>			<td>Master of Applied Science in Geophysics (MASc)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>地球物理学理科硕士（MSc）</td>			<td>Master of Science in Geophysics (MSc)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>地球物理学博士（PhD）</td>			<td>Doctor of Philosophy in Geophysics (PhD)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>数学博士（PhD）</td>			<td>Doctor of Philosophy in Mathematics (PhD)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>数学理科硕士（MSc）</td>			<td>Master of Science in Mathematics (MSc)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>微生物学与免疫学博士（PhD）</td>			<td>Doctor of Philosophy in Microbiology and Immunology (PhD)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>微生物学与免疫学理科硕士（MSc）</td>			<td>Master of Science in Microbiology and Immunology (MSc)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>海洋学博士（PhD）</td>			<td>Doctor of Philosophy in Oceanography (PhD)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>海洋学理科硕士（MSc）</td>			<td>Master of Science in Oceanography (MSc)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>物理博士（PhD）</td>			<td>Doctor of Philosophy in Physics (PhD)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>物理理科硕士（MSc）</td>			<td>Master of Science in Physics (MSc)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>资源，环境与可持续性文科硕士（MA）</td>			<td>Master of Arts in Resources, Environment and Sustainability (MA)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>资源，环境与可持续性理科硕士（MSc）</td>			<td>Master of Science in Resources, Environment and Sustainability (MSc)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>资源，环境与可持续性博士（PhD）</td>			<td>Doctor of Philosophy in Resources, Environment and Sustainability (PhD)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>统计学博士（PhD）</td>			<td>Doctor of Philosophy in Statistics (PhD)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>统计学理科硕士（MSc）</td>			<td>Master of Science in Statistics (MSc)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>动物学博士（PhD）</td>			<td>Doctor of Philosophy in Zoology (PhD)</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>动物学理科硕士（MSc）</td>			<td>Master of Science in Zoology (MSc)</td>			<td>Faculty of Science</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>研究生和博士后研究</h2><p>英属哥伦比亚大学研究生和博士后研究（Graduate and Postdoctoral Studies）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:215px">多学科研究文科硕士（MA）</td>			<td style="width:493px">Master of Arts in Interdisciplinary Studies (MA)</td>			<td style="width:297px">Graduate and Postdoctoral Studies</td>		</tr>		<tr>			<td>多学科研究理科硕士（MSc）</td>			<td>Master of Science in Interdisciplinary Studies (MSc)</td>			<td>Graduate and Postdoctoral Studies</td>		</tr>		<tr>			<td>多学科研究博士（PhD）</td>			<td>Doctor of Philosophy in Interdisciplinary Studies (PhD)</td>			<td>Graduate and Postdoctoral Studies</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>法学院</h2><p>英属哥伦比亚大学法学院（Peter A. Allard School of Law）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:232px">法学博士（PhD）</td>			<td style="width:368px">Doctor of Philosophy in Law (PhD)</td>			<td style="width:263px">Peter A. Allard School of Law</td>		</tr>		<tr>			<td>税务法学硕士（LLMT)</td>			<td>LLM in Taxation (LLMT)</td>			<td>Peter A. Allard School of Law</td>		</tr>		<tr>			<td>法学硕士（LLM）</td>			<td>LLM - Master of Laws (LLM)</td>			<td>Peter A. Allard School of Law</td>		</tr>		<tr>			<td>法学硕士（普通法）（LLMCL）</td>			<td>LLM - Master of Laws (Common Law) (LLMCL)</td>			<td>Peter A. Allard School of Law</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>奥克那根校区</h2><p>英属哥伦比亚大学奥克那根校区（Okanagan Campus）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:351px">教育学硕士（MEd）</td>			<td style="width:624px">Master of Education (MEd)</td>			<td style="width:324px">Education</td>		</tr>		<tr>			<td>教育学文科硕士（MA）</td>			<td>Master of Arts in Education (MA)</td>			<td>Education</td>		</tr>		<tr>			<td>工程应用科学硕士（MSc）</td>			<td>Master of Applied Science in Engineering（MSc）</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>工程博士（PhD）</td>			<td>Doctor of Philosophy in Engineering （PhD）</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>工程硕士（MEng）</td>			<td>Master of Engineering (MEng)</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>资源工程管理工程领导硕士（MEL）</td>			<td>Master of Engineering Leadership in Resource Engineering Management (MEL)&nbsp;</td>			<td>Faculty of Applied Science</td>		</tr>		<tr>			<td>英语文科硕士（MA）</td>			<td>Master of Arts in English （MA）</td>			<td>Faculty of Creative and Critical Studies</td>		</tr>		<tr>			<td>创意写作艺术创作硕士（MFA）</td>			<td>Master of Fine Arts in Creative Writing（MFA）</td>			<td>Faculty of Creative and Critical Studies</td>		</tr>		<tr>			<td>视觉艺术 艺术创作硕士（MFA）</td>			<td>Master of Fine Arts in Visual Arts（MFA）</td>			<td>Faculty of Creative and Critical Studies</td>		</tr>		<tr>			<td>跨学科研究艺术创作硕士（MFA）</td>			<td>Master of Fine Arts in Interdisciplinary Studies（MFA）</td>			<td>Faculty of Creative and Critical Studies</td>		</tr>		<tr>			<td>健康与运动科学理科硕士（MSc）</td>			<td>Master of Science in Health &amp; Exercise Sciences（MSc）</td>			<td>Faculty of Health and Social Development</td>		</tr>		<tr>			<td>IGS - 健康与运动科学博士（PhD）</td>			<td>IGS - Doctor of Philosophy in Health &amp; Exercise Sciences（PhD）</td>			<td>Faculty of Health and Social Development</td>		</tr>		<tr>			<td>社会工作硕士-进阶 一年项目（MSW）</td>			<td>Master of Social Work in Advanced One-Year Track (MSW)</td>			<td>Faculty of Health and Social Development</td>		</tr>		<tr>			<td>社会工作硕士-基础 两年项目（MSW）</td>			<td>Master of Social Work in Foundational Two-Year Track (MSW)</td>			<td>Faculty of Health and Social Development</td>		</tr>		<tr>			<td>护理学理科硕士</td>			<td>Master of Science in Nursing</td>			<td>Faculty of Health and Social Development</td>		</tr>		<tr>			<td>管理硕士（MM）</td>			<td>Master of Management (MM)</td>			<td>Faculty of Management</td>		</tr>		<tr>			<td>IGS - 本土研究文科硕士（MA）</td>			<td>IGS - Master of Arts in Indigenous Studies theme (MA)</td>			<td>Interdisciplinary Graduate Studies (IGS)</td>		</tr>		<tr>			<td>IGS - 本土研究博士（PhD）</td>			<td>IGS - Doctor of Philosophy in Indigenous Studies theme (PhD)</td>			<td>Interdisciplinary Graduate Studies (IGS)</td>		</tr>		<tr>			<td>IGS - 优化理科硕士（MSc）</td>			<td>IGS - Master of Science in Optimization theme (MSc)</td>			<td>Interdisciplinary Graduate Studies (IGS)</td>		</tr>		<tr>			<td>IGS - 优化博士（PhD）</td>			<td>IGS - Doctor of Philosophy in Optimization theme (PhD)</td>			<td>Interdisciplinary Graduate Studies (IGS)</td>		</tr>		<tr>			<td>IGS - 拉丁美洲与伊比利亚研究文科硕士（MA）</td>			<td>IGS - Master of Arts in Latin American and Iberian Studies (LAIS) (MA)</td>			<td>Interdisciplinary Graduate Studies (IGS)</td>		</tr>		<tr>			<td>IGS - 拉丁美洲与伊比利亚研究博士（PhD）</td>			<td>IGS - Doctor of Philosophy in Latin American and Iberian Studies (LAIS) (PhD)</td>			<td>Interdisciplinary Graduate Studies (IGS)</td>		</tr>		<tr>			<td>IGS - 城市研究文科硕士（MA）</td>			<td>IGS - Master of Arts in Urban Studies (MA)</td>			<td>Interdisciplinary Graduate Studies (IGS)</td>		</tr>		<tr>			<td>生物化学与分子生物学理科硕士（MSc）</td>			<td>Master of Science in Biochemistry and Molecular Biology (MSc)</td>			<td>Irving K. Barber School of Arts and Sciences</td>		</tr>		<tr>			<td>生物化学与分子生物学博士（PhD）</td>			<td>Doctor of Philosophy in Biochemistry and Molecular Biology (PhD)</td>			<td>Irving K. Barber School of Arts and Sciences</td>		</tr>		<tr>			<td>生物学理科硕士（MSc）</td>			<td>Master of Science in Biology (MSc)</td>			<td>Irving K. Barber School of Arts and Sciences</td>		</tr>		<tr>			<td>生物学博士（PhD）</td>			<td>Doctor of Philosophy in Biology (PhD)</td>			<td>Irving K. Barber School of Arts and Sciences</td>		</tr>		<tr>			<td>化学博士（PhD）</td>			<td>Doctor of Philosophy in Chemistry (PhD)</td>			<td>Irving K. Barber School of Arts and Sciences</td>		</tr>		<tr>			<td>化学理科硕士（MSc）</td>			<td>Master of Science in Chemistry (MSc)</td>			<td>Irving K. Barber School of Arts and Sciences</td>		</tr>		<tr>			<td>计算机科学理科硕士（MSc）</td>			<td>Master of Science in Computer Science (MSc)</td>			<td>Irving K. Barber School of Arts and Sciences</td>		</tr>		<tr>			<td>地球与环境科学理科硕士（MSc）</td>			<td>Master of Science in Earth and Environmental Sciences (MSc)</td>			<td>Irving K. Barber School of Arts and Sciences</td>		</tr>		<tr>			<td>地球与环境科学博士（PhD）</td>			<td>Doctor of Philosophy in Earth and Environmental Sciences (PhD)</td>			<td>Irving K. Barber School of Arts and Sciences</td>		</tr>		<tr>			<td>数学理科硕士（MSc）</td>			<td>Master of Science in Mathematics (MSc)</td>			<td>Irving K. Barber School of Arts and Sciences</td>		</tr>		<tr>			<td>数学博士（PhD）</td>			<td>Doctor of Philosophy in Mathematics (PhD)</td>			<td>Irving K. Barber School of Arts and Sciences</td>		</tr>		<tr>			<td>心理学文科硕士-PhD方向（MA）</td>			<td>Master of Arts in Psychology - PhD Track (MA)</td>			<td>Irving K. Barber School of Arts and Sciences</td>		</tr>		<tr>			<td>心理学博士（PhD）</td>			<td>Doctor of Philosophy in Psychology (PhD)</td>			<td>Irving K. Barber School of Arts and Sciences</td>		</tr>		<tr>			<td>医学物理学理科硕士（MSc）</td>			<td>Master of Science in&nbsp; Medical Physics (MSc)</td>			<td>Irving K. Barber School of Arts and Sciences</td>		</tr>		<tr>			<td>医学物理学博士（PhD）</td>			<td>Doctor of Philosophy in&nbsp; Medical Physics (PhD)</td>			<td>Irving K. Barber School of Arts and Sciences</td>		</tr>	</tbody></table></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2019-07-16</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1181;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1181' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '0';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1181;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

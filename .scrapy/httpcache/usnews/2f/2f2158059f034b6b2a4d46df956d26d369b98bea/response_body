@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>密歇根理工大学-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="密歇根理工大学" />
+<meta name="description"  id="description"  content="密歇根理工大学:密歇根理工大学（Michigan Technological University，缩写MTU）的环境工程与机械工程专业的招生是全美最多的学校，招生人数至少是美国前十。它的电气工程是美国少数以“DSP第一”（即数字信号处理优先）为准设置课程的，这种课程设置，一般只有理工顶尖的学校才有这么做。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">密歇根理工大学 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:130px">			<p>排名</p>			</td>			<td style="width:277px">			<p>153*(3)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国家</p>			</td>			<td style="width:277px">			<p>美国</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>州省</p>			</td>			<td style="width:277px">			<p><a href="http://www.qianmu.org/密歇根州" target="_blank">密歇根州</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>城市</p>			</td>			<td style="width:277px">			<p><a href="http://www.qianmu.org/霍顿（密歇根州）" target="_blank">霍顿</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>性质</p>			</td>			<td style="width:277px">			<p>公立，男女合校</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>成立年份</p>			</td>			<td style="width:277px">			<p>1885</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>宗教信仰</p>			</td>			<td style="width:277px">			<p>无</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校园</p>			</td>			<td style="width:277px">			<p>3.74Km<sup>2</sup>，郊区*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学生人数</p>			</td>			<td style="width:277px">			<p>7,242</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>本科生人数</p>			</td>			<td style="width:277px">			<p>5,721*(2)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>研究生人数</p>			</td>			<td style="width:277px">			<p>1,521*(2)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>师生比</p>			</td>			<td style="width:277px">			<p>1:13*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国际学生比例</p>			</td>			<td style="width:277px">			<p>4%</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学校分类</p>			</td>			<td style="width:277px">			<p><a href="http://www.qianmu.org/全国性大学" target="_blank">全国性大学</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>认证机构</p>			</td>			<td style="width:277px">			<p>北部学院及学校协会（NCACS）</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>网址</p>			</td>			<td style="width:277px">			<p>www.mtu.edu*(4)</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>密歇根理工大学（Michigan Technological University，缩写MTU）是一所位于美国<a href="http://www.qianmu.org/密歇根州" target="_blank">密歇根州</a>的公立研究型大学。密歇根理工大学成立于1885年， 此时正值美国铜矿业的鼎盛时期，而密歇根的北部半岛则发现了巨大的铜矿，密歇根理工学院正是为顺应当地采矿及冶金业的蓬勃发展而建立的，专门培养采矿工程及<a href="http://www.qianmu.org/冶金工程" target="_blank">冶金工程</a>师。它是密歇根北部半岛的第一所高等教育机构。*(1)</p><p><strong>学校历史</strong></p><p>密歇根理工大学<a href="http://www.qianmu.org/历史" target="_blank">历史</a>上曾三次更名，以适应其不同阶段学校角色的变化 。1885年建校时原名密歇根矿业学校（Michigan Mining School），专门培养采矿工程师。随着学校的扩展，不久该名字便无法代表学校已成为一所&ldquo;学院（College）&rdquo;的事实，1897年学校更名为密歇根矿业学院（Michigan College of Mines）。1925年，随着学校开设的课程的多样化及扩大化，学校不再只是一所&ldquo;矿业&rdquo;学校，于是开始酝酿改名，并于1927年正式更名为密歇根矿业与技术学院（ichigan College of Mining and Technology）。1935年-1956年，格罗夫&middot;C&middot;迪尔曼（Grover C. Dillman）任校长期间，密歇根理工大学获得了长足的发展，建造了联合纪念大厦（Memorial Union Building）、开设了溜冰及高尔夫课程，1948年学生人数首次超过2000人。格罗夫的继任者J.罗伯特 &middot;范&middot;佩尔特（J. Robert Van Pelt）重新引入许多PhD课程，并将学校的目标设定为一所研究型大学。罗伯特的任期的最后一年，学校 正式获得&ldquo;大学（University）&rdquo;的地位，同时定名为密歇根理工大学。</p><p><strong>校园环境</strong></p><p>密歇根理工大学主校区位于密歇根北部半岛的<a href="http://www.qianmu.org/霍顿（密歇根州）" target="_blank">霍顿</a>市，占地925英亩（约 3.74平方公里），远眺密歇根湖运河便映入眼帘。</p><p>密歇根理工大学校园整体布局十分紧凑，步行横穿整个校园用不到10分 钟，校园建筑都非常的高，这样可以缩小校园的空间。</p><p>密歇根理工大学拥有一座高尔夫球场，位于主校园以南2英里，并设有高 尔夫课程。该高尔夫课程始建于1902年，1945年，该课程因资金原因无以为 继，便以1美元的象征性价格卖给了密歇根理工大学。该球场后来经历了多 次扩建，包括新增的9个洞等。</p><h2>申请点评</h2><p>尽管密歇根理工大学开设的课程多达130多种，商科、经济、人文、艺术 、社科等等都有开设，但实质密歇根理工60%的学生都是理工科学生，理工 也是密歇根理工最为优秀的专业。</p><p>密歇根理工的<a href="http://www.qianmu.org/环境工程" target="_blank">环境工程</a>与<a href="http://www.qianmu.org/机械工程" target="_blank">机械工程</a>专业的招生是全美最多的学校，招生 人数至少是美国前十。它的<a href="http://www.qianmu.org/电气工程" target="_blank">电气工程</a>是美国少数以&ldquo;DSP第一&rdquo; （即数字信号处理优先）为准设置课程的，这种课程设置，一般只有理工顶 尖的学校才有这么做。</p><p><strong>好评项：</strong></p><p>1.Greek Life</p><p>2.Everything here is great, especially the library, areas for students to get help, and the hockey arena.</p><p>3.I can&#39;t say much for the other dorms but living in DHH was great.</p><p>4.Easily one of the safest town I&#39;ve ever been to.</p><p>5.Diversity</p><p>6.Campus Dining</p><p>7.At the restaurants students are treated like royalty, they are most of the business that comes through Houghton.</p><p>8.There are many international students and professors.</p><p>9.When you apply you are automatically placed into consideration for all applicable scholarships which would be excellent if there were more scholarships to offer.</p><p>10.Medical Lab sciences is a small department so everyone knows everyone and the faculty are willing to help you as much as they can and if they cant help you they will find someone who can!</p><p><strong>差评项：</strong></p><p>1.Nightlife</p><p>2.Atheletics</p><p>3.Off-Campus Housing</p><p>4.At Michigan Tech, we do not have the best guy to girl ratio.</p><p>5.Not so great, very less public transportation.</p><p>6.Weather</p><p>7.The food is not good at all.</p><p>8.There a lot of computer labs to choose from, however, the most popular computer labs are almost always being used up.</p><p>9.The professors at Michigan Tech are very bad. Most of them are foreigners and can be very difficult to understand.</p><p>10.Parking*(2)</p><p>参考资料：</p><p>(1)<a href="http://www.qianmu.org/redirect?code=frh1ZEitwQ4TaNElkkkkkkW8lnkvhL-Jj0FZf0m2gZVAwcTMBSWxKUzY4YzBC8u6Fqyv3HqsSHqwUQoJ-qgxnVEcJh1cKgsFMjTiQCsRjPjrMRmCgnm8C" target="_blank">Michigan Technological University</a>&nbsp;Wikipedia</p><p>(2)<a href="http://www.qianmu.org/redirect?code=QrzUA2Q9wZUg3r-yUzh9r9FtY_GuVmYB4U7HzR8xz_5dWBuJXdEHfIktGyh2s8KuCx_h8PBrhhxgOWD7T8oLpzRcd2Bl45O2a7V29vqdugfsNz9KBEVweMs3x" target="_blank">Michigan Technological University</a> College Prowler</p><p>(3)<a href="http://www.qianmu.org/全国性大学" target="_blank">National University</a> Rankings USNEWS Ranking</p><p>(4)<a href="http://www.qianmu.org/redirect?code=kr53aGRAwVJpb87XDDDDD6ARx5Tsj5PiXlnxub2FR3w0oZIvuQys5BO2lMpFaH9bMQ9g7ZFoWwWomqlzD-q3erXlTrybTv9YWEFnPBiI4d3CidWS4wGeOcpeBcy95NX3wQzuPCqTSC16Bt8uUbNamPY4atYodrDPLN5G2" target="_blank">Michigan Technological University</a> College Board</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:102px">			<p>USNEWS排名</p>			</td>			<td style="width:94px">			<p>153</p>			</td>			<td style="width:98px">			<p>学费(/年)</p>			</td>			<td style="width:74px">			<p>$30,968</p>			</td>			<td style="width:122px">			<p>申请截止日期</p>			</td>			<td style="width:79px">			<p>滚动录取</p>			</td>		</tr>		<tr>			<td style="width:102px">			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td style="width:94px">			<p>79</p>			</td>			<td style="width:98px">			<p>食宿(/年)</p>			</td>			<td style="width:74px">			<p>$10,105</p>			</td>			<td style="width:122px">			<p>开学时间</p>			</td>			<td style="width:79px">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:102px">			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td style="width:94px">			<p>6.5</p>			</td>			<td style="width:98px">			<p>申请费</p>			</td>			<td style="width:74px">			<p>$0</p>			</td>			<td style="width:122px">			<p>可申请学期</p>			</td>			<td style="width:79px">			<p>秋季、春季、夏季</p>			</td>		</tr>		<tr>			<td style="width:102px">			<p><a href="http://www.qianmu.org/SAT" target="_blank">SAT</a>均分</p>			</td>			<td style="width:94px">			<p>1130-1390(1600)</p>			</td>			<td style="width:98px">			<p>录取率</p>			</td>			<td style="width:74px">			<p>75%</p>			</td>			<td style="width:122px">			<p>奖学金形式</p>			</td>			<td style="width:79px">			<p>Need-aware &amp; Merit-based</p>			</td>		</tr>		<tr>			<td style="width:102px">			<p>平均<a href="http://www.qianmu.org/GPA" target="_blank">GPA</a></p>			</td>			<td style="width:94px">			<p>3.6</p>			</td>			<td style="width:98px">			<p>申请人数</p>			</td>			<td style="width:74px">			<p>5,386</p>			</td>			<td style="width:122px">			<p>是否提供<a href="http://www.qianmu.org/双录取" target="_blank">双录取</a></p>			</td>			<td style="width:79px">			<p>Yes</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)</p><p>注：</p><p>（1）此处排名为<a href="http://www.qianmu.org/2021USNEWS%E7%BE%8E%E5%9B%BD%E7%BB%BC%E5%90%88%E6%80%A7%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D">2021USNEWS美国综合性大学排名</a></p><p>（2）密歇根理工大学在春、夏、秋季都开设招生项目，春季申请截止日期 是9月1日，夏季学期（包括<a href="http://www.qianmu.org/语言课程" target="_blank">语言课程</a>）申请截止日期是3月1日</p><p>（3）密歇根理工大学接受国际学生TOEFL、IELTS成绩。IELTS单项口语和写作部分要求不低于6.0，TOEFL无单项要求；此外，学校还认可<a href="http://www.qianmu.org/MELAB" target="_blank">MELAB</a>、 TOEIC(Test of English for International Communication)和<a href="http://www.qianmu.org/PTE" target="_blank">PTE</a>成绩，要求：MELAB成绩不低于77分，托业（TOEIC）成绩不低于690，PTE成绩不低于53分。TOEFL和SAT考试编号是1464。入学新生TOEFL均分83</p><p>（4）SAT单项要求：写作成绩不低于420分，阅读成绩不低于500分；<a href="http://www.qianmu.org/ACT" target="_blank">ACT</a>总分要求不低于24分，阅读成绩不低于22分，<a href="http://www.qianmu.org/数学" target="_blank">数学</a>不低于24分。被录取的学生SAT均分范围：SAT阅读550-670，SAT数学570-690，SAT写作510-630；ACT均分范围24-29</p><h2>教学质量&nbsp;</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>本科生人数</p>			</td>			<td>			<p>5,721</p>			</td>			<td>			<p>小班比例(&lt;20)</p>			</td>			<td>			<p>45.4%</p>			</td>			<td>			<p><a href="http://www.qianmu.org/学期制度" target="_blank">学期制度</a></p>			</td>			<td>			<p>Semester</p>			</td>		</tr>		<tr>			<td>			<p>研究生人数</p>			</td>			<td>			<p>1,521</p>			</td>			<td>			<p>中班比例(20-49)</p>			</td>			<td>			<p>38.9%</p>			</td>			<td>			<p>教授水平满意度</p>			</td>			<td>			<p>96%</p>			</td>		</tr>		<tr>			<td>			<p>国际学生比例</p>			</td>			<td>			<p>4%</p>			</td>			<td>			<p>大班比例(&gt;50)</p>			</td>			<td>			<p>15.7%</p>			</td>			<td>			<p>就业实习满意度</p>			</td>			<td>			<p>90%</p>			</td>		</tr>		<tr>			<td>			<p>师生比</p>			</td>			<td>			<p>1:13</p>			</td>			<td>			<p>六年毕业率</p>			</td>			<td>			<p>65%</p>			</td>			<td>			<p>学生满意度</p>			</td>			<td>			<p>100%</p>			</td>		</tr>		<tr>			<td>			<p>四年毕业率</p>			</td>			<td>			<p>23%</p>			</td>			<td>			<p>新生保持率</p>			</td>			<td>			<p>87%</p>			</td>			<td>			<p>教师博士学位比例</p>			</td>			<td>			<p>87%</p>			</td>		</tr>		<tr>			<td>毕业2年平均薪水</td>			<td>$49,700</td>			<td>就业率</td>			<td>64%</td>			<td>校友网络认可度</td>			<td>79%</td>		</tr>	</tbody></table><p>*(4)(5)</p><p><strong>校园安全</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:143px">校园安全事件</td>			<td style="width:403px">Criminal Offenses -- On-Campus&nbsp;</td>			<td style="width:103px">2012</td>			<td style="width:100px">2013</td>			<td style="width:97px">2014</td>		</tr>		<tr>			<td>谋杀</td>			<td>Murder/Non-negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>过失杀人</td>			<td>Negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸</td>			<td>Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>乱伦</td>			<td>Incest</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸幼童罪</td>			<td>Statutory Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>猥亵</td>			<td>Fondling</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>性侵犯-强迫</td>			<td>Sex offenses - Forcible</td>			<td>			<p>1</p>			</td>			<td>			<p>2</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>性侵犯-非强迫</td>			<td>Sex offenses - non-forcible (incest and statutory rape only)</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>抢劫</td>			<td>Robbery</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>暴力袭击</td>			<td>Aggravated assault</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>盗窃</td>			<td>Burglary</td>			<td>			<p>2</p>			</td>			<td>			<p>1</p>			</td>			<td>			<p>2</p>			</td>		</tr>		<tr>			<td>汽车盗窃</td>			<td>Motor vehicle theft</td>			<td>			<p>1</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>纵火</td>			<td>Arson</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>	</tbody></table><p>*(5)</p><h2>申请说明</h2><p><strong>GPA与班级排名</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:26.96%">			<p>GPA</p>			</td>			<td style="width:23.48%">&nbsp;</td>			<td style="width:24.78%">			<p>班级排名</p>			</td>			<td style="width:24.78%">&nbsp;</td>		</tr>		<tr>			<td style="width:26.96%">			<p>分段</p>			</td>			<td style="width:23.48%">			<p>占比</p>			</td>			<td style="width:24.78%">			<p>分段</p>			</td>			<td style="width:24.78%">			<p>占比</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.75以上</p>			</td>			<td style="width:23.48%">			<p>46%</p>			</td>			<td style="width:24.78%">			<p>TOP10%</p>			</td>			<td style="width:24.78%">			<p>28%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.5-3.74</p>			</td>			<td style="width:23.48%">			<p>23%</p>			</td>			<td style="width:24.78%">			<p>TOP25%</p>			</td>			<td style="width:24.78%">			<p>62%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.25-3.49</p>			</td>			<td style="width:23.48%">			<p>16%</p>			</td>			<td style="width:24.78%">			<p>TOP50%</p>			</td>			<td style="width:24.78%">			<p>92%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.0-3.24</p>			</td>			<td style="width:23.48%">			<p>9%</p>			</td>			<td style="width:24.78%">			<p>50%以下</p>			</td>			<td style="width:24.78%">			<p>8%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>2.50-2.99</p>			</td>			<td style="width:23.48%">			<p>5%</p>			</td>			<td style="width:24.78%">			<p>75%以下</p>			</td>			<td style="width:24.78%">&nbsp;</td>		</tr>		<tr>			<td style="width:26.96%">			<p>2.49以下</p>			</td>			<td style="width:23.48%">			<p>1%</p>			</td>			<td style="width:24.78%">&nbsp;</td>			<td style="width:24.78%">&nbsp;</td>		</tr>	</tbody></table><p>*(4)</p><p><strong>申请材料：</strong></p><ul>	<li>在线或纸质申请表，无需申请费。</li>	<li>递交TOEFL、IELTS、PTE、MELAB等语言成绩</li>	<li>高中三年<a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a>及毕业文凭原件及英文<a href="http://www.qianmu.org/翻译" target="_blank">翻译</a>件各一份</li>	<li>标准化考试成绩：SAT/ACT</li>	<li><a href="http://www.qianmu.org/资金证明" target="_blank">资金证明</a></li>	<li>银行存款证明</li>	<li>护照复印件</li></ul><p>注：银行存款证明需出具1年以上的资金证明。*(6)</p><p><strong>桥梁课程</strong></p><p><strong>条件录取说明</strong>：学生无需单独申请密歇根理工大学的 <a href="http://www.qianmu.org/条件录取" target="_blank">条件录取</a>，如学生语言成绩未达标，学校会自动发放条件录取且无语言成绩 最低要求。*(7)(8)</p><p><strong>交换生</strong>（Exchange Students）：密歇根理工大学还 开设本科交换生项目，国际学生可以该身份进入学校学习1年。*(9)</p><p>&ldquo;2+2项目&rdquo;：目前，密歇根理工正在与中国大学谈合作的项 目，具体还未落实。*(10)</p><p><strong>费用与奖学金</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:20.68%">			<p>支出项目</p>			</td>			<td style="width:57.48%">			<p>项目英文名</p>			</td>			<td style="width:21.84%">			<p>2016-2017学年费用</p>			</td>		</tr>		<tr>			<td style="width:20.68%">			<p>学费</p>			</td>			<td style="width:57.48%">			<p>Tuition and fees</p>			</td>			<td style="width:21.84%">			<p>$30,968</p>			</td>		</tr>		<tr>			<td style="width:20.68%">			<p>住宿费用</p>			</td>			<td style="width:57.48%">			<p>Room and board</p>			</td>			<td style="width:21.84%">			<p>$10,105</p>			</td>		</tr>		<tr>			<td style="width:20.68%">			<p>书本费</p>			</td>			<td style="width:57.48%">			<p>Books and supplies</p>			</td>			<td style="width:21.84%">			<p>$1,200</p>			</td>		</tr>		<tr>			<td style="width:20.68%">			<p>个人花费</p>			</td>			<td style="width:57.48%">			<p>Estimated personal expenses</p>			</td>			<td style="width:21.84%">			<p>$1,240</p>			</td>		</tr>		<tr>			<td style="width:20.68%">			<p>交通费</p>			</td>			<td style="width:57.48%">			<p>Transportation expenses</p>			</td>			<td style="width:21.84%">			<p>$1,100</p>			</td>		</tr>		<tr>			<td style="width:20.68%">			<p>合计</p>			</td>			<td style="width:57.48%">			<p>Estimated Total</p>			</td>			<td style="width:21.84%">			<p>$44,613</p>			</td>		</tr>	</tbody></table><p>*(11)</p><p>密歇根理工大学向国际学生提供Need-aware和Merit-based奖学金，2015年度共有157名国际学生获得奖学金总额为$1,325,084，平均金额为$8,440。</p><p>密歇根理工大学向所有入学新生自动发放国际大使<a href="http://www.qianmu.org/奖学金" target="_blank">奖学金</a> （International Ambassador Scholarship），奖学金金额约$6,000/年，为期4年。申请条件录取学生只要语言成绩最终达到学校录取的最低标准要求即可获得该奖学金。*(12)</p><h2>转学申请</h2><p><strong>基本信息</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:102px">			<p>TOEFL要求</p>			</td>			<td style="width:76px">			<p>79</p>			</td>			<td style="width:116px">			<p>GPA要求</p>			</td>			<td style="width:74px">			<p>2.75</p>			</td>			<td style="width:122px">			<p>申请截止日期</p>			</td>			<td style="width:79px">			<p>滚动录取</p>			</td>		</tr>		<tr>			<td style="width:102px">			<p>IELTS分数</p>			</td>			<td style="width:76px">			<p>6.5</p>			</td>			<td style="width:116px">			<p>SAT要求</p>			</td>			<td style="width:74px">			<p>Not Required</p>			</td>			<td style="width:122px">			<p>开学时间</p>			</td>			<td style="width:79px">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:102px">			<p>最高可转学分</p>			</td>			<td style="width:76px">			<p>-</p>			</td>			<td style="width:116px">			<p>最低学分要求</p>			</td>			<td style="width:74px">			<p>-</p>			</td>			<td style="width:122px">			<p>可申请学期</p>			</td>			<td style="width:79px">			<p>秋季、春季、夏季</p>			</td>		</tr>		<tr>			<td style="width:102px">			<p>申请人数</p>			</td>			<td style="width:76px">			<p>633</p>			</td>			<td style="width:116px">			<p>录取人数</p>			</td>			<td style="width:74px">			<p>345</p>			</td>			<td style="width:122px">			<p>录取率</p>			</td>			<td style="width:79px">			<p>54%</p>			</td>		</tr>	</tbody></table><p>注：</p><p>（1）密歇根理工大学要求转学申请者GPA2.75以上，如考虑转学分，单门课程GPA须在2.0以上</p><p>（2）国际学生的成绩单需经AACRAO、FCSA、<a href="http://www.qianmu.org/WES" target="_blank">WES</a>认证机构公证递交</p><p><strong>申请说明</strong></p><p>密歇根理工大学一般每年9月初开放转学申请，第二年3月初截止。每年收到转学申请700多份&mdash;&mdash;，录取学生400多名，录取率在53%左右。秋季、春季和夏季三个学期均可转学，才可算以转学生的身份申请。可 入读大一、大二、大三、大四等其中任何一个学期。申请时，学生需计算可转学分数，入学后，由所录取的专业、项目或系计算。*(13)(14)</p><p><strong>联系方式：</strong></p><p>International Programs and Services</p><p>Administration Building 200</p><p>1400 Townsend Dr.</p><p>Houghton, Michigan 49931-1295</p><p>Email: ips@mtu.edu</p><p>Ph. 906-487-2160 *(15)</p><h2>专业设置</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/人类学" target="_blank">人类学</a></p>			</td>			<td style="width:60.82%">			<p>Anthropology</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>音频制作技术</p>			</td>			<td style="width:60.82%">			<p>Audio Production and Technology</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/传播学" target="_blank">传播艺术</a>、文化和媒体</p>			</td>			<td style="width:60.82%">			<p>Communication, Culture, and Media</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>当代文化</p>			</td>			<td style="width:60.82%">			<p>Contemporary Culture</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>语言和多样性</p>			</td>			<td style="width:60.82%">			<p>Language and Diversity</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>媒体</p>			</td>			<td style="width:60.82%">			<p>Media</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">经济学</a></p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">Economics</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/英语" target="_blank">英语</a></p>			</td>			<td style="width:60.82%">			<p>English</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>艺术与科学</p>			</td>			<td style="width:60.82%">			<p>General Sciences and Arts</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>历史</p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/历史" target="_blank">History</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>人文科学</p>			</td>			<td style="width:60.82%">			<p>Humanities</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>博雅教育</p>			</td>			<td style="width:60.82%">			<p>Liberal Arts</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/心理学" target="_blank">心理学</a></p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/心理学" target="_blank">Psychology</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>科学与技术传播</p>			</td>			<td style="width:60.82%">			<p>Scientific and Technical Communication</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>社会科学</p>			</td>			<td style="width:60.82%">			<p>Social Sciences</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>法律与社会</p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/法学" target="_blank">Law</a> and Society</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>音响设计</p>			</td>			<td style="width:60.82%">			<p>Sound Design</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/戏剧" target="_blank">戏剧</a>与电子媒体</p>			</td>			<td style="width:60.82%">			<p>Theatre and Electronic Media Performance</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>舞台及制作技术</p>			</td>			<td style="width:60.82%">			<p>Theatre and Entertainment Technology</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/会计" target="_blank">会计</a></p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/会计" target="_blank">Accounting</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>工程管理</p>			</td>			<td style="width:60.82%">			<p>Engineering <a href="http://www.qianmu.org/管理学" target="_blank">Management</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/金融" target="_blank">金融</a></p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/金融" target="_blank">Finance</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>管理</p>			</td>			<td style="width:60.82%">			<p>Management</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/创业管理" target="_blank">创业管理</a></p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/创业管理" target="_blank">Entrepreneurship</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/物流管理" target="_blank">物流与运营管理</a></p>			</td>			<td style="width:60.82%">			<p>Supply Chain and <a href="http://www.qianmu.org/运营管理" target="_blank">Operations</a> Management</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>管理信息系统</p>			</td>			<td style="width:60.82%">			<p>Management <a href="http://www.qianmu.org/信息系统管理" target="_blank">Information Systems</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">市场营销</a></p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">Marketing</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>数学</p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/数学" target="_blank">Mathematics</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>商业分析</p>			</td>			<td style="width:60.82%">			<p>Business Analytics</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/生物信息学" target="_blank">生物信息学</a></p>			</td>			<td style="width:60.82%">			<p>Bioinformatics</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/化学" target="_blank">化学</a>信息学</p>			</td>			<td style="width:60.82%">			<p>Cheminformatics</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/计算机工程" target="_blank">计算机工程</a></p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/计算机工程" target="_blank">Computer Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>计算机网络与系统管理</p>			</td>			<td style="width:60.82%">			<p>Computer Network and System Administration</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">计算机科学</a></p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">Computer Science</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>计算机应用</p>			</td>			<td style="width:60.82%">			<p>Applications</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>计算机科学</p>			</td>			<td style="width:60.82%">			<p>Computer Science</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>信息系统</p>			</td>			<td style="width:60.82%">			<p>Information Systems</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/软件工程" target="_blank">软件工程</a></p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/软件工程" target="_blank">Software Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/计算机系统" target="_blank">计算机系统</a>科学</p>			</td>			<td style="width:60.82%">			<p>Computer Systems Science</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>电气工程</p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">Electrical Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>应用与计算</p>			</td>			<td style="width:60.82%">			<p>Applied/Computational</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/生物医学工程" target="_blank">生物医学工程</a></p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/生物医学工程" target="_blank">Biomedical Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/化学工程" target="_blank">化学工程</a></p>			</td>			<td style="width:60.82%">			<p>Chemical Engineering</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">土木工程</a></p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">Civil Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>光电学</p>			</td>			<td style="width:60.82%">			<p>Photonics</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>机电工程技术</p>			</td>			<td style="width:60.82%">			<p>Electrical Engineering Technology</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>工程学</p>			</td>			<td style="width:60.82%">			<p>Engineering</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>环境工程</p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/环境工程" target="_blank">Environmental Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/地质工程" target="_blank">地质工程</a></p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/地质工程" target="_blank">Geological Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/材料科学与工程" target="_blank">材料科学与工程</a></p>			</td>			<td style="width:60.82%">			<p>Materials Science and Engineering</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>机械工程</p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">Mechanical Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>机械工程技术</p>			</td>			<td style="width:60.82%">			<p>Mechanical Engineering Technology</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>测绘工程</p>			</td>			<td style="width:60.82%">			<p>Surveying Engineering</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>生物科学</p>			</td>			<td style="width:60.82%">			<p>Biological Sciences</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>化学</p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/化学" target="_blank">Chemistry</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/环境科学" target="_blank">环境科学</a></p>			</td>			<td style="width:60.82%">			<p>Environmental</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>生态与环境应用科学</p>			</td>			<td style="width:60.82%">			<p>Ecology and Environmental Science, Applied</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/林业科学" target="_blank">林业科学</a></p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/林业科学" target="_blank">Forestry</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/地质学" target="_blank">地质学</a></p>			</td>			<td style="width:60.82%">			<p>Geology</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/地球物理" target="_blank">地球物理</a>学</p>			</td>			<td style="width:60.82%">			<p>Geophysics, Applied</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>野生动物生态与管理</p>			</td>			<td style="width:60.82%">			<p>Wildlife Ecology and Management</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/生物化学" target="_blank">生物化学</a>与<a href="http://www.qianmu.org/分子生物学" target="_blank">分子生物学</a></p>			</td>			<td style="width:60.82%">			<p>Biochemistry and Molecular Biology</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>生物科学</p>			</td>			<td style="width:60.82%">			<p>Biological Sciences</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>化学</p>			</td>			<td style="width:60.82%">			<p><strong>Chemistry</strong></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>普通生物学</p>			</td>			<td style="width:60.82%">			<p>General Biology</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>生物化学</p>			</td>			<td style="width:60.82%">			<p>Biochemistry</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/物理化学" target="_blank">物理化学</a></p>			</td>			<td style="width:60.82%">			<p>Chemical <a href="http://www.qianmu.org/物理" target="_blank">Physics</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>聚合物</p>			</td>			<td style="width:60.82%">			<p>Polymers</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>化学制药</p>			</td>			<td style="width:60.82%">			<p>Chemistry, Pharmaceutical</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>生态与环境科学</p>			</td>			<td style="width:60.82%">			<p>Ecology and Environmental Science, Applied</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>运动科学</p>			</td>			<td style="width:60.82%">			<p>Exercise Science</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/精算" target="_blank">精算学</a></p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/精算" target="_blank">Actuarial Science</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/离散数学" target="_blank">离散数学</a></p>			</td>			<td style="width:60.82%">			<p>Discrete Mathematics</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>数学</p>			</td>			<td style="width:60.82%">			<p>General Mathematics</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/统计学" target="_blank">统计学</a></p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/统计学" target="_blank">Statistics</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/医学" target="_blank">医学</a>实验室科学</p>			</td>			<td style="width:60.82%">			<p>Medical Laboratory Science</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/物理" target="_blank">物理</a></p>			</td>			<td style="width:60.82%">			<p>Physics</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>应用物理学</p>			</td>			<td style="width:60.82%">			<p>Physics, Applied</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>体育和健身管理</p>			</td>			<td style="width:60.82%">			<p><strong>Sports and Fitness Management </strong></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>建筑管理</p>			</td>			<td style="width:60.82%">			<p>Construction Management</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>生物学</p>			</td>			<td style="width:60.82%">			<p>Biology</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p><a href="http://www.qianmu.org/地球科学" target="_blank">地球科学</a></p>			</td>			<td style="width:60.82%">			<p><a href="http://www.qianmu.org/地球科学" target="_blank">Earth Science</a></p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>经济学</p>			</td>			<td style="width:60.82%">			<p>Economics</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>英语</p>			</td>			<td style="width:60.82%">			<p>English</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>综合科学</p>			</td>			<td style="width:60.82%">			<p>Integrated Science</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>数学</p>			</td>			<td style="width:60.82%">			<p>Mathematics</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>物理</p>			</td>			<td style="width:60.82%">			<p>Physics</p>			</td>		</tr>		<tr>			<td style="width:39.18%">			<p>社会研究</p>			</td>			<td style="width:60.82%">			<p>Social Studies</p>			</td>		</tr>	</tbody></table><p>*(16)</p><p>参考资料：</p><p>(1)<a href="http://www.qianmu.org/redirect?code=0rRNYshhwkcdGHhgKHDiZ8FoJsOl0yHhlpnJNTdpdMLIp9IMUBKhSj7Fobh9CKsNovbf1CuYz6nR1iBXzKTnfOEfAN8vomF3ADdJELNByi2c5BEIFkXwNQSxHhhCWe3LfaBKiCOrSXUd3U1aQh8MF8MHVEfvoz8OU9pCjthrHndSF5pfPHsglHqqOck6HZXuNfhwGt" target="_blank">National University Rankings</a> USNEWS Ranking</p><p>(2)<a href="http://www.qianmu.org/redirect?code=srULj0RNkGpktXqBQ86sQ33deR4keCj3U1zEL1Uf3IbmSCDy5CBmZo2u-h3uKmviAEbPdZPBSmPn3IxmcTb-smquezgcBYYpQ00GRT4Ygb-lCJU5RQrRrQXVvRSrpwVu9JPdyjh7mZb_MKDGlK6w_TKnsuDpgUCUGly50bRQrrKi-" target="_blank">Michigan Technological University:Annual College Costs (Fall 2015)</a> College Board</p><p>(3)<a href="http://www.qianmu.org/redirect?code=nrIeztAdwTChvn2U22222RsIKteC3p_jiBH8H8Kvc_WkJBVOcyPnJcVYWdrVvitwZ9JP8QzgJQzkPaT9bQTYNZ8hdDyhnE0vrAw7V3lKqL1kJV1tOCAuYCGuoo2yqJY6l" target="_blank">English Proficiency Requirements</a> Michigan Technology University</p><p>(4)<a href="http://www.qianmu.org/redirect?code=grPZ_xnvke4w37xpKKKKKKTg30RPnWZBGFZk2fhvGzVBQ9C0-5FNPO8WAmzYDS8uDSiFAk2foS8uAOzdA5ia-5TdPEsQDEoNl08ai7xbZ" target="_blank">Michigan Technological University</a> College Prowler</p><p>(5)<a href="http://www.qianmu.org/redirect?code=4rjT-BYGkNYOnxlvyRvTWFPm9S39zO5YnzOuDJBVm4-LfW5ODUcE-hcuqrPshl7pMtrmwh_iIuYQR_9nlRwSamqTfa87dlCUYMbDtAFUDUljXtX-CGrY4hkJoCGPpW4MyRCUPlb9MlCUmqYVKMXoCWPa0sZxGCGFp-hkAsRIqm-4LbIYJ0d" target="_blank">Michigan Technological University</a> USNEWS</p><p>(6)<a href="http://www.qianmu.org/redirect?code=yrZqibeGLmpEbhHCAAAV888UfsFeAOqC-EQEQa_zQsKPGdFv-VtPQwHacD0efdUPkdiCB4SKoOnfqOSCi3DCi87txzPeiLXF03Oh5csD6pUV" target="_blank">First-Year Students (Freshmen)</a> Michigan Technology University</p><p>(7)<a href="http://www.qianmu.org/redirect?code=Rr0CBrsxkwxMeHUzPPPPPPW--Ce_5qkUoO9E9EHMsev4oisw-LlDEfT9qy-pMgulLJipmznrgznv9i6Wta6EpeZC7YaCVJEtF7o-CvWpNQHJuVXERYJXi" target="_blank">Conditional Admission (ESL + Undergraduate)</a> Michigan Technology University</p><p>(8)<a href="http://www.qianmu.org/redirect?code=frh1ZEbnL9PXW0eEXXXXXXd6gqwZfrplYW2c2czrZLKjt8kU5qqfPvMter8VcD0efdUPaG_DSG_YIyszvUshQfMgvkDgpdXPi9_Qyqcz" target="_blank">IESL Only Students</a> Michigan Technology University</p><p>(9)<a href="http://www.qianmu.org/redirect?code=Rr0CBrkLwolVB9se888888i_9PRajN0-ItutuFj3ucrdJBXSIfDdu4YFxkyo9BfujaRDtaRG1d4ZkdRujQ_u7QwFci1_WE1DYeMH48a_U" target="_blank">Exchange Students (Undergraduate)</a> Michigan Technology University</p><p>(10)<a href="http://www.qianmu.org/redirect?code=kr53aGbRkUBr17oT222222ivWzmQpSBfmu1Y1YkH94MeYnCa8iAUmKXaQjuEmKVqriFbEDiWdDiEaCBGubBjUCrzFvsza9uFtFEV2hf17675i3REiPNvl" target="_blank">Dual Degree Programs</a> Michigan Technology University</p><p>(11)<a href="http://www.qianmu.org/redirect?code=srULj0-0wI0Gi4a3CCCCCCc1O7K3g6tADRQ-Q-o3woLxcIk-3s26TO5jsaCgsyWUo60z6EgtuEgLjCMcj6MisWtLYHSQKhS5AuP2oG" target="_blank">Annual Tuition and Fees</a> Michigan Technology University</p><p>(12)<a href="http://www.qianmu.org/redirect?code=7r_i3IzQLVxrL0ixgrtn2Wh6DbINTmsSXh_G5w7OSUqImq6huq40Z93FpNqnRY9I8w6wf4xR5D6bq3HVGeFpX-dCpsuQfBrMggGjHcVSqJL9lIZuwOopEYV" target="_blank">Financial Aid: International Ambassador Scholarships</a> Michigan Technology University</p><p>(13)<a href="http://www.qianmu.org/redirect?code=VrxbId7OktZGdbYzldvYGwRml9CWh5pm3F1H0NduUHN0zwLmd3mCkFrZBc3fxgSFqnuCxAbqf4SPUH70-qIZkCGTrRk29tP94y1WB9MR0iD-NFjSPVDyMp7y_Y3tFKWT-QCxT1y94Ct_mEMcJxKbRhCaYjeQS_cNgvmdDN3VxMypv" target="_blank">Michigan Technological University: Transfer Students</a> Michigan Technology University</p><p>(14)<a href="http://www.qianmu.org/redirect?code=xrVOpgXtLqEHvPFkSSSSSS09dVsJbjlKJfw_w_2FK_-dyO5EXqgUy_ML2rbYkV5WyZ5mJZ5EKVlBInuIzcm6zdma7f_vz5mGxcmjEpm3O" target="_blank">Transfer Students</a> Michigan Technology University</p><p>(15)<a href="http://www.qianmu.org/redirect?code=Rr0CBrsdkfKZOJ8WVVVVVVDus4OgQPBp65hWhDfQhoNV297nr0qVhijgOByMi6EpeZERX" target="_blank">Contact</a> Michigan Technology University</p><p>(16)<a href="http://www.qianmu.org/redirect?code=FrFYCWPgwEi9XOGF31jp5zf8Mbm-dRHfPhjfuzSAhuoXTc1cef2hvgpHoTOt45HauyszujnA3yaW1XU8bW2UFf3kaWIHYv1tX8nyI" target="_blank">Undergraduat e Admissions: Majors</a> Michigan Technology University</p><h1>研究生申请</h1><p><strong>院系设置</strong></p><p><a href="http://www.qianmu.org/密歇根州立大学" target="_blank">密歇根州立大学</a>开设有6所学术学院，分别是：</p><ul>	<li><a href="http://www.qianmu.org/教育学" target="_blank">教育学</a>院（Pursue a Graduate School Education）</li>	<li>商学院（School of Business and Economics）</li>	<li>工程学院（College of Engineering）</li>	<li>环境科学与林学院（School of Forest Resources and Environmental Science）</li>	<li>艺术与科学学院（College of Sciences and Arts）</li>	<li>技术学院（School of Technology）*(1)</li></ul><p><strong>基本要求</strong></p><p>密歇根理工大学研究生院（Graduate School）规定的基本申请条件如下 ：</p><ul>	<li>正规大学四年制本科毕业并取得学士学位，部分专业专科学生 同样可以申请。&nbsp;</li>	<li>GPA要求：不得低于3.0分</li>	<li>语言要求：密歇根理工大学研究生院未设定有统一的TOEFL或 IELTS要求，但各专业均设定有各自的最低分数要求：TOEFL多在79-100分之 间，IELTS多在6.5-7.0之间。具体专业不同，要求不同</li>	<li>密歇根理工大学开设的大部分项目要求<a href="http://www.qianmu.org/GRE" target="_blank">GRE</a>成绩，但商学院和 应用自然资源经济学硕士项目（the Master of Science in Applied Natural Resource Economics）需要学生提供<a href="http://www.qianmu.org/GMAT" target="_blank">GMAT</a>成绩。</li>	<li>申请时间：密歇根理工大学研究生院并未有规定的统一申请截 止时间，建议国际学生最好开学前6-8个月以前申请</li></ul><p><strong>注：</strong>该校向国际学生提供有<a href="http://www.qianmu.org/半条件录取" target="_blank">半条件录取</a> （Provisional Admit），语言成绩未能达到专业规定要求的学生，只需在 申请时提交半条件录取申请，便有机会获得。获得半条件录取的学生，可以 继续参加TOEFL或IELTS考试，向学校提供合格的语言成绩，或者选择进入密 歇根理工大学的语言中心学习语言课程。*(2)</p><p><strong>申请说明</strong></p><p><strong>申请材料：</strong></p><ul>	<li>在线或纸质申请表</li>	<li>申请费：0</li>	<li><a href="http://www.qianmu.org/个人陈述" target="_blank">个人陈述</a>（<a href="http://www.qianmu.org/个人陈述" target="_blank">PS</a>）*(34)</li>	<li>成绩单</li>	<li>GRE/GMAT/TOEFL/IELTS</li>	<li>3封<a href="http://www.qianmu.org/推荐信" target="_blank">推荐信</a></li>	<li>简历</li>	<li><a href="http://www.qianmu.org/写作样本" target="_blank">写作样本</a></li>	<li>前置课程要求 *(4)</li></ul><p><strong>费用与奖学金</strong></p><p><strong>费用（2014-15</strong><strong>）</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td colspan="5" style="width:100.0%">			<p><strong>2014-2015 Graduate Expenses</strong></p>			</td>		</tr>		<tr>			<td style="width:34.54%">			<p>Item</p>			</td>			<td style="width:16.64%">			<p>Fall</p>			</td>			<td style="width:18.3%">			<p>Spring</p>			</td>			<td style="width:16.76%">			<p>Summer</p>			</td>			<td style="width:13.76%">			<p>Annual</p>			</td>		</tr>		<tr>			<td style="width:34.54%">			<p>Tuition&nbsp;&nbsp;($820.50/credit)</p>			</td>			<td style="width:16.64%">			<p>$7,384.5</p>			</td>			<td style="width:18.3%">			<p>$7,384.5</p>			</td>			<td style="width:16.76%">			<p>$820.50</p>			</td>			<td style="width:13.76%">			<p>$15,589.50</p>			</td>		</tr>		<tr>			<td style="width:34.54%">			<p>Required Fees</p>			</td>			<td style="width:16.64%">			<p>$124</p>			</td>			<td style="width:18.3%">			<p>$124</p>			</td>			<td style="width:16.76%">			<p>$10</p>			</td>			<td style="width:13.76%">			<p>$258</p>			</td>		</tr>		<tr>			<td style="width:34.54%">			<p>Lab and Course Fees</p>			</td>			<td style="width:16.64%">			<p>$65</p>			</td>			<td style="width:18.3%">			<p>$65</p>			</td>			<td style="width:16.76%">			<p>-</p>			</td>			<td style="width:13.76%">			<p>$130</p>			</td>		</tr>		<tr>			<td style="width:34.54%">			<p>Room and Board</p>			</td>			<td style="width:16.64%">			<p>$5,103</p>			</td>			<td style="width:18.3%">			<p>$5,103</p>			</td>			<td style="width:16.76%">			<p>$5,103</p>			</td>			<td style="width:13.76%">			<p>$15,309</p>			</td>		</tr>		<tr>			<td style="width:34.54%">			<p>Books and Supplies</p>			</td>			<td style="width:16.64%">			<p>$300</p>			</td>			<td style="width:18.3%">			<p>$300</p>			</td>			<td style="width:16.76%">			<p>$100</p>			</td>			<td style="width:13.76%">			<p>$700</p>			</td>		</tr>		<tr>			<td style="width:34.54%">			<p>Personal Needs &amp; Travel</p>			</td>			<td style="width:16.64%">			<p>$1,135</p>			</td>			<td style="width:18.3%">			<p>$1,135</p>			</td>			<td style="width:16.76%">			<p>$1,135</p>			</td>			<td style="width:13.76%">			<p>$3,405</p>			</td>		</tr>		<tr>			<td style="width:34.54%">			<p>Loan Origination Fee</p>			</td>			<td style="width:16.64%">			<p>$47</p>			</td>			<td style="width:18.3%">			<p>$47</p>			</td>			<td style="width:16.76%">			<p>$47</p>			</td>			<td style="width:13.76%">			<p>$141</p>			</td>		</tr>		<tr>			<td style="width:34.54%">			<p>TOTAL</p>			</td>			<td style="width:16.64%">			<p>$14,164</p>			</td>			<td style="width:18.3%">			<p>$14,163.50</p>			</td>			<td style="width:16.76%">			<p>$7,215.50</p>			</td>			<td style="width:13.76%">			<p>$35,542.50</p>			</td>		</tr>	</tbody></table><p>*(5)</p><p><strong>奖学金申请</strong></p><p>密歇根理工大学的奖学金多由系里提供，其形式主要以<a href="http://www.qianmu.org/TA" target="_blank">TA</a>、<a href="http://www.qianmu.org/RA" target="_blank">RA</a>和 Fellowship为主。学生在申请时应主动与系里的导师或招生办联系，以期获 得由导师或系里提供的RA、TA奖学金。*(6)</p><p><strong>参考资料：</strong></p><p>(1)<a href="http://www.qianmu.org/redirect?code=Hr3vKzNXwF1EgzSYWWWWWWpfdwGzQOEt9k7Z7Z-Ag6KvWqigLYy35Vx2lfzaFU2Qm9bAkev6si_ts" target="_blank">Colleges and Schools</a> Michigan Technology University</p><p>(2)<a href="http://www.qianmu.org/redirect?code=ZrygfZwkwhmWQkCmFoh57Nf4bDPazdB10cHPq_bLOayLufWjbOnKcmUeXFd5HfWVipnhVu5bQHGY1KBHBBtwOO6H7mXWa1hHmSiVjPW1wRfXBtlsFteYWnK8a" target="_blank">Application Requirements</a> Michigan Technology University</p><p>(3)<a href="http://www.qianmu.org/redirect?code=nrIeztAfw5T1UpgRlllllenoSnU1vrVJaEaEBm9ES4zQ6nuJOE9-2V9w2ron8rWn2VfG1d4ZkdRujQ_u7QwXWh8u_A42_8uGAOyXa5jQW3DGAO9GWSyT9SpXYEPGAOw1D5ws4q" target="_blank">Michigan Tech PS: Ares of Interest</a> Michigan Technology University</p><p>(4)<a href="http://www.qianmu.org/redirect?code=QrzUA2XXku1DPCQheeeeeuZmFyvZmTDgtzDODO8WfqWJukdUqPJviIw2pNAodIpR1IqRzm23Sk4Ef0DSzQlGzFX9pGocKThqdRzPYRI5mEn7RYy5g5sjiq4jmQQqKV5RD3vWRiNpj5cBHiuV-" target="_blank">Application Requirements</a> Michigan Technology University</p><p>(5)<a href="http://www.qianmu.org/redirect?code=crr9MjolwvLQzw4hvvvvvvTvQ6z8egpTuzhNhNpZnoLxcIk-3sGwtxeCAfstOGrf5G6fkLS8Wepqfog-7IbD7PyWcG82gVUxWQEyWVX74bhk" target="_blank">Co st of Education</a> Michigan Technology University</p><p>(6)<a href="http://www.qianmu.org/redirect?code=2rNMmQ1iw8gc0H1VBBBBBkVtcI0SLn1f4Q0b0b6FouN43Tx5Vgj0F21Jd5iAdZI1CZO1syJPq_A3GQvx-3fz-uaTYP0pDb6tOK6fOoM81OqG3DmQ36-QZa-vhu" target="_blank">Assistantships</a> Michigan Technology University</p><h2>工程学院</h2><p>密歇根州立大学工程学院（College of Engineering）开设有以下学位 项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:19.58%">			<p><strong>项目名称</strong></p>			</td>			<td style="width:49.9%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:16.62%">			<p><strong>开设学位</strong></p>			</td>			<td style="width:13.9%">			<p><strong>TOEFL要求</strong></p>			</td>		</tr>		<tr>			<td style="width:19.58%">			<p><a href="http://www.qianmu.org/生物医学" target="_blank">生物医学</a>工程</p>			</td>			<td style="width:49.9%">			<p>Biomedical Engineering</p>			</td>			<td style="width:16.62%">			<p>MS、PhD</p>			</td>			<td style="width:13.9%">			<p>100</p>			</td>		</tr>		<tr>			<td style="width:19.58%">			<p>化学工程</p>			</td>			<td style="width:49.9%">			<p>Chemical Engineering</p>			</td>			<td style="width:16.62%">			<p>MS、PhD</p>			</td>			<td style="width:13.9%">			<p>94</p>			</td>		</tr>		<tr>			<td style="width:19.58%">			<p>土木工程</p>			</td>			<td style="width:49.9%">			<p>Civil Engineering</p>			</td>			<td style="width:16.62%">			<p>MS、PhD</p>			</td>			<td style="width:13.9%">			<p>100</p>			</td>		</tr>		<tr>			<td style="width:19.58%">			<p>计算机工程</p>			</td>			<td style="width:49.9%">			<p>Computer Engineering</p>			</td>			<td style="width:16.62%">			<p>MS、PhD</p>			</td>			<td style="width:13.9%">			<p>100</p>			</td>		</tr>		<tr>			<td style="width:19.58%">			<p>电气工程</p>			</td>			<td style="width:49.9%">			<p>Electrical Engineering</p>			</td>			<td style="width:16.62%">			<p>MS、PhD</p>			</td>			<td style="width:13.9%">			<p>100</p>			</td>		</tr>		<tr>			<td style="width:19.58%">			<p>工程学</p>			</td>			<td style="width:49.9%">			<p>Engineering</p>			</td>			<td style="width:16.62%">			<p>ME</p>			</td>			<td style="width:13.9%">			<p>79</p>			</td>		</tr>		<tr>			<td style="width:19.58%">			<p><a href="http://www.qianmu.org/工程力学" target="_blank">工程力学</a></p>			</td>			<td style="width:49.9%">			<p><a href="http://www.qianmu.org/工程力学" target="_blank">Engineering Mechanics</a></p>			</td>			<td style="width:16.62%">			<p>MS</p>			</td>			<td style="width:13.9%">			<p>90</p>			</td>		</tr>		<tr>			<td style="width:19.58%">			<p><a href="http://www.qianmu.org/工程物理" target="_blank">工程物理</a></p>			</td>			<td style="width:49.9%">			<p><a href="http://www.qianmu.org/工程物理" target="_blank">Engineering Physics</a></p>			</td>			<td style="width:16.62%">			<p>PhD</p>			</td>			<td style="width:13.9%">			<p>88</p>			</td>		</tr>		<tr>			<td style="width:19.58%">			<p>环境工程</p>			</td>			<td style="width:49.9%">			<p>Environmental Engineering</p>			</td>			<td style="width:16.62%">			<p>MS、PhD</p>			</td>			<td style="width:13.9%">			<p>100</p>			</td>		</tr>		<tr>			<td style="width:19.58%">			<p>环境工程科学</p>			</td>			<td style="width:49.9%">			<p>Environmental Engineering Science</p>			</td>			<td style="width:16.62%">			<p>MS</p>			</td>			<td style="width:13.9%">			<p>100</p>			</td>		</tr>		<tr>			<td style="width:19.58%">			<p>地质工程</p>			</td>			<td style="width:49.9%">			<p>Geological Engineering</p>			</td>			<td style="width:16.62%">			<p>MS、PhD</p>			</td>			<td style="width:13.9%">			<p>79</p>			</td>		</tr>		<tr>			<td style="width:19.58%">			<p>地质学</p>			</td>			<td style="width:49.9%">			<p>Geology</p>			</td>			<td style="width:16.62%">			<p>MS、PhD</p>			</td>			<td style="width:13.9%">			<p>79</p>			</td>		</tr>		<tr>			<td style="width:19.58%">			<p>地球物理</p>			</td>			<td style="width:49.9%">			<p>Geophysics</p>			</td>			<td style="width:16.62%">			<p>MS、PhD</p>			</td>			<td style="width:13.9%">			<p>79</p>			</td>		</tr>		<tr>			<td style="width:19.58%">			<p><a href="http://www.qianmu.org/材料科学与工程" target="_blank">材料科学</a>与工程</p>			</td>			<td style="width:49.9%">			<p>Materials Science and Engineering</p>			</td>			<td style="width:16.62%">			<p>MS、PhD</p>			</td>			<td style="width:13.9%">			<p>79</p>			</td>		</tr>		<tr>			<td style="width:19.58%">			<p>机械工程</p>			</td>			<td style="width:49.9%">			<p>Mechanical Engineering</p>			</td>			<td style="width:16.62%">			<p>MS</p>			</td>			<td style="width:13.9%">			<p>90</p>			</td>		</tr>		<tr>			<td style="width:19.58%">			<p>机械工程与工程力学</p>			</td>			<td style="width:49.9%">			<p>Mechanical Engineering - Engineering Mechanics</p>			</td>			<td style="width:16.62%">			<p>PhD</p>			</td>			<td style="width:13.9%">			<p>90</p>			</td>		</tr>		<tr>			<td style="width:19.58%">			<p>采矿工程</p>			</td>			<td style="width:49.9%">			<p>Mining Engineering</p>			</td>			<td style="width:16.62%">			<p>MS、PhD</p>			</td>			<td style="width:13.9%">			<p>79</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)(4)(5)(6)(7)(8)(9)(10)(11)(12)(13)(14)(15)(16)(17) (18)</p><p><strong>参考资料：</strong></p><p>(1)<a href="http://www.qianmu.org/redirect?code=wrYmhlZ6wKwjsYZyJJJJJJLu24ViGWO6zhNhNpZnN43Tx5VgzCNpP5VHPCq6SCs6G4b6xhbqSYu6x9A6J-UzS-4k8NVYoRQXnigaJRmB" target="_blank">Programs by College/School</a> Michigan Technology University</p><p>(2)&nbsp;<a href="http://www.qianmu.org/redirect?code=VrxbIdtUL-Fj7pVB888888u5W_LntJEZjoG5G5sRUr07_2AFil3QU8l2AjibA1wKH1rKZqlF5HyFAtxaQrUKwOhTSh8TduByshQ9mhktJUMlOb4" target="_blank">&nbsp;Biomedical Engineering</a>&nbsp;Michigan Technology University</p><p>(3)&nbsp;<a href="http://www.qianmu.org/redirect?code=CrXRF8znkkP-G5Vi888888sbZH3YA2yMvPvPa0uPZl51xo0yBGw1ro0VrGlZkGdZP3jZvHjlk-tZvpdbcvgbWvsi0Ldb_LJSoMxm" target="_blank">Ch emical Engineering</a>&nbsp;Michigan Technology University</p><p>(4)&nbsp;<a href="http://www.qianmu.org/redirect?code=-rGz4OfckzD3-_2AH5yd2VUiof0ZSl0_5f7Y772933SPSaofjUPunr2sb033fPRFt7hY4BM9Nfg7mqZktIWAMUNpl72LnIUYwjk-fabUbpM18H-" target="_blank">Civil Engineering</a>&nbsp;Michigan Technology University</p><p>(5)&nbsp;<a href="http://www.qianmu.org/redirect?code=MrO2caJcw1hiqOU2VVVVVVWMCaAX95RmMHqrqrLxKZ9OCaTMB3VqxA3N9uDUXa3CJakCKyFqGKsqd6RIhuiezJevrE1vGm089B2grzwOpGWnZ" target="_blank">Computer Engineering</a>&nbsp;Michigan Technology University</p><p>(6)&nbsp;<a href="http://www.qianmu.org/redirect?code=UrsQlJECwBdbNxzDmmmmmm5m6CpP_xAMEdRgRgwLX4bugx8P2EKYE6i7t1POtgGimgAi2wQA3P1Agd1VdebaPqkCNIxCc6xP_Wd9Ylft4_3eJQj" target="_blank">&nbsp;Electrical Engineering</a>&nbsp;Michigan Technology University</p><p>(7)&nbsp;<a href="http://www.qianmu.org/redirect?code=urKrNASskL3ojCpxrrrrrrELXhlvPj48-H-HsU_HXIpOJh68wHsyJhkywo4Mw34vXR4O-RopM2e4OdbcvgbWvsiWMgHfMgbWvgWpOsm" target="_blank">Engineering</a>&nbsp;Michigan Technology University</p><p>(8)&nbsp;<a href="http://www.qianmu.org/redirect?code=hrfXwivcLYq_Z8UAQQQQQQZ2j20R8M7B2nY4Y4fhTAE1R-r3MIgsfIreK_XdvenD9epDB38g2xdglp0s5y4WOb9QUYjQRHjd9THkEVmr_qhssTpbd-DuM" target="_blank">Engineering Mechanics</a>&nbsp;Michigan Technology University</p><p>(9)&nbsp;<a href="http://www.qianmu.org/redirect?code=lreSUwatkO9fNDiVccccccYmFyvZmTDge_OvOvBhCvezycxLm7muAYkznvIQVKOaqKYaM6D-KAn-dyWgJVzLltPxW2BxEyBYJ7m_9B5KvHkDvUVdf" target="_blank">Engineering Physics</a>&nbsp;Michigan Technology University</p><p>(10)&nbsp;<a href="http://www.qianmu.org/redirect?code=DroIGDOpLBGgpjIbWWWWWcc03C14IO8GJgJgFNag325TnCAGYgFpnCfpYq8QYt843P8TJPqQuU8Tl7Pji3P1iAp1wjFNi3pOwTPOl0W6aon2F-G" target="_blank">Environmental Engineering</a>&nbsp;Michigan Technology University</p><p>(11)&nbsp;<a href="http://www.qianmu.org/redirect?code=kr53aGRLwolVBDOc-ShiZQdYOnJLhF0Bwg7uiZul17DpOD5qcBDgMpTxUHOssHR3My5156GlYX-OB6glOTD6RfBU4QeUcCOTtDtZb-21rBew68EpFkMp81mjeB_Kw-VOl" target="_blank">Environmental Engineering Science</a>&nbsp;Michigan Technology University</p><p>(12)&nbsp;<a href="http://www.qianmu.org/redirect?code=7r_i3IKUws9rfU0OKKKKKKShzp7x83bacsO1O1kpikh_lnoS8RJgPaxjsW0dA_Ke1_Me0xbkRm4ka0w3pRm1n9WY4bdY7FwHIFwOIF8RDhoi" target="_blank">Geological Engineering</a>&nbsp;Michigan Technology University</p><p>(13)&nbsp;<a href="http://www.qianmu.org/redirect?code=urKrNAQcLYq_ZBbIAgM170woL3ZJ2WArNyAIi1l8axbgAIvtvrEy3wFPDAqaQkFbKAo-pCW4YuNKqiWQ8rFxTapdU93fcjwMsc1XosJhaJpdHYEQaxr" target="_blank">Geo logy</a>&nbsp;Michigan Technology University</p><p>(14)&nbsp;<a href="http://www.qianmu.org/redirect?code=qrTydP_RLuKMyLQDUUUUUUW2j20R8M7BGIjmjmJ8EpBMNE4CtjGItmJaMuYTzi1u_iUuCEbLV5QLttxaQrUKwOuauN4a-hv5Cfr1W_c8qbl2BfR" target="_blank">&nbsp;Geophysics</a>&nbsp;Michigan Technology University</p><p>(15)&nbsp;<a href="http://www.qianmu.org/redirect?code=hrfXwivHLdft_3fSuuuuuuFxdh-gzSYG5Fojoj4HAxyhu9Bj-ZWYRsxCHqPum7YTy7ATGoTRxVjRcs8pO1iZ2-ECqUZCTDGPMKZQy6QEWU0TO" target="_blank">M aterials Science and Engineering</a>&nbsp;Michigan Technology University</p><p>(16)&nbsp;<a href="http://www.qianmu.org/redirect?code=BraKR4erkQ2RhgAGffffffou82oW4Z0DiKh0h0OC8qWJukdUqPJviIw2pNATbYnL9YyLIwRq3H0qi4-zGpCb3FKbEJAbSOlEwizUDiNMRX98wcu6mKtQbM" target="_blank">Mechanical Engineering</a>&nbsp;Michigan Technology University</p><p>(17)&nbsp;<a href="http://www.qianmu.org/redirect?code=kr53aG4TLNk2BleEXXXXXXkocud4GkHnzMtotoYBVyxg4fmhkSzMZoYTNSHUJ3NcW3TcWK0AOS1Ag5lDpZCB5eWKlF6Kxfu_vOwbTOz" target="_blank">Mechanical Engineering&ndash;Engineering Mechanics</a>&nbsp;Michigan Technology University</p><p>(18)&nbsp;<a href="http://www.qianmu.org/redirect?code=3rHk7mgpwOBAjWXhJqfMB7BFofp1DtH1F1NxOUEmFHkzzkxh1f5aeEvhWWzlHaOaZZxFF8foBP_t1V1-aNMPDF7JIoDR7gBO29jVWxddLRx0MR88" target="_blank">Mini ng Engineering</a>&nbsp;Michigan Technology University</p><h2>文理学院</h2><p>密歇根州立大学文理学院（College of Science and Arts）开设 有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:29.64%">			<p><strong>项目名称</strong></p>			</td>			<td style="width:48.08%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:22.28%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:29.64%">			<p>应用认知科学和人为因素</p>			</td>			<td style="width:48.08%">			<p>Applied Cognitive Science and Human Factors</p>			</td>			<td style="width:22.28%">			<p>MS, PhD</p>			</td>		</tr>		<tr>			<td style="width:29.64%">			<p>应用科学教育</p>			</td>			<td style="width:48.08%">			<p>Applied Science Education</p>			</td>			<td style="width:22.28%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.64%">			<p>生物科学</p>			</td>			<td style="width:48.08%">			<p>Biological Sciences</p>			</td>			<td style="width:22.28%">			<p>MS, PhD</p>			</td>		</tr>		<tr>			<td style="width:29.64%">			<p>化学</p>			</td>			<td style="width:48.08%">			<p>Chemistry</p>			</td>			<td style="width:22.28%">			<p>MS, PhD</p>			</td>		</tr>		<tr>			<td style="width:29.64%">			<p>计算机科学</p>			</td>			<td style="width:48.08%">			<p>Computer Sciences</p>			</td>			<td style="width:22.28%">			<p>MS, PhD</p>			</td>		</tr>		<tr>			<td style="width:29.64%">			<p>工程物理</p>			</td>			<td style="width:48.08%">			<p>Engineering Physics</p>			</td>			<td style="width:22.28%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:29.64%">			<p>环保及能源政策</p>			</td>			<td style="width:48.08%">			<p>Environmental and Energy Policy</p>			</td>			<td style="width:22.28%">			<p>MS PhD</p>			</td>		</tr>		<tr>			<td style="width:29.64%">			<p>工业<a href="http://www.qianmu.org/考古学" target="_blank">考古学</a></p>			</td>			<td style="width:48.08%">			<p>Industrial Archaeology</p>			</td>			<td style="width:22.28%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.64%">			<p>工业遗产和考古</p>			</td>			<td style="width:48.08%">			<p>Industrial Heritage and Archeology</p>			</td>			<td style="width:22.28%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:29.64%">			<p><a href="http://www.qianmu.org/运动学" target="_blank">运动学</a></p>			</td>			<td style="width:48.08%">			<p>Kinesiology</p>			</td>			<td style="width:22.28%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.64%">			<p>数学科学</p>			</td>			<td style="width:48.08%">			<p>Mathematical Sciences</p>			</td>			<td style="width:22.28%">			<p>MS, PhD</p>			</td>		</tr>		<tr>			<td style="width:29.64%">			<p>物理</p>			</td>			<td style="width:48.08%">			<p>Physics</p>			</td>			<td style="width:22.28%">			<p>MS, PhD</p>			</td>		</tr>		<tr>			<td style="width:29.64%">			<p>修辞与技术交流</p>			</td>			<td style="width:48.08%">			<p>Rhetoric and Technical Communication</p>			</td>			<td style="width:22.28%">			<p>MS, PhD</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p><strong>参考资料：</strong></p><p>(1)&nbsp;<a href="http://www.qianmu.org/redirect?code=7r_i3IzoLzABI-UAQQQQQQ_RY1CdUmcip-p-eqj-YHhtLAMIpCE7b3M_bCZ92Cu9V1W9rAWZ24j9r6BUGd9EfdeVlBub0W3oktL-fiT" target="_blank">Programs by College/School</a> Michigan Technology University</p><h2>商学院</h2><p>密歇根州立大学商学院（School of Business and Economics）开设有 以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:24.72%">			<p><strong>项目名称</strong></p>			</td>			<td style="width:39.94%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:35.34%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:24.72%">			<p>会计</p>			</td>			<td style="width:39.94%">			<p>Accounting</p>			</td>			<td style="width:35.34%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:24.72%">			<p>应用自然资源经济学</p>			</td>			<td style="width:39.94%">			<p>Applied Natural Resource Economics</p>			</td>			<td style="width:35.34%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:24.72%">			<p>工商管理</p>			</td>			<td style="width:39.94%">			<p>Business Administration</p>			</td>			<td style="width:35.34%">			<p><a href="http://www.qianmu.org/MBA" target="_blank">MBA</a></p>			</td>		</tr>	</tbody></table><p>*</p><p><strong>参考资料：</strong></p><p><a href="http://www.qianmu.org/redirect?code=arBPkMoRLuKMyLhillllll9pZMtTeh6yBudpdpDzoeP48louskiUTOpjDr3yw-Fpu-OpbsCQKubQwXFHxjQ4D8nmGypm6z3n_vNrMjQf4ps2ukJ" target="_blank">Programs by College/School</a> Michigan Technology University</p><h2>环境科学与林学院</h2><p>密歇根州立大学环境科学与林学院（School of Forest Resources and Environmental Science）开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:32.1%">			<p><strong>项目名称</strong></p>			</td>			<td style="width:47.88%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:20.02%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:32.1%">			<p>应用<a href="http://www.qianmu.org/生态学" target="_blank">生态学</a></p>			</td>			<td style="width:47.88%">			<p>Applied Ecology</p>			</td>			<td style="width:20.02%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:32.1%">			<p>森林生态与管理</p>			</td>			<td style="width:47.88%">			<p>Forest Ecology and Management</p>			</td>			<td style="width:20.02%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:32.1%">			<p>森林<a href="http://www.qianmu.org/分子遗传学" target="_blank">分子遗传学</a>和生物技术</p>			</td>			<td style="width:47.88%">			<p>Forest Molecular <a href="http://www.qianmu.org/遗传学" target="_blank">Genetics</a> and Biotechnology</p>			</td>			<td style="width:20.02%">			<p>MS, PhD</p>			</td>		</tr>		<tr>			<td style="width:32.1%">			<p>林业科学</p>			</td>			<td style="width:47.88%">			<p>Forest Science</p>			</td>			<td style="width:20.02%">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:32.1%">			<p>林学</p>			</td>			<td style="width:47.88%">			<p>Forestry</p>			</td>			<td style="width:20.02%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:32.1%">			<p>地理信息科学</p>			</td>			<td style="width:47.88%">			<p>Geographic Information Science</p>			</td>			<td style="width:20.02%">			<p>MGIS</p>			</td>		</tr>	</tbody></table><p>*</p><p><strong>参考资料：</strong></p><p><a href="http://www.qianmu.org/redirect?code=UrsQlJElwvLQzlcKeeeeeeBtN_aTA9lsO1O1kpi1NoSLy_Hsn1kvy_dvnRlEnZlTNIlLOIRECblLABuLl0uHlUjw7v-aCZ_RfGVHhO" target="_blank">Programs by College/School</a> Michigan Technology University</p><h2>技术学院</h2><p>密歇根州立大学技术学院（School of Technology）开设有以下硕士学 位（MS）项目，分别是：</p><ul>	<li>整合地理空间技术（Integrated Geospatial Technology）</li>	<li>医疗信息技术（Medical Informatics）*</li></ul><p><strong>参考资料：</strong></p><p><a href="http://www.qianmu.org/redirect?code=Gr-dDkOcw1hiqOt9XXXXXX_m6CpP_xAMpUPOPOucA6KvWqigLY1bRcjDmKSqgzu4lz_4FqK9bay9pCAcDUYw4SBVGxuVgyjrvxbWZ9JQU5DsKpk" target="_blank">Programs by College/School</a> Michigan Technology University</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2020-09-18</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1599;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1599' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1599;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

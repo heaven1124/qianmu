@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>瓦尔帕莱索大学-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="瓦尔帕莱索大学" />
+<meta name="description"  id="description"  content="瓦尔帕莱索大学:瓦尔帕莱索大学（Valparaiso University）是一所中等大小的私立地方性大学，成立于1859年，位于美国中西部小城瓦尔帕莱索，提供本科、硕士、博士、副学士、文凭课程五种学位类型。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">瓦尔帕莱索大学 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>排名</p>			</td>			<td>			<p>160</p>			</td>		</tr>		<tr>			<td>			<p>国家</p>			</td>			<td>			<p>美国</p>			</td>		</tr>		<tr>			<td>			<p>州省</p>			</td>			<td>			<p><a href="http://www.qianmu.org/印第安纳州" target="_blank">印第安纳州</a></p>			</td>		</tr>		<tr>			<td>			<p>城市</p>			</td>			<td>			<p>瓦尔帕莱索</p>			</td>		</tr>		<tr>			<td>			<p>性质</p>			</td>			<td>			<p>私立，男女合校</p>			</td>		</tr>		<tr>			<td>			<p>成立年份</p>			</td>			<td>			<p>1859年</p>			</td>		</tr>		<tr>			<td>			<p>宗教信仰</p>			</td>			<td>			<p>无</p>			</td>		</tr>		<tr>			<td>			<p>学生人数</p>			</td>			<td>			<p>4,540</p>			</td>		</tr>		<tr>			<td>			<p>学校分类</p>			</td>			<td>			<p>中部<a href="http://www.qianmu.org/地方性大学" target="_blank">地方性大学</a></p>			</td>		</tr>		<tr>			<td>			<p>网址</p>			</td>			<td>			<p>www.valpo.edu</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>瓦尔帕莱索大学（Valparaiso University）是一所中等大小的私立<a href="http://www.qianmu.org/地方性大学" target="_blank">地方性大学</a>，成立于1859年，位于美国中西部小城瓦尔帕莱索，提供本科、硕士、博士、副学士、文凭课程五种学位类型。</p><h2>申请点评</h2><p><strong>好评项：</strong></p><p>1.Basketball</p><p>2.Free movies from Union Board</p><p>3.On-campus concerts</p><p>4.The library</p><p>5.Awesome academic programs</p><p>6.Great local restaurants</p><p>7.Quality profs</p><p>8.Cheap parking passes</p><p>9.Maria Elena&#39;s</p><p>10.Close to Chicago</p><p><strong>差评项：</strong></p><p>1.Snow over two feet deep in the winter</p><p>2.Community bathrooms</p><p>3.VUPD</p><p>4.Rain and clouds-a lot of the time</p><p>5.Dining hall food</p><p>6.Finding a legal parking spot</p><p>7.Greeks taking over student government</p><p>8.Alcohol policy</p><p>&nbsp;</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p><a href="http://www.qianmu.org/USNEWS排名" target="_blank">USNEWS排名</a></p>			</td>			<td>			<p>160</p>			</td>			<td>			<p>学费（/年）</p>			</td>			<td>			<p>$37,450</p>			</td>			<td>			<p>申请截止日期</p>			</td>			<td>			<p>6月1日</p>			</td>		</tr>		<tr>			<td>			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td>			<p>80</p>			</td>			<td>			<p>食宿（/年）</p>			</td>			<td>			<p>$10,920</p>			</td>			<td>			<p>开学时间</p>			</td>			<td>			<p>每年8-9月</p>			</td>		</tr>		<tr>			<td>			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td>			<p>6.0</p>			</td>			<td>			<p>申请费</p>			</td>			<td>			<p>$0</p>			</td>			<td>			<p>可申请学期</p>			</td>			<td>			<p>秋季</p>			</td>		</tr>		<tr>			<td>			<p><a href="http://www.qianmu.org/SAT" target="_blank">SAT</a>均分</p>			</td>			<td>			<p>1060-1260(1600)</p>			</td>			<td>			<p>申请人数</p>			</td>			<td>			<p>6,657</p>			</td>			<td>			<p><a href="http://www.qianmu.org/奖学金" target="_blank">奖学金</a>形式</p>			</td>			<td>			<p><a href="http://www.qianmu.org/Merit-based" target="_blank">Merit-based</a></p>			</td>		</tr>		<tr>			<td>			<p><a href="http://www.qianmu.org/GPA" target="_blank">GPA</a>要求</p>			</td>			<td>			<p>3.6</p>			</td>			<td>			<p>录取率</p>			</td>			<td>			<p>81.9%</p>			</td>			<td>			<p>是否提供<a href="http://www.qianmu.org/双录取" target="_blank">双录取</a></p>			</td>			<td>			<p>Yes</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>注：</p><p>（1）新SAT单项成绩要求：阅读与写作540-640，其中阅读27-32，数学520-620；编号：1874。*(1)</p><p>（2）<a href="http://www.qianmu.org/ACT" target="_blank">ACT</a>综合均分：23-29；编号：1256。*(1)</p><h2>教学质量</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>本科生人数</p>			</td>			<td style="width:53px">			<p>3,179</p>			</td>			<td style="width:125px">			<p>小班比例(&lt;20)</p>			</td>			<td>			<p>47.5%</p>			</td>			<td>			<p><a href="http://www.qianmu.org/学期制度" target="_blank">学期制度</a></p>			</td>			<td>			<p>Semester</p>			</td>		</tr>		<tr>			<td>			<p>研究生人数</p>			</td>			<td style="width:53px">			<p>1,361</p>			</td>			<td style="width:125px">			<p>中班比例(20-49)</p>			</td>			<td>			<p>48.3%</p>			</td>			<td>			<p>教授水平满意度</p>			</td>			<td>			<p>100%</p>			</td>		</tr>		<tr>			<td>			<p>国际学生比例</p>			</td>			<td style="width:53px">			<p>7%</p>			</td>			<td style="width:125px">			<p>大班比例(&gt;50)</p>			</td>			<td>			<p>4.2%</p>			</td>			<td>			<p>校园安全度</p>			</td>			<td>			<p>63%</p>			</td>		</tr>		<tr>			<td>			<p>师生比</p>			</td>			<td style="width:53px">			<p>1:12</p>			</td>			<td style="width:125px">			<p>六年毕业率</p>			</td>			<td>			<p>67%</p>			</td>			<td>			<p>学生满意度</p>			</td>			<td>			<p>76%</p>			</td>		</tr>		<tr>			<td>			<p>四年毕业率</p>			</td>			<td style="width:53px">			<p>55%</p>			</td>			<td style="width:125px">			<p>新生保持率</p>			</td>			<td>			<p>82%</p>			</td>			<td>			<p>教授博士学位比率</p>			</td>			<td>			<p>-</p>			</td>		</tr>		<tr>			<td>毕业2年平均薪水</td>			<td style="width:53px">$36,200</td>			<td style="width:125px">就业率</td>			<td>67%</td>			<td>校友网络认可度</td>			<td>76%</td>		</tr>	</tbody></table><p>*(1)(3)(4)</p><p><strong>校园安全</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:143px">校园安全事件</td>			<td style="width:403px">Criminal Offenses -- On-Campus&nbsp;</td>			<td style="width:103px">2012</td>			<td style="width:100px">2013</td>			<td style="width:97px">2014</td>		</tr>		<tr>			<td>谋杀</td>			<td>Murder/Non-negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>过失杀人</td>			<td>Negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸</td>			<td>Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>乱伦</td>			<td>Incest</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸幼童罪</td>			<td>Statutory Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>猥亵</td>			<td>Fondling</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>性侵犯-强迫</td>			<td>Sex offenses - Forcible</td>			<td>			<p>1</p>			</td>			<td>			<p>2</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>性侵犯-非强迫</td>			<td>Sex offenses - non-forcible (incest and statutory rape only)</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>抢劫</td>			<td>Robbery</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>暴力袭击</td>			<td>Aggravated assault</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>盗窃</td>			<td>Burglary</td>			<td>			<p>2</p>			</td>			<td>			<p>1</p>			</td>			<td>			<p>3</p>			</td>		</tr>		<tr>			<td>汽车盗窃</td>			<td>Motor vehicle theft</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>纵火</td>			<td>Arson</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>		</tr>	</tbody></table><p>*(3)</p><h2>申请说明</h2><p><strong>GPA与班级排名</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:26.96%">			<p>GPA</p>			</td>			<td style="width:23.48%">&nbsp;</td>			<td style="width:24.78%">			<p>班级排名</p>			</td>			<td style="width:24.78%">&nbsp;</td>		</tr>		<tr>			<td style="width:26.96%">			<p>分段</p>			</td>			<td style="width:23.48%">			<p>占比</p>			</td>			<td style="width:24.78%">			<p>分段</p>			</td>			<td style="width:24.78%">			<p>占比</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.75以上</p>			</td>			<td style="width:23.48%">			<p>51%</p>			</td>			<td style="width:24.78%">			<p>TOP10%</p>			</td>			<td style="width:24.78%">			<p>35%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.5-3.74</p>			</td>			<td style="width:23.48%">			<p>19%</p>			</td>			<td style="width:24.78%">			<p>TOP25%</p>			</td>			<td style="width:24.78%">			<p>64%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.25-3.49</p>			</td>			<td style="width:23.48%">			<p>15%</p>			</td>			<td style="width:24.78%">			<p>TOP50%</p>			</td>			<td style="width:24.78%">			<p>91%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.0-3.24</p>			</td>			<td style="width:23.48%">			<p>11%</p>			</td>			<td style="width:24.78%">			<p>50%以下</p>			</td>			<td style="width:24.78%">			<p>9%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>2.50-2.99</p>			</td>			<td style="width:23.48%">			<p>4%</p>			</td>			<td style="width:24.78%">			<p>75%以下</p>			</td>			<td style="width:24.78%">			<p>1%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>2.49以下</p>			</td>			<td style="width:23.48%">&nbsp;</td>			<td style="width:24.78%">&nbsp;</td>			<td style="width:24.78%">&nbsp;</td>		</tr>	</tbody></table><p>*(1)</p><p><strong>申请材料</strong></p><p>瓦尔帕莱索大学通过Common Application在线或纸质申请，必需的<a href="http://www.qianmu.org/申请材料" target="_blank">申请材料</a>包括：</p><p>（1）普通申请表、学校补充申请表</p><p>（2）托福/雅思<a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a></p><p>（3）SAT与ACT成绩单</p><p>（4）<a href="http://www.qianmu.org/推荐信" target="_blank">推荐信</a>、<a href="http://www.qianmu.org/Essay" target="_blank">Essay</a></p><p>（5）高中<a href="http://www.qianmu.org/在读证明" target="_blank">在读证明</a>或高中毕业证</p><p>（6）高中成绩单，需<a href="http://www.qianmu.org/翻译" target="_blank">翻译</a>，无需公证</p><p>（7）<a href="http://www.qianmu.org/资金证明" target="_blank">资金证明</a></p><p>注：瓦尔帕莱索大学无需<a href="http://www.qianmu.org/面试" target="_blank">面试</a>。</p><p><strong>费用与奖学金</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:23.04%">			<p>支出项目</p>			</td>			<td style="width:55.76%">			<p>项目英文名</p>			</td>			<td style="width:21.18%">			<p>2016-2017学年费用</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>学费</p>			</td>			<td style="width:55.76%">			<p>Tuition and fees</p>			</td>			<td style="width:21.18%">			<p>$37,450</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>住宿费用</p>			</td>			<td style="width:55.76%">			<p>Room and board</p>			</td>			<td style="width:21.18%">			<p>$10,920</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>书本费</p>			</td>			<td style="width:55.76%">			<p>Books and supplies</p>			</td>			<td style="width:21.18%">			<p>$1,200</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>个人花费</p>			</td>			<td style="width:55.76%">			<p>Estimated personal expenses</p>			</td>			<td style="width:21.18%">			<p>$870</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>交通费</p>			</td>			<td style="width:55.76%">			<p>Transportation expenses</p>			</td>			<td style="width:21.18%">			<p>$750</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>合计</p>			</td>			<td style="width:55.76%">			<p>Estimated Total</p>			</td>			<td style="width:21.18%">			<p>$51,190</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>2015年度瓦尔帕莱索大学共有89名国际学生获得奖学金，总奖学金金额$1,652,771，平均金额$18,570。*(1)</p><h2>转学申请</h2><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:21.02%">			<p>TOEFL要求</p>			</td>			<td style="width:14.08%">			<p>80</p>			</td>			<td style="width:16.96%">			<p>GPA要求</p>			</td>			<td style="width:14.08%">			<p>2.5</p>			</td>			<td style="width:19.78%">			<p>申请截止日期</p>			</td>			<td style="width:14.08%">			<p>滚动录取</p>			</td>		</tr>		<tr>			<td style="width:21.02%">			<p>IELTS要求</p>			</td>			<td style="width:14.08%">6.0</td>			<td style="width:16.96%">			<p>SAT要求</p>			</td>			<td style="width:14.08%">			<p>Not Required</p>			</td>			<td style="width:19.78%">			<p>开学时间</p>			</td>			<td style="width:14.08%">			<p>每年8月-9月</p>			</td>		</tr>		<tr>			<td style="width:21.02%">			<p>最高可转学分</p>			</td>			<td style="width:14.08%">94</td>			<td style="width:16.96%">			<p>最低学分要求</p>			</td>			<td style="width:14.08%">-</td>			<td style="width:19.78%">			<p>可申请学期</p>			</td>			<td style="width:14.08%">			<p>秋季、春季、夏季</p>			</td>		</tr>		<tr>			<td style="width:21.02%">			<p>申请人数</p>			</td>			<td style="width:14.08%">			<p>501</p>			</td>			<td style="width:16.96%">			<p>录取人数</p>			</td>			<td style="width:14.08%">			<p>438</p>			</td>			<td style="width:19.78%">			<p>录取率</p>			</td>			<td style="width:14.08%">			<p>87%</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>注：瓦尔帕莱索大学要求转学申请者GPA2.5以上，如考虑转学分，单门课程GPA须在1.7以上</p><p><strong>申请说明</strong></p><p>瓦尔帕莱索大学接受秋季、春季和夏季转学申请，可入读大一、大二、大三、大四其中任何一个学期，大二以下建议递交SAT/ACT成绩，大三无需递交SAT/ACT成绩。</p><h2>专业设置</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:22.7%">			<p>专业名称</p>			</td>			<td style="width:26.28%">			<p>专业英文名</p>			</td>			<td style="width:16.08%">			<p>专业名称</p>			</td>			<td style="width:34.92%">			<p>专业英文名</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/会计" target="_blank">会计</a></p>			</td>			<td style="width:26.28%">			<p><a href="http://www.qianmu.org/会计" target="_blank">Accounting</a></p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/音乐" target="_blank">音乐</a></p>			</td>			<td style="width:34.92%">			<p>Music</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/精算" target="_blank">精算学</a></p>			</td>			<td style="width:26.28%">			<p><a href="http://www.qianmu.org/精算" target="_blank">Actuarial Science</a></p>			</td>			<td style="width:16.08%">			<p>音乐教育</p>			</td>			<td style="width:34.92%">			<p>Music Education</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>美国印第安人研究</p>			</td>			<td style="width:26.28%">			<p>American Indian Studies</p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/护理" target="_blank">护理</a></p>			</td>			<td style="width:34.92%">			<p>Nursing</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>美国研究</p>			</td>			<td style="width:26.28%">			<p>American Studies</p>			</td>			<td style="width:16.08%">			<p>和平与社会公正研究</p>			</td>			<td style="width:34.92%">			<p>Peace &amp; Social Justice Studies</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>应用<a href="http://www.qianmu.org/统计学" target="_blank">统计学</a></p>			</td>			<td style="width:26.28%">			<p>Applied <a href="http://www.qianmu.org/统计学" target="_blank">Statistics</a></p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/哲学" target="_blank">哲学</a></p>			</td>			<td style="width:34.92%">			<p>Philosophy</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>艺术</p>			</td>			<td style="width:26.28%">			<p>Art</p>			</td>			<td style="width:16.08%">			<p>体育教育</p>			</td>			<td style="width:34.92%">			<p>Physical Education</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/天文学" target="_blank">天文学</a></p>			</td>			<td style="width:26.28%">			<p><a href="http://www.qianmu.org/天文学" target="_blank">Astronomy</a></p>			</td>			<td style="width:16.08%">			<p>体育师范教育</p>			</td>			<td style="width:34.92%">			<p>Physical Education Teacher Education</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/生物化学" target="_blank">生物化学</a></p>			</td>			<td style="width:26.28%">			<p>Biochemistry</p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/物理" target="_blank">物理</a></p>			</td>			<td style="width:34.92%">			<p><a href="http://www.qianmu.org/物理" target="_blank">Physics</a></p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>生物学</p>			</td>			<td style="width:26.28%">			<p>Biology</p>			</td>			<td style="width:16.08%">			<p>政治传播</p>			</td>			<td style="width:34.92%">			<p>Political Communication</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>工商管理</p>			</td>			<td style="width:26.28%">			<p>Business Administration</p>			</td>			<td style="width:16.08%">			<p>政治</p>			</td>			<td style="width:34.92%">			<p><a href="http://www.qianmu.org/政治学" target="_blank">Political Science</a></p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>商业分析</p>			</td>			<td style="width:26.28%">			<p>Business Analytics</p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/法学预科" target="_blank">法学预科</a></p>			</td>			<td style="width:34.92%">			<p>Pre-<a href="http://www.qianmu.org/法学" target="_blank">Law</a></p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/化学" target="_blank">化学</a></p>			</td>			<td style="width:26.28%">			<p><a href="http://www.qianmu.org/化学" target="_blank">Chemistry</a></p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/医学" target="_blank">医学</a>预科</p>			</td>			<td style="width:34.92%">			<p>Pre-Med</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>汉语</p>			</td>			<td style="width:26.28%">			<p>Chinese</p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/神学" target="_blank">神学</a>预科</p>			</td>			<td style="width:34.92%">			<p>Pre-Seminary</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>电影与数字媒体研究</p>			</td>			<td style="width:26.28%">			<p>Cinema and Digital Media Studies</p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/心理学" target="_blank">心理学</a></p>			</td>			<td style="width:34.92%">			<p><a href="http://www.qianmu.org/心理学" target="_blank">Psychology</a></p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">土木工程</a></p>			</td>			<td style="width:26.28%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">Civil Engineering</a></p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/社会工作" target="_blank">社会工作</a></p>			</td>			<td style="width:34.92%">			<p>Social Work</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/古典文学" target="_blank">古典文学</a></p>			</td>			<td style="width:26.28%">			<p>Classics</p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">社会学</a></p>			</td>			<td style="width:34.92%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">Sociology</a></p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/传播学" target="_blank">传播学</a></p>			</td>			<td style="width:26.28%">			<p>Communication</p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/西班牙语" target="_blank">西班牙语</a></p>			</td>			<td style="width:34.92%">			<p>Spanish</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/计算机工程" target="_blank">计算机工程</a></p>			</td>			<td style="width:26.28%">			<p><a href="http://www.qianmu.org/计算机工程" target="_blank">Computer Engineering</a></p>			</td>			<td style="width:16.08%">			<p>体育行政</p>			</td>			<td style="width:34.92%">			<p>Sports Administration</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">计算机科学</a></p>			</td>			<td style="width:26.28%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">Computer Science</a></p>			</td>			<td style="width:16.08%">			<p>体育管理</p>			</td>			<td style="width:34.92%">			<p>Sports <a href="http://www.qianmu.org/管理学" target="_blank">Management</a></p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/犯罪学" target="_blank">犯罪学</a></p>			</td>			<td style="width:26.28%">			<p>Criminology</p>			</td>			<td style="width:16.08%">			<p>对外<a href="http://www.qianmu.org/英语" target="_blank">英语</a>教学</p>			</td>			<td style="width:34.92%">			<p>TESOL</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">经济学</a></p>			</td>			<td style="width:26.28%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">Economics</a></p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/戏剧" target="_blank">戏剧</a></p>			</td>			<td style="width:34.92%">			<p>Theatre</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>经济学与计算机分析</p>			</td>			<td style="width:26.28%">			<p>Economics and Computer Analysis</p>			</td>			<td style="width:16.08%">			<p>戏剧设计</p>			</td>			<td style="width:34.92%">			<p>Theatre Design</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/教育学" target="_blank">教育学</a></p>			</td>			<td style="width:26.28%">			<p>Education</p>			</td>			<td style="width:16.08%">			<p>戏剧制作</p>			</td>			<td style="width:34.92%">			<p>Theatre Production</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/小学教育" target="_blank">小学教育</a></p>			</td>			<td style="width:26.28%">			<p>Elementary Education</p>			</td>			<td style="width:16.08%">			<p>神学</p>			</td>			<td style="width:34.92%">			<p>Theology</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>中学水平教育</p>			</td>			<td style="width:26.28%">			<p>Middle-level Education</p>			</td>			<td style="width:16.08%">			<p>城市研究</p>			</td>			<td style="width:34.92%">			<p>Urban Studies</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/中学教育" target="_blank">中学教育</a></p>			</td>			<td style="width:26.28%">			<p>Secondary Education Certification</p>			</td>			<td style="width:16.08%">			<p>写作</p>			</td>			<td style="width:34.92%">			<p>Writing</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/特殊教育" target="_blank">特殊教育</a></p>			</td>			<td style="width:26.28%">			<p>Special Education</p>			</td>			<td style="width:16.08%">			<p>青年、家庭与教育事工</p>			</td>			<td style="width:34.92%">			<p>Youth, Family, and Education Ministry</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">电气工程</a></p>			</td>			<td style="width:26.28%">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">Electrical Engineering</a></p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/德语" target="_blank">德语</a></p>			</td>			<td style="width:34.92%">			<p>German</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/电子工程" target="_blank">电子工程</a></p>			</td>			<td style="width:26.28%">			<p>Electronics</p>			</td>			<td style="width:16.08%">			<p>全球服务</p>			</td>			<td style="width:34.92%">			<p>Global Service</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>工程学</p>			</td>			<td style="width:26.28%">			<p>Engineering</p>			</td>			<td style="width:16.08%">			<p>卫生保健与领导</p>			</td>			<td style="width:34.92%">			<p>Health Care Leadership</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>英语</p>			</td>			<td style="width:26.28%">			<p>English</p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/希伯来语" target="_blank">希伯来语</a></p>			</td>			<td style="width:34.92%">			<p>Hebrew</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/环境科学" target="_blank">环境科学</a></p>			</td>			<td style="width:26.28%">			<p>Environmental Science</p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/历史" target="_blank">历史</a></p>			</td>			<td style="width:34.92%">			<p><a href="http://www.qianmu.org/历史" target="_blank">History</a></p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>环境研究</p>			</td>			<td style="width:26.28%">			<p>Environmental Studies</p>			</td>			<td style="width:16.08%">			<p>人类老龄化研究</p>			</td>			<td style="width:34.92%">			<p>Human Aging</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>民族问题研究</p>			</td>			<td style="width:26.28%">			<p>Ethnic Studies</p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/国际贸易" target="_blank">国际贸易</a></p>			</td>			<td style="width:34.92%">			<p>International Business</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>运动科学</p>			</td>			<td style="width:26.28%">			<p>Exercise Science</p>			</td>			<td style="width:16.08%">			<p>国际经济与文化事务</p>			</td>			<td style="width:34.92%">			<p>International Economics and Cultural Affairs</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/金融" target="_blank">金融</a></p>			</td>			<td style="width:26.28%">			<p><a href="http://www.qianmu.org/金融" target="_blank">Finance</a></p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/国际关系学" target="_blank">国际关系</a></p>			</td>			<td style="width:34.92%">			<p>International Relations</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/法语" target="_blank">法语</a></p>			</td>			<td style="width:26.28%">			<p>French</p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/日语" target="_blank">日语</a></p>			</td>			<td style="width:34.92%">			<p>Japanese</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>性别研究</p>			</td>			<td style="width:26.28%">			<p>Gender Studies</p>			</td>			<td style="width:16.08%">			<p>拉丁语</p>			</td>			<td style="width:34.92%">			<p>Latin</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>地理</p>			</td>			<td style="width:26.28%">			<p><a href="http://www.qianmu.org/地理学" target="_blank">Geography</a></p>			</td>			<td style="width:16.08%">			<p>管理</p>			</td>			<td style="width:34.92%">			<p>Management</p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p><a href="http://www.qianmu.org/地质学" target="_blank">地质学</a></p>			</td>			<td style="width:26.28%">			<p>Geology</p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">市场营销</a></p>			</td>			<td style="width:34.92%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">Marketing</a></p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>气象学</p>			</td>			<td style="width:26.28%">			<p>Meteorology</p>			</td>			<td style="width:16.08%">			<p>数学</p>			</td>			<td style="width:34.92%">			<p><a href="http://www.qianmu.org/数学" target="_blank">Mathematics</a></p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>现代欧洲研究</p>			</td>			<td style="width:26.28%">			<p>Modern European Studies</p>			</td>			<td style="width:16.08%">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">机械工程</a></p>			</td>			<td style="width:34.92%">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">Mechanical Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:22.7%">			<p>力学与<a href="http://www.qianmu.org/材料科学与工程" target="_blank">材料科学</a></p>			</td>			<td colspan="3" style="width:77.3%">			<p>Mechanics and Materials</p>			</td>		</tr>	</tbody></table><p>*(2)</p><p>参考资料：</p><p>(1)&nbsp;<a href="http://www.qianmu.org/redirect?code=kr53aGb8kyji76pxrrrrrTCK9B6sbBhpwHJgBdex2h5Ip-Rvz8doCa0cpniyzsAVpgAoZjlY7f7Y8xkGf6vowhHwNOr2NIkGE7yKNSZOJoiKSoDQCe_OsGu4eGAkqH2kmIh6B1DdB5RCPxeBg-o" target="_blank">Valparaiso University</a>&nbsp;College Board</p><p>(2)&nbsp;<a href="http://www.qianmu.org/redirect?code=Lr8sWSLDLZv0OPSfFFFFFFXysgkEP8CpPCDeDeLkqdvVgp9hLrw2zGhyOWbZHsTYpmQkehd29gusMd9Vr_EbMh5lxj47fi8EdVUpngUTLkRC4kjf4KLtVb" target="_blank">Undergraduate Programs</a>&nbsp;Valparaiso University</p><p>(3)<a href="https://www.usnews.com/best-colleges/valparaiso-1842" target="_blank">Best-Colleges/Valparaiso University</a> &nbsp;USNEWS</p><p>(4)<a href="https://www.niche.com/colleges/valparaiso-university/" target="_blank">Valparaiso-University/</a> College Prowler</p><p>本文数据主要采自College Board、College Prowler、Princeton Review、USNEWS以及瓦尔帕莱索大学官网等网站</p><h1>研究生申请</h1><p><strong>院系设置：</strong></p><ul>	<li>商学院(College of Business)</li>	<li>工程学院(College of Engineering)</li>	<li>文理学院(College of Arts and Sciences)</li>	<li>护理与健康学院(College of Nursing and Health Professions)</li>	<li>法学院(College of Law)</li>	<li>基督学院(Christ College)*(1)</li></ul><p>注：</p><p>（1）基督学院、工程学院未开设有全日制研究生项目</p><p><strong>基本要求：</strong></p><p>学位要求：正规大学本科毕业并取得学士学位</p><p>GPA要求：GPA建议不低于3.0</p><p>语言要求：要求IELTS总分不低于6.0，TOEFL总分不低于75，具体情况视专业而定</p><p>GRE要求：国际生需要递交GRE或GMAT成绩，但未设定最低分数要求</p><p>申请时间：瓦尔帕莱索大学研究生院接受春季入学申请、夏季入学申请和秋季入学申请，秋季入学申请均建议国际生应在1月15日之前递交申请，具体申请截止时间视专业而定</p><p><strong>申请说明：</strong></p><p>瓦尔帕莱索大学研究生院申请要求的具体申请材料如下：</p><ul>	<li>完成在线申请</li>	<li>申请费：$30（商学院研究生项目申请费用为：$50）</li>	<li>大学成绩单</li>	<li>TOEFL/IELTS成绩</li>	<li>GRE或GMAT成绩（教育学院项目需要递交MAT成绩）</li>	<li>推荐信</li>	<li>个人陈述</li>	<li>简历*(2)(3)(4)</li></ul><p>参考资料：</p><p>(1) <a href="https://www.valpo.edu/academics3/" target="_blank">Academics</a> VU</p><p>(2) <a href="https://www.valpo.edu/admission-aid/graduate/admission-process/" target="_blank">GRADUATE APPLICATION PROCESS</a> VU</p><p>(3) <a href="https://www.valpo.edu/graduate-school/admission/international/" target="_blank">International Applicants</a> VU</p><p>(4) <a href="https://www.valpo.edu/graduate-school/admission/affordability/" target="_blank">Paying for Graduate School</a> VU</p><h2>商学院</h2><h3>MBA</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>Unranked</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$30, 000/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月15日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>75</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>夏、秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>6.0</p>			</td>			<td style="width:13.82%">			<p>GMAT要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>无</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>注：</p><p>（1）此处排名为<a href="http://www.qianmu.org/2020USNEWS%E7%BE%8E%E5%9B%BD%E5%95%86%E5%AD%A6%E9%99%A2%E6%8E%92%E5%90%8D" target="_blank">2020USNEWS美国商学院排名</a></p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受夏季入学申请和秋季入学申请，夏季入学申请截止日为3月15日，秋季入学申请截止日期为5月15日，建议国际生在1月15日之前递交入学申请</p><p><strong>申请说明：</strong></p><p>瓦尔帕莱索大学工商管理硕士(Master of Business Administration, MBA)，该项目为期1年，要求申请人持有学士学位，无专业背景要求，无工作经验要求，需要递交GRE或GMAT成绩，均未设定最低分数要求*(3)</p><p><strong>录取统计：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:284px">			<p>年龄范围</p>			</td>			<td style="width:284px">			<p>21-22岁</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>平均年龄</p>			</td>			<td style="width:284px">			<p>22岁</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>平均工作经验</p>			</td>			<td style="width:284px">			<p>1年</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>GMAT平均成绩</p>			</td>			<td style="width:284px">			<p>590</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>GRE平均成绩</p>			</td>			<td style="width:284px">			<p>305</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>男性比例</p>			</td>			<td style="width:284px">			<p>62%</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>女性比例</p>			</td>			<td style="width:284px">			<p>38%</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>平均GPA</p>			</td>			<td style="width:284px">			<p>3.31</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>国际生比例</p>			</td>			<td style="width:284px">			<p>6</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>少数族裔</p>			</td>			<td style="width:284px">			<p>31%</p>			</td>		</tr>	</tbody></table><p>*(4)</p><p>参考资料：</p><p>(1) <a href="https://www.valpo.edu/mba/apply/" target="_blank">Application Requirements</a> VU</p><p>(2) <a href="https://www.valpo.edu/mba/start-dates-deadlines/" target="_blank">Start Dates/Deadlines</a> VU</p><p>(3) <a href="https://www.valpo.edu/mba/frequently-asked-questions/" target="_blank">FAQ</a> VU</p><p>(4) <a href="https://www.valpo.edu/mba/programs/" target="_blank">Student Profile</a> VU</p><h3>国际经济与金融硕士</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>Unranked</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$30, 000/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月15日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>75</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>夏、秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>6.0</p>			</td>			<td style="width:13.82%">			<p>GMAT要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>无</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>注：</p><p>（1）此处排名为<a href="http://www.qianmu.org/2020USNEWS%E7%BE%8E%E5%9B%BD%E5%95%86%E5%AD%A6%E9%99%A2%E6%8E%92%E5%90%8D" target="_blank">2020USNEWS美国商学院排名</a></p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受夏季入学申请和秋季入学申请，夏季入学申请截止日期为3月15日，秋季入学申请截止日期为5月15日，建议国际生在1月15日之前递交入学申请</p><p><strong>申请说明：</strong></p><p>瓦尔帕莱索大学国际经济与金融硕士(M.S. International Economics and Finance, IEF)，该项目为期18个月，需要修读37个学分，要求申请人持有学士学位，无专业背景要求，无工作经验要求，需要递交GRE或GMAT成绩，均未设定最低分数要求</p><p><strong>课程设置：</strong></p><p>瓦尔帕莱索大学国际经济与金融硕士共有11门核心课程，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:196px">			<p><strong>课程名称</strong></p>			</td>			<td style="width:372px">			<p><strong>课程英文名</strong></p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>管理经济学</p>			</td>			<td style="width:372px">			<p>Managerial Economics</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>全球宏观经济商业条件</p>			</td>			<td style="width:372px">			<p>Global Macroeconomic Business Conditions</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>国际贸易</p>			</td>			<td style="width:372px">			<p>International Trade</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>国际货币经济学</p>			</td>			<td style="width:372px">			<p>International Monetary Economics</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>应用计量经济学</p>			</td>			<td style="width:372px">			<p>Applied Econometrics</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>时间序列分析</p>			</td>			<td style="width:372px">			<p>Time Series Analysis</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>优化</p>			</td>			<td style="width:372px">			<p>Optimization</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>博弈论</p>			</td>			<td style="width:372px">			<p>Game Theory</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>概率学</p>			</td>			<td style="width:372px">			<p>Probability</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>财务管理</p>			</td>			<td style="width:372px">			<p>Financial Management</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>投资管理</p>			</td>			<td style="width:372px">			<p>Investment Management</p>			</td>		</tr>	</tbody></table><p>*(2)</p><p>参考资料：</p><p>(1) <a href="https://www.valpo.edu/graduate-school/admission/international/" target="_blank">International Applicants</a> VU</p><p>(2) <a href="https://www.valpo.edu/graduate-school/m-s-international-economics-and-finance/" target="_blank">M.S. International Economics and Finance</a> VU</p><h3>国际贸易与政策硕士</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>Unranked</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$30, 000/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月15日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>75</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>夏、秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>6.0</p>			</td>			<td style="width:13.82%">			<p>GMAT要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>无</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>注：</p><p>（1）此处排名为<a href="http://www.qianmu.org/2020USNEWS%E7%BE%8E%E5%9B%BD%E5%95%86%E5%AD%A6%E9%99%A2%E6%8E%92%E5%90%8D" target="_blank">2020USNEWS美国商学院排名</a></p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受夏季入学申请和秋季入学申请，夏季入学申请截止日期为3月15日，秋季入学申请截止日期为5月15日，建议国际生在1月15日之前递交入学申请</p><p><strong>申请说明：</strong></p><p>瓦尔帕莱索大学国际贸易与政策硕士(M.S. in International Commerce and Policy, ICP)，该项目为期15-18个月，需要修读37个学分，要求申请人持有学士学位，无专业背景要求，无工作经验要求，需要递交GRE或GMAT成绩，均未设定最低分数要求</p><p><strong>课程设置：</strong></p><p>瓦尔帕莱索大学国际贸易与政策硕士共有15门核心课程，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:196px">			<p><strong>课程名称</strong></p>			</td>			<td style="width:372px">			<p><strong>课程英文名</strong></p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>国际经济学</p>			</td>			<td style="width:372px">			<p>International Economics</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>国际贸易与政策：案例研究</p>			</td>			<td style="width:372px">			<p>International Commerce &amp; Policy: Case Studies</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>国际政治经济学</p>			</td>			<td style="width:372px">			<p>International Political Economy</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>国际竞争力、政治与政策</p>			</td>			<td style="width:372px">			<p>International Competitiveness, Politics, and Policies</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>法律与法律原则</p>			</td>			<td style="width:372px">			<p>Law and Legal Principles</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>职业与职业发展</p>			</td>			<td style="width:372px">			<p>Professional and Career Development</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>全球战略研讨会</p>			</td>			<td style="width:372px">			<p>Seminar in Global Strategies</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>国际市场营销</p>			</td>			<td style="width:372px">			<p>International Marketing</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>新企业创建</p>			</td>			<td style="width:372px">			<p>New Venture Creation</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>进出口：计划与程序</p>			</td>			<td style="width:372px">			<p>Import and Export: Planning and Procedure</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>跨文化管理</p>			</td>			<td style="width:372px">			<p>Cross-Cultural Management</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>全球领导力与团队发展</p>			</td>			<td style="width:372px">			<p>Global Leadership and Team Development</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>国际商业交易</p>			</td>			<td style="width:372px">			<p>International Business Transactions</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>国际公法与世界贸易组织</p>			</td>			<td style="width:372px">			<p>Public International Law and WTO</p>			</td>		</tr>		<tr>			<td style="width:196px">			<p>国际商贸法</p>			</td>			<td style="width:372px">			<p>International Commerce and Trade Law</p>			</td>		</tr>	</tbody></table><p>*(2)</p><p>参考资料：</p><p>(1) <a href="https://www.valpo.edu/graduate-school/admission/international/" target="_blank">International Applicants</a> VU</p><p>(2) <a href="https://www.valpo.edu/graduate-school/international-commerce-policy/" target="_blank">M.S. in International Commerce &amp; Policy</a> VU</p><h2>文理学院</h2><p><strong>专业设置：</strong></p><p>瓦尔帕莱索大学文理学院研究生阶段开设有以下专业，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:189px">			<p><strong>专业名称</strong></p>			</td>			<td style="width:262px">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:117px">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>牧师管理</p>			</td>			<td style="width:262px">			<p>Ministry Administration</p>			</td>			<td style="width:117px">			<p>MMA</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>分析与建模</p>			</td>			<td style="width:262px">			<p>Analytics and Modeling</p>			</td>			<td style="width:117px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>数字媒体</p>			</td>			<td style="width:262px">			<p>Digital Media</p>			</td>			<td style="width:117px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>全球调查比较</p>			</td>			<td style="width:262px">			<p>Comparative Global Inquiry</p>			</td>			<td style="width:117px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>网络安全</p>			</td>			<td style="width:262px">			<p>Cyber Security</p>			</td>			<td style="width:117px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>信息系统</p>			</td>			<td style="width:262px">			<p>Information Technology (Computing Track)</p>			</td>			<td style="width:117px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>信息系统</p>			</td>			<td style="width:262px">			<p>Information Technology (Management Track)</p>			</td>			<td style="width:117px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>国际商业与贸易</p>			</td>			<td style="width:262px">			<p>International Commerce and Policy</p>			</td>			<td style="width:117px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>国际经济与金融</p>			</td>			<td style="width:262px">			<p>International Economics and Finance</p>			</td>			<td style="width:117px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>体育管理</p>			</td>			<td style="width:262px">			<p>Sports Administration</p>			</td>			<td style="width:117px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>体育媒体</p>			</td>			<td style="width:262px">			<p>Sports Media</p>			</td>			<td style="width:117px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>临床心理健康咨询</p>			</td>			<td style="width:262px">			<p>Clinical Mental Health Counseling</p>			</td>			<td style="width:117px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>学校咨询</p>			</td>			<td style="width:262px">			<p>School Counseling</p>			</td>			<td style="width:117px">			<p>M. Ed</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>学校心理学</p>			</td>			<td style="width:262px">			<p>School Psychology</p>			</td>			<td style="width:117px">			<p>M. Ed, Ed. S</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>教学硕士初始执照</p>			</td>			<td style="width:262px">			<p>Initial Licensure</p>			</td>			<td style="width:117px">			<p>M. Ed</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>课程设计</p>			</td>			<td style="width:262px">			<p>Instructional Leadership</p>			</td>			<td style="width:117px">			<p>M. Ed</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>教育硕士初始执照（汉语方向）</p>			</td>			<td style="width:262px">			<p>Initial Licensure (Teaching Chinese Track)</p>			</td>			<td style="width:117px">			<p>M. Ed</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>人类教育</p>			</td>			<td style="width:262px">			<p>Humane Education</p>			</td>			<td style="width:117px">			<p>M. Ed/MA/MALS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>外语教学</p>			</td>			<td style="width:262px">			<p>Teaching of English to Speakers of Other Languages (TESOL)</p>			</td>			<td style="width:117px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>汉语研究</p>			</td>			<td style="width:262px">			<p>Chinese Studies</p>			</td>			<td style="width:117px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>汉语研究（P-12老师方向）</p>			</td>			<td style="width:262px">			<p>Chinese Studies (Specialized Track for P-12 Teachers)</p>			</td>			<td style="width:117px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>英语研究与传播</p>			</td>			<td style="width:262px">			<p>English Studies and Communication</p>			</td>			<td style="width:117px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>英语</p>			</td>			<td style="width:262px">			<p>English</p>			</td>			<td style="width:117px">			<p>MALS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>道德与价值观</p>			</td>			<td style="width:262px">			<p>Ethics and Values</p>			</td>			<td style="width:117px">			<p>MALS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>历史</p>			</td>			<td style="width:262px">			<p>History</p>			</td>			<td style="width:117px">			<p>MALS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>人类行为与社会</p>			</td>			<td style="width:262px">			<p>Human Behavior and Society</p>			</td>			<td style="width:117px">			<p>MALS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>神学与牧师</p>			</td>			<td style="width:262px">			<p>Theology and Ministry</p>			</td>			<td style="width:117px">			<p>MALS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>神学与牧师（会吏方向）</p>			</td>			<td style="width:262px">			<p>Theology and Ministry (Deaconess Track)</p>			</td>			<td style="width:117px">			<p>MALS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>个体集中化</p>			</td>			<td style="width:262px">			<p>Individualized Concentration</p>			</td>			<td style="width:117px">			<p>MALS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>艺术与娱乐管理</p>			</td>			<td style="width:262px">			<p>Arts and Entertainment Administration</p>			</td>			<td style="width:117px">			<p>MA</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>参考资料：</p><p>(1) <a href="https://www.valpo.edu/college-of-arts-and-sciences/departments-programs/" target="_blank">Departments and Programs</a> VU</p><p>(2) <a href="https://www.valpo.edu/find-your-major/" target="_blank">FIND YOUR MAJOR</a> VU</p><h3>学校心理学</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$30, 000/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月15日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>80</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>6.0</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>GRE Subject</p>			</td>			<td style="width:15.0%">			<p>Not Required</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>注：</p><p>（1）USNEWS未有学校心理学对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为3月1日，建议国际生在1月15日之前递交入学申请</p><p><strong>申请说明：</strong></p><p>瓦尔帕莱索大学学校心理学硕士(Master of Education in School Psychology)，该项目为期3年，需要修读30个学分，要求申请人持有心理学或相关专业的学士学位，具备心理学、人类成长与发展、基础统计学等知识背景，无工作经验要求，需要递交GRE成绩，未设定最低分数要求*(2)(3)</p><p>参考资料：</p><p>(1) <a href="https://www.valpo.edu/graduate-school/admission/affordability/" target="_blank">Paying for Graduate School</a> VU</p><p>(2) <a href="https://www.valpo.edu/education/school-psychology/" target="_blank">School Psychology</a> VU</p><p>(3) <a href="https://www.valpo.edu/education/school-psychology/academics/" target="_blank">Academics</a> VU</p><h3>艺术与娱乐管理</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$30, 000/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月15日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>80</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>6.0</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>GRE Subject</p>			</td>			<td style="width:15.0%">			<p>Not Required</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>注：</p><p>（1）USNEWS未有艺术与娱乐管理对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为3月1日，建议国际生在1月15日之前递交入学申请</p><p><strong>申请说明：</strong></p><p>瓦尔帕莱索大学艺术与娱乐管理硕士(Master of Arts in Arts and Entertainment Administration)，该项目为期18-24个月，需要修读36个学分，要求申请人持有学士学位，具备艺术与商科等知识背景，无工作经验要求，需要递交GRE成绩，未设定最低分数要求*(2)</p><p>参考资料：</p><p>(1) <a href="https://www.valpo.edu/graduate-school/admission/affordability/" target="_blank">Paying for Graduate School</a> VU</p><p>(2) <a href="https://www.valpo.edu/graduate-school/arts-and-entertainment-administration/" target="_blank">Arts and Entertainment Administration</a> VU</p><h3>英语研究与传播</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$30, 000/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月15日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>80</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>6.0</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>GRE Subject</p>			</td>			<td style="width:15.0%">			<p>Not Required</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>注：</p><p>（1）USNEWS未有英语研究与传播对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为3月1日，建议国际生在1月15日之前递交入学申请</p><p><strong>申请说明：</strong></p><p>瓦尔帕莱索大学英语研究与传播硕士(Master of Arts in English Studies and Communication)，该项目需要修读36个学分，要求申请人持有英语专业的学士学位，无工作经验要求，需要递交GRE成绩，未设定最低分数要求*(2)</p><p>参考资料：</p><p>(1) <a href="https://www.valpo.edu/graduate-school/admission/affordability/" target="_blank">Paying for Graduate School</a> VU</p><p>(2) <a href="https://www.valpo.edu/english/academics/graduate-programs/m-a-in-english-studies-and-communication/" target="_blank">M.A. in English Studies and Communication</a> VU</p><h3>外语教学</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$30, 000/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月15日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>83</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>6.5</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>GRE Subject</p>			</td>			<td style="width:15.0%">			<p>Not Required</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>注：</p><p>（1）USNEWS未有外语教学对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为3月1日，建议国际生在1月15日之前递交入学申请</p><p><strong>申请说明：</strong></p><p>瓦尔帕莱索大学外语教学硕士(Master of Arts in Teaching English to Speakers of Other Languages, TESOL)，该项目需要修读39个学分，要求申请人持有英语专业的学士学位，无工作经验要求，需要递交GRE成绩，未设定最低分数要求*(2)</p><p>参考资料：</p><p>(1) <a href="https://www.valpo.edu/graduate-school/admission/affordability/" target="_blank">Paying for Graduate School</a> VU</p><p>(2) <a href="https://www.valpo.edu/english/academics/graduate-programs/m-a-in-teaching-of-english-to-speakers-of-other-languages/" target="_blank">M.A. in TESOL</a> VU</p><h3>分析与建模</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$30, 000/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月15日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>80</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>6.0</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>GRE Subject</p>			</td>			<td style="width:15.0%">			<p>Not Required</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>注：</p><p>（1）USNEWS未有分析与建模对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为3月1日，建议国际生在1月15日之前递交入学申请</p><p><strong>申请说明：</strong></p><p>瓦尔帕莱索大学分析与建模硕士(Master of Science in Analytics and Modeling)，该项目需要修读36个学分，要求申请人持有学士学位，建议具有数学、统计学或计算机科学相关领域的知识背景，无工作经验要求，需要递交GRE成绩，未设定最低分数要求*(2)(3)</p><p>参考资料：</p><p>(1) <a href="https://www.valpo.edu/graduate-school/admission/affordability/" target="_blank">Paying for Graduate School</a> VU</p><p>(2) <a href="https://www.valpo.edu/mathematics-statistics/academics/degree-programs/m-s-in-analytics-and-modeling/" target="_blank">M.S. in Analytics and Modeling</a> VU</p><p>(3) <a href="https://www.valpo.edu/mathematics-statistics/academics/courses/" target="_blank">Courses</a> VU</p><h3>数字媒体</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$30, 000/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月15日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>80</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>6.0</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>GRE Subject</p>			</td>			<td style="width:15.0%">			<p>Not Required</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>注：</p><p>（1）USNEWS未有数字媒体对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为3月1日，建议国际生在1月15日之前递交入学申请</p><p><strong>申请说明：</strong></p><p>瓦尔帕莱索大学数字媒体硕士(Master of Science in Digital Media)，该项目为18-24个月，需要修读37个学分，要求申请人持有通信或传播专业的学士学位，无工作经验要求，需要递交GRE成绩，未设定最低分数要求*(2)</p><p>参考资料：</p><p>(1) <a href="https://www.valpo.edu/graduate-school/admission/affordability/" target="_blank">Paying for Graduate School</a> VU</p><p>(2) <a href="https://www.valpo.edu/communication/graduate-programs/master-of-science-in-digital-media/" target="_blank">M.S. in Digital Media</a> VU</p><h3>体育媒体</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$30, 000/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月15日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>80</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>6.0</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>GRE Subject</p>			</td>			<td style="width:15.0%">			<p>Not Required</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>注：</p><p>（1）USNEWS未有体育媒体对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为3月1日，建议国际生在1月15日之前递交入学申请</p><p><strong>申请说明：</strong></p><p>瓦尔帕莱索大学体育媒体硕士(Master of Science in Sports Media)，该项目为15-24个月，需要修读36个学分，要求申请人持有学士学位，无工作经验要求，需要递交GRE成绩，未设定最低分数要求*(2)</p><p>参考资料：</p><p>(1) <a href="https://www.valpo.edu/graduate-school/admission/affordability/" target="_blank">Paying for Graduate School</a> VU</p><p>(2) <a href="https://www.valpo.edu/communication/graduate-programs/master-of-science-in-sports-media/" target="_blank">Master of Science in Sports Media</a> VU</p><h3>信息系统</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$30, 000/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月15日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>80</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>6.0</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>GRE Subject</p>			</td>			<td style="width:15.0%">			<p>Not Required</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>注：</p><p>（1）此处排名为<a href="http://www.qianmu.org/2020USNEWS%E7%BE%8E%E5%9B%BD%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E6%8E%92%E5%90%8D" target="_blank">2020USNEWS美国信息系统排名</a>，瓦尔帕莱索大学未入榜</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为3月1日，建议国际生在1月15日之前递交入学申请</p><p><strong>申请说明：</strong></p><p>瓦尔帕莱索大学计算与信息科学系(Department of Computing and Information Sciences)研究生阶段开设有以下学位，分别是：</p><ul>	<li>信息系统硕士-计算方向(Master of Science in Information Technology(Computing Track))，该项目需要修读37个学分，要求申请人持有计算机科学、工程学、信息技术或相关专业的学士学位，无工作经验要求，需要递交GRE成绩，未设定最低分数要求</li>	<li>信息系统硕士-管理方向(Master of Science in Information Technology(Management Track))，该项目需要修读37个学分，要求申请人持有计算机科学、工程学、信息技术或相关专业的学士学位，无工作经验要求，需要递交GRE成绩，未设定最低分数要求*(2)</li></ul><p>参考资料：</p><p>(1) <a href="https://www.valpo.edu/graduate-school/admission/affordability/" target="_blank">Paying for Graduate School</a> VU</p><p>(2) <a href="https://www.valpo.edu/computing-information-sciences/academics/graduate-programs/ms-in-information-technology/" target="_blank">Master&#39; s Degree in Information Technology</a> VU</p><h2>护理与健康学院</h2><p><strong>专业设置</strong></p><p>瓦尔帕莱索大学护理与健康学院研究生阶段开设有以下专业，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:189px">			<p><strong>专业名称</strong></p>			</td>			<td style="width:271px">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:107px">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>职业疗法</p>			</td>			<td style="width:271px">			<p>Occupational Therapy</p>			</td>			<td style="width:107px">			<p>MS, PhD</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>医师助理</p>			</td>			<td style="width:271px">			<p>Physician Assistant</p>			</td>			<td style="width:107px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>公共卫生</p>			</td>			<td style="width:271px">			<p>Public Health</p>			</td>			<td style="width:107px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>卫生管理</p>			</td>			<td style="width:271px">			<p>Health Administration</p>			</td>			<td style="width:107px">			<p>MHA</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>护理</p>			</td>			<td style="width:271px">			<p>Nursing</p>			</td>			<td style="width:107px">			<p>MS</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)(4)</p><p>参考资料：</p><p>(1) <a href="https://www.valpo.edu/find-your-major/?degree=graduate" target="_blank">FIND YOUR MAJOR</a> VU</p><p>(2) <a href="https://www.valpo.edu/admission-aid/graduate/admission-process/" target="_blank">GRADUATE APPLICATION PROCESS</a> VU</p><p>(3) <a href="https://www.valpo.edu/graduate-school/admission/international/" target="_blank">International Applicants</a> VU</p><p>(4) <a href="https://www.valpo.edu/graduate-school/admission/affordability/" target="_blank">Paying for Graduate School</a> VU</p><h2>法学院</h2><p><strong>专业设置：</strong></p><p>瓦尔帕莱索大学法学院研究生阶段开设有以下专业，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:189px">			<p><strong>专业名称</strong></p>			</td>			<td style="width:271px">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:107px">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>法学博士-工商管理硕士（双学位）</p>			</td>			<td style="width:271px">			<p>Law and Business Administration</p>			</td>			<td style="width:107px">			<p>J.D./MBA</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>法学博士-临床精神健康咨询硕士（双学位）</p>			</td>			<td style="width:271px">			<p>Law and Clinical Mental Health Counseling</p>			</td>			<td style="width:107px">			<p>J.D./MA</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>法学博士-心理学硕士（双学位）</p>			</td>			<td style="width:271px">			<p>Law and Psychology</p>			</td>			<td style="width:107px">			<p>J.D./MA</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>法学博士-体育管理硕士（双学位）</p>			</td>			<td style="width:271px">			<p>Law and Sports Administration</p>			</td>			<td style="width:107px">			<p>J.D./MS</p>			</td>		</tr>		<tr>			<td style="width:189px">			<p>法学博士-汉语研究（双学位）</p>			</td>			<td style="width:271px">			<p>J.D./MA in Chinese Studies</p>			</td>			<td style="width:107px">			<p>J.D./MA</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)</p><p>参考资料：</p><p>(1) <a href="https://www.valpo.edu/law/prospective-students/p-curriculum/p-degree-programs#programs" target="_blank">DUAL DEGREE PROGRAMS</a> VU</p><p>(2) <a href="https://www.valpo.edu/law/current-students/law-registrar/c-resources/c-financial-aid" target="_blank">FINANCIAL AID</a> VU</p><p>(3) <a href="https://www.valpo.edu/law/" target="_blank">CALLED TO THE LAW</a> VU</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2020-09-23</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1565;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1565' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1565;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

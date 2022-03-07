@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>佛罗里达理工学院-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="佛罗里达理工学院" />
+<meta name="description"  id="description"  content="佛罗里达理工学院:佛罗里达理工学院（Florida Institute of Technology，简称Florida Tech）是一所中等大小的私立综合性全国大学，成立于1958年，位于美国南部小城墨尔本（Melbourne,FL），提供本科、硕士、博士，三种学位类型。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">佛罗里达理工学院 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:130px">			<p>排名</p>			</td>			<td style="width:293px">			<p>206*(3)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国家</p>			</td>			<td style="width:293px">			<p>美国</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>州省</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/佛罗里达州" target="_blank">佛罗里达州</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>城市</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/墨尔本" target="_blank">墨尔本</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校训</p>			</td>			<td style="width:293px">			<p>Ad Astra Per Scientiam(To the stars through science)*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>汉译</p>			</td>			<td style="width:293px">			<p>科学让你熠熠生辉</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>性质</p>			</td>			<td style="width:293px">			<p>私立，男女合校</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>成立年份</p>			</td>			<td style="width:293px">			<p>1958年*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>宗教信仰</p>			</td>			<td style="width:293px">			<p>无</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校园</p>			</td>			<td style="width:293px">			<p>0.53Km<sup>2</sup>，市区*(2)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学生人数</p>			</td>			<td style="width:293px">			<p>6,627</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>本科生人数</p>			</td>			<td style="width:293px">			<p>3,586*(2)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>研究生人数</p>			</td>			<td style="width:293px">			<p>3,041*(2)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>师生比</p>			</td>			<td style="width:293px">			<p>1:8*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国际学生比例</p>			</td>			<td style="width:293px">			<p>本科：33%*(5)</p>			<p>整体：30.94%*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学校分类</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/全国性大学" target="_blank">全国性大学</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>认证机构</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/南部学院及学校协会" target="_blank">南部学院及学校协会</a>（SACS）</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>网址</p>			</td>			<td style="width:293px">			<p>www.fit.edu</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>佛罗里达理工学院 (Florida Institute of Technology，简称 &quot;Florida Tech&quot;) 是一所美国顶尖的国家一级研究型大学，是<a href="http://www.qianmu.org/佛罗里达州" target="_blank">佛罗里达州</a>最好的科技大学，也是美国南部最著名的理工学院之一。我校由美国国家航空航天局专家团队创办于1958年，拥有浓厚的理工科学研究氛围，以航空科学、工程科学、理科学、<a href="http://www.qianmu.org/心理学" target="_blank">心理学</a>和商业科学闻名，是外空间科学、能源动力、<a href="http://www.qianmu.org/电气工程" target="_blank">电气工程</a>、飞行器、火箭及卫星领域的著名研究中心，可以授予包括24个专业的博士学位在内的180多个学位课程项目。学院提供国际化的教育环境，目前有超过106个国家的国际学生在佛罗里达理工学院的主校区学习，你将与来自世界多个国家的一流学生和教师一起，组成一个多种族、多元文化的学习、生活社区。*(1)</p><p><strong>地理位置</strong></p><p>佛罗里达理工学院所在地<a href="http://www.qianmu.org/墨尔本" target="_blank">墨尔本</a>市，位于美国佛罗里达州高科技走廊，这里拥有超过五千多家高科技企业，其中超过一百多家是世界五百强企业，这里是美国排名第四的高科技就业市场。学院占地130英亩，绿树成荫，风景优美。学院离印第安河约有5分钟的路程，离大西洋迷人的海滩约10分钟的路程，距离美国国家航空航天局肯尼迪太空中心约50分钟的车程。从学校到达墨尔本、奥兰多、<a href="http://www.qianmu.org/迈阿密" target="_blank">迈阿密</a>的国际机场也十分方便。</p><p><strong>学术介绍</strong></p><p>佛罗里达理工学院重视并鼓励所有追求远大理想的学生来我校就读、深造，并将帮助他们在未来的职业发展中取得成功。确保科研投入是学校学术成就的基石，学校主办过超过3,400 万美元外部资助的科研项目，学院的图书馆也是佛罗里达州技术数据检索中心，提供全世界的技术书籍检索通路和完善的数据服务，因此在学术界赢得了卓越的声誉。佛罗里达理工学院连续14年被美国新闻周刊和世界报道 (U.S. News &amp; World Report) 评为全美最好的国家级研究型大学之一；与<a href="http://www.qianmu.org/加州理工学院" target="_blank">加州理工学院</a>、<a href="http://www.qianmu.org/麻省理工学院" target="_blank">麻省理工学院</a>一道，被美国大学及学院入学手册 (Fiske Guide to Colleges) 评为全美最佳的13所理工学院。</p><p>佛罗里达理工学院力图为学生创造最佳的学习环境，学生和老师的比例是按照9:1进行配置，每个班级最多只有23人。学院的课程设置十分注重学生的理论学习与实际应用相结合，同时注重培养学生的科研能力，通过校企结合 (Pro-Track Co-op Education) 的模式，为学生创造实习机会。目前学院与60多家世界级的企业和政府机构合作，包括波音、通用电气、微软、迪斯尼、西门子、美国国家航空航天局等。</p><p>佛罗里达理工学院的毕业生超过了50,000人，这些优秀的毕业生在工程学、理科学、商业、航天学和心理学领域成长为领导者和专业人才。根据对佛罗里达理工学院的毕业生的调查显示，96%的毕业生都在毕业6个月以内找到了与专业相关的工作或者升入研究生院深造，毕业生的平均起薪超过55,000美元，他们的职业中期年薪超过84,500美元。</p><h2><strong>申请点评</strong></h2><p>佛罗里达理工以航空为特色，设有专门的航空学院。本科<a href="http://www.qianmu.org/USNEWS排名" target="_blank">USNEWS排名</a>仅167为，但却属于泰晤士世界排名世界前200的学校之一，比<a href="http://www.qianmu.org/威廉玛丽学院" target="_blank">威廉玛丽学院</a>还要高。可见这所学校的学术研究水平是非常高的。</p><p>佛罗里达理工学院的教育质量声誉斐然，获得多项学术评鉴：</p><ul>	<li>全美一级国家级研究型大学 (U.S. News &amp; World Report)*(1)</li>	<li>最佳13所工程、技术类大学之一 (Fiske Guide to Colleges)</li>	<li>最佳25所工程学院之一 (Parade Magazine)</li>	<li>东南部最佳大学 (Princeton Review)</li>	<li>佛罗里达州最值得就读的大学 (Bloomberg Businessweek)</li>	<li>航空管理科学专业全美排名第二，工业/组织心理学博士专业全美排名第二，<a href="http://www.qianmu.org/海洋工程" target="_blank">海洋工程</a>专业全美排名第四，<a href="http://www.qianmu.org/海洋生物学" target="_blank">海洋生物学</a>专业全美排名第七&nbsp;</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=arBPkMoeLPImadwrZIyDvhqsloy7WrLw0gbKTnX5-vzDC1X2br9KmxJiAd-Al2p6Xmhhx5Sw" target="_blank">学校介绍</a> 佛罗里达理工中文官网</p><p>(2) <a href="http://www.qianmu.org/redirect?code=8rL6TCPLLK6SQRKcddddddQvmc9KYFaHgsfjbsVIvTYisUI7Jfq_NU-ZEZ-r0odHLI587w0pA8T4KgCxSbMF_vn9ay5EyzoOfR3EfwKI4KtjRKF2n" target="_blank">Florida Institute of Technology</a> Wikipedia</p><p>(3) <a href="http://www.qianmu.org/redirect?code=9rpcSX3bkDUFucDDIIIIIhRErjEqGXUdSQHpn_3Sj73WmQ6GmQaICUYTVwVJ2pkGcpkhLB1ho8A4cNG800GwbFJ2ib1vifud7F2ZoCa00A9s0oErW526tG-6qTusxKNevCWCBGls3w7eS_H6z-3thA5QOt0Q4zUmeUkMdvp" target="_blank">Florida Institute of Technology</a> USNEWS</p><p>(4) <a href="http://www.qianmu.org/redirect?code=SrWl9LT7LlbvUg-7OOOOOOEPfx_DigqVeUeUgrQZ6C9b3K_7sfhkOFjxsf3WeF_PeCBRsY" target="_blank">2013&ndash;2014 Fact Card</a> Florida Tech</p><p>(5) <a href="http://www.qianmu.org/redirect?code=SrWl9Lxbw4VCA_d-FFFFF54Qv2yYf2UMHMmtf3FS5z7-vGrZig_4dMDPQG1V_9CgNdCOQ4u-zgz-SCAuPlYiBo5o5J2A5UsvebB2l6tJg1OK21ycrYKbCY-L_ndbaHhfjJcj2VMl2j5M9kVTlka9X1DRCHdRuACYxn" target="_blank">Florida Institute of Technology</a> College Board</p><p>&nbsp;</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:21.22%">			<p>USNEWS排名</p>			</td>			<td style="width:13.3%">			<p>206</p>			</td>			<td style="width:17.16%">			<p>学费(/年)</p>			</td>			<td style="width:12.96%">			<p>$40,446</p>			</td>			<td style="width:21.5%">			<p>申请截止日期</p>			</td>			<td style="width:13.82%">			<p>7月1日</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td style="width:13.3%">			<p>79</p>			</td>			<td style="width:17.16%">			<p>食宿(/年)</p>			</td>			<td style="width:12.96%">			<p>$13,610</p>			</td>			<td style="width:21.5%">			<p>开学时间</p>			</td>			<td style="width:13.82%">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td style="width:13.3%">			<p>6.5</p>			</td>			<td style="width:17.16%">			<p>申请费</p>			</td>			<td style="width:12.96%">			<p>$0</p>			</td>			<td style="width:21.5%">			<p>可申请学期</p>			</td>			<td style="width:13.82%">			<p>秋季、春季</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/SAT" target="_blank">SAT</a>均分</p>			</td>			<td style="width:13.3%">			<p>1030 - 1260 (1600)</p>			</td>			<td style="width:17.16%">			<p>录取率</p>			</td>			<td style="width:12.96%">			<p>57%</p>			</td>			<td style="width:21.5%">			<p>奖学金形式</p>			</td>			<td style="width:13.82%">			<p>Merit-based</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>平均<a href="http://www.qianmu.org/GPA" target="_blank">GPA</a></p>			</td>			<td style="width:13.3%">			<p>3.6</p>			</td>			<td style="width:17.16%">			<p>申请人数</p>			</td>			<td style="width:12.96%">			<p>9,303</p>			</td>			<td style="width:21.5%">			<p>是否提供<a href="http://www.qianmu.org/双录取" target="_blank">双录取</a></p>			</td>			<td style="width:13.82%">			<p>Yes</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)(4)(5)</p><p>注：</p><p>（1）TOEFL与IELTS均无单项要求；该校提供<a href="http://www.qianmu.org/条件录取" target="_blank">条件录取</a>，条要求TOEFL不低于61分，IELTS不低于6.0分；<a href="http://www.qianmu.org/PTE" target="_blank">PTE</a>直录要求58分，条件录取要求不低于50分*(4)</p><p>（2）该校春季学期和秋季学期均可申请入学，实行滚动录取政策，无特定的申请截止日期。秋季学期建议2月1日之前申请*(1)</p><h2>教学质量</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:19.68%">			<p>本科生人数</p>			</td>			<td style="width:9.28%">			<p>3,586</p>			</td>			<td style="width:22.32%">			<p>小班比例(&lt;20)</p>			</td>			<td style="width:9.86%">			<p>49.4%</p>			</td>			<td style="width:25.3%">			<p><a href="http://www.qianmu.org/学期制度" target="_blank">学期制度</a></p>			</td>			<td style="width:13.56%">			<p>Semseter</p>			</td>		</tr>		<tr>			<td style="width:19.68%">			<p>研究生人数</p>			</td>			<td style="width:9.28%">			<p>3,041</p>			</td>			<td style="width:22.32%">			<p>中班比例(20-49)</p>			</td>			<td style="width:9.86%">			<p>46.2%</p>			</td>			<td style="width:25.3%">			<p>教授水平满意度</p>			</td>			<td style="width:13.56%">			<p>92%</p>			</td>		</tr>		<tr>			<td style="width:19.68%">			<p>国际学生比例</p>			</td>			<td style="width:9.28%">			<p>33%</p>			</td>			<td style="width:22.32%">			<p>大班比例(&gt;50)</p>			</td>			<td style="width:9.86%">			<p>4.4%</p>			</td>			<td style="width:25.3%">			<p>就业实习满意度</p>			</td>			<td style="width:13.56%">			<p>61%</p>			</td>		</tr>		<tr>			<td style="width:19.68%">			<p>师生比</p>			</td>			<td style="width:9.28%">			<p>1:8</p>			</td>			<td style="width:22.32%">			<p>六年毕业率</p>			</td>			<td style="width:9.86%">			<p>57%</p>			</td>			<td style="width:25.3%">			<p>学生满意度</p>			</td>			<td style="width:13.56%">			<p>89%</p>			</td>		</tr>		<tr>			<td style="width:19.68%">			<p>四年毕业率</p>			</td>			<td style="width:9.28%">			<p>41%</p>			</td>			<td style="width:22.32%">			<p>新生保持率</p>			</td>			<td style="width:9.86%">			<p>79%</p>			</td>			<td style="width:25.3%">			<p>教师博士学位比例</p>			</td>			<td style="width:13.56%">			<p>91%</p>			</td>		</tr>		<tr>			<td style="width:19.68%">毕业2年平均薪水</td>			<td style="width:9.28%">$37,600</td>			<td style="width:22.32%">就业率</td>			<td style="width:9.86%">55%</td>			<td style="width:25.3%">校友网络认可度</td>			<td style="width:13.56%">88%</td>		</tr>	</tbody></table><p>*(1)(2)(3)(6)</p><p><strong>校园安全</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:143px">校园安全事件</td>			<td style="width:403px">Criminal Offenses -- On-Campus&nbsp;</td>			<td style="width:103px">2012</td>			<td style="width:100px">2013</td>			<td style="width:97px">2014</td>		</tr>		<tr>			<td>谋杀</td>			<td>Murder/Non-negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>过失杀人</td>			<td>Negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸</td>			<td>Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>乱伦</td>			<td>Incest</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸幼童罪</td>			<td>Statutory Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>猥亵</td>			<td>Fondling</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>性侵犯-强迫</td>			<td>Sex offenses - Forcible</td>			<td>			<p>3</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>性侵犯-非强迫</td>			<td>Sex offenses - non-forcible (incest and statutory rape only)</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>抢劫</td>			<td>Robbery</td>			<td>			<p>1</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>暴力袭击</td>			<td>Aggravated assault</td>			<td>			<p>1</p>			</td>			<td>			<p>2</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>盗窃</td>			<td>Burglary</td>			<td>			<p>11</p>			</td>			<td>			<p>5</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>汽车盗窃</td>			<td>Motor vehicle theft</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>纵火</td>			<td>Arson</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>	</tbody></table><p>*(2)</p><h2>申请说明</h2><p><strong>SAT</strong><strong>与ACT</strong></p><p>佛罗里达理工学院国际学生无需递交SAT/<a href="http://www.qianmu.org/ACT" target="_blank">ACT</a>成绩，但如递交同样可予以参考。2015年秋季，该校录取学生的SAT平均分数如下：</p><ul>	<li>SAT均分（25%-75%）：SAT阅读520-620；SAT数学560-670*(1)</li>	<li>ACT均分（25%-75%）：ACT综合24-29分*(1)</li></ul><p><strong>AP</strong><strong>与IB </strong></p><p>佛罗里达理工学院接受<a href="http://www.qianmu.org/AP" target="_blank">AP</a>、<a href="http://www.qianmu.org/IB" target="_blank">IB</a>课程转学分。AP课程要求4分以上；IB课程高水准（Higher-level）和标准水准（Standard-level）课程均可抵学分，要求最低4分以上。具体可转学分课程、及其可转学分数与分数要求，请见下方的外部链接。*(7)</p><p><strong>GPA与班级排名</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:26.96%">			<p>GPA</p>			</td>			<td style="width:23.48%">&nbsp;</td>			<td style="width:24.78%">			<p>班级排名</p>			</td>			<td style="width:24.78%">&nbsp;</td>		</tr>		<tr>			<td style="width:26.96%">			<p>分段</p>			</td>			<td style="width:23.48%">			<p>占比</p>			</td>			<td style="width:24.78%">			<p>分段</p>			</td>			<td style="width:24.78%">			<p>占比</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.75以上</p>			</td>			<td style="width:23.48%">			<p>49%</p>			</td>			<td style="width:24.78%">			<p>TOP10%</p>			</td>			<td style="width:24.78%">			<p>31%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.5-3.74</p>			</td>			<td style="width:23.48%">			<p>18%</p>			</td>			<td style="width:24.78%">			<p>TOP25%</p>			</td>			<td style="width:24.78%">			<p>59%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.25-3.49</p>			</td>			<td style="width:23.48%">			<p>13%</p>			</td>			<td style="width:24.78%">			<p>TOP50%</p>			</td>			<td style="width:24.78%">			<p>89%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.0-3.24</p>			</td>			<td style="width:23.48%">			<p>14%</p>			</td>			<td style="width:24.78%">			<p>50%以下</p>			</td>			<td style="width:24.78%">			<p>11%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>2.50-2.99</p>			</td>			<td style="width:23.48%">			<p>5%</p>			</td>			<td style="width:24.78%">			<p>75%以下</p>			</td>			<td style="width:24.78%">			<p>3%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>2.49以下</p>			</td>			<td style="width:23.48%">			<p>1%</p>			</td>			<td style="width:24.78%">&nbsp;</td>			<td style="width:24.78%">&nbsp;</td>		</tr>	</tbody></table><p><strong>申请材料</strong></p><p>佛罗里达理工学院通过Common Application系统或学校官网申请，申请时可以指定自己的专业，也可以不指定，未明确自己专业的学生，可以选择类似&ldquo;Undecided&rdquo;的选项作为自己的选择。该校每年8月份起开始开放申请，要求申请者递交以下<a href="http://www.qianmu.org/申请材料" target="_blank">申请材料</a>：</p><ul>	<li>网上填写完整的本科生入学申请表*(5)</li>	<li>高中<a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a>原件及英文<a href="http://www.qianmu.org/翻译" target="_blank">翻译</a>：经NACES认可的机构或WES机构认证</li>	<li>高中毕业证复印件及英文翻译件或高中<a href="http://www.qianmu.org/在读证明" target="_blank">在读证明</a></li>	<li>学生的<a href="http://www.qianmu.org/个人陈述" target="_blank">个人陈述</a>/学习计划（英文）</li>	<li>托福或雅思成绩单</li>	<li>SAT I或ACT成绩（如有）</li>	<li>两封<a href="http://www.qianmu.org/推荐信" target="_blank">推荐信</a></li>	<li>护照复印件一份（有照片的一页）</li>	<li>提交财力证明及银行存款证明</li>	<li>一份完整的I-20 申请表格</li></ul><p><strong>费用与奖学金</strong></p><p>佛罗里达理工学院向国际学生提供有少量的<a href="http://www.qianmu.org/Merit-based" target="_blank">Merit-based</a><a href="http://www.qianmu.org/奖学金" target="_blank">奖学金</a>，金额从$10,500-$18,000不等。欲申请奖学金的国际学生，最好在1月15日前递交学校申请。该奖学金无需单独申请，自动随Offer发放。2015年秋季，该校本科共有735名国际学生获得奖学金，总额为$12,550,026，平均金额$17,075，按国际学生比例与本科生人数计算，该校国际学生获奖几率为62.1%。*(1)(8)</p><p><strong>费用列表</strong><strong>：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:23.04%">			<p>支出项目</p>			</td>			<td style="width:55.76%">			<p>项目英文名</p>			</td>			<td style="width:21.18%">			<p>2016-2017学年费用</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>学费</p>			</td>			<td style="width:55.76%">			<p>Tuition and fees</p>			</td>			<td style="width:21.18%">			<p>$40,446</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>住宿费用</p>			</td>			<td style="width:55.76%">			<p>Room and board</p>			</td>			<td style="width:21.18%">			<p>$13,610</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>书本费</p>			</td>			<td style="width:55.76%">			<p>Books and supplies</p>			</td>			<td style="width:21.18%">			<p>$1,200</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>个人花费</p>			</td>			<td style="width:55.76%">			<p>Estimated personal expenses</p>			</td>			<td style="width:21.18%">			<p>$1,500</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>交通费</p>			</td>			<td style="width:55.76%">			<p>Transportation expenses</p>			</td>			<td style="width:21.18%">			<p>$1,500</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>合计</p>			</td>			<td style="width:55.76%">			<p>Estimated Total</p>			</td>			<td style="width:21.18%">			<p>$58,256</p>			</td>		</tr>	</tbody></table><p>*(1)(9)</p><h2>转学申请</h2><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:17.9%">			<p>TOEFL分数</p>			</td>			<td style="width:13.3%">			<p>79</p>			</td>			<td style="width:20.48%">			<p>GPA要求</p>			</td>			<td style="width:12.96%">			<p>2.5</p>			</td>			<td style="width:21.5%">			<p>申请截止日期</p>			</td>			<td style="width:13.82%">			<p>滚动录取</p>			</td>		</tr>		<tr>			<td style="width:17.9%">			<p>IELTS分数</p>			</td>			<td style="width:13.3%">			<p>6.5</p>			</td>			<td style="width:20.48%">			<p>SAT要求</p>			</td>			<td style="width:12.96%">			<p>Not Required</p>			</td>			<td style="width:21.5%">			<p>开学时间</p>			</td>			<td style="width:13.82%">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:17.9%">			<p>最高可转学分</p>			</td>			<td style="width:13.3%">			<p>90</p>			</td>			<td style="width:20.48%">			<p>最低学分要求</p>			</td>			<td style="width:12.96%">			<p>24</p>			</td>			<td style="width:21.5%">			<p>可申请学期</p>			</td>			<td style="width:13.82%">			<p>秋季、春季</p>			</td>		</tr>		<tr>			<td style="width:17.9%">			<p>申请人数</p>			</td>			<td style="width:13.3%">			<p>1,752</p>			</td>			<td style="width:20.48%">			<p>录取人数</p>			</td>			<td style="width:12.96%">			<p>598</p>			</td>			<td style="width:21.5%">			<p>录取率</p>			</td>			<td style="width:13.82%">			<p>34%</p>			</td>		</tr>	</tbody></table><p>*(1)(7)</p><p>注：佛罗里达理工学院要求转学申请者GPA2.5以上，如考虑转学分，单门课程GPA须在2.0以上</p><p><strong>申请说明</strong></p><p>佛罗里达理工学院秋季和春季学期两个学期均可以转学，可入读大一、大二、大三其中任何一个学期。要求申请者至少修读过24个学分，否则仍然会要求高中成绩单。与新生申请一样，该校转学申请国际学生无需递交SAT/ACT成绩。国际学生转学生仍然有机会获取奖学金。</p><p><strong>联系方式</strong></p><p><strong>Office of Undergraduate Admission</strong></p><p>Florida Institute of Technology</p><p>Florida Tech Commons Bldg.</p><p>150 W. University Blvd Melbourne, Florida 32901</p><p><strong>Phone:</strong> (321) 674-8030</p><p><strong>Email: </strong>admission@fit.edu*(4)</p><h2>专业设置</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:20.08%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:46.16%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:33.74%">			<p><strong>专业领域</strong></p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>交叉学科-航空</p>			</td>			<td style="width:46.16%">			<p>Interdisc Sci-Aeronautics</p>			</td>			<td style="width:33.74%">			<p>航空航天</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>航空管理</p>			</td>			<td style="width:46.16%">			<p>Aviation <a href="http://www.qianmu.org/管理学" target="_blank">Management</a></p>			</td>			<td style="width:33.74%">			<p>航空航天、商科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>航空管理-飞行</p>			</td>			<td style="width:46.16%">			<p>Aviation Management-Flight</p>			</td>			<td style="width:33.74%">			<p>航空航天、商科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/航空航天工程" target="_blank">航空航天工程</a></p>			</td>			<td style="width:46.16%">			<p><a href="http://www.qianmu.org/航空航天工程" target="_blank">Aerospace Engineering</a></p>			</td>			<td style="width:33.74%">			<p>航空航天、工程</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>航空气象学</p>			</td>			<td style="width:46.16%">			<p>Aviation Meteorology</p>			</td>			<td style="width:33.74%">			<p>航空航天、工程、理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>航空科学</p>			</td>			<td style="width:46.16%">			<p>Aeronautical Science</p>			</td>			<td style="width:33.74%">			<p>航空航天、理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>航空科学-飞行</p>			</td>			<td style="width:46.16%">			<p>Aeronautical Science-Flight</p>			</td>			<td style="width:33.74%">			<p>航空航天、理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>航空气象学-飞行</p>			</td>			<td style="width:46.16%">			<p>Aviation Meteorology-Flight</p>			</td>			<td style="width:33.74%">			<p>航空航天、理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>工商管理</p>			</td>			<td style="width:46.16%">			<p>Business Administration</p>			</td>			<td style="width:33.74%">			<p>商科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/创业管理" target="_blank">创业管理</a></p>			</td>			<td style="width:46.16%">			<p>Business Administration-<a href="http://www.qianmu.org/创业管理" target="_blank">Entrepreneurship</a></p>			</td>			<td style="width:33.74%">			<p>商科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/会计" target="_blank">会计</a></p>			</td>			<td style="width:46.16%">			<p>Business Administration/<a href="http://www.qianmu.org/会计" target="_blank">Accounting</a></p>			</td>			<td style="width:33.74%">			<p>商科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>全球管理与<a href="http://www.qianmu.org/金融" target="_blank">金融</a></p>			</td>			<td style="width:46.16%">			<p>Business Administration/Global Mgmt. &amp; <a href="http://www.qianmu.org/金融" target="_blank">Finance</a></p>			</td>			<td style="width:33.74%">			<p>商科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>工信息技术管理</p>			</td>			<td style="width:46.16%">			<p>Business Administration/Information Tech Mgmt.</p>			</td>			<td style="width:33.74%">			<p>商科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>企业领导</p>			</td>			<td style="width:46.16%">			<p>Business Administration/Leadership</p>			</td>			<td style="width:33.74%">			<p>商科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">市场营销</a></p>			</td>			<td style="width:46.16%">			<p>Business Administration/<a href="http://www.qianmu.org/市场营销" target="_blank">Marketing</a></p>			</td>			<td style="width:33.74%">			<p>商科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>体育管理</p>			</td>			<td style="width:46.16%">			<p>Business Administration/Sport Management</p>			</td>			<td style="width:33.74%">			<p>商科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>建筑管理</p>			</td>			<td style="width:46.16%">			<p>Construction Management</p>			</td>			<td style="width:33.74%">			<p>商科、工程</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>信息系统</p>			</td>			<td style="width:46.16%">			<p><a href="http://www.qianmu.org/信息系统管理" target="_blank">Information Systems</a></p>			</td>			<td style="width:33.74%">			<p>商科、工程</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>商业环境研究</p>			</td>			<td style="width:46.16%">			<p>Business and Environmental Studies</p>			</td>			<td style="width:33.74%">			<p>商科、工程、理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>可持续发展研究</p>			</td>			<td style="width:46.16%">			<p>Sustainability Studies</p>			</td>			<td style="width:33.74%">			<p>商科、理科、交叉学科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/化学工程" target="_blank">化学工程</a></p>			</td>			<td style="width:46.16%">			<p>Chemical Engineering</p>			</td>			<td style="width:33.74%">			<p>工程</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">土木工程</a></p>			</td>			<td style="width:46.16%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">Civil Engineering</a></p>			</td>			<td style="width:33.74%">			<p>工程</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/计算机工程" target="_blank">计算机工程</a></p>			</td>			<td style="width:46.16%">			<p><a href="http://www.qianmu.org/计算机工程" target="_blank">Computer Engineering</a></p>			</td>			<td style="width:33.74%">			<p>工程</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">计算机科学</a></p>			</td>			<td style="width:46.16%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">Computer Science</a></p>			</td>			<td style="width:33.74%">			<p>工程</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>电气工程</p>			</td>			<td style="width:46.16%">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">Electrical Engineering</a></p>			</td>			<td style="width:33.74%">			<p>工程</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">机械工程</a></p>			</td>			<td style="width:46.16%">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">Mechanical Engineering</a></p>			</td>			<td style="width:33.74%">			<p>工程</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/软件工程" target="_blank">软件工程</a></p>			</td>			<td style="width:46.16%">			<p><a href="http://www.qianmu.org/软件工程" target="_blank">Software Engineering</a></p>			</td>			<td style="width:33.74%">			<p>工程</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/环境科学" target="_blank">环境科学</a></p>			</td>			<td style="width:46.16%">			<p>Environmental Science</p>			</td>			<td style="width:33.74%">			<p>工程、理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>气象学</p>			</td>			<td style="width:46.16%">			<p>Meteorology</p>			</td>			<td style="width:33.74%">			<p>工程、理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/纳米技术" target="_blank">纳米科学</a>与技术</p>			</td>			<td style="width:46.16%">			<p>Nanoscience/<a href="http://www.qianmu.org/纳米技术" target="_blank">Nanotechnology</a></p>			</td>			<td style="width:33.74%">			<p>工程、理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>海洋工程</p>			</td>			<td style="width:46.16%">			<p>Ocean Engineering</p>			</td>			<td style="width:33.74%">			<p>工程、理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>海洋学</p>			</td>			<td style="width:46.16%">			<p>Oceanography</p>			</td>			<td style="width:33.74%">			<p>工程、理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/传播学" target="_blank">传播学</a></p>			</td>			<td style="width:46.16%">			<p>Communication</p>			</td>			<td style="width:33.74%">			<p>人文社科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>人文科学</p>			</td>			<td style="width:46.16%">			<p>Humanities</p>			</td>			<td style="width:33.74%">			<p>人文社科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/法学预科" target="_blank">法学预科</a></p>			</td>			<td style="width:46.16%">			<p>Humanities-Prelaw</p>			</td>			<td style="width:33.74%">			<p>人文社科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>军事科学-通信</p>			</td>			<td style="width:46.16%">			<p>Communication-Military Science</p>			</td>			<td style="width:33.74%">			<p>人文社科、军事/理科/军队</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/生物医学工程" target="_blank">生物医学工程</a></p>			</td>			<td style="width:46.16%">			<p><a href="http://www.qianmu.org/生物医学工程" target="_blank">Biomedical Engineering</a></p>			</td>			<td style="width:33.74%">			<p><a href="http://www.qianmu.org/医学" target="_blank">医学</a>预科、工程、交叉学科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/分子生物学" target="_blank">分子生物学</a></p>			</td>			<td style="width:46.16%">			<p>Biological Sciences-Molecular</p>			</td>			<td style="width:33.74%">			<p>医学预科、理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>生物科学-医学预科</p>			</td>			<td style="width:46.16%">			<p>Biological Sciences-Premedical</p>			</td>			<td style="width:33.74%">			<p>医学预科、理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/化学" target="_blank">化学</a>-医学预科</p>			</td>			<td style="width:46.16%">			<p><a href="http://www.qianmu.org/化学" target="_blank">Chemistry</a>-Premedical Chemistry</p>			</td>			<td style="width:33.74%">			<p>医学预科、理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/物理" target="_blank">物理</a>-医学预科</p>			</td>			<td style="width:46.16%">			<p><a href="http://www.qianmu.org/物理" target="_blank">Physics</a>-Premedical</p>			</td>			<td style="width:33.74%">			<p>医学预科、理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/生物化学" target="_blank">生物化学</a></p>			</td>			<td style="width:46.16%">			<p>Biochemistry</p>			</td>			<td style="width:33.74%">			<p>医学预科、理科、交叉学科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/法医" target="_blank">法医</a>心理学</p>			</td>			<td style="width:46.16%">			<p>Forensic <a href="http://www.qianmu.org/心理学" target="_blank">Psychology</a></p>			</td>			<td style="width:33.74%">			<p>心理</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>心理学</p>			</td>			<td style="width:46.16%">			<p>Psychology</p>			</td>			<td style="width:33.74%">			<p>心理</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>水产养殖</p>			</td>			<td style="width:46.16%">			<p>Biological Sciences-Aquaculture</p>			</td>			<td style="width:33.74%">			<p>理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>生物保护与<a href="http://www.qianmu.org/生态学" target="_blank">生态学</a></p>			</td>			<td style="width:46.16%">			<p>Biological Sciences-Conservation Biology &amp; Ecology</p>			</td>			<td style="width:33.74%">			<p>理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/应用数学" target="_blank">应用数学</a></p>			</td>			<td style="width:46.16%">			<p>Mathematical Sci-Applied Math</p>			</td>			<td style="width:33.74%">			<p>理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>数学</p>			</td>			<td style="width:46.16%">			<p>Mathematical Sciences</p>			</td>			<td style="width:33.74%">			<p>理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>物理</p>			</td>			<td style="width:46.16%">			<p>Physics</p>			</td>			<td style="width:33.74%">			<p>理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>行星科学</p>			</td>			<td style="width:46.16%">			<p>Planetary Science</p>			</td>			<td style="width:33.74%">			<p>理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/天文学" target="_blank">天文学</a>与<a href="http://www.qianmu.org/天体物理" target="_blank">天体物理</a></p>			</td>			<td style="width:46.16%">			<p>Space Sciences-<a href="http://www.qianmu.org/天文学" target="_blank">Astronomy</a> &amp; Astrophysics</p>			</td>			<td style="width:33.74%">			<p>理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p><a href="http://www.qianmu.org/STEM" target="_blank">STEM</a>教育</p>			</td>			<td style="width:46.16%">			<p>STEM Education</p>			</td>			<td style="width:33.74%">			<p>理科、教育</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>生物数学</p>			</td>			<td style="width:46.16%">			<p>Biomathematics</p>			</td>			<td style="width:33.74%">			<p>理科、交叉学科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>交叉科学</p>			</td>			<td style="width:46.16%">			<p>Interdisciplinary Science</p>			</td>			<td style="width:33.74%">			<p>理科、交叉学科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>天体生物学</p>			</td>			<td style="width:46.16%">			<p>Space Sciences-Astrobiology</p>			</td>			<td style="width:33.74%">			<p>理科、交叉学科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>交叉学科-军事科学</p>			</td>			<td style="width:46.16%">			<p>Interdisc Sci-Military Sci</p>			</td>			<td style="width:33.74%">			<p>理科、军事/理科/军队、交叉学科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>应用行为分析</p>			</td>			<td style="width:46.16%">			<p>Applied Behavior Analysis</p>			</td>			<td style="width:33.74%">			<p>理科、心理</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>生物科学</p>			</td>			<td style="width:46.16%">			<p>Biological Sciences-General</p>			</td>			<td style="width:33.74%">			<p>师范、理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>海洋生物学</p>			</td>			<td style="width:46.16%">			<p>Biological Sciences-Marine</p>			</td>			<td style="width:33.74%">			<p>师范、理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>化学</p>			</td>			<td style="width:46.16%">			<p>Chemistry-General</p>			</td>			<td style="width:33.74%">			<p>师范、理科</p>			</td>		</tr>		<tr>			<td style="width:20.08%">			<p>化学研究</p>			</td>			<td style="width:46.16%">			<p>Chemistry-Research Chemistry</p>			</td>			<td style="width:33.74%">			<p>师范、理科</p>			</td>		</tr>	</tbody></table><p>*(11)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=vrJH6Yrfkdft_2-UF2sKOsPrP6oNxWtRmuAsS8DnCISKP-q2wmtmeODwc-_v-BfRk0EmpyM-Aps03i0DlXrB6RzfHCpySIRgp0-hmiImSksV2uhlmSgv7Dw-Y_A-5fResYCemso-qqc_RXeKgVAVCIrK9Gojem9gz_zfHM_Xdv" target="_blank">Florida Institute of Technology</a> College Board</p><p>(2) <a href="http://www.qianmu.org/redirect?code=7r_i3IVik0k8mhUzPPPPPK6FmwjJDOlPLf1lTUyRcesPFN_rFNMpMun6ToT_adlgMdlYcf_cvFkmLi0y770hTemzA39uAcOwINGvWpgRWyIYoRis0AMqdtkqKRrx3NXjew19KJIDl0FmMpZBx4vuXetch6uclrUmeUkMdvp" target="_blank">Florida Institute of Technology</a> USNEWS</p><p>(3) <a href="http://www.qianmu.org/redirect?code=QrzUA2uQLVxrL09dtDM6B8qVV4K_nLbr3JAZ3yDD-EzZ6FDGUr35isxkvmaSEq9L6o9quvznlPA-q4QuCma" target="_blank">2013&ndash;2014 Fact Card</a> Florida Tech</p><p>(4) <a href="http://www.qianmu.org/redirect?code=UrsQlJ6gLIup4FEeBBBBBBQfV-Ek6c1JgsFIFIrQZOBxZ7fw8461MoCfPiOS8OgY1dMZUW9vCRLVhS9BQaWBpc2AizljeKZvYR1RmXygEnc6za36LRUQp" target="_blank">English Language Proficiency</a> Florida Tech</p><p>(5) <a href="http://www.qianmu.org/redirect?code=erlnE6bTwdft_1d-FFFFFFwfGYO4BieE_UifjJa0mDF6J3PRFM1hJYPlF9yosD-lJY-cFLPBTMC" target="_blank">本科生申请</a>Florida Tech</p><p>(6) <a href="http://www.qianmu.org/redirect?code=4rjT-BYAkawhoSeIQQQQQeyt4-X1Yd6_P56ucq2sPFN_bh7gPG2_b56uUlbuclBtw-G_M3w76nGE4Du2AI8KAJ82A3UHpMWQpZ4oVnGHAI8JAPU2VIOUQX0RGoVtCSNO8oM" target="_blank">Florida Institute of Technology</a> College Prowler</p><p>(7) <a href="http://www.qianmu.org/redirect?code=mrtw23qPkVnHXqFu666666PmwjJDOlPgd2d2rqTm38NchjYgde4DTfV-Gpel0bTZiHvlGFiz5AhH0bs_5lTu-CJ" target="_blank">Transfer FAQs</a> Florida Tech</p><p>(8) <a href="http://www.qianmu.org/redirect?code=9rpcSX3GkNYOnug0tttttt9NQdJjn4hcyqQ8Q8fciwduGyEekjCTXkPZaSMiKJ7e0jgOPwWPgjTyZLtv6T8ScoQVD3cNDjMeDP9N1P2NmYKJRzAXRbK4Hn" target="_blank">Merit-based International Student Scholarships</a> Florida Tech</p><p>(9) <a href="http://www.qianmu.org/redirect?code=urKrNAmqweEscWesccccccNk-IyvSFdfjqjqGorkLtKO7IVfji1Ow1_q-iJvpmGO7qSZ7fq5lKqZuX0PHgDZHo6Pu84378H1xCm37W" target="_blank">FEES AND EXPENSES</a> Florida Tech</p><p>(10) <a href="http://www.qianmu.org/redirect?code=MrO2caJ1wcXfY2IBwwwwwwvDpAb5PTjHo5GLGLDeP8lm7O4zk2tFNiUL-VvHMiCm-F8uIHbksN1" target="_blank">Transfer Admission</a> Florida Tech</p><p>(11) <a href="http://www.qianmu.org/redirect?code=BraKR4YDw-IwEQ6MHHHHHHyl8PxjAN5cvCZlZlai3RxNYF-fTkEdR8wcKgwJjst0g0V45U5UstMhhW3mtQ3S" target="_blank">Undergraduate Degree Programs</a> Florida Tech</p><p>&nbsp;</p><h1>研究生申请</h1><p><strong>院系设置</strong></p><p>佛罗里达理工学院共设有以下五个学术学院，分别是：</p><ul>	<li>航空学院（College of Aeronautics）</li>	<li>商学院（Nathan M. Bisk College of Business）</li>	<li>工程学院（College of Engineering）</li>	<li>心理学院（College of Psychology and Liberal Arts）</li>	<li>理学院（College of Science）*(1)</li></ul><p><strong>基本要求</strong></p><p>佛罗里达理工学院规定的基本申请条件如下：</p><ul>	<li>学位要求：要求四年正规大学本科毕业并取得学士学位*(2)</li>	<li>GPA要求：未规定有最低本科GPA要求&mdash;&mdash;但一般而言，本科GPA最好不低于3.0分*(2)</li>	<li>语言要求：TOEFL要求不低于79分，IELTS要求不低于6.5分，均无单项要求。*(3)</li>	<li><strong>G</strong>RE要求：大多数项目均需要有<a href="http://www.qianmu.org/GRE" target="_blank">GRE</a>成绩，部分项目还要求有<a href="http://www.qianmu.org/GRE Subject" target="_blank">GRE Subject</a>成绩，商科类专业可以使用<a href="http://www.qianmu.org/GMAT" target="_blank">GMAT</a>代替GRE成绩，未设定有最低GRE分数要求*(2)</li>	<li>条件录取：该校研究生同样接受条件录取。要求TOEFL不低于61分，IELTS不低于6.0分*(3)</li></ul><p><strong>申请时间</strong></p><p>除心理学博士等项目外，佛罗里达理工学院其它项目均有统一的申请截止时间，具体如下：</p><ul>	<li>秋季入学：4月1日截止，欲申请奖学金的学生只能在该学期申请，且必需于1月15日前完成申请</li>	<li>春季入学：9月1日截止*(2)</li></ul><p>例外项目：</p><p>心理学博士、工业组织心理学博士、应用行为分析博士：1月15日截止</p><p>生物科学博士、硕士：3月15日截止*(2)</p><p><strong>申请说明</strong></p><p>佛罗里达理工学院各项目均有大致统一的申请材料要求，具体如下：</p><ul>	<li>网上填写完整的研究生入学申请表*(2)</li>	<li>网上缴纳申请费：50/60美元</li>	<li>大学成绩单原件及英文翻译：经NACES认可的机构或WES机构认证</li>	<li>大学毕业证、学位证复印件及翻译件或大学在读证明</li>	<li>学生的个人陈述/学习计划（英文）</li>	<li>托福或雅思成绩</li>	<li>GRE（理工科）或GMAT成绩（商科）</li>	<li>三封推荐信</li>	<li>护照复印件一份（有照片的一页）</li>	<li>提交财力证明及银行存款证明</li>	<li>一份完整的I-20 申请表格</li></ul><p><strong>费用与奖学金</strong></p><p>佛罗里达理工学院主要由学生所申请的系所或项目提供，其形式以<a href="http://www.qianmu.org/TA" target="_blank">TA</a>、<a href="http://www.qianmu.org/RA" target="_blank">RA</a>和Fellowship为主。学生在申请时应主动与系里的导师或招生办联系，以期获得由导师或系里提供的RA、TA奖学金。该校奖学金形式均为Merit-based，无需单独申请，自动随Offer发放。一般而言，PhD学生的获奖几率要远远大于硕士学生获得的几率。该校TA与RA奖学金，对语言要求更高，具体如下：</p><ul>	<li>TA语言要求：TOEFL不得低于100分，或IELTS不得低于7.0分</li>	<li>RA语言要求：TOEFL不得低于79分，或IELTS不得低于6.5分*(3)</li></ul><p>注：除常见的TA、RA等奖学金外，该校所有合格的学生均可以获得4000-6000美金不等的奖学金*(2)</p><p><strong>费用列表（2014-15</strong><strong>学年）：</strong></p><p>佛罗里达理工学院各项目的学费费率统一，具体如下：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:23.18%">			<p><strong>支出项目</strong></p>			</td>			<td style="width:47.96%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:28.86%">			<p><strong>费用</strong></p>			</td>		</tr>		<tr>			<td style="width:23.18%">			<p>学费（理工专业）</p>			</td>			<td style="width:47.96%">			<p>Tuition(Engineering and Science Majors)</p>			</td>			<td style="width:28.86%">			<p>$1,179/学分（$21,222/年）</p>			</td>		</tr>		<tr>			<td style="width:23.18%">			<p>食宿</p>			</td>			<td style="width:47.96%">			<p>Room &amp; Board</p>			</td>			<td style="width:28.86%">			<p>$13,110</p>			</td>		</tr>		<tr>			<td style="width:23.18%">			<p>医疗保险费</p>			</td>			<td style="width:47.96%">			<p>Health Insurance&nbsp;</p>			</td>			<td style="width:28.86%">			<p>$1,333</p>			</td>		</tr>		<tr>			<td style="width:23.18%">			<p>合计</p>			</td>			<td style="width:47.96%">			<p>Total Estimated Expenses</p>			</td>			<td style="width:28.86%">$35,665</td>		</tr>	</tbody></table><p>*(4)</p><p>注：</p><p>（1）上表食宿和医疗保险费均为本科生数据，研究生的实际花费实际与此相差不远</p><p>（2）佛罗里达理工学院实行Semester学期制度，一年需注册2个学期，每学期一般修9-12个学分。以每学期修9个学分，一年注册2个学期计算，该校研究生一年学费为$21,222。按本科的消费水平计算，该校研究生的食宿、医疗保险费及其它个人花费等，该校研究生一年花费在3.8万美金左右。</p><p><strong>联系方式</strong></p><p><strong>Office of Graduate Admissions</strong></p><p>Florida Institute of Technology</p><p>150 W. University Blvd</p><p>Melbourne, Florida 32901</p><p><strong>Phone: </strong>(321) 674-8027</p><p><strong>Fax: </strong>(321) 723-9468</p><p><strong>Email: </strong>Grad-Admissions@fit.edu*(5)</p><p>(1) <a href="http://www.qianmu.org/redirect?code=_r75g1XewqQ5Mw1ChLyVlizVaOQuUg818JKI886gdTFAw8jXCFZbAHYh6_BADN2SCKoFvrfwkRd" target="_blank">Colleges</a> Florida Tech</p><p>(2) <a href="http://www.qianmu.org/redirect?code=wrYmhlEsLWal5BJj000XeeepiOlz0_rjcmPrivJpc5QVCyJ-QO7jQ9spQODpC47304pW" target="_blank">研究生申请</a>Florida Tech</p><p>(3) <a href="http://www.qianmu.org/redirect?code=DroIGDy7kjzL8viVcccccco6lUiHwqXKh0h0OCy6W1e-EU4KhgdHyMLKJ7e0jgOByMi6EpeZERMKA3o1pvwS_iWO6MWM_3UEA3oXNIoO_Da" target="_blank">English Language Proficiency</a> Florida Tech</p><p>(4) <a href="http://www.qianmu.org/redirect?code=KruBHNWdkfKZOFYXCCCCCCu17QYretszIs0J0JvurtecMIKH2TCTX0o4dobXuptV9QThSD0-FO2WKHhNV1nSE7YmgW-m8sbsl9-1t9LR_eY_wym" target="_blank">FEES AND EXPENSES</a> Florida Tech</p><p>(5) <a href="http://www.qianmu.org/redirect?code=SrWl9Luzkc7SCaNSssssssKD0MLBFfmultbtC36iaBGgC4jlsTd361jgO" target="_blank">Contact Info</a> Florida Tech</p><h2>航空学院</h2><p>佛罗里达理工航空学院（College of Aeronautics）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:31.86%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:47.52%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:20.62%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:31.86%">			<p>航空科学</p>			</td>			<td style="width:47.52%">			<p>Aviation Sciences</p>			</td>			<td style="width:20.62%">			<p>PHD</p>			</td>		</tr>		<tr>			<td style="width:31.86%">			<p>机场开发与管理</p>			</td>			<td style="width:47.52%">			<p>Aviation-Airport Development...</p>			</td>			<td style="width:20.62%">			<p>MSA</p>			</td>		</tr>		<tr>			<td style="width:31.86%">			<p>应用航空安全</p>			</td>			<td style="width:47.52%">			<p>Aviation-Applied Aviation Safety</p>			</td>			<td style="width:20.62%">			<p>MSA</p>			</td>		</tr>		<tr>			<td style="width:31.86%">			<p>航空企业</p>			</td>			<td style="width:47.52%">			<p>Commercial Enterprise in Space</p>			</td>			<td style="width:20.62%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:31.86%">			<p>航空人为因素</p>			</td>			<td style="width:47.52%">			<p>Aviation Human Factors</p>			</td>			<td style="width:20.62%">			<p>MS</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=SrWl9LTQLVxrL0Pm4bJKbVaBag920dpr_CTvsOJQqJEer2oXIwqV-gG0cOqJEl1K1v0wA18x-WYRS8_p_R9UgrIflJ" target="_blank">Graduate Degree Programs</a> Florida Tech</p><p>(2) <a href="http://www.qianmu.org/redirect?code=ZrygfZiJLvi-JaPTaaaaaBE7O8K93ej2ucf24Uuq9RrnhtL1biT" target="_blank">Graduate Programs-College of Aeronautics</a> Florida Tech</p><h2>商学院</h2><p>佛罗里达理工纳森&middot;M&middot;比斯克商学院（Nathan M. Bisk College of Business）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:33.26%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:53.1%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:13.64%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>收购及合同管理</p>			</td>			<td style="width:53.1%">			<p>Acquisition and Contract Management</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>医疗管理</p>			</td>			<td style="width:53.1%">			<p>Healthcare Management</p>			</td>			<td style="width:13.64%">			<p><a href="http://www.qianmu.org/MBA" target="_blank">MBA</a></p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p><a href="http://www.qianmu.org/人力资源管理" target="_blank">人力资源管理</a></p>			</td>			<td style="width:53.1%">			<p>Human Resources Management</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p><a href="http://www.qianmu.org/物流管理" target="_blank">物流管理</a></p>			</td>			<td style="width:53.1%">			<p><a href="http://www.qianmu.org/物流管理" target="_blank">Logistics Management</a></p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>人道主义与救灾物资物理管理</p>			</td>			<td style="width:53.1%">			<p>Logistics Mgmt.-Humanitarian and Disaster Relief</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p><a href="http://www.qianmu.org/管理学" target="_blank">管理学</a></p>			</td>			<td style="width:53.1%">			<p>Management</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>管理学-采购与合同管理方向</p>			</td>			<td style="width:53.1%">			<p>Management-Acquisition and Contract Management</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>管理学-<a href="http://www.qianmu.org/人力资源管理" target="_blank">人力资源</a>管理方向</p>			</td>			<td style="width:53.1%">			<p>Management-Human Resources Management</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>管理学-信息系统方向</p>			</td>			<td style="width:53.1%">			<p>Management-Information Systems</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>管理学-物流管理方向</p>			</td>			<td style="width:53.1%">			<p>Management-Logistics Management</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>管理学-运输管理方向</p>			</td>			<td style="width:53.1%">			<p>Management-Transportation Management</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>工商管理</p>			</td>			<td style="width:53.1%">			<p>Business Administration</p>			</td>			<td style="width:13.64%">			<p>MBA、DBA</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p><a href="http://www.qianmu.org/公共事务" target="_blank">公共管理</a></p>			</td>			<td style="width:53.1%">			<p>Public Administration</p>			</td>			<td style="width:13.64%">			<p>MPA</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>项目管理</p>			</td>			<td style="width:53.1%">			<p>Project Management</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>项目管理-运筹学方向</p>			</td>			<td style="width:53.1%">			<p>Project Management-<a href="http://www.qianmu.org/运营管理" target="_blank">Operations</a> Research</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>质量管理</p>			</td>			<td style="width:53.1%">			<p>Quality Management</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>物流管理</p>			</td>			<td style="width:53.1%">			<p>Supply Chain Management</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>技术管理</p>			</td>			<td style="width:53.1%">			<p>Technology Management</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=4rjT-BYEkoeaLJGAWWWWWW7gxYcP8B4m4W_M_MUKRZobhPfBQI76RsZgWjZLtve9f9GV52j2q8Hn37dYba" target="_blank">Graduate Degree Programs</a> Florida Tech</p><p>(2) <a href="http://www.qianmu.org/redirect?code=Hr3vKzAuLRgWEOOd------O2j20R8M7B_Rhkiq1VpXiHB3Qvlfhe_gWo_uGkBdykBN1J0X7jN" target="_blank">Areas of Study-College of Business</a> Florida Tech</p><h2>工程学院</h2><p>佛罗里达理工工程学院（College of Engineering）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:33.26%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:53.1%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:13.64%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>航空航天工程</p>			</td>			<td style="width:53.1%">			<p>Aerospace Engineering</p>			</td>			<td style="width:13.64%">			<p>MS、PHD</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p><a href="http://www.qianmu.org/生物医学" target="_blank">生物医学</a>工程</p>			</td>			<td style="width:53.1%">			<p>Biomedical Engineering</p>			</td>			<td style="width:13.64%">			<p>MS、PHD</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>化学工程</p>			</td>			<td style="width:53.1%">			<p>Chemical Engineering</p>			</td>			<td style="width:13.64%">			<p>MS、PHD</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>土木工程</p>			</td>			<td style="width:53.1%">			<p>Civil Engineering</p>			</td>			<td style="width:13.64%">			<p>MS、PHD</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>计算机工程</p>			</td>			<td style="width:53.1%">			<p>Computer Engineering</p>			</td>			<td style="width:13.64%">			<p>MS、PHD</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>计算机信息系统</p>			</td>			<td style="width:53.1%">			<p>Computer Information Systems</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>计算机科学</p>			</td>			<td style="width:53.1%">			<p>Computer Science</p>			</td>			<td style="width:13.64%">			<p>MS、PHD</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>地球遥感</p>			</td>			<td style="width:53.1%">			<p>Earth Remote Sensing</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>电气工程</p>			</td>			<td style="width:53.1%">			<p>Electrical Engineering</p>			</td>			<td style="width:13.64%">			<p>MS、PHD</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>工程管理</p>			</td>			<td style="width:53.1%">			<p>Engineering Management</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>环境资源管理</p>			</td>			<td style="width:53.1%">			<p>Environmental Resource Management</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>环境科学</p>			</td>			<td style="width:53.1%">			<p>Environmental Science</p>			</td>			<td style="width:13.64%">			<p>MS、PHD</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>飞行测试工程</p>			</td>			<td style="width:53.1%">			<p>Flight Test Engineering</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>人本设计</p>			</td>			<td style="width:53.1%">			<p>Human-Centered Design</p>			</td>			<td style="width:13.64%">			<p>MS、PHD</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>信息安全与网络安全</p>			</td>			<td style="width:53.1%">			<p>Information Assurance &amp; Cybersecurity</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>创新与创业</p>			</td>			<td style="width:53.1%">			<p>Innovation &amp; Entrepreneurship</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>机械工程</p>			</td>			<td style="width:53.1%">			<p>Mechanical Engineering</p>			</td>			<td style="width:13.64%">			<p>MS、PHD</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>气象学</p>			</td>			<td style="width:53.1%">			<p>Meteorology</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>海洋工程</p>			</td>			<td style="width:53.1%">			<p>Ocean Engineering</p>			</td>			<td style="width:13.64%">			<p>MS、PHD</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>海洋学</p>			</td>			<td style="width:53.1%">			<p>Oceanography</p>			</td>			<td style="width:13.64%">			<p>PHD</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>生物海洋学</p>			</td>			<td style="width:53.1%">			<p>Oceanography-Biological Oceanography</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>化学海洋学</p>			</td>			<td style="width:53.1%">			<p>Oceanography-Chemical Oceanography</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>海岸管理</p>			</td>			<td style="width:53.1%">			<p>Oceanography-Coastal Zone Mgmt</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>海洋<a href="http://www.qianmu.org/地质学" target="_blank">地质学</a></p>			</td>			<td style="width:53.1%">			<p>Oceanography-Geological Oceanography</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>物理海洋学</p>			</td>			<td style="width:53.1%">			<p>Oceanography-Physical Oceanography</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>运筹学</p>			</td>			<td style="width:53.1%">			<p>Operations Research</p>			</td>			<td style="width:13.64%">			<p>MS、PHD</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>项目管理-信息系统方向</p>			</td>			<td style="width:53.1%">			<p>Project Management-Information Systems</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>软件工程</p>			</td>			<td style="width:53.1%">			<p>Software Engineering</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p><a href="http://www.qianmu.org/系统工程" target="_blank">系统工程</a></p>			</td>			<td style="width:53.1%">			<p><a href="http://www.qianmu.org/系统工程" target="_blank">Systems Engineering</a></p>			</td>			<td style="width:13.64%">			<p>MS、PHD</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>系统管理</p>			</td>			<td style="width:53.1%">			<p>Systems Management</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>系统管理-信息系统方向</p>			</td>			<td style="width:53.1%">			<p>Systems Management-Information Systems</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.26%">			<p>系统管理-运筹学方向</p>			</td>			<td style="width:53.1%">			<p>Systems Management-Operations Research</p>			</td>			<td style="width:13.64%">			<p>MS</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=Hr3vKzA6LFLdYNRlT5A_H4qC9phxzK1a_QXpta3vrOoENd5jWqaAPeIfMwakLPElCfyaB6rVF_PjSnfJcrh95aqDSVOyLttlDP45i3ZqdXO6_QIGaKo9d73wwtJ27OKlOxwChwBKo9d-t7iuJ2-Owjyxsd67ESnqoXba1Jr4otbYAGk-EQn" target="_blank">Graduate Degree Programs-College of Engineering</a> Florida Tech</p><h2>心理学院</h2><p>佛罗里达理工心理与人文科学学院（College of Psychology and Liberal Arts，缩写CPLA）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:29.86%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:56.26%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:13.88%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>应用行为分析</p>			</td>			<td style="width:56.26%">			<p>Applied Behavior Analysis</p>			</td>			<td style="width:13.88%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>应用行为分析与组织行为管理</p>			</td>			<td style="width:56.26%">			<p>Applied Behavior Analysis &amp; Organizational Behavior Management</p>			</td>			<td style="width:13.88%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>行为分析</p>			</td>			<td style="width:56.26%">			<p>Behavior Analysis</p>			</td>			<td style="width:13.88%">			<p>PHD</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>临床心理学</p>			</td>			<td style="width:56.26%">			<p><a href="http://www.qianmu.org/临床心理学" target="_blank">Clinical Psychology</a></p>			</td>			<td style="width:13.88%">			<p>D.Psy</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>环球战略传播</p>			</td>			<td style="width:56.26%">			<p>Global Strategic Communication</p>			</td>			<td style="width:13.88%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p><a href="http://www.qianmu.org/工业与组织心理学" target="_blank">工业与组织心理学</a></p>			</td>			<td style="width:56.26%">			<p>Industrial/Organizational Psychology</p>			</td>			<td style="width:13.88%">			<p>MS、PHD</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>组织行为管理</p>			</td>			<td style="width:56.26%">			<p>Organizational Behavior Mgmt</p>			</td>			<td style="width:13.88%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>行为分析</p>			</td>			<td style="width:56.26%">			<p>Professional Behavior Analysis</p>			</td>			<td style="width:13.88%">			<p>MA</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=ir67yhfhwkcdGud-FFFFFFoctN_aTA9lFtjY0fDhRkoNxA9NITxGrXE0LX-OJYKHJq-Aogxq" target="_blank">Degree Programs-CPLA</a> &nbsp;Florida Tech</p><h2>理学院</h2><p>佛罗里达理工心理理学院（College of Science）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:29.86%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:56.26%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:13.88%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>应用数学</p>			</td>			<td style="width:56.26%">			<p>Applied <a href="http://www.qianmu.org/数学" target="_blank">Mathematics</a></p>			</td>			<td style="width:13.88%">			<p>MS、PHD</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>生物化学</p>			</td>			<td style="width:56.26%">			<p>Biochemistry</p>			</td>			<td style="width:13.88%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>生物技术</p>			</td>			<td style="width:56.26%">			<p>Biological Science-Biotechnology</p>			</td>			<td style="width:13.88%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p><a href="http://www.qianmu.org/细胞生物学" target="_blank">细胞与分子生物学</a></p>			</td>			<td style="width:56.26%">			<p>Biological Science-Cell&amp;Molecular</p>			</td>			<td style="width:13.88%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>生态学</p>			</td>			<td style="width:56.26%">			<p>Biological Science-Ecology</p>			</td>			<td style="width:13.88%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>海洋生物学</p>			</td>			<td style="width:56.26%">			<p>Biological Science-Marine Biology</p>			</td>			<td style="width:13.88%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>生物科学</p>			</td>			<td style="width:56.26%">			<p>Biological Sciences</p>			</td>			<td style="width:13.88%">			<p>PHD</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>化学</p>			</td>			<td style="width:56.26%">			<p>Chemistry</p>			</td>			<td style="width:13.88%">			<p>MS、PHD</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>计算机教育</p>			</td>			<td style="width:56.26%">			<p>Computer Education</p>			</td>			<td style="width:13.88%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>环保技术</p>			</td>			<td style="width:56.26%">			<p>Conservation Technology</p>			</td>			<td style="width:13.88%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p><a href="http://www.qianmu.org/教育学" target="_blank">教育学</a></p>			</td>			<td style="width:56.26%">			<p>Education</p>			</td>			<td style="width:13.88%">			<p>M.Ed.</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>小学科学教育</p>			</td>			<td style="width:56.26%">			<p>Elementary Science Education</p>			</td>			<td style="width:13.88%">			<p>M.Ed</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>环境教育</p>			</td>			<td style="width:56.26%">			<p>Environmental Education</p>			</td>			<td style="width:13.88%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>交叉科学</p>			</td>			<td style="width:56.26%">			<p>Interdisciplinary Science</p>			</td>			<td style="width:13.88%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>数学教育</p>			</td>			<td style="width:56.26%">			<p>Mathematics Education</p>			</td>			<td style="width:13.88%">			<p>MS、EDS、PhD</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>物理</p>			</td>			<td style="width:56.26%">			<p>Physics</p>			</td>			<td style="width:13.88%">			<p>MS、PHD</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>信息科学教育</p>			</td>			<td style="width:56.26%">			<p>Science Ed-Informal Science Ed</p>			</td>			<td style="width:13.88%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>科学教育</p>			</td>			<td style="width:56.26%">			<p>Science Education</p>			</td>			<td style="width:13.88%">			<p>MS、EDS、PhD</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>空间科学</p>			</td>			<td style="width:56.26%">			<p>Space Sciences</p>			</td>			<td style="width:13.88%">			<p>MS、PHD</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>空间系统</p>			</td>			<td style="width:56.26%">			<p>Space Systems</p>			</td>			<td style="width:13.88%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>空间系统管理</p>			</td>			<td style="width:56.26%">			<p>Space Systems Management</p>			</td>			<td style="width:13.88%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.86%">			<p>师范项目</p>			</td>			<td style="width:56.26%">			<p>Teaching</p>			</td>			<td style="width:13.88%">			<p>MAT</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=YrwF0vr3L8zwPUUellgPNJqL0QXhhm1awYsS_GJgrDTIDTGqCrEf9VR11krDTqLGM-USJur2sWSO-ofKSj3aGhM64K" target="_blank">Graduate Degree Programs</a> Florida Tech</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2020-09-23</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1946;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1946' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1946;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

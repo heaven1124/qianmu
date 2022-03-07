@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>克莱蒙特研究大学-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="克莱蒙特研究大学" />
+<meta name="description"  id="description"  content="克莱蒙特研究大学:克莱蒙特研究大学（Claremont Graduate University，缩写：CGU）成立于1925年，位于美国加利福尼亚州克莱蒙特，洛杉矶市中心以东56km处，是一所私立，完全开设研究生课程研究学院，也是克莱蒙特学院的一员。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">克莱蒙特研究大学 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:35.72%">			<p>排名</p>			</td>			<td style="width:64.28%">			<p>59*(1)</p>			</td>		</tr>		<tr>			<td style="width:35.72%">			<p>国家</p>			</td>			<td style="width:64.28%">			<p>美国</p>			</td>		</tr>		<tr>			<td style="width:35.72%">			<p>州省</p>			</td>			<td style="width:64.28%">			<p>加利福尼亚州*(1)</p>			</td>		</tr>		<tr>			<td style="width:35.72%">			<p>城市</p>			</td>			<td style="width:64.28%">			<p>克莱蒙特*(1)</p>			</td>		</tr>		<tr>			<td style="width:35.72%">			<p>校训</p>			</td>			<td style="width:64.28%">			<p>Multa lumina, una lux (Latin)</p>			</td>		</tr>		<tr>			<td style="width:35.72%">			<p>英译</p>			</td>			<td style="width:64.28%">			<p>Many flames, one light</p>			</td>		</tr>		<tr>			<td style="width:35.72%">			<p>性质</p>			</td>			<td style="width:64.28%">			<p>私立，男女合校*(1)</p>			</td>		</tr>		<tr>			<td style="width:35.72%">			<p>成立年份</p>			</td>			<td style="width:64.28%">			<p>1925*(1)</p>			</td>		</tr>		<tr>			<td style="width:35.72%">			<p>宗教信仰</p>			</td>			<td style="width:64.28%">			<p>无</p>			</td>		</tr>		<tr>			<td style="width:35.72%">			<p>校园</p>			</td>			<td style="width:64.28%">			<p>郊区 0.077Km<sup>2</sup>*(1)</p>			</td>		</tr>		<tr>			<td style="width:35.72%">			<p>学生人数</p>			</td>			<td style="width:64.28%">			<p>2,160*(3)</p>			</td>		</tr>		<tr>			<td style="width:35.72%">			<p>师生比</p>			</td>			<td style="width:64.28%">			<p>1:9*(3)</p>			</td>		</tr>		<tr>			<td style="width:35.72%">			<p>国际学生比例</p>			</td>			<td style="width:64.28%">			<p>20%*(3)</p>			</td>		</tr>		<tr>			<td style="width:35.72%">			<p>学校分类</p>			</td>			<td style="width:64.28%">			<p>独立机构*(1)</p>			</td>		</tr>		<tr>			<td style="width:35.72%">			<p>所属集团</p>			</td>			<td style="width:64.28%">			<p>克莱蒙特学院</p>			</td>		</tr>		<tr>			<td style="width:35.72%">			<p>认证机构</p>			</td>			<td style="width:64.28%">			<p>西部学校与学院协会（WASC）*(2)</p>			</td>		</tr>		<tr>			<td style="width:35.72%">			<p>网址</p>			</td>			<td style="width:64.28%">			<p><a href="http://www.cgu.edu" target="_blank">www.cgu.edu</a></p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>克莱蒙特研究大学（Claremont Graduate University，缩写：CGU）成立于1925年，位于美国加利福尼亚州克莱蒙特，洛杉矶市中心以东56km处，是一所私立，完全开设研究生课程研究学院，也是克莱蒙特学院的一员。</p><p>注：克莱蒙特学院是由5所本科生院和2所研究生院构成，学院间步行距离即可到达，且共享教育和学校设施资源。这种形式是仿牛津大学和剑桥大学的模式设计的。</p><p><strong>学校历史</strong></p><p>克莱蒙特研究大学成立于1925年，是克莱蒙特学院开始成立之后的第二所学院，第一所是波莫纳学院，第三所是斯克利普斯学院，也是目前美国现有仅开设研究生课程的高校中最古老的学校。克莱蒙特研究大学自成立之后，几经更名。最初沿用克莱蒙特大学学院（Claremont University College）这一名称达37年，1962年正式更名为克莱蒙特研究学校和大学中心（Claremont Graduate School and University Center），1967年，再次更名为克莱蒙特大学中心（Claremont University Center），直到1998年，才正式更为现名。</p><p>克莱蒙特大学目前有2,200名左右的硕士生和PhD学生，将近200名全职和兼职教员。卡耐基教学推进基金会（Carnegie Foundation for the Advancement of Teaching）将克莱蒙特研究大学归入非医学/兽医学领域研究活动高度活跃的综合博士点（CompDoc/NMedVet）。学校5间学院和一个独立科系提供31个学科的硕士和/或博士教学，招生名额和班级规模都很小。</p><p>克莱蒙特研究大学是美国最古老的研究机构，全球各个领域都有需要非常知名的校友。学校目前设有5个独立的学院，分别是：</p><ul>	<li>艺术与人文学院（School of Arts &amp; Humanities）</li>	<li>社区与全球卫生学院（School of Community &amp; Global Health）</li>	<li>商学院（Drucker School of Management）</li>	<li>教育研究学院（School of Educational Studies）</li>	<li>社会科学、政治与评估学院（School of Social Science, Policy, &amp; Evaluation）*(1)</li></ul><h2>学生评价</h2><p>Health &amp; Safety: Various measures are taken to make sure students have access to health and safety resources. The campus security is very prompt with responses.</p><p>&nbsp;</p><p>Campus Housing: The student housing is nice if one doesn&#39;t have a lot of things to put in it. Since the rooms come furnished (minus the bed), it&#39;s convenient, especially for those who live far away and don&#39;t want to deal with the hassle of buying and moving furniture. The studios are tiny but if one does not have a lot of luggage and what not, it works. The refrigerators for the studios are also a joke so if one wants to cook, I would recommend either buying a bigger refrigerator, or consider moving into a unit with a regular sized refrigerator (i.e. one that has a freezer). Basically, if you opt to have roommates or can afford to/want to move into a 1-bedroom, the refrigerator issue will be resolved.</p><p>&nbsp;</p><p>Overall Experience: A lot of people complain that the school is expensive, which is true for its PhD program. Most PhD programs fund their students but CGU doesn&#39;t seem to have that luxury. However, as a Masters student who does get some funding, I have no complaints because I know how rare it is to find a school that funds Masters students. That aside, I&#39;ve explored all the resources available to this school and I really like what CGU offers. They try to do a lot with student diversity, health, and academic help (e.g. Writing Center, digital services, library services, etc.) and I&#39;ve found the workshops they had on career development to be very helpful. I think that if one utilizes those resources, the school isn&#39;t what everyone calls &quot;overpriced.&quot; However, some of their resources are still being developed, such as the fellowship office so perhaps that&#39;s why people had/have complaints. Since it&#39;s a smaller school, the people (not only professors and advisers, but admin as well) are willing to help you out when you need it. I&#39;m finding myself to have an incredibly positive experience so far with CGU.</p><p>&nbsp;</p><p>Overall Experience: Claremont Graduate University gives you very little compared to what they charge in tuition and many of the administrators see students as inferior. The school of community and global health at CGU is fantastic, but the university as a whole is too expensive, and not student oriented.</p><p>&nbsp;</p><p>Majors: Great professors, interesting classes. Unclear expectations at times. The whole experience is marred by the dealings with financial aid and administration though.</p><p>&nbsp;</p><p>Party Scene: The Village can be fun and there are places where students can go drink and have fun every week. If there is not a party at one school there is definitely something else going on at one of the colleges or you can just have your own.*(4)</p><p>参考资料：</p><p>(1)&nbsp;<a href="https://en.wikipedia.org/wiki/School_of_the_Art_Institute_of_Chicago">School of the Art Institute of Chicago</a>&nbsp;Wikipedia</p><p>(2) <a href="http://www.cgu.edu/pages/2404.asp">Accreditation</a> Claremont Graduate University</p><p>(3) <a href="http://www.cgu.edu/pages/162.asp">CGU Facts</a> Claremont Graduate University</p><p>(4) <a href="https://colleges.niche.com/claremont-graduate-university/">Claremont Graduate University</a>&nbsp;College Prowler</p><p>&nbsp;</p><h1>研究生申请</h1><h2>基本要求</h2><ul>	<li>语言要求：TOEFL总分不低于100分，IELTS总分不低于7.5分，两者均无单项要求。如申请者语言成绩未达到上述要求，但TOEFL总分在75分以上，IELTS总分在6.0以上，可获得条件录取，入读国际学生桥梁项目（International Fellows Pathway Program）</li>	<li>学位背景要求：正规大学本科毕业并取得学士学位</li>	<li>GPA：未做要求，通常美国大学研究生院要求申请者本科GPA，尤其是大三和大四GPA不低于3.0</li></ul><ul>	<li><a href="http://www.qianmu.org/GRE" target="_blank">GRE</a>：	<ul>		<li>以下专业不要求GMAT或GRE成绩，如艺术、EMBA、高级管理硕士（MS in Advanced Management）、师范教育、商业艺术与艺术管理，其中商业艺术与艺术管理建议但不要求国际学生递交此项材料；</li>		<li>经济学和心理学专业要求递交GRE成绩，建议递交GRE相关科目成绩；</li>		<li>以下专业既接受GMAT，也接受GRE，如经济学、金融工程、人力资源管理、信息系统技术、数学、MBA、政治与政策；</li>		<li>以下专业可用MCAT取代GRE成绩，即社区与全球卫生；</li>		<li>师范教育专业要求所有申请者参加美国教师资格考试（CBEST）*(1)(2)</li>	</ul>	</li>	<li>申请时间：接受秋季、春季和夏季学期入学申请，部分专业有单独要求，请按下文申请日期*(3)</li></ul><p><strong>申请时间</strong></p><p>克莱蒙特研究大学建议申请截止日期之前递交申请，这样有助于提高入学和获奖几率。如在建议申请截止日期之前未录满，将继续接受申请，直至录满为止。</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:12.4%">			<p>申请学期</p>			</td>			<td style="width:27.44%">			<p>夏季</p>			</td>			<td style="width:5.18%">			<p>秋季</p>			</td>			<td style="width:54.98%">			<p>春季</p>			</td>		</tr>		<tr>			<td style="width:12.4%">			<p>建议申请截止日期</p>			</td>			<td style="width:27.44%">			<p>3月1日</p>			</td>			<td style="width:5.18%">			<p>2月1日</p>			</td>			<td style="width:54.98%">			<p>11月1日</p>			</td>		</tr>		<tr>			<td style="width:12.4%">			<p>最终申请截止日期</p>			</td>			<td style="width:27.44%">			<p>4月1日</p>			</td>			<td style="width:5.18%">			<p>7月1日</p>			</td>			<td style="width:54.98%">			<p>11月1日</p>			</td>		</tr>		<tr>			<td style="width:12.4%">			<p>以下专业不接受此学期申请</p>			</td>			<td style="width:27.44%">			<p>艺术、商业艺术、艺术管理、植物学、经济学、英语、心理学</p>			</td>			<td style="width:5.18%">			<p>师范教育</p>			</td>			<td style="width:54.98%">			<p>商业艺术、艺术管理、英语、心理学（心理学MA项目部分专业方向接受春季学期接受入学申请，具体请联系相关科系咨询）</p>			</td>		</tr>	</tbody></table><p>*(3)</p><p>注：商业艺术和艺术管理专业2016年秋季学期建议申请截止日期为3月1日</p><h2>申请说明</h2><p>克莱蒙特研究大学研究生学位项目通过学校官网申请，要求递交的申请材料包括：</p><ul>	<li>在线申请表（Online Application）；</li>	<li>申请费（$80 Application Fee）；</li>	<li>大学正式成绩单（Official Transcripts）；</li>	<li>推荐信（Letters of Recommendation）；</li>	<li>GMAT/GRE/MCAT成绩单（Test Scores）；</li>	<li>个人陈述（Statement of Purpose）；</li>	<li>个人简历（Resume）；</li>	<li>TOEFL/IELTS成绩单（TOEFL or IELTS Score）*(1)(2)</li></ul><p>注：</p><p>（1）公共卫生硕士（MPH）项目通过公共卫生学院申请系统（SOPHAS Application）申请</p><p>（2）MBA、EMBA、高级管理硕士、金融工程项目通过商学院申请系统递交申请</p><p>（3）艺术硕士项目（与索斯比艺术学院合作开设）通过索斯比艺术学院递交申请</p><p>（4）部分项目还有单独要求，如写作样本，受邀校园面试、Essay等，具体请查看下文专业设置列表*(4)</p><p>联系方式：</p><p>Mailing address:</p><p>CGU Office of Admissions</p><p>160 E. Tenth St.</p><p>Claremont CA 91711</p><p>Phone: (909) 607-7811</p><p>Fax: (909) 607-7285</p><p>admissions@cgu.edu</p><h2>费用与奖学金</h2><p>克莱蒙特研究大学向所有学生包括国际学生提供Merit-based奖学金，即fellowships, stipends, and assistantships，上述奖学金均自动随Offer发放，无需单独申请。*(5)</p><h2>专业设置</h2><p>克莱蒙特研究大学开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:16.28%">			<p>专业名称</p>			</td>			<td style="width:40.12%">			<p>专业英文名称</p>			</td>			<td style="width:15.4%">			<p>开设学位</p>			</td>			<td style="width:28.2%">			<p>单独要求</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>分析政治学</p>			</td>			<td style="width:40.12%">			<p>Analytical Politics</p>			</td>			<td style="width:15.4%">			<p>MS</p>			</td>			<td style="width:28.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>应用女性研究</p>			</td>			<td style="width:40.12%">			<p>Applied Women&#39;s Studies</p>			</td>			<td style="width:15.4%">			<p>MA</p>			</td>			<td style="width:28.2%">			<p>写作样本</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>艺术</p>			</td>			<td style="width:40.12%">			<p>Art</p>			</td>			<td style="width:15.4%">			<p>MFA</p>			</td>			<td style="width:28.2%">			<p>个人作品</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>社区教育与社会变革</p>			</td>			<td style="width:40.12%">			<p>Community-Engaged Education and Social Change</p>			</td>			<td style="width:15.4%">			<p>MA</p>			</td>			<td style="width:28.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>计算机与应用数学</p>			</td>			<td style="width:40.12%">			<p>Computational and Applied Mathematics</p>			</td>			<td style="width:15.4%">			<p>MS</p>			</td>			<td style="width:28.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>文化研究</p>			</td>			<td style="width:40.12%">			<p>Cultural Studies</p>			</td>			<td style="width:15.4%">			<p>MA, PhD</p>			</td>			<td style="width:28.2%">			<p>写作样本</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>经济学</p>			</td>			<td style="width:40.12%">			<p>Economics</p>			</td>			<td style="width:15.4%">			<p>MA, PhD</p>			</td>			<td style="width:28.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>教育学</p>			</td>			<td style="width:40.12%">			<p>Education</p>			</td>			<td style="width:15.4%">			<p>MA, PhD</p>			</td>			<td style="width:28.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>英语</p>			</td>			<td style="width:40.12%">			<p>English</p>			</td>			<td style="width:15.4%">			<p>MA, PhD</p>			</td>			<td style="width:28.2%">			<p>写作样本</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>高级管理</p>			</td>			<td style="width:40.12%">			<p>Executive Management</p>			</td>			<td style="width:15.4%">			<p>MA, MS, EMBA</p>			</td>			<td style="width:28.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>保健科学</p>			</td>			<td style="width:40.12%">			<p>Health Promotion Sciences</p>			</td>			<td style="width:15.4%">			<p>PhD</p>			</td>			<td style="width:28.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>历史</p>			</td>			<td style="width:40.12%">			<p>History</p>			</td>			<td style="width:15.4%">			<p>MA, PhD</p>			</td>			<td style="width:28.2%">			<p>写作样本</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>历史与档案研究</p>			</td>			<td style="width:40.12%">			<p>History and Archival Studies</p>			</td>			<td style="width:15.4%">			<p>MA</p>			</td>			<td style="width:28.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>人力资源管理</p>			</td>			<td style="width:40.12%">			<p>Human Resources Management</p>			</td>			<td style="width:15.4%">			<p>MS</p>			</td>			<td style="width:28.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>信息系统于技术</p>			</td>			<td style="width:40.12%">			<p>Information Systems and Technology</p>			</td>			<td style="width:15.4%">			<p>MS, PhD</p>			</td>			<td style="width:28.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>国际政治经济学</p>			</td>			<td style="width:40.12%">			<p>International Political Economy</p>			</td>			<td style="width:15.4%">			<p>MA</p>			</td>			<td style="width:28.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>国际研究</p>			</td>			<td style="width:40.12%">			<p>International Studies</p>			</td>			<td style="width:15.4%">			<p>MA</p>			</td>			<td style="width:28.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>伊斯兰研究</p>			</td>			<td style="width:40.12%">			<p>Islamic Studies</p>			</td>			<td style="width:15.4%">			<p>MA</p>			</td>			<td style="width:28.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>管理学</p>			</td>			<td style="width:40.12%">			<p>Management</p>			</td>			<td style="width:15.4%">			<p>MA, MS, MBA, PhD</p>			</td>			<td style="width:28.2%">			<p>MBA项目要求校园面试、创意小论文</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>数学</p>			</td>			<td style="width:40.12%">			<p>Mathematics</p>			</td>			<td style="width:15.4%">			<p>MA, MS, PhD</p>			</td>			<td style="width:28.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>音乐</p>			</td>			<td style="width:40.12%">			<p>Music</p>			</td>			<td style="width:15.4%">			<p>MA, DCM, DMA, PhD</p>			</td>			<td style="width:28.2%">			<p>试镜</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>哲学</p>			</td>			<td style="width:40.12%">			<p>Philosophy</p>			</td>			<td style="width:15.4%">			<p>MA</p>			</td>			<td style="width:28.2%">			<p>写作样本</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>心理学</p>			</td>			<td style="width:40.12%">			<p>Psychology</p>			</td>			<td style="width:15.4%">			<p>MA, PhD</p>			</td>			<td style="width:28.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>公共卫生</p>			</td>			<td style="width:40.12%">			<p>Public Health</p>			</td>			<td style="width:15.4%">			<p>MPH, DrPh</p>			</td>			<td style="width:28.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>公共政策</p>			</td>			<td style="width:40.12%">			<p>Public Policy</p>			</td>			<td style="width:15.4%">			<p>MA</p>			</td>			<td style="width:28.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>公共政策与评估</p>			</td>			<td style="width:40.12%">			<p>Public Policy and Evaluation</p>			</td>			<td style="width:15.4%">			<p>MA</p>			</td>			<td style="width:28.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>宗教</p>			</td>			<td style="width:40.12%">			<p>Religion</p>			</td>			<td style="width:15.4%">			<p>MA, PhD</p>			</td>			<td style="width:28.2%">			<p>写作样本</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>统计科学</p>			</td>			<td style="width:40.12%">			<p>Statistical Sciences</p>			</td>			<td style="width:15.4%">			<p>MS</p>			</td>			<td style="width:28.2%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:16.28%">			<p>师范教育</p>			</td>			<td style="width:40.12%">			<p>Teacher Education</p>			</td>			<td style="width:15.4%">			<p>MA, Credential</p>			</td>			<td style="width:28.2%">			<p>校园面试</p>			</td>		</tr>	</tbody></table><p>*(6)</p><p>文化研究研究生项目设有以下专业方向，分别是：</p><ul>	<li>批判理论（Critical Theory）</li>	<li>媒体研究（Media Studies）</li>	<li>博物馆研究（Museum Studies）</li>	<li>南北半球与跨国研究（Hemispheric and Transnational Studies）</li></ul><p>经济学研究生项目设有以下专业方向，分别是：</p><ul>	<li>行为经济学与神经经济学（Behavioral Economics &amp; NeuroEconomics）</li>	<li>金融经济学（Financial Economics）</li>	<li>国际经济学与发展政策（International Economic &amp; Development Policy）</li>	<li>国际货币与金融（International Money &amp; Finance）</li>	<li>政治经济学与公共经济学（Political Economy &amp; Public Economics）</li></ul><p>教育学研究生项目设有以下专业方向，分别是：</p><ul>	<li>教育政策（Educational Policy）</li>	<li>教育评估与改革（Evaluation &amp; Reform）</li>	<li>高等教育/学生事务（Higher Education/Student Affairs）</li>	<li>特殊教育（Special Education）</li>	<li>教学与文化（Teaching, Learning &amp; Culture）</li>	<li>城市教育领导（Urban Educational Leadership）</li></ul><p>英语研究生项目设有以下专业方向，分别是：</p><ul>	<li>美国研究（American Studies）</li>	<li>近现代研究（Early Modern Studies）</li>	<li>南北半球与跨国家研究（Hemispheric and Transnational Studies）</li></ul><p>保健科学PhD项目设有以下专业方向，分别是：</p><ul>	<li>生物统计学（Biostatistics）</li>	<li>全球卫生（Global Health）</li>	<li>健康传播（Health Communications）</li>	<li>神经认知科学（Neurocognitive Sciences）</li>	<li>公共卫生（Public Health）</li></ul><p>历史研究生项目设有以下专业方向，分别是：</p><ul>	<li>美国研究（American Studies）</li>	<li>档案研究（Archival Studies）</li>	<li>近现代研究（Early Modern Studies）</li>	<li>欧洲历史（European History）</li>	<li>美国历史（US History）</li></ul><p>信息系统技术研究生项目设有以下专业方向，分别是：</p><ul>	<li>地理信息系统解决方案开发（GIS Solution Development）</li>	<li>管理信息系统（Management of Information Systems）</li>	<li>数据科学与分析（Data Science and Analytics）</li>	<li>战略与创新（Strategy and Innovation）</li></ul><p>管理学研究生项目设有以下专业方向，分别是（注：PhD项目现暂不接收申请）：</p><ul>	<li>金融（Finance）</li>	<li>全球管理（Global Management）</li>	<li>信息技术管理（Information Technology Management）</li>	<li>创意经济学管理与创业（Management and Entrepreneurship in the Creative Economy）</li>	<li>领导（Leadership）</li>	<li>市场营销（Marketing）</li>	<li>战略（Strategy）</li>	<li>物流管理（Supply Chain）</li></ul><p>数学研究生项目设有以下专业方向，分别是：</p><ul>	<li>运筹学与统计学（Operations Research &amp; Statistics）</li>	<li>物理应用数学（Physical Applied Mathematics）</li>	<li>科学计算（Scientific Computing）</li>	<li>系统于控制理论（Systems &amp; Control Theory）</li></ul><p>音乐研究生项目设有以下专业方向，分别是：</p><ul>	<li>教会音乐（Church Music）</li>	<li>作曲（Composition）</li>	<li>指挥（Conducting）</li>	<li>历史表演实践（Historical Performance Practices）</li>	<li>音乐学（Musicology）</li>	<li>表演（Performance）</li></ul><p>哲学硕士项目设有以下专业方向，分别是：</p><ul>	<li>古代哲学（Ancient Philosophy）</li>	<li>当代哲学（Contemporary Philosophy）</li>	<li>欧陆哲学（Continental Philosophy）</li>	<li>近现代研究（Early Modern Studies）</li>	<li>现代哲学（Modern Philosophy）</li></ul><p>心理学研究生项目设有以下专业方向，分别是：</p><ul>	<li>基础与应用社会心理学（Basic and Applied Social Psychology）</li>	<li>组织行为（Organizational Behavior）</li>	<li>积极组织心理学（Positive Organizational Psychology）</li>	<li>积极发展心理学（Positive Developmental Psychology）</li>	<li>应用认知心理学（Applied Cognitive Psychology）</li>	<li>评估与应用研究方法（Evaluation &amp; Applied Research Methods）</li>	<li>卫生行为研究与评估（Health Behavior Research &amp; Evaluation）</li>	<li>公共政策与评估（Public Policy &amp; Evaluation）</li>	<li>积极心理学（Positive Psychology）</li>	<li>心理学与法学（Psychology &amp; Law）</li></ul><p>公共卫生研究生项目设有以下专业方向，分别是：</p><ul>	<li>应用生物统计学与流行病学（Applied Biostatistics &amp; Epidemiology）</li>	<li>卫生信息学（Health Informatics）</li>	<li>保健（Health Promotion）</li>	<li>教育与评估（Education &amp; Evaluation）</li>	<li>领导与管理（Leadership &amp; Management）</li></ul><p>师范教育研究生项目设有初级与清晰/归纳一般教育与特殊教育（多种学科、单一学科、英语、西班牙语、数学、科学、社会研究、轻度/中度残疾、中度/重度残疾）（Preliminary and Clear/Induction General Education &amp; Special Education (Multiple-Subject, Single-Subject, English, Spanish, Math, Science, Social Studies, Mild/Moderate Disabilities, Moderate/Severe Disabilities)）</p><p>克莱蒙特研究大学内部学院之间开设有以下合作项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:14.18%">			<p>专业名称</p>			</td>			<td style="width:29.84%">			<p>专业英文名称</p>			</td>			<td style="width:13.32%">			<p>开设学位</p>			</td>			<td style="width:29.84%">			<p>合作开设学院</p>			</td>			<td style="width:12.82%">			<p>单独要求</p>			</td>		</tr>		<tr>			<td style="width:14.18%">			<p>应用心理学与公共卫生</p>			</td>			<td style="width:29.84%">			<p>Applied Psychology &amp; Public Health</p>			</td>			<td style="width:13.32%">			<p>MA, PhD</p>			</td>			<td style="width:29.84%">			<p>社区与全球卫生学院/社会科学、政策与评估学院</p>			</td>			<td style="width:12.82%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:14.18%">			<p>艺术管理</p>			</td>			<td style="width:29.84%">			<p>Arts Management</p>			</td>			<td style="width:13.32%">			<p>MA</p>			</td>			<td style="width:29.84%">			<p>艺术与人文学院/商学院</p>			</td>			<td style="width:12.82%">			<p>校园面试、写作样本</p>			</td>		</tr>		<tr>			<td style="width:14.18%">			<p>工商管理与公共卫生</p>			</td>			<td style="width:29.84%">			<p>Business Administration &amp; Public Health</p>			</td>			<td style="width:13.32%">			<p>MBA/MPH</p>			</td>			<td style="width:29.84%">			<p>社区与全球卫生学院/商学院</p>			</td>			<td style="width:12.82%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:14.18%">			<p>教育评估</p>			</td>			<td style="width:29.84%">			<p>Educational Evaluation</p>			</td>			<td style="width:13.32%">			<p>MA</p>			</td>			<td style="width:29.84%">			<p>教育研究学院/社会科学、政策与评估学院</p>			</td>			<td style="width:12.82%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:14.18%">			<p>金融工程</p>			</td>			<td style="width:29.84%">			<p>Financial Engineering</p>			</td>			<td style="width:13.32%">			<p>MS, PhD</p>			</td>			<td style="width:29.84%">			<p>数学研究所/商学院</p>			</td>			<td style="width:12.82%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:14.18%">			<p>信息系统与技术管理</p>			</td>			<td style="width:29.84%">			<p>Information Systems &amp; Technology Management</p>			</td>			<td style="width:13.32%">			<p>MSIST/MBA</p>			</td>			<td style="width:29.84%">			<p>信息系统与技术中心/商学院</p>			</td>			<td style="width:12.82%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:14.18%">			<p>政治、经济与商学</p>			</td>			<td style="width:29.84%">			<p>Politics, Economics, and Business</p>			</td>			<td style="width:13.32%">			<p>MA</p>			</td>			<td style="width:29.84%">			<p>社会科学、政策与评估学院/商学院</p>			</td>			<td style="width:12.82%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:14.18%">			<p>宗教与美国政治</p>			</td>			<td style="width:29.84%">			<p>Religion and American Politics</p>			</td>			<td style="width:13.32%">			<p>MA</p>			</td>			<td style="width:29.84%">			<p>社会科学、政策与评估学院/艺术与人文学院</p>			</td>			<td style="width:12.82%">			<p>-</p>			</td>		</tr>	</tbody></table><p>*(6)</p><p>艺术管理硕士项目设有以下专业方向，分别是：</p><ul>	<li>非营利机构管理（Non-Profit）</li>	<li>艺术博物馆管理（Art Museum Management）</li>	<li>媒体、娱乐与表演艺术管理（Management for Media, Entertainment, and the Performing Arts）</li></ul><p>金融工程硕士项目仅有一个专业方向可申，即数据分析（Data Analytics）*(6)</p><p>克莱蒙特研究大学与其它院校开设有以下合作项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:17.54%">			<p>专业名称</p>			</td>			<td style="width:30.56%">			<p>专业英文名称</p>			</td>			<td style="width:8.54%">			<p>开设学位</p>			</td>			<td style="width:17.54%">			<p>合作学校名称</p>			</td>			<td style="width:25.82%">			<p>合作学校英文名称</p>			</td>		</tr>		<tr>			<td style="width:17.54%">			<p>商业艺术</p>			</td>			<td style="width:30.56%">			<p>Art Business</p>			</td>			<td style="width:8.54%">			<p>MA</p>			</td>			<td style="width:17.54%">			<p>索斯比艺术学院</p>			</td>			<td style="width:25.82%">			<p>Sotheby&#39;s Institute of Art</p>			</td>		</tr>		<tr>			<td style="width:17.54%">			<p>植物学</p>			</td>			<td style="width:30.56%">			<p>Botany</p>			</td>			<td style="width:8.54%">			<p>MS, PhD</p>			</td>			<td style="width:17.54%">			<p>圣塔安那农场植物园</p>			</td>			<td style="width:25.82%">			<p>Rancho Santa Ana Botanic Garden</p>			</td>		</tr>		<tr>			<td style="width:17.54%">			<p>计算科学</p>			</td>			<td style="width:30.56%">			<p>Computational Science</p>			</td>			<td style="width:8.54%">			<p>PhD</p>			</td>			<td style="width:17.54%">			<p>圣迭戈州立大学</p>			</td>			<td style="width:25.82%">			<p>San Diego State University</p>			</td>		</tr>		<tr>			<td style="width:17.54%">			<p>教育学</p>			</td>			<td style="width:30.56%">			<p>Education</p>			</td>			<td style="width:8.54%">			<p>PhD</p>			</td>			<td style="width:17.54%">			<p>圣迭戈州立大学</p>			</td>			<td style="width:25.82%">			<p>San Diego State University</p>			</td>		</tr>		<tr>			<td style="width:17.54%">			<p>工程学与工业应用数学</p>			</td>			<td style="width:30.56%">			<p>Engineering &amp; Industrial Applied Mathematics</p>			</td>			<td style="width:8.54%">			<p>PhD</p>			</td>			<td style="width:17.54%">			<p>加州州立大学长滩分校</p>			</td>			<td style="width:25.82%">			<p>California State University, Long Beach</p>			</td>		</tr>		<tr>			<td style="width:17.54%">			<p>创新系统设计</p>			</td>			<td style="width:30.56%">			<p>Innovation Systems Design</p>			</td>			<td style="width:8.54%">			<p>MS/MBA</p>			</td>			<td style="width:17.54%">			<p>艺术中心设计学院</p>			</td>			<td style="width:25.82%">			<p>Art Center College of Design</p>			</td>		</tr>		<tr>			<td style="width:17.54%">			<p>法学博士/管理</p>			</td>			<td style="width:30.56%">			<p>Juris Doctor/Management</p>			</td>			<td style="width:8.54%">			<p>JD/MBA</p>			</td>			<td style="width:17.54%">			<p>西南法学院</p>			</td>			<td style="width:25.82%">			<p>Southwestern Law School</p>			</td>		</tr>	</tbody></table><p>*(6)</p><p>商业艺术硕士项目设有以下专业方向，分别是：</p><ul>	<li>东亚艺术及其市场（East Asian Art and its Markets）</li>	<li>当代艺术及其市场（Contemporary Art and its Markets）</li>	<li>拉美艺术及其市场（Latin American Art and its Markets）*(6)</li></ul><p>参考资料：</p><p>(1) <a href="http://www.cgu.edu/pages/621.asp#SS-ADM-TEST3">OFFICIAL TEST SCORES</a> Claremont Graduate University</p><p>(2) <a href="http://www.cgu.edu/pages/102.asp">Admissions Overview</a> Claremont Graduate University</p><p>(3) <a href="http://www.cgu.edu/pages/422.asp">Application Deadlines</a> Claremont Graduate University</p><p>(4) <a href="http://www.cgu.edu/pages/10333.asp">Program Specific Instructions</a> Claremont Graduate University</p><p>(5) <a href="http://www.cgu.edu/pages/1128.asp">Department Fellowships, Stipends, &amp; Assistantships</a> Claremont Graduate University</p><p>(6) <a href="http://www.cgu.edu/pages/103.asp#SS-PROSP-All">Academic Programs</a> Claremont Graduate University</p><p>&nbsp;</p><h1>国际学生桥梁项目</h1><p>克莱蒙特研究大学向已满足入学学术要求，但尚未满足语言要求的国际学生提供国际学生桥梁项目（International Fellows Pathway Program），该项目实为语言课程，由学校的写作中心（Writing Center）开设。根据申请者的TOEFL/IELTS分数，来评估学生需入读的时长。</p><ul>	<li>Entry Point 1：TOEFL总分75分以上，IELTS总分6.0以上，须入读为期15周语言课程，修读Modules 1 &amp; 2</li>	<li>Entry Point 2：TOEFL总分85分以上，IELTS总分6.5以上，须入读为期7周语言课程，修读Modules 2</li>	<li>Direct Entry Point 3：TOEFL总分100分以上，IELTS总分7.5以上，无需入读语言课程，可直接入读所申请学位项目课程</li></ul><p>如学生在语言课程结束时GPA3.0以上，可无需重新参加TOEFL/IELTS考试，直接入读被录取的学位项目课程；如学生在语言课程结束时GPA不足3.0，则必须重新参加TOEFL/IELTS考试，达到直录语言要求才能入读被录取的学位项目课程。</p><p><strong>课程安排</strong></p><p>该课程每年开课三次，分别在5月、9月和1月。2016-2017学年的课程安排如下：</p><p>Summer 2016 Intake</p><p>Module 1: May 16 &ndash; July 08 (8 weeks)</p><p>Module 2: July 11 &ndash; August 26 (7 weeks)</p><p>&nbsp;</p><p>Fall 2016 Intake</p><p>Module 1: August 29 &ndash; October 14 (8 weeks)</p><p>Module 2: October 24 &ndash; December 09 (7 weeks)</p><p>&nbsp;</p><p>Spring 2017 Intake</p><p>Module 1: January 17 &ndash; March 10 (8 weeks)</p><p>Module 2: March 20 &ndash; May 5 (7 weeks)</p><p><strong>就读学费</strong></p><p>Module 1: $6,250</p><p>Module 2: $6,250</p><p>Semester Program: $12,500*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.cgu.edu/pages/11789.asp">International Fellows Pathway Program</a> Claremont Graduate University</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;">sue</div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2016-08-17</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=7715;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '7715' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=7715;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

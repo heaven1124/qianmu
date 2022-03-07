@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>中佛罗里达大学-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="中佛罗里达大学" />
+<meta name="description"  id="description"  content="中佛罗里达大学:中佛罗里达大学（University of Central Florida，缩写UCF）或作佛罗里达中央大学，是一所大型公立综合性全国大学，成立于1963年，位于美国佛罗里达奥兰多市，提供本科、硕士、博士、副学士、文凭课程五种学位类型。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">中佛罗里达大学 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>排名</p>			</td>			<td>			<p>160</p>			</td>		</tr>		<tr>			<td>			<p>国家</p>			</td>			<td>			<p>美国</p>			</td>		</tr>		<tr>			<td>			<p>州省</p>			</td>			<td>			<p><a href="http://www.qianmu.org/佛罗里达州" target="_blank">佛罗里达州</a></p>			</td>		</tr>		<tr>			<td>			<p>城市</p>			</td>			<td>			<p>奥兰多</p>			</td>		</tr>		<tr>			<td>			<p>性质</p>			</td>			<td>			<p>公立，男女合校</p>			</td>		</tr>		<tr>			<td>			<p>成立年份</p>			</td>			<td>			<p>1963</p>			</td>		</tr>		<tr>			<td>			<p>宗教信仰</p>			</td>			<td>			<p>无</p>			</td>		</tr>		<tr>			<td>			<p>学生人数</p>			</td>			<td>			<p>63,002</p>			</td>		</tr>		<tr>			<td>本科生人数</td>			<td>			<p>54,513</p>			</td>		</tr>		<tr>			<td>研究生人数</td>			<td>			<p>8,489</p>			</td>		</tr>		<tr>			<td>			<p>学校分类</p>			</td>			<td>			<p>综合性大学</p>			</td>		</tr>		<tr>			<td>			<p>网址</p>			</td>			<td>			<p>www.ucf.edu</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>中佛罗里达大学（University of Central Florida，缩写UCF）或作佛罗里达中央大学，是一所大型公立综合性全国大学，成立于1963年，位于美国佛罗里达奥兰多市，提供本科、硕士、博士、副学士、文凭课程五种学位类型。</p><h2>申请点评</h2><p><strong>好评项：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p><p>1 The state-of-the-art athletic center!<br />2 Spirit Week<br />3 Wackadoo&#39;s<br />4 Wireless Internet<br />5 Shuttles to and from campus<br />6 Great local drink specials/happy hours<br />7 Constant tailgating<br />8 Free cab vouchers from downtown courtesy of the student government<br />9 Spirit Week&#39;s free concerts (music and comedy)<br />10 Proximity of off-campus apartments</p><p><strong>差评项：</strong></p><p>1 No parking! Anywhere!<br />2 Too many apathetic students<br />3 Rainstorms in the summer<br />4 Walking in the heat to class<br />5 Advisors are not always helpful<br />6 Lack of availability of classes<br />7 Cops/strictness<br />8 Steep tuition increases every year<br />9 Cops/strictness<br />10 Steep tuition increase every year</p><p>&nbsp;</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:111px">			<p><a href="http://www.qianmu.org/USNEWS排名" target="_blank">USNEWS排名</a></p>			</td>			<td style="width:75px">			<p>160</p>			</td>			<td style="width:95px">			<p>学费(/年)</p>			</td>			<td style="width:95px">			<p>$22,467</p>			</td>			<td style="width:123px">			<p>申请截止日期</p>			</td>			<td style="width:114px">			<p>3月1日</p>			</td>		</tr>		<tr>			<td style="width:111px">			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td style="width:75px">			<p>80</p>			</td>			<td style="width:95px">			<p>食宿(/年)</p>			</td>			<td style="width:95px">			<p>$9,554</p>			</td>			<td style="width:123px">			<p>开学时间</p>			</td>			<td style="width:114px">			<p>每年8月-9月</p>			</td>		</tr>		<tr>			<td style="width:111px">			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td style="width:75px">			<p>-</p>			</td>			<td style="width:95px">			<p>申请费</p>			</td>			<td style="width:95px">			<p>$30</p>			</td>			<td style="width:123px">			<p>可申请学期</p>			</td>			<td style="width:114px">			<p>秋季</p>			</td>		</tr>		<tr>			<td style="width:111px">			<p><a href="http://www.qianmu.org/SAT" target="_blank">SAT</a>平均分</p>			</td>			<td style="width:75px">			<p>1150-1330(1600)</p>			</td>			<td style="width:95px">			<p>申请人数</p>			</td>			<td style="width:95px">			<p>35,572</p>			</td>			<td style="width:123px">			<p><a href="http://www.qianmu.org/奖学金" target="_blank">奖学金</a>形式</p>			</td>			<td style="width:114px">			<p>Need-aware &amp; <a href="http://www.qianmu.org/Merit-based" target="_blank">Merit-based</a></p>			</td>		</tr>		<tr>			<td style="width:111px">			<p>平均<a href="http://www.qianmu.org/GPA" target="_blank">GPA</a></p>			</td>			<td style="width:75px">			<p>3.8</p>			</td>			<td style="width:95px">			<p>录取率</p>			</td>			<td style="width:95px">			<p>49%</p>			</td>			<td style="width:123px">			<p>是否提供<a href="http://www.qianmu.org/双录取" target="_blank">双录取</a></p>			</td>			<td style="width:114px">			<p>Yes</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)</p><p>注：</p><p>(1) TOEFL无单项要求；IELTS要求不详</p><p>(2)&nbsp;SAT阅读均分：540-630；SAT<a href="http://www.qianmu.org/数学" target="_blank">数学</a>均分：540-640；SAT写作均分：510-610；编号5233&nbsp;*(1)</p><p>(3)&nbsp;<a href="http://www.qianmu.org/ACT" target="_blank">ACT</a>综合均分：24-28</p><h2><strong>教学质量</strong></h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>本科生人数</p>			</td>			<td>			<p>54,513</p>			</td>			<td>			<p>小班比例(&lt;20)</p>			</td>			<td>			<p>27.2%</p>			</td>			<td>			<p><a href="http://www.qianmu.org/学期制度" target="_blank">学期制度</a></p>			</td>			<td>			<p>Semester</p>			</td>		</tr>		<tr>			<td>			<p>研究生人数</p>			</td>			<td>			<p>8,489</p>			</td>			<td>			<p>中班比例(20-49)</p>			</td>			<td>			<p>47.8%</p>			</td>			<td>			<p>教授水平满意度</p>			</td>			<td>			<p>90%</p>			</td>		</tr>		<tr>			<td>			<p>国际学生比例</p>			</td>			<td>			<p>1%</p>			</td>			<td>			<p>大班比例(&gt;50)</p>			</td>			<td>			<p>25%</p>			</td>			<td>			<p>就业实习满意度</p>			</td>			<td>			<p>59%</p>			</td>		</tr>		<tr>			<td>			<p>师生比</p>			</td>			<td>			<p>1:30</p>			</td>			<td>			<p>六年毕业率</p>			</td>			<td>			<p>71%</p>			</td>			<td>			<p>学生满意度</p>			</td>			<td>			<p>85%</p>			</td>		</tr>		<tr>			<td>			<p>四年毕业率</p>			</td>			<td>			<p>40%</p>			</td>			<td>			<p>新生保持率</p>			</td>			<td>			<p>89%</p>			</td>			<td>			<p>教授博士学位比率</p>			</td>			<td>			<p>-</p>			</td>		</tr>		<tr>			<td>毕业2年平均薪水</td>			<td>$34,700</td>			<td>就业率</td>			<td>70%</td>			<td>校友网络认可度</td>			<td>90%</td>		</tr>	</tbody></table><p>*(1)(2)(3)</p><p><strong>校园安全</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:143px">校园安全事件</td>			<td style="width:403px">Criminal Offenses -- On-Campus&nbsp;</td>			<td style="width:103px">2012</td>			<td style="width:100px">2013</td>			<td style="width:97px">2014</td>		</tr>		<tr>			<td>谋杀</td>			<td>Murder/Non-negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>过失杀人</td>			<td>Negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸</td>			<td>Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>14</p>			</td>		</tr>		<tr>			<td>乱伦</td>			<td>Incest</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸幼童罪</td>			<td>Statutory Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>猥亵</td>			<td>Fondling</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>5</p>			</td>		</tr>		<tr>			<td>性侵犯-强迫</td>			<td>Sex offenses - Forcible</td>			<td>			<p>11</p>			</td>			<td>			<p>14</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>性侵犯-非强迫</td>			<td>Sex offenses - non-forcible (incest and statutory rape only)</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>抢劫</td>			<td>Robbery</td>			<td>			<p>3</p>			</td>			<td>			<p>5</p>			</td>			<td>			<p>4</p>			</td>		</tr>		<tr>			<td>暴力袭击</td>			<td>Aggravated assault</td>			<td>			<p>20</p>			</td>			<td>			<p>10</p>			</td>			<td>			<p>3</p>			</td>		</tr>		<tr>			<td>盗窃</td>			<td>Burglary</td>			<td>			<p>25</p>			</td>			<td>			<p>26</p>			</td>			<td>			<p>23</p>			</td>		</tr>		<tr>			<td>汽车盗窃</td>			<td>Motor vehicle theft</td>			<td>			<p>11</p>			</td>			<td>			<p>13</p>			</td>			<td>			<p>10</p>			</td>		</tr>		<tr>			<td>纵火</td>			<td>Arson</td>			<td>			<p>1</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>	</tbody></table><p>*(1)</p><h2><strong>申请说明</strong></h2><p><strong>GPA与班级排名：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:26.96%">			<p>GPA</p>			</td>			<td style="width:23.48%">&nbsp;</td>			<td style="width:24.78%">			<p>班级排名</p>			</td>			<td style="width:24.78%">&nbsp;</td>		</tr>		<tr>			<td style="width:26.96%">			<p>分段</p>			</td>			<td style="width:23.48%">			<p>占比</p>			</td>			<td style="width:24.78%">			<p>分段</p>			</td>			<td style="width:24.78%">			<p>占比</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.75以上</p>			</td>			<td style="width:23.48%">			<p>66%</p>			</td>			<td style="width:24.78%">			<p>TOP10%</p>			</td>			<td style="width:24.78%">			<p>33%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.5-3.74</p>			</td>			<td style="width:23.48%">			<p>24%</p>			</td>			<td style="width:24.78%">			<p>TOP25%</p>			</td>			<td style="width:24.78%">			<p>74%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.25-3.49</p>			</td>			<td style="width:23.48%">			<p>7%</p>			</td>			<td style="width:24.78%">			<p>TOP50%</p>			</td>			<td style="width:24.78%">			<p>98%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.0-3.24</p>			</td>			<td style="width:23.48%">			<p>3%</p>			</td>			<td style="width:24.78%">			<p>50%以下</p>			</td>			<td style="width:24.78%">			<p>2%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>2.50-2.99</p>			</td>			<td style="width:23.48%">&nbsp;</td>			<td style="width:24.78%">			<p>75%以下</p>			</td>			<td style="width:24.78%">&nbsp;</td>		</tr>		<tr>			<td style="width:26.96%">			<p>2.49以下</p>			</td>			<td style="width:23.48%">&nbsp;</td>			<td style="width:24.78%">&nbsp;</td>			<td style="width:24.78%">&nbsp;</td>		</tr>	</tbody></table><p>*(2)</p><p><strong>申请材料</strong></p><p>中佛罗里达大学通过学校官网在线申请，必需的<a href="http://www.qianmu.org/申请材料" target="_blank">申请材料</a>包括：</p><ul>	<li>中佛罗里达大学申请表</li>	<li>托福/雅思<a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a></li>	<li>SAT/ACT成绩单，非必需</li>	<li><a href="http://www.qianmu.org/推荐信" target="_blank">推荐信</a>以及<a href="http://www.qianmu.org/Essay" target="_blank">Essay</a></li>	<li>高中<a href="http://www.qianmu.org/在读证明" target="_blank">在读证明</a>或高中毕业证</li>	<li>高中成绩单，需<a href="http://www.qianmu.org/翻译" target="_blank">翻译</a>，无需公证</li>	<li><a href="http://www.qianmu.org/资金证明" target="_blank">资金证明</a></li></ul><p>注：中佛罗里达大学无需<a href="http://www.qianmu.org/面试" target="_blank">面试</a>，无需SAT与ACT成绩。</p><p><strong>费用与奖学金</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:23.04%">			<p>支出项目</p>			</td>			<td style="width:55.76%">			<p>项目英文名</p>			</td>			<td style="width:21.18%">			<p>2016-2017学年费用</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>学费</p>			</td>			<td style="width:55.76%">			<p>Tuition and fees</p>			</td>			<td style="width:21.18%">			<p>$22,467</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>住宿费用</p>			</td>			<td style="width:55.76%">			<p>Room and board</p>			</td>			<td style="width:21.18%">			<p>$9,554</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>书本费</p>			</td>			<td style="width:55.76%">			<p>Books and supplies</p>			</td>			<td style="width:21.18%">			<p>$1,152</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>个人花费</p>			</td>			<td style="width:55.76%">			<p>Estimated personal expenses</p>			</td>			<td style="width:21.18%">			<p>$3,104</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>交通费</p>			</td>			<td style="width:55.76%">			<p>Transportation expenses</p>			</td>			<td style="width:21.18%">			<p>$1,866</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>合计</p>			</td>			<td style="width:55.76%">			<p>Estimated Total</p>			</td>			<td style="width:21.18%">			<p>$38,143</p>			</td>		</tr>	</tbody></table><p>*(2)</p><p>中佛罗里达大学向国际学生提供有Merit-based奖学金，2015年度中佛罗里达大学共47名国际学生获得奖学金，总奖学金金额为$55,900，平均金额$1,189。按国际学生比例与本科生人数计算，覆盖率为8.6%。此外，欲申请奖学金必需有SAT/ACT成绩。*(1)</p><h2>转学申请</h2><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:21.02%">			<p>TOEFL要求</p>			</td>			<td style="width:14.08%">			<p>80</p>			</td>			<td style="width:16.96%">			<p>GPA要求</p>			</td>			<td style="width:14.08%">			<p>2.0</p>			</td>			<td style="width:19.78%">			<p>申请截止日期</p>			</td>			<td style="width:14.08%">			<p>7月1日</p>			</td>		</tr>		<tr>			<td style="width:21.02%">			<p>IELTS要求</p>			</td>			<td style="width:14.08%">			<p>-</p>			</td>			<td style="width:16.96%">			<p>SAT要求</p>			</td>			<td style="width:14.08%">			<p>Recommend</p>			</td>			<td style="width:19.78%">			<p>开学时间</p>			</td>			<td style="width:14.08%">			<p>每年8月-9月</p>			</td>		</tr>		<tr>			<td style="width:21.02%">			<p>最高可转学分</p>			</td>			<td style="width:14.08%">-</td>			<td style="width:16.96%">			<p>最低学分要求</p>			</td>			<td style="width:14.08%">			<p>12</p>			</td>			<td style="width:19.78%">			<p>可申请学期</p>			</td>			<td style="width:14.08%">			<p>秋季、春季、夏季</p>			</td>		</tr>		<tr>			<td style="width:21.02%">			<p>申请人数</p>			</td>			<td style="width:14.08%">			<p>14,258</p>			</td>			<td style="width:16.96%">			<p>录取人数</p>			</td>			<td style="width:14.08%">			<p>9,523</p>			</td>			<td style="width:19.78%">			<p>录取率</p>			</td>			<td style="width:14.08%">			<p>66%</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>注：中佛罗里达大学转学要求本科GPA不低于2.0；单门课程GPA需在1.0以上方可转学分</p><p><strong>申请说明</strong></p><p>中佛罗里达大学秋季、春季、夏季三个学期均可申请转学，可入读大一、大二、大三其中任何一个学期。大二以下转学建议递交SAT/ACT成绩，大三以上无需递交。</p><h2>专业设置</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:31.22%">			<p>专业名称</p>			</td>			<td style="width:68.78%">			<p>专业英文</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/会计" target="_blank">会计</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/会计" target="_blank">Accounting</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>广告与<a href="http://www.qianmu.org/公共关系" target="_blank">公共关系</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/广告学" target="_blank">Advertising</a> - <a href="http://www.qianmu.org/公共关系" target="_blank">Public Relations</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/航空航天工程" target="_blank">航空航天工程</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/航空航天工程" target="_blank">Aerospace Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/人类学" target="_blank">人类学</a></p>			</td>			<td style="width:68.78%">			<p>Anthropology</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/建筑学" target="_blank">建筑学</a></p>			</td>			<td style="width:68.78%">			<p>Architecture</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>艺术</p>			</td>			<td style="width:68.78%">			<p>Art</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>艺术教育</p>			</td>			<td style="width:68.78%">			<p>Art Education</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>运动训练</p>			</td>			<td style="width:68.78%">			<p>Athletic Training</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>生物</p>			</td>			<td style="width:68.78%">			<p>Biology</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/生物医学" target="_blank">生物医学科学</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/生物医学" target="_blank">Biomedical Sciences</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>生物技术</p>			</td>			<td style="width:68.78%">			<p>Biotechnology</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>工商管理</p>			</td>			<td style="width:68.78%">			<p>Business Administration</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/化学" target="_blank">化学</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/化学" target="_blank">Chemistry</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>化学（<a href="http://www.qianmu.org/生物化学" target="_blank">生物化学</a>方向）</p>			</td>			<td style="width:68.78%">			<p>Chemistry - Biochemistry Track</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">土木工程</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">Civil Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>沟通科学与障碍</p>			</td>			<td style="width:68.78%">			<p>Communication Sciences and Disorders</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/计算机工程" target="_blank">计算机工程</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/计算机工程" target="_blank">Computer Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">计算机科学</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">Computer Science</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>施工工程</p>			</td>			<td style="width:68.78%">			<p>Construction Engineering</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>刑事司法</p>			</td>			<td style="width:68.78%">			<p>Criminal Justice</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>数字媒体</p>			</td>			<td style="width:68.78%">			<p>Digital Media</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>儿童早期成长与教育</p>			</td>			<td style="width:68.78%">			<p>Early Childhood Development and Education</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">经济学</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">Economics</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>商业经济学</p>			</td>			<td style="width:68.78%">			<p>Economics, Business</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">电气工程</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">Electrical Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/小学教育" target="_blank">小学教育</a></p>			</td>			<td style="width:68.78%">			<p>Elementary Education</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/英语" target="_blank">英语</a></p>			</td>			<td style="width:68.78%">			<p>English</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>英语语言艺术教育</p>			</td>			<td style="width:68.78%">			<p>English Language Arts Education</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/环境工程" target="_blank">环境工程</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/环境工程" target="_blank">Environmental Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>活动管理</p>			</td>			<td style="width:68.78%">			<p>Event <a href="http://www.qianmu.org/管理学" target="_blank">Management</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>电影</p>			</td>			<td style="width:68.78%">			<p>Film</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>电影（电影院研究方向）</p>			</td>			<td style="width:68.78%">			<p>Film - Cinema Studies Track</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/金融" target="_blank">金融</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/金融" target="_blank">Finance</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/法医科学" target="_blank">法医科学</a>（分析方向）</p>			</td>			<td style="width:68.78%">			<p>Forensic Science - Analysis Track</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/法医" target="_blank">法医</a>科学（生物化学方向）</p>			</td>			<td style="width:68.78%">			<p>Forensic Science - Biochemistry Track</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/法语" target="_blank">法语</a></p>			</td>			<td style="width:68.78%">			<p>French</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>商学</p>			</td>			<td style="width:68.78%">			<p>General Business</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>卫生信息学与信息管理</p>			</td>			<td style="width:68.78%">			<p>Health Informatics and Information Management</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/健康科学" target="_blank">卫生科学</a>（临床预科方向）</p>			</td>			<td style="width:68.78%">			<p>Health Sciences - Pre-Clinical Track</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>卫生服务管理</p>			</td>			<td style="width:68.78%">			<p>Health Services Administration</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/历史" target="_blank">历史</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/历史" target="_blank">History</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/酒店管理" target="_blank">酒店管理</a></p>			</td>			<td style="width:68.78%">			<p>Hospitality Management</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>人类传播</p>			</td>			<td style="width:68.78%">			<p>Human Communication</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>人文与文化研究</p>			</td>			<td style="width:68.78%">			<p>Humanities and Cultural Studies</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/工业工程" target="_blank">工业工程</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/工业工程" target="_blank">Industrial Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>信息技术</p>			</td>			<td style="width:68.78%">			<p>Information Technology</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>跨学科研究（环境研究方向）</p>			</td>			<td style="width:68.78%">			<p>Interdisciplinary Studies - Environmental Studies Track</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>跨学科研究（妇女研究方向）</p>			</td>			<td style="width:68.78%">			<p>Interdisciplinary Studies - Women&rsquo;s Studies Track</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>国际与全球研究</p>			</td>			<td style="width:68.78%">			<p>International and Global Studies</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>新闻</p>			</td>			<td style="width:68.78%">			<p>Journalism</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>拉丁美洲研究</p>			</td>			<td style="width:68.78%">			<p>Latin American Studies</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>法律研究</p>			</td>			<td style="width:68.78%">			<p>Legal Studies</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>管理</p>			</td>			<td style="width:68.78%">			<p>Management</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">市场营销</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">Marketing</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>数学</p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/数学" target="_blank">Mathematics</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>数学教育</p>			</td>			<td style="width:68.78%">			<p>Mathematics Education</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">机械工程</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">Mechanical Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/医学" target="_blank">医学</a>实验室科学</p>			</td>			<td style="width:68.78%">			<p>Medical Laboratory Sciences</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/音乐" target="_blank">音乐</a></p>			</td>			<td style="width:68.78%">			<p>Music</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>音乐教育</p>			</td>			<td style="width:68.78%">			<p>Music Education</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/护理" target="_blank">护理</a></p>			</td>			<td style="width:68.78%">			<p>Nursing</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/哲学" target="_blank">哲学</a></p>			</td>			<td style="width:68.78%">			<p>Philosophy</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>摄影</p>			</td>			<td style="width:68.78%">			<p>Photography</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>光子科学与工程</p>			</td>			<td style="width:68.78%">			<p>Photonic Science and Engineering</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/物理" target="_blank">物理</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/物理" target="_blank">Physics</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>政治科学</p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/政治学" target="_blank">Political Science</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/心理学" target="_blank">心理学</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/心理学" target="_blank">Psychology</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/公共事务" target="_blank">公共管理</a></p>			</td>			<td style="width:68.78%">			<p>Public Administration</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>广播与电视</p>			</td>			<td style="width:68.78%">			<p>Radio - Television</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/房地产" target="_blank">房地产</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/房地产" target="_blank">Real Estate</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>宗教与文化研究</p>			</td>			<td style="width:68.78%">			<p>Religion and Cultural Studies</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>餐厅与餐饮服务管理</p>			</td>			<td style="width:68.78%">			<p>Restaurant and Foodservice Management</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>科学教育</p>			</td>			<td style="width:68.78%">			<p>Science Education</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>社会科学教育</p>			</td>			<td style="width:68.78%">			<p>Social Science Education</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>社会科学</p>			</td>			<td style="width:68.78%">			<p>Social Sciences</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/社会工作" target="_blank">社会工作</a></p>			</td>			<td style="width:68.78%">			<p>Social Work</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">社会学</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">Sociology</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/西班牙语" target="_blank">西班牙语</a></p>			</td>			<td style="width:68.78%">			<p>Spanish</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>体育和运动科学</p>			</td>			<td style="width:68.78%">			<p>Sport and Exercise Science</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/统计学" target="_blank">统计学</a></p>			</td>			<td style="width:68.78%">			<p><a href="http://www.qianmu.org/统计学" target="_blank">Statistics</a></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>技术教育与行业培训</p>			</td>			<td style="width:68.78%">			<p>Technical Education and Industry Training</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/戏剧" target="_blank">戏剧</a></p>			</td>			<td style="width:68.78%">			<p>Theatre</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>戏剧（音乐剧方向）</p>			</td>			<td style="width:68.78%">			<p>Theatre - Musical Theatre Track</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>戏剧研究</p>			</td>			<td style="width:68.78%">			<p>Theatre Studies</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>世界语言教育</p>			</td>			<td style="width:68.78%">			<p>World Languages Education</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>写作与修辞</p>			</td>			<td style="width:68.78%">			<p>Writing and Rhetoric</p>			</td>		</tr>	</tbody></table><p>参考资料：</p><p>(1)&nbsp;<a href="http://www.qianmu.org/redirect?code=9rpcSXFNLT8196uHiElLHWwehMAIfBPSnHry_ZoOrU987bpklrs9ipL3NzSymlV_P5xwsqdr5e5Ih_aF4bH0ZwAWJlsOMBhta9uB20Zqc1Ftj9Lyrqgi2Zc6vase5RAWfyqcR40P3r7wnUqjSe5uwCW_sYeZzh5RJbbGfGh4pkDJA" target="_blank">University of Central Florida</a> USNEWS</p><p>(2)&nbsp;<a href="http://www.qianmu.org/redirect?code=Rr0CBrs1kTXJRftEgggggVeen2GsALlCUu4D5Yaqa8sSkqnXFm4p0QjzMYytF8yRUq4uMu410mdpHItpkwNOr2NIki9K1pfDPiSObi-KMwxOr2NIki9K1pfDPnShPhSOrpf_bn2K0wZxBRHzlCx" target="_blank">University of Central Florida</a> College Board</p><p>(3)&nbsp;<a href="http://www.qianmu.org/redirect?code=dr1GqVpBLpMoTcdvYeH_Q_qDtKkCXBJwKHgqlFeJSEMm9bhn_avVJipyVdwKWkGvAltr1d0iVaLghdpeQU8iVq7OmH-N1dqXaLKvCF_aRV_KS3DA-_nnvfJsraRV-ip3jr-rb2uvD-6afe1zp3jm" target="_blank">University of Central Florida</a> College Prowler</p><p>(4)&nbsp;<a href="http://www.qianmu.org/redirect?code=YrwF0vBuwN_n-hwkIIIIIIwdfGYO4BietFGMrQzVmuSCGTN5rQk9NIThX6UM9M_l9MIKw2Evu7b3EgQ6491SwVU5Uj3JiQ" target="_blank">Degree Programs</a> University of Central Florida</p><p>&nbsp;</p><h1>研究生申请</h1><h2>工程与计算机学院</h2><h3>电气工程</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:17.9%">			<p><a href="http://www.qianmu.org/USNEWS排名" target="_blank">USNEWS排名</a></p>			</td>			<td style="width:9.98%">			<p>55</p>			</td>			<td style="width:13.3%">			<p>学费</p>			</td>			<td style="width:23.3%">			<p>$1194.05/学分</p>			</td>			<td style="width:19.24%">			<p>申请截止日期</p>			</td>			<td style="width:16.28%">			<p>1月15日</p>			</td>		</tr>		<tr>			<td style="width:17.9%">			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td style="width:9.98%">			<p>80</p>			</td>			<td style="width:13.3%">			<p><a href="http://www.qianmu.org/GPA" target="_blank">GPA</a>要求</p>			</td>			<td style="width:23.3%">			<p>3.0以上</p>			</td>			<td style="width:19.24%">			<p>可申请学期</p>			</td>			<td style="width:16.28%">			<p>秋、春、夏</p>			</td>		</tr>		<tr>			<td style="width:17.9%">			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td style="width:9.98%">			<p>6.5</p>			</td>			<td style="width:13.3%">			<p><a href="http://www.qianmu.org/GRE" target="_blank">GRE</a>要求</p>			</td>			<td style="width:23.3%">			<p>硕士：Not Required</p>			<p>PhD：Required</p>			</td>			<td style="width:19.24%">			<p><a href="http://www.qianmu.org/GRE Subject" target="_blank">GRE Subject</a></p>			</td>			<td style="width:16.28%">			<p>Not Required</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)</p><p>注：</p><p>（1）此处的排名是2019年USNEWS<a href="http://www.qianmu.org/电气工程" target="_blank">电气工程</a>专业的排名</p><p>（2）TOEFL与IELTS均无单项分数要求*(2)</p><p>（3）秋季学期1月15日截止；春季学期7月1日截止；夏季学期11月1日截止*(2)</p><p>（4）中佛罗里达大学工程与计算机学院要求申请者递交一个预申请，预申请表可见下方的外部链接*(2)</p><p><strong>申请说明</strong></p><p>中佛罗里达大学电气工程（<a href="http://www.qianmu.org/电气工程" target="_blank">Electrical Engineering</a>）专业设于<a href="http://www.qianmu.org/电气工程" target="_blank">电气工程与计算机科学</a>系（Department of Electrical Engineering &amp; <a href="http://www.qianmu.org/计算机科学" target="_blank">Computer Science</a>）之下，该系下分<a href="http://www.qianmu.org/计算机科学" target="_blank">计算机科学</a>和<a href="http://www.qianmu.org/土木工程" target="_blank">电气与计算机工程</a>两个学部（Division），电气与<a href="http://www.qianmu.org/计算机工程" target="_blank">计算机工程</a>学部又分电气工程和计算机工程两个专业分支。*(4)</p><p>中佛罗里达大学电气工程研究生专业设有MS和PhD两种学位类型，其研究的内容包括通信、数字信号处理、图像处理、控制与机器人学、电磁学、电子-光子学、电力与电子、固态与微电子等。MS项目为期2年，需修读30个学分，其中硕士论文可抵6个学分；PhD项目为期4-6年，需修读72个学分，其中PhD学位论文可抵15-24个学分。上述2个项目均要求申请者本科毕业，拥有电气工程或其相关专业背景，硕士项目无需GRE成绩但PhD项目需要有。*(5)(6)(7)</p><p>中国学生被录取之后，其<a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a>和学位证、毕业证还需经中国学位与研究生教育发展中心（CDGDC）认证递交，但申请时，其成绩单和学位证明等都无需任何公证。*(8)</p><p><strong>专业设置</strong></p><p>中佛罗里达大学电气与计算机工程学部设有以下实验室，包括：</p><ul>	<li>通信实验室（Communications Laboratory）*(9)</li>	<li><a href="http://www.qianmu.org/计算机系统" target="_blank">计算机系统</a>实验室（Computer Systems Laboratory）</li>	<li>控制与电机实验室（Controls &amp; Electrical Machines Laboratory）</li>	<li>电子实验室（Electronics Laboratory）</li>	<li>UCF西部校区电气与计算机工程实验室（ECE Laboratory at UCF West）：其设备有别于主校区的实验室，其研究内容与主校区各实验室相同*(10)</li>	<li><a href="http://www.qianmu.org/医学" target="_blank">医学</a>机器人实验室（Medical Robotics Lab）</li>	<li>微电子实验室（Microelectronics Laboratory）</li>	<li>射频与微波实验室（RF and Microwave Laboratory）</li>	<li>传感器设计实验室（Senior Design Laboratory）</li>	<li>智能研究实验室（Smart Laboratory）</li></ul><p>外部链接：</p><ul>	<li>申请入口：<a href="http://www.qianmu.org/redirect?code=6ri8veOrkQ2RhNsdNNNNNNKU8AKt8WxIpDTLTt2tTACea02L8W2eTs7U30mCW3w7C3juaTakM3pUPZaSMtdic9J8yLIt0VRV" target="_blank">Graduate Online Application for the University of Central Florida</a></li>	<li>工程与计算机学院预申请：<a href="http://www.qianmu.org/redirect?code=Gr-dDk5aLhsIeJqnGGGGGg3b6WQZ63Of8XxtxZMZxGuhVHzvmMpHqa6xDapSDwf3qwGUszsSrw5klgDVcuLpDS1iDF654alAXNjpFNjiXB1iDz5W4BjhW4-JnN1Jb0Ln" target="_blank">CECS Graduate Pre-Screening Submission</a></li>	<li>电气与计算机工程近期论文列表：<a href="http://www.qianmu.org/redirect?code=Lr8sWSLgLIup47ogwwwwwLXcuzSXx4APMtotoYB2TZgFoNcQMQGlofnQkNC2xYnY9yc3G2k3Pg-T_GRNWu8pPueGFBbxNQ7G6I8CFBvT4ZcY3hvyCJ0YClDwFQk" target="_blank">PUBLICATIONS</a>(PDF)</li>	<li>电气工程近期研究项目与资金：<a href="http://www.qianmu.org/redirect?code=wrYmhljkkniNSP-rJJJJJ2qyImrY_M6Vmu1Y1YkHOypBvw8sGiCTakM3pUau8RuJ4A7ApO2SWy2R0dwsar2knKRk46sWu82fY2hfRnVunuz84u5o9aqL2iNBF70on" target="_blank">ECE RESEARCH EXPENDITURES AND FUNDING</a>(PDF)</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=crr9MjJZk_OdHMNHqKlDfIRMxdIADgy30H9ji-Yl3l3Jwpc4jPn-z09QF5YtNvhJ-AvPVS2-9QNr3lmQzpbOumboEzdr_B3l0kznUA1_ihAl3nLFUcHKooJspYtJB2L4GE" target="_blank">INFORMATION FOR ALL APPLICANTS</a> University of Central Florida</p><p>(2) <a href="http://www.qianmu.org/redirect?code=ErbpefwRLuKMyWbZ6ydT_DwXKxtn2hPSqlwEUQ3dSJyFZHEVzSsgiiH7LAajYQkxSS_ra-URfiTgwNTZ7Z4w-h9iVAumEEwN7S7LYEQhUibdHKufa6dQ8Yl-MhJQ-paLBHtL-FgDAnhqTVO6ghaRrDhpDj592h99bCARwtqTpEIwDR1ajP8IuTZA" target="_blank">INTERNATIONAL STUDENTS ADMISSION</a> University of Central Florida</p><p>(3) <a href="http://www.qianmu.org/redirect?code=IrnDV7pNwu23CtV1UUUUUUbke_8ACbPs0j4tM73tBbTYsIdwWgTLmlrbS51gqOqzQ6nu_-q" target="_blank">Tuition and Fees Cost - Graduate - 2014 - 2015</a> University of Central Florida</p><p>(4) <a href="http://www.qianmu.org/redirect?code=kr53aG40Lr9DfQ1i1stZaA-h3c_7PHCh3lYDk-f1apbl7Eznahqm1y6LcYtDTs" target="_blank">Department of Electrical Engineering &amp; Computer Science</a> University of Central Florida</p><p>(5) <a href="http://www.qianmu.org/redirect?code=orDtO5cHwSnOKhHv5awexjfkcjx64bDFko59eMHwh0il6JEokz-MvZ379cfGrBHSAPozN31l37Zl1uht9jLS3hPT4" target="_blank">ELECTRICAL ENGINEERING MS &amp; PhD</a> University of Central Florida</p><p>(6) <a href="http://www.qianmu.org/redirect?code=Lr8sWS2IkJVBTZK2xxxxxUC9B6sbzY0WPIiIiGV0lOTKiSTfoS8Fi9TdA5lQiS8OPOsKimzUlOz0lOTYlGz4lTFXQaF0UCF0Ea6uIhGNXif3-ToBn9Kzwa6ZLBsZn9ft09rqv16ZCx1dSK0mEHljiPBjio4G0xtaZZgw8Jn1mXD" target="_blank">Electrical Engineering MSEE</a> University of Central Florida</p><p>(7) <a href="http://www.qianmu.org/redirect?code=0rRNYsUPkVnHXeCf5cQ9pw3brhYAZ0zPBH7aQ3jqm8N33hq3HCQsuc3W_aR28JqHCSsmMpZuh8JsYRxBtxp9lUIa93fxe_PZyxWQsiU_c6c5YgYbUI-gaZ-6iC91qf_C2BR8teSvF0vYFyUoPm1_R8eIiHF0pP12_9P1qfCZ5UUBWfLUEGJbdxXWmeV8QAYf" target="_blank">Electrical Engineering PhD</a> University of Central Florida</p><p>(8) <a href="http://www.qianmu.org/redirect?code=5rk_5oEukXSVb3kdHI-ZRgYeJ53tBHPC-VfPANcOYslY7KpTrUQPVbHCXNRpWQPUO7GmcpCPpM8uPxFOtSVpdmkpCApIV7YHbIF7sb43j9ZqquQIUF_Y-awY0327iqffqTRgovEWO7kYdQntS0qb32qtlBSQW3fuod2SShU7sbo8wIZRII1gXreW3h9wQc99lY83" target="_blank">Country Requirements-China</a> University of Central Florida</p><p>(9) <a href="http://www.qianmu.org/redirect?code=Rr0CBrkSwHR2VN_N9999990skcLmoIr-bWbWfR04dJBWO5n-XRrXFkxPU2-BlS9yvZrJlcfs5t" target="_blank">ECE Academic Laboratories</a> University of Central Florida</p><p>(10) <a href="http://www.qianmu.org/redirect?code=-rGz4OfpkHN_V6SNyyyyyyZTGWoOvRnDltbtb56TEzKOF2hxTgTeV2FE1Aho_gdeWc42RDd8NDX0G" target="_blank">ECE LABORATORY AT UCF WEST</a> University of Central Florida</p><h2>光学学院</h2><p>中佛罗里达大学光学学院（College of Optics and Photonics）在光学与光子教育与研究领域一直处于世界领先地位。该学院设立于1987年，原是光学教育与研究中心（Center for Research and Education in Optics and Lasers, CEROL），2004年成为独立的学院，也是全美第一家光学领域开设研究生学位课程（MS、PhD）的学校。学院包括教职员工33名，名誉教授6名，研究员59名，研究生144名，本科生90名。*(1)</p><p><strong>申请说明</strong></p><p>中佛罗里达大学光学学院研究生申请材料与步骤如下：</p><ul>	<li>正式成绩单：大学阶段所有成绩单均需提交</li>	<li>GRE成绩：必须</li>	<li>TOEFL/IELTS：TOEFL总分不低于80分，ILETS总分不低于6.5分，均无单项分数要求</li>	<li>3封推荐信</li>	<li>个人陈述与研究计划（RS）</li>	<li>个人简历</li>	<li>申请费：32美金*(2)</li></ul><p>注：申请研究生奖学金的学生需先进行预申请（Pre-Application），通过预申请，学校可以尽快联系学生，了解学生情况，节省学生的申请时间。*(3)</p><p><strong>研究生录取统计表</strong></p><p>2010-2014学年研究生录取统计</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:32.98%">&nbsp;</td>			<td style="width:16.76%">			<p>2010-2011</p>			</td>			<td style="width:16.76%">			<p>2011-2012</p>			</td>			<td style="width:16.76%">			<p>2012-2013</p>			</td>			<td style="width:16.76%">			<p>2013-2014</p>			</td>		</tr>		<tr>			<td style="width:32.98%">			<p>PhD</p>			</td>			<td style="width:16.76%">			<p>116</p>			</td>			<td style="width:16.76%">			<p>98</p>			</td>			<td style="width:16.76%">			<p>91</p>			</td>			<td style="width:16.76%">			<p>95</p>			</td>		</tr>		<tr>			<td style="width:32.98%">			<p>MS</p>			</td>			<td style="width:16.76%">			<p>20</p>			</td>			<td style="width:16.76%">			<p>21</p>			</td>			<td style="width:16.76%">			<p>32</p>			</td>			<td style="width:16.76%">			<p>36</p>			</td>		</tr>	</tbody></table><p>注：2013-14学年PhD共招收全日制国际学生25名，其中有16名国际学生获得研究生奖学金，奖学金覆盖率为64%；MS招收国际学生数为0。*(4)</p><p>外部链接：</p><ul>	<li>光学院导师列表：<a href="http://www.qianmu.org/redirect?code=brEVbyemwnkBwWcKeeeeee04Uu2GdY4qamgJgJvPArzeX_ZfBbPuJuV24svQ4YEPoDpYb1nd-B_WHpOhSiwkR7sQ8" target="_blank">Faculty</a></li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=wrYmhlZ6wKwjsQHZfILycOdBQueh6JTz3OGCtE9idNYROpmuYFKj3Drrz9O5Nm09yUcF3aKfrSk_Be1" target="_blank">About CREOL, The College of Optics &amp; Photonics</a> University of Central Florida</p><p>(2) <a href="http://www.qianmu.org/redirect?code=brEVbyfGLmpEbh6tjjjjjzUgqwZfrpl1MFMFnE-fPolatETDNDscRnhN25xrRIhpMIprm6zUmGzJmYyr9YpjEvz7EYNeZp-FZSdyioG2kKGwMSuQlP4vlgGF7HX" target="_blank">Admission Requirements</a> University of Central Florida</p><p>(3) <a href="http://www.qianmu.org/redirect?code=4rjT-BDTwdft_3IBwwwwwIBdfGYO4BieqVMeMeOhnsasFkgebo92r2JyV9LmaPc7I1pbBhNuUVgy9ZizYoiXjdEg3FKzGhbx0LBw0owcEnp0Vg3FBZrDu6ivsR" target="_blank">College of Optics &amp; Photonics Pre-application</a> University of Central Florida</p><p>(4) <a href="http://www.qianmu.org/redirect?code=hrfXwiGukXSVbKRa333333snIfxh0Soc7U7U2vYTph-fGZY7UtUcxLm7JQn1GV-QJQncGu-gGn8apMrIeSs_d0lcpMmh" target="_blank">Annual Report2014</a> University of Central Florida</p><h3>光学</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:15.62%">			<p>USNEWS排名</p>			</td>			<td style="width:5.26%">			<p>61</p>			</td>			<td style="width:11.26%">			<p>学费</p>			</td>			<td style="width:25.62%">			<p>$1194.05/学分</p>			</td>			<td style="width:16.0%">			<p>申请截止日期</p>			</td>			<td style="width:26.26%">			<p>MS：1月15日</p>			<p>PhD：1月2日</p>			</td>		</tr>		<tr>			<td style="width:15.62%">			<p>TOEFL要求</p>			</td>			<td style="width:5.26%">			<p>80</p>			</td>			<td style="width:11.26%">			<p>GPA要求</p>			</td>			<td style="width:25.62%">			<p>3.0以上</p>			</td>			<td style="width:16.0%">			<p>可申请学期</p>			</td>			<td style="width:26.26%">			<p>秋季、春季、夏季</p>			</td>		</tr>		<tr>			<td style="width:15.62%">			<p>IELTS要求</p>			</td>			<td style="width:5.26%">			<p>6.5</p>			</td>			<td style="width:11.26%">			<p>GRE要求</p>			</td>			<td style="width:25.62%">			<p>PhD：318以上 MS：无</p>			</td>			<td style="width:16.0%">			<p>GRE Subject</p>			</td>			<td style="width:26.26%">			<p>Not Required</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)(4)(5)</p><p>注：</p><p>（1）此处的排名是2019USNEWS物理专业排名</p><p>（2）TOEFL与IELTS均无单项分数要求*(1)</p><p>（3）据2013-14学年录取统计得出，PhD项目的GRE要求为：GRE数学不低于165分，GRE阅读不低于150分，GRE写作不低于3分*(3)</p><p>（4）具体申请截止日期见申请说明*(4)( 5)(6)</p><p><strong>申请说明</strong></p><p>中佛罗里达大学光学院（CEROL）设有两个学位项目，分别是：</p><ul>	<li>光学硕士（MS in Optics &amp; Photonics）：为期1-1.5年，共计学分24-30个。要求申请者本科毕业，拥有光学、电气工程、物理或与之相关专业背景。该项目属授课型项目，带有一定的实验室内容，既可为进入PhD项目做准备，亦可为就业做准备。该项目分带毕业论文（thesis）和不带毕业论文（non-thesis）两种供申请者选择。该项目向国际学生提供Merit-based奖学金。该项目主要分光学（Optics）和光子学（Photonics）两个方向&mdash;&mdash;	<ul>		<li>光学方向：为期12-18个月，课程教学主要以光学基础为主，偏向设计与成像学。申请者需完成相关研究报告*(5)</li>		<li>光子学方向：为期12-18个月，课程教学主要以光子学基础为主，偏向光子传播。申请者需完成相关研究报告*(5)&nbsp;</li>	</ul>	</li>	<li>光学博士（PhD in Optics &amp; Photonics）：为期5-6年，共计72个学分。要求申请者本科毕业，拥有光学、电气工程、物理或与之相关专业背景，硕士学历亦可申请。部分专业背景还需修读一定的前置课程。该项目属研究型项目，带有一定的实验室内容，需要撰写毕业论文。该项目向国际学生提供光学研究奖学金（CREOL Research Fellowship）。平均每年奖学金金额约22,000-28,000美金。主要授予成绩优异的学生，要求学生申请奖学金前需进行预申请并选择导师套磁*(6)(7)(8)</li></ul><p><strong>申请截止日期说明：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:114px">			<p>&nbsp;</p>			</td>			<td style="width:114px">			<p>秋季（推荐）</p>			</td>			<td style="width:114px">			<p>秋季</p>			</td>			<td style="width:114px">			<p>春季</p>			</td>			<td style="width:114px">			<p>夏季</p>			</td>		</tr>		<tr>			<td style="width:114px">			<p>MS项目</p>			</td>			<td style="width:114px">			<p>1月15日</p>			</td>			<td style="width:114px">			<p>1月15日</p>			</td>			<td style="width:114px">			<p>7月1日</p>			</td>			<td style="width:114px">			<p>11月1日</p>			</td>		</tr>		<tr>			<td style="width:114px">			<p>MS 转学项目</p>			</td>			<td style="width:114px">			<p>1月15日</p>			</td>			<td style="width:114px">			<p>3月1日</p>			</td>			<td style="width:114px">			<p>9月1日</p>			</td>			<td style="width:114px">			<p>12月15日</p>			</td>		</tr>		<tr>			<td style="width:114px">			<p>PhD项目</p>			</td>			<td style="width:114px">			<p>1月2日</p>			</td>			<td style="width:114px">			<p>1月15日</p>			</td>			<td style="width:114px">			<p>7月1日</p>			</td>			<td style="width:114px">			<p>11月1日</p>			</td>		</tr>		<tr>			<td style="width:114px">			<p>PhD 转学项目</p>			</td>			<td style="width:114px">			<p>1月2日</p>			</td>			<td style="width:114px">			<p>3月1日</p>			</td>			<td style="width:114px">			<p>9月1日</p>			</td>			<td style="width:114px">			<p>12月15日</p>			</td>		</tr>	</tbody></table><p>注：欲攻读全日制项目或申请奖学金的学生建议秋季学期为主*(5)(6)</p><p><strong>课程设置</strong></p><p>MS项目核心课程包括：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:20.22%">			<p>课程名称</p>			</td>			<td style="width:34.94%">			<p>课程英文名</p>			</td>			<td style="width:14.32%">			<p>课程名称</p>			</td>			<td style="width:30.5%">			<p>课程英文名</p>			</td>		</tr>		<tr>			<td style="width:20.22%">			<p>波动光学基础</p>			</td>			<td style="width:34.94%">			<p>Introduction to Wave Optics</p>			</td>			<td style="width:14.32%">			<p>导波与光电子</p>			</td>			<td style="width:30.5%">			<p>Guided Waves and Optoelectronics</p>			</td>		</tr>		<tr>			<td style="width:20.22%">			<p>几何光学与成像系统</p>			</td>			<td style="width:34.94%">			<p>Geometrical Optics and Imaging Systems</p>			</td>			<td style="width:14.32%">			<p>激光工程</p>			</td>			<td style="width:30.5%">			<p>Laser Engineering</p>			</td>		</tr>	</tbody></table><p>*(9)</p><p>PhD项目核心课程包括：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:19.94%">			<p>课程名称</p>			</td>			<td style="width:35.36%">			<p>课程英文名</p>			</td>			<td style="width:14.92%">			<p>课程名称</p>			</td>			<td style="width:29.78%">			<p>课程英文名</p>			</td>		</tr>		<tr>			<td style="width:19.94%">			<p>光学波动传播</p>			</td>			<td style="width:35.36%">			<p>Optical Wave Propagation</p>			</td>			<td style="width:14.92%">			<p>光物质及相互作用</p>			</td>			<td style="width:29.78%">			<p>Light Matter Interaction</p>			</td>		</tr>		<tr>			<td style="width:19.94%">			<p>干涉与衍射</p>			</td>			<td style="width:35.36%">			<p>Interference and Diffraction</p>			</td>			<td style="width:14.92%">			<p>激光工程</p>			</td>			<td style="width:29.78%">			<p>Laser Engineering</p>			</td>		</tr>		<tr>			<td style="width:19.94%">			<p>几何光学与成像系统</p>			</td>			<td style="width:35.36%">			<p>Geometrical Optics and Imaging Systems</p>			</td>			<td style="width:14.92%">			<p>导波与光电子</p>			</td>			<td style="width:29.78%">			<p>Guided Waves and Optoelectronics</p>			</td>		</tr>	</tbody></table><p>*(6)</p><p><strong>专业设置</strong></p><p>中佛罗里达大学光学院开设的研究中心有：</p><ul>	<li>佛罗里达卓越光子学研究中心（Florida Photonics Center of Excellence (FPCE)）</li>	<li>汤斯激光研究所（Townes Laser Institute (TLI)）</li>	<li>前端科技研究所（The Institute for the Frontier of Attosecond Science and Technology (iFAST)）</li>	<li>高级材料处理与分析研究中心（Advanced Materials Processing and Analysis Center (AMPAC)）</li>	<li>纳米科技研究中心（NanoScience Technology Center (NSTC)）</li>	<li>伯内特生物医学学院（Burnett School of Biomedical Sciences）</li>	<li>佛罗里达太阳能研究中心（Florida Solar Energy Center (FSEC)）</li>	<li>佛罗里达太空研究所（Florida Space Institute）</li>	<li>模拟与训练研究所（Institute for Simulation and Training (IST)）</li>	<li>高级制造研究国际联合会（International Consortium for Advanced Manufacturing Research (ICAMR)）</li>	<li>国家模拟研究中心（National Center for Simulation (NCS)）</li>	<li>高级运输系统模拟研究中心（Center for Advanced Transportation Systems Simulation (CATSS)）</li>	<li>国家法医科学研究中心（National Center for Forensic Science (NCFS)）</li>	<li>小企业发展研究中心（Small Business Development Center (SBDC)）</li>	<li>中佛罗里达大学创业培训中心（University of Central Florida Business Incubation Program (UCFBIP)）</li></ul><p>中佛罗里达大学光学院开设的研究领域包括：</p><ul>	<li>激光（Lasers）	<ul>		<li>固体激光器（Solid State Lasers）</li>		<li>陶瓷激光器（Ceramic Lasers）</li>		<li>半导体激光器（Semiconductor Lasers）</li>		<li>EUV与X射线激光器（EUV &amp; X-ray Lasers）</li>		<li>高功率激光器（High Power Lasers）</li>		<li>超快光纤激光器（Ultrafast Lasers）</li>		<li>光学频率梳（Optical Frequency Combs）&nbsp;</li>	</ul>	</li>	<li>光纤（Fiber Optics）	<ul>		<li>光纤技术（Fiber Fabrication Technology）</li>		<li>多材料纤维（Multimaterial Fibers）</li>		<li>纳米结构纤维（Nano-structured Fibers）</li>		<li>中红外光纤（Mid Infrared Fibers）</li>		<li>光纤激光器（Fiber Lasers）&nbsp;</li>	</ul>	</li>	<li>半导体与集成光子（Semiconductor &amp; Integrated Photonics）	<ul>		<li>外延生长（Epitaxial Growth）</li>		<li>发光二极管与激光二极管（LEDs &amp; Laser Diodes）</li>		<li>量子点与纳米结构（Quantum Dots &amp; Nanostructures）</li>		<li>光电子（Optoelectronics）</li>		<li>氧化物半导体（Oxide Semiconductors）</li>		<li>光伏技术（Photovoltaics）</li>		<li>集成光学（Integrated Optics）</li>		<li>周期性结构与光子晶体（Periodic Structures &amp; Photonic Crystals）</li>		<li>纳米光子学与等离子体激（Nanophotonics &amp; Plasmonics）</li>		<li>硅光子（Silicon Photonics）</li>		<li>光栅与全息光学元件（Gratings &amp; Holographic Optical Elements）</li>	</ul>	</li>	<li>非线性与量子光学（Nonlinear &amp; Quantum Optics）	<ul>		<li>非线性导波与光纤（Nonlinear Guided Waves &amp; Fibers）</li>		<li>非线性光学材料（Nonlinear Optical Materials）</li>		<li>非线性光学与光谱学（Nonlinear Optics &amp; Spectroscopy）</li>		<li>周期结构与非线性光学（Nonlinear Optics in Periodic Structures）</li>		<li>感光眼镜（Photosensitive Glasses）</li>		<li>量子光学（Quantum Optics）</li>		<li>光孤子（Solitons）</li>	</ul>	</li>	<li>成像、传感与显示（Imaging, Sensing &amp; Display）	<ul>		<li>光学设计与图像分析（Optical Design &amp; Image Analysis）</li>		<li>进场成像（Near Field Imaging）</li>		<li>随机介质与传送（Propagation in Random Media）</li>		<li>X射线与EUV技术（X-ray &amp; EUV Technology）</li>		<li>红外传感器与系统（Infrared Sensors &amp; Systems）</li>		<li>毫米波与太赫兹技术（Millimeter &amp; THz Technology）</li>		<li>液晶光学（Optics of Liquid Crystals）</li>		<li>生物与医学成像（Biological &amp; Medical Imaging）*(10)</li>	</ul>	</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=arBPkMlekvECxOjBXXXXXvxNQdJjn4hcFgd2d2rqWPxW2Fw41qcI_IvF8gEkkdIG8XwH6h1rsMCn9mmf3ImK7P7joiW3tus9G0DkXo_kWy7tLRigHfaXJlbWVuxw3tSr-FdOwE" target="_blank">Admission Requirements</a> University of Central Florida</p><p>(2) <a href="http://www.qianmu.org/redirect?code=IrnDV7Phk5gAr-TozzzzzzJS6O4amcLCsOtSKOW9Y-FBPqECFDk9h-tbYblBPOtCy" target="_blank">Tuition and Fees Cost - Graduate - 2015 - 2016</a> University of Central Florida</p><p>(3) <a href="http://www.qianmu.org/redirect?code=VrxbIdt_LfWcHwxwTTTTTTbdh-gzSYG0qyqyWs4zJ_GtwsZN5N9Bj-ZJbtlWeS-QVhV2lS5QfS2wMpqAUPBc7vOrlpqsC" target="_blank">Annual Report2014</a> University of Central Florida</p><p>(4) <a href="http://www.qianmu.org/redirect?code=1rdft_1gkKhq9sIi1VMD04UPDcu8aIyYbDLfuGqz_KmPnbGKE3FO33B308_ZLQ7SS8ZRE3ig-a97U-I7AYTs4mlRSaeDugRTDwzoDSA_HQtQ0S4i_0B-K3kKiRevzp" target="_blank">Graduate Application</a> University of Central Florida</p><p>(5) <a href="http://www.qianmu.org/redirect?code=_r75g1qUL-Fj7pKcdddddAXBO8K93ej24kv2v25nEi7L6yOD6uMaGUDwf8X_ThlKfakpCPe8dX-BhzxQnDxQpVPyL_cy6_1epC2mhC2DcHvpZoEkRKKyKkOTl7NGNiVwPog1hWnTYqHiJFDT2UIhLC0Dsj1h" target="_blank">Optics and Photonics MS</a> University of Central Florida</p><p>(6) <a href="http://www.qianmu.org/redirect?code=brEVbykQkrW5UKUFOYc1gC_uECiut8PUBhj8VCsmRoazmK6p4RS7cWKjtJCF6oWRX4S_zbVvTOu13EpkB2nZVm8aC4S7cJ_DiZWepUwCfUWeAT4oP3wllZZCU_kJR_2t" target="_blank">Optics and Photonics PhD</a> University of Central Florida</p><p>(7) <a href="http://www.qianmu.org/redirect?code=WrSJLFTrwMaU29hAYxzF24BSjmd2vnohUpMQ0Fe3fuyj0kU2nBTQIg9WE1BJC1RP0lI1PuoIPiiRzkGFLu7aBzkvZnemd4z0G2Ie7dqfhNYi889OONbkJuZsyfoGDW0G6EFkTiVf4hTBVselAWXp1wYdOWLn8FqqedNpXbBPiyGw6MUz6r9nvd" target="_blank">Optics and Photonics PhD</a> University of Central Florida</p><p>(8) <a href="http://www.qianmu.org/redirect?code=IrnDV7P1kTXJRLaFUGkcv6RzWBi9FMMCzkmATOE5_glNPzIDn_D1crdZDzUS6A_9Xg7_gU1GILKv_zq_GfInp3fhniDJcG3zMr6ceLO_cqrgdVBiY3OL_MVq7PTdKU" target="_blank">Fellowships</a> University of Central Florida</p><p>(9) <a href="http://www.qianmu.org/redirect?code=jr4AsclawJr7tgO0hhhhhhXnE8gbptx98rAiAidHc2wqa3yUY8qgzg6q3SWPnmU9u4scWnTdrY7Fa-6tQx6taZDPo8emDro3j4wViq1Qqg1k_9o" target="_blank">Optics &amp; Photonics M.S. Program</a> University of Central Florida</p><p>(10) <a href="http://www.qianmu.org/redirect?code=nrIezt2cLYq_Z821bbbbbbGAN1MDVaz9CPQXQXOTDZqgT5o_bxltwteKqXrjopl9rng05tX3EF1" target="_blank">Research</a> University of Central Florida</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2020-09-23</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1441;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1441' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1441;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

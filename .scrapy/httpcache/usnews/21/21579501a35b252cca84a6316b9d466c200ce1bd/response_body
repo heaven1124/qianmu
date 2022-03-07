@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>加州州立大学长滩分校-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="加州州立大学长滩分校" />
+<meta name="description"  id="description"  content="加州州立大学长滩分校:加州州立大学长滩分校（California State University,Long Beach，缩写CSULB）是一所大型公立地方性大学，成立于1949年，位于美国西部大型城市长滩，提供本科、硕士、博士三种学位类型。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">加州州立大学长滩分校 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>排名</p>			</td>			<td>			<p>14</p>			</td>		</tr>		<tr>			<td>			<p>国家</p>			</td>			<td>			<p>美国</p>			</td>		</tr>		<tr>			<td>			<p>州省</p>			</td>			<td>			<p><a href="http://www.qianmu.org/加利福尼亚州" target="_blank">加利福尼亚州</a></p>			</td>		</tr>		<tr>			<td>			<p>城市</p>			</td>			<td>			<p>长滩</p>			</td>		</tr>		<tr>			<td>			<p>性质</p>			</td>			<td>			<p>公立，男女合校</p>			</td>		</tr>		<tr>			<td>			<p>成立年份</p>			</td>			<td>			<p>1949年</p>			</td>		</tr>		<tr>			<td>			<p>宗教信仰</p>			</td>			<td>			<p>无</p>			</td>		</tr>		<tr>			<td>			<p>学生人数</p>			</td>			<td>			<p>37,446</p>			</td>		</tr>		<tr>			<td>			<p>学校分类</p>			</td>			<td>			<p>西部<a href="http://www.qianmu.org/地方性大学" target="_blank">地方性大学</a></p>			</td>		</tr>		<tr>			<td>			<p>网址</p>			</td>			<td>			<p>www.csulb.edu</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>加州州立大学长滩分校（California State University,Long Beach，缩写CSULB）是一所大型公立<a href="http://www.qianmu.org/地方性大学" target="_blank">地方性大学</a>，成立于1949年，位于美国西部大型城市长滩，提供本科、硕士、博士三种学位类型。</p><h2>申请点评</h2><p><strong>好评项： &nbsp;</strong></p><p>1.The campus is simply amazing and beautiful.</p><p>2.When you walk to class, you see Walter Pyramid in the sky, and it looks like a painting every day!</p><p>3.A lot of people wear CSULB gear.</p><p>4.Horn Center</p><p>5.Writer&#39;s Resource Lab</p><p>6.Advising</p><p>7.The weather is amazing.</p><p>8.More good professors than bad</p><p>9.Great location</p><p>10.Learning Alliance program</p><p><strong>差评项： &nbsp;&nbsp;</strong></p><p>1.The campus is large, so the walk between classes can be tiring.</p><p>2.Parking is not the best.</p><p>3.There is currently no free fitness facility, though one is being constructed.</p><p>4.No football team</p><p>5.Everyone seems to be always walking to class.</p><p>6.Almost everyone commutes.</p><p>7.Because everyone commutes, the support for athletic events, clubs, and organizations is scarce.</p><p>8.Shuttle service</p><p>9.We have no real and fun urban legends.</p><p>10.Campus life is almost nonexistent.</p><p>&nbsp;</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p><a href="http://www.qianmu.org/USNEWS排名" target="_blank">USNEWS排名</a></p>			</td>			<td>			<p>14</p>			</td>			<td>			<p>学费（/年）</p>			</td>			<td>			<p>$17,266</p>			</td>			<td>			<p>申请截止日期</p>			</td>			<td>			<p>11月30日</p>			</td>		</tr>		<tr>			<td>			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td>			<p>-</p>			</td>			<td>			<p>食宿（/年）</p>			</td>			<td>			<p>$12,398</p>			</td>			<td>			<p>开学时间</p>			</td>			<td>			<p>每年8-9月</p>			</td>		</tr>		<tr>			<td>			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td>			<p>-</p>			</td>			<td>			<p>申请费</p>			</td>			<td>			<p>$55</p>			</td>			<td>			<p>可申请学期</p>			</td>			<td>			<p>秋季</p>			</td>		</tr>		<tr>			<td>			<p><a href="http://www.qianmu.org/SAT" target="_blank">SAT</a>均分</p>			</td>			<td>			<p>900 - 1140 (1600)</p>			</td>			<td>			<p>申请人数</p>			</td>			<td>			<p>56,975</p>			</td>			<td>			<p><a href="http://www.qianmu.org/奖学金" target="_blank">奖学金</a>形式</p>			</td>			<td>			<p>Need-aware &amp; <a href="http://www.qianmu.org/Merit-based" target="_blank">Merit-based</a></p>			</td>		</tr>		<tr>			<td>			<p>平均<a href="http://www.qianmu.org/GPA" target="_blank">GPA</a></p>			</td>			<td>			<p>3.5</p>			</td>			<td>			<p>录取率</p>			</td>			<td>			<p>34.5%</p>			</td>			<td>			<p>是否提供<a href="http://www.qianmu.org/双录取" target="_blank">双录取</a></p>			</td>			<td>			<p>Yes</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>注：</p><p>（1）被录取的学生新SAT（2016年3月后）均分范围：SAT阅读与写作未详，其中SAT阅读25-31，SAT数学510-610；编号：4389。*(1)</p><p>（2）<a href="http://www.qianmu.org/ACT" target="_blank">ACT</a>综合均分：20-26。*(1)</p><p>（3）加州州立大学长滩分校12月1日起开始出滚动录取通知*(1)</p><h2>教学质量</h2><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:21.02%">			<p>本科生人数</p>			</td>			<td style="width:12.68%">			<p>32,079</p>			</td>			<td style="width:19.72%">			<p>小班比例(&lt;20)</p>			</td>			<td style="width:12.68%">			<p>-</p>			</td>			<td style="width:21.02%">			<p>学期制度</p>			</td>			<td style="width:12.86%">			<p>Semester</p>			</td>		</tr>		<tr>			<td style="width:21.02%">			<p>研究生人数</p>			</td>			<td style="width:12.68%">			<p>5,367</p>			</td>			<td style="width:19.72%">			<p>中班比例(20-49)</p>			</td>			<td style="width:12.68%">			<p>-</p>			</td>			<td style="width:21.02%">			<p>教授水平满意度</p>			</td>			<td style="width:12.86%">			<p>90%</p>			</td>		</tr>		<tr>			<td style="width:21.02%">			<p>国际学生比例</p>			</td>			<td style="width:12.68%">			<p>7%</p>			</td>			<td style="width:19.72%">			<p>大班比例(&gt;50)</p>			</td>			<td style="width:12.68%">			<p>-</p>			</td>			<td style="width:21.02%">			<p>校园安全度</p>			</td>			<td style="width:12.86%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:21.02%">			<p>师生比</p>			</td>			<td style="width:12.68%">			<p>1:24</p>			</td>			<td style="width:19.72%">			<p>六年毕业率</p>			</td>			<td style="width:12.68%">			<p>-</p>			</td>			<td style="width:21.02%">			<p>学生满意度</p>			</td>			<td style="width:12.86%">			<p>83%</p>			</td>		</tr>		<tr>			<td style="width:21.02%">			<p>四年毕业率</p>			</td>			<td style="width:12.68%">			<p>15%</p>			</td>			<td style="width:19.72%">			<p>新生保持率</p>			</td>			<td style="width:12.68%">			<p>91%</p>			</td>			<td style="width:21.02%">			<p>教授博士学位比率</p>			</td>			<td style="width:12.86%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:21.02%">			<p>毕业2年平均薪水</p>			</td>			<td style="width:12.68%">			<p>$34,100</p>			</td>			<td style="width:19.72%">			<p>就业率</p>			</td>			<td style="width:12.68%">			<p>65%</p>			</td>			<td style="width:21.02%">			<p>校友网络认可度</p>			</td>			<td style="width:12.86%">			<p>89%</p>			</td>		</tr>	</tbody></table><p>*(1)(3)(4)</p><p><strong>校园安全</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:143px">校园安全事件</td>			<td style="width:403px">Criminal Offenses -- On-Campus&nbsp;</td>			<td style="width:103px">2012</td>			<td style="width:100px">2013</td>			<td style="width:97px">2014</td>		</tr>		<tr>			<td>谋杀</td>			<td>Murder/Non-negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>过失杀人</td>			<td>Negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸</td>			<td>Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>乱伦</td>			<td>Incest</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸幼童罪</td>			<td>Statutory Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>猥亵</td>			<td>Fondling</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>3</p>			</td>		</tr>		<tr>			<td>性侵犯-强迫</td>			<td>Sex offenses - Forcible</td>			<td>			<p>1</p>			</td>			<td>			<p>3</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>性侵犯-非强迫</td>			<td>Sex offenses - non-forcible (incest and statutory rape only)</td>			<td>			<p>1</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>抢劫</td>			<td>Robbery</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>暴力袭击</td>			<td>Aggravated assault</td>			<td>			<p>1</p>			</td>			<td>			<p>2</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>盗窃</td>			<td>Burglary</td>			<td>			<p>23</p>			</td>			<td>			<p>28</p>			</td>			<td>			<p>5</p>			</td>		</tr>		<tr>			<td>汽车盗窃</td>			<td>Motor vehicle theft</td>			<td>			<p>8</p>			</td>			<td>			<p>23</p>			</td>			<td>			<p>4</p>			</td>		</tr>		<tr>			<td>纵火</td>			<td>Arson</td>			<td>			<p>1</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>	</tbody></table><p>*(3)</p><h2>申请说明</h2><p><strong>GPA与班级排名</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:26.96%">			<p>GPA</p>			</td>			<td style="width:23.48%">&nbsp;</td>			<td style="width:24.78%">			<p>班级排名</p>			</td>			<td style="width:24.78%">&nbsp;</td>		</tr>		<tr>			<td style="width:26.96%">			<p>分段</p>			</td>			<td style="width:23.48%">			<p>占比</p>			</td>			<td style="width:24.78%">			<p>分段</p>			</td>			<td style="width:24.78%">			<p>占比</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.75以上</p>			</td>			<td style="width:23.48%">			<p>30%</p>			</td>			<td style="width:24.78%">			<p>TOP10%</p>			</td>			<td style="width:24.78%">&nbsp;</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.5-3.74</p>			</td>			<td style="width:23.48%">			<p>27%</p>			</td>			<td style="width:24.78%">			<p>TOP25%</p>			</td>			<td style="width:24.78%">&nbsp;</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.25-3.49</p>			</td>			<td style="width:23.48%">			<p>22%</p>			</td>			<td style="width:24.78%">			<p>TOP50%</p>			</td>			<td style="width:24.78%">&nbsp;</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.0-3.24</p>			</td>			<td style="width:23.48%">			<p>14%</p>			</td>			<td style="width:24.78%">			<p>50%以下</p>			</td>			<td style="width:24.78%">&nbsp;</td>		</tr>		<tr>			<td style="width:26.96%">			<p>2.50-2.99</p>			</td>			<td style="width:23.48%">			<p>6%</p>			</td>			<td style="width:24.78%">			<p>75%以下</p>			</td>			<td style="width:24.78%">&nbsp;</td>		</tr>		<tr>			<td style="width:26.96%">			<p>2.49以下</p>			</td>			<td style="width:23.48%">			<p>1%</p>			</td>			<td style="width:24.78%">&nbsp;</td>			<td style="width:24.78%">&nbsp;</td>		</tr>	</tbody></table><p>*(1)</p><p><strong>申请材料</strong></p><p>加州州立大学长滩分校通过学校官网，在线或纸质申请，必需的<a href="http://www.qianmu.org/申请材料" target="_blank">申请材料</a>包括：</p><p>（1）加州州立大学长滩分校申请表</p><p>（2）托福/雅思<a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a></p><p>（3）无需SAT与ACT成绩单</p><p>（4）<a href="http://www.qianmu.org/推荐信" target="_blank">推荐信</a>、<a href="http://www.qianmu.org/Essay" target="_blank">Essay</a></p><p>（5）高中<a href="http://www.qianmu.org/在读证明" target="_blank">在读证明</a>或高中毕业证</p><p>（6）高中成绩单，需<a href="http://www.qianmu.org/翻译" target="_blank">翻译</a>，无需公证</p><p>（7）<a href="http://www.qianmu.org/资金证明" target="_blank">资金证明</a></p><p>注：加州州立大学长滩分校无需<a href="http://www.qianmu.org/面试" target="_blank">面试</a>。</p><p><strong>费用与奖学金</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:23.04%">			<p>支出项目</p>			</td>			<td style="width:55.76%">			<p>项目英文名</p>			</td>			<td style="width:21.18%">			<p>2016-2017学年费用</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>学费</p>			</td>			<td style="width:55.76%">			<p>Tuition and fees</p>			</td>			<td style="width:21.18%">			<p>$17,266</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>住宿费用</p>			</td>			<td style="width:55.76%">			<p>Room and board</p>			</td>			<td style="width:21.18%">			<p>$12,398</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>书本费</p>			</td>			<td style="width:55.76%">			<p>Books and supplies</p>			</td>			<td style="width:21.18%">			<p>$1,898</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>个人花费</p>			</td>			<td style="width:55.76%">			<p>Estimated personal expenses</p>			</td>			<td style="width:21.18%">			<p>$708</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>交通费</p>			</td>			<td style="width:55.76%">			<p>Transportation expenses</p>			</td>			<td style="width:21.18%">			<p>$774</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>合计</p>			</td>			<td style="width:55.76%">			<p>Estimated Total</p>			</td>			<td style="width:21.18%">			<p>$33,044</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>加州州立大学长滩分校向国际学生提供Need-aware和Merit-based奖学金，具体获奖人数及奖学金覆盖率不详。*(1)</p><h2>转学申请</h2><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.16%">			<p>TOEFL要求</p>			</td>			<td style="width:11.24%">			<p>-</p>			</td>			<td style="width:17.32%">			<p>GPA要求</p>			</td>			<td style="width:11.24%">			<p>2.0</p>			</td>			<td style="width:19.78%">			<p>申请截止日期</p>			</td>			<td style="width:22.24%">			<p>滚动录取</p>			</td>		</tr>		<tr>			<td style="width:18.16%">			<p>IELTS要求</p>			</td>			<td style="width:11.24%">			<p>-</p>			</td>			<td style="width:17.32%">			<p>SAT要求</p>			</td>			<td style="width:11.24%">			<p>Not Required</p>			</td>			<td style="width:19.78%">			<p>开学时间</p>			</td>			<td style="width:22.24%">			<p>每年8月-9月</p>			</td>		</tr>		<tr>			<td style="width:18.16%">			<p>最高可转学分</p>			</td>			<td style="width:11.24%">			<p>94</p>			</td>			<td style="width:17.32%">			<p>最低学分要求</p>			</td>			<td style="width:11.24%">			<p>60</p>			</td>			<td style="width:19.78%">			<p>可申请学期</p>			</td>			<td style="width:22.24%">			<p>秋季、春季</p>			</td>		</tr>		<tr>			<td style="width:18.16%">			<p>申请人数</p>			</td>			<td style="width:11.24%">			<p>27,257</p>			</td>			<td style="width:17.32%">			<p>录取人数</p>			</td>			<td style="width:11.24%">			<p>8,357</p>			</td>			<td style="width:19.78%">			<p>录取率</p>			</td>			<td style="width:22.24%">			<p>30%</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p><strong>申请说明</strong></p><p>加州州立大学长滩分校仅接受秋季、春季转学申请，可入读大三、大四其中任何一个学期，建议递交SAT/ACT成绩。</p><h2>专业设置</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:21.22%">			<p>专业名称</p>			</td>			<td style="width:29.22%">			<p>专业英文名</p>			</td>			<td style="width:19.1%">			<p>专业名称</p>			</td>			<td style="width:30.46%">			<p>专业英文名</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>艺术</p>			</td>			<td style="width:29.22%">			<p>Art</p>			</td>			<td style="width:19.1%">			<p>全球物流</p>			</td>			<td style="width:30.46%">			<p>Global Logistics</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/舞蹈" target="_blank">舞蹈</a></p>			</td>			<td style="width:29.22%">			<p>Dance</p>			</td>			<td style="width:19.1%">			<p><a href="http://www.qianmu.org/历史" target="_blank">历史</a></p>			</td>			<td style="width:30.46%">			<p><a href="http://www.qianmu.org/历史" target="_blank">History</a></p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>设计</p>			</td>			<td style="width:29.22%">			<p>Design</p>			</td>			<td style="width:19.1%">			<p>人类发展</p>			</td>			<td style="width:30.46%">			<p>Human Development</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>电影与电子艺术</p>			</td>			<td style="width:29.22%">			<p>Film and Electronic Arts</p>			</td>			<td style="width:19.1%">			<p>国际问题研究</p>			</td>			<td style="width:30.46%">			<p>International Studies</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/音乐" target="_blank">音乐</a></p>			</td>			<td style="width:29.22%">			<p>Music</p>			</td>			<td style="width:19.1%">			<p><a href="http://www.qianmu.org/意大利语" target="_blank">意大利语</a></p>			</td>			<td style="width:30.46%">			<p>Italian</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/戏剧" target="_blank">戏剧</a>艺术</p>			</td>			<td style="width:29.22%">			<p>Theatre Arts</p>			</td>			<td style="width:19.1%">			<p><a href="http://www.qianmu.org/日语" target="_blank">日语</a></p>			</td>			<td style="width:30.46%">			<p>Japanese</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/会计" target="_blank">会计</a></p>			</td>			<td style="width:29.22%">			<p>Accountancy</p>			</td>			<td style="width:19.1%">			<p><a href="http://www.qianmu.org/犹太研究" target="_blank">犹太研究</a></p>			</td>			<td style="width:30.46%">			<p>Jewish Studies</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/金融" target="_blank">金融</a></p>			</td>			<td style="width:29.22%">			<p><a href="http://www.qianmu.org/金融" target="_blank">Finance</a></p>			</td>			<td style="width:19.1%">			<p><a href="http://www.qianmu.org/新闻学" target="_blank">新闻学</a></p>			</td>			<td style="width:30.46%">			<p>Journalism</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>信息系统</p>			</td>			<td style="width:29.22%">			<p><a href="http://www.qianmu.org/信息系统管理" target="_blank">Information Systems</a></p>			</td>			<td style="width:19.1%">			<p>拉丁美洲研究</p>			</td>			<td style="width:30.46%">			<p>Latin American Studies</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/国际贸易" target="_blank">国际贸易</a></p>			</td>			<td style="width:29.22%">			<p>International Business</p>			</td>			<td style="width:19.1%">			<p>法律研究</p>			</td>			<td style="width:30.46%">			<p>Legal Studies</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>管理与<a href="http://www.qianmu.org/人力资源管理" target="_blank">人力资源管理</a></p>			</td>			<td style="width:29.22%">			<p><a href="http://www.qianmu.org/管理学" target="_blank">Management</a> and Human Resources Management</p>			</td>			<td style="width:19.1%">			<p><a href="http://www.qianmu.org/语言学" target="_blank">语言学</a></p>			</td>			<td style="width:30.46%">			<p>Linguistics</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">市场营销</a></p>			</td>			<td style="width:29.22%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">Marketing</a></p>			</td>			<td style="width:19.1%">			<p>中世纪与文艺复兴时期研究</p>			</td>			<td style="width:30.46%">			<p>Medieval and Renaissance Studies</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>高等教育与咨询</p>			</td>			<td style="width:29.22%">			<p>Advanced Studies in Education and Counseling</p>			</td>			<td style="width:19.1%">			<p>和平研究</p>			</td>			<td style="width:30.46%">			<p>Peace Studies</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>通识教育</p>			</td>			<td style="width:29.22%">			<p>Liberal Studies</p>			</td>			<td style="width:19.1%">			<p><a href="http://www.qianmu.org/哲学" target="_blank">哲学</a></p>			</td>			<td style="width:30.46%">			<p>Philosophy</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>师范教育</p>			</td>			<td style="width:29.22%">			<p>Teacher Education</p>			</td>			<td style="width:19.1%">			<p>政治</p>			</td>			<td style="width:30.46%">			<p><a href="http://www.qianmu.org/政治学" target="_blank">Political Science</a></p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/化学工程" target="_blank">化学工程</a></p>			</td>			<td style="width:29.22%">			<p>Chemical Engineering</p>			</td>			<td style="width:19.1%">			<p><a href="http://www.qianmu.org/心理学" target="_blank">心理学</a></p>			</td>			<td style="width:30.46%">			<p><a href="http://www.qianmu.org/心理学" target="_blank">Psychology</a></p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">土木工程</a>与建筑工程管理</p>			</td>			<td style="width:29.22%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">Civil Engineering</a> and Construction Engineering Management</p>			</td>			<td style="width:19.1%">			<p><a href="http://www.qianmu.org/宗教学" target="_blank">宗教研究</a></p>			</td>			<td style="width:30.46%">			<p>Religious Studies</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/计算机工程" target="_blank">计算机工程</a>与<a href="http://www.qianmu.org/计算机科学" target="_blank">计算机科学</a></p>			</td>			<td style="width:29.22%">			<p><a href="http://www.qianmu.org/计算机工程" target="_blank">Computer Engineering</a> and <a href="http://www.qianmu.org/计算机科学" target="_blank">Computer Science</a></p>			</td>			<td style="width:19.1%">			<p>浪漫、<a href="http://www.qianmu.org/德语" target="_blank">德语</a>、<a href="http://www.qianmu.org/俄语" target="_blank">俄语</a>语言与文学</p>			</td>			<td style="width:30.46%">			<p>Romance, German, Russian Languages and Literatures</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">电气工程</a></p>			</td>			<td style="width:29.22%">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">Electrical Engineering</a></p>			</td>			<td style="width:19.1%">			<p>俄语</p>			</td>			<td style="width:30.46%">			<p>Russian</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>工程技术</p>			</td>			<td style="width:29.22%">			<p>Engineering Technology</p>			</td>			<td style="width:19.1%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">社会学</a></p>			</td>			<td style="width:30.46%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">Sociology</a></p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">机械与航空航天工程</a></p>			</td>			<td style="width:29.22%">			<p>Mechanical and <a href="http://www.qianmu.org/航空航天工程" target="_blank">Aerospace Engineering</a></p>			</td>			<td style="width:19.1%">			<p><a href="http://www.qianmu.org/西班牙语" target="_blank">西班牙语</a></p>			</td>			<td style="width:30.46%">			<p>Spanish</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>运动训练</p>			</td>			<td style="width:29.22%">			<p>Athletic Training</p>			</td>			<td style="width:19.1%">			<p>女性、性别与性研究</p>			</td>			<td style="width:30.46%">			<p>Women&#39;s Gender and Sexuality Studies</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>儿童发展与家庭研究</p>			</td>			<td style="width:29.22%">			<p>Child Development and Family Studies</p>			</td>			<td style="width:19.1%">			<p>生物科学</p>			</td>			<td style="width:30.46%">			<p>Biological Sciences</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/语言病理学" target="_blank">语言病理学</a></p>			</td>			<td style="width:29.22%">			<p>Speech-Language Pathology</p>			</td>			<td style="width:19.1%">			<p><a href="http://www.qianmu.org/化学" target="_blank">化学</a>与<a href="http://www.qianmu.org/生物化学" target="_blank">生物化学</a></p>			</td>			<td style="width:30.46%">			<p><a href="http://www.qianmu.org/化学" target="_blank">Chemistry</a> and Biochemistry</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>消费者事务</p>			</td>			<td style="width:29.22%">			<p>Consumer Affairs</p>			</td>			<td style="width:19.1%">			<p>地质科学</p>			</td>			<td style="width:30.46%">			<p>Geological Sciences</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>刑事司法</p>			</td>			<td style="width:29.22%">			<p>Criminal Justice</p>			</td>			<td style="width:19.1%">			<p>数学与<a href="http://www.qianmu.org/统计学" target="_blank">统计学</a></p>			</td>			<td style="width:30.46%">			<p><a href="http://www.qianmu.org/数学" target="_blank">Mathematics</a> and <a href="http://www.qianmu.org/统计学" target="_blank">Statistics</a></p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>应急处理</p>			</td>			<td style="width:29.22%">			<p>Emergency Management</p>			</td>			<td style="width:19.1%">			<p>海洋研究</p>			</td>			<td style="width:30.46%">			<p>Ocean Studies Institute</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>家庭与消费科学</p>			</td>			<td style="width:29.22%">			<p>Family and Consumer Sciences</p>			</td>			<td style="width:19.1%">			<p><a href="http://www.qianmu.org/物理" target="_blank">物理</a>学与<a href="http://www.qianmu.org/天文学" target="_blank">天文学</a></p>			</td>			<td style="width:30.46%">			<p><a href="http://www.qianmu.org/物理" target="_blank">Physics</a> and <a href="http://www.qianmu.org/天文学" target="_blank">Astronomy</a></p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>服装促销</p>			</td>			<td style="width:29.22%">			<p>Fashion Merchandising</p>			</td>			<td style="width:19.1%">			<p>科学教育</p>			</td>			<td style="width:30.46%">			<p>Science Education</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>服装促销与设计</p>			</td>			<td style="width:29.22%">			<p>Fashion Merchandising and Design</p>			</td>			<td style="width:19.1%">			<p><a href="http://www.qianmu.org/运动学" target="_blank">运动学</a></p>			</td>			<td style="width:30.46%">			<p>Kinesiology</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/食品科学" target="_blank">食品科学</a></p>			</td>			<td style="width:29.22%">			<p>Food Science</p>			</td>			<td style="width:19.1%">			<p>适应体育</p>			</td>			<td style="width:30.46%">			<p>Adapted Physical Education</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/老年医学" target="_blank">老年医学</a></p>			</td>			<td style="width:29.22%">			<p>Gerontology</p>			</td>			<td style="width:19.1%">			<p>中小学师范教育</p>			</td>			<td style="width:30.46%">			<p>K-12 Teacher Education</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>医疗管理</p>			</td>			<td style="width:29.22%">			<p>Health Care Administration</p>			</td>			<td style="width:19.1%">			<p>运动科学</p>			</td>			<td style="width:30.46%">			<p>Exercise Science</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/健康科学" target="_blank">健康科学</a></p>			</td>			<td style="width:29.22%">			<p>Health Science</p>			</td>			<td style="width:19.1%">			<p>健身</p>			</td>			<td style="width:30.46%">			<p>Fitness</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/酒店管理" target="_blank">酒店管理</a></p>			</td>			<td style="width:29.22%">			<p>Hospitality Management</p>			</td>			<td style="width:19.1%">			<p>运动心理学与领导</p>			</td>			<td style="width:30.46%">			<p>Sport Psychology and Leadership</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/人类学" target="_blank">人类学</a></p>			</td>			<td style="width:29.22%">			<p>Anthropology</p>			</td>			<td style="width:19.1%">			<p>体育管理</p>			</td>			<td style="width:30.46%">			<p>Sport Management</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>亚洲与亚裔美国人研究</p>			</td>			<td style="width:29.22%">			<p>Asian and Asian American Studies</p>			</td>			<td style="width:19.1%">			<p>军事科学</p>			</td>			<td style="width:30.46%">			<p>Military Science</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>亚洲语言</p>			</td>			<td style="width:29.22%">			<p>Asian Languages</p>			</td>			<td style="width:19.1%">			<p><a href="http://www.qianmu.org/护理" target="_blank">护理</a></p>			</td>			<td style="width:30.46%">			<p>Nursing</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>墨西哥与拉丁美洲研究</p>			</td>			<td style="width:29.22%">			<p>Chicano and Latino Studies</p>			</td>			<td style="width:19.1%">			<p>营养与<a href="http://www.qianmu.org/营养学" target="_blank">营养学</a></p>			</td>			<td style="width:30.46%">			<p>Nutrition and Dietetics</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>中国研究</p>			</td>			<td style="width:29.22%">			<p>Chinese Studies</p>			</td>			<td style="width:19.1%">			<p><a href="http://www.qianmu.org/物理疗法" target="_blank">物理疗法</a></p>			</td>			<td style="width:30.46%">			<p>Physical Therapy</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/古典文学" target="_blank">古典文学</a></p>			</td>			<td style="width:29.22%">			<p>Classics</p>			</td>			<td style="width:19.1%">			<p><a href="http://www.qianmu.org/公共事务" target="_blank">公共政策</a>与管理</p>			</td>			<td style="width:30.46%">			<p>Public Policy and Administration</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/传播学" target="_blank">传播学</a></p>			</td>			<td style="width:29.22%">			<p>Communication Studies</p>			</td>			<td style="width:19.1%">			<p>娱乐休闲学</p>			</td>			<td style="width:30.46%">			<p>Recreation and Leisure Studies</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>比较世界文学</p>			</td>			<td style="width:29.22%">			<p>Comparative World Literature</p>			</td>			<td style="width:19.1%">			<p><a href="http://www.qianmu.org/社会工作" target="_blank">社会工作</a></p>			</td>			<td style="width:30.46%">			<p>Social Work</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">经济学</a></p>			</td>			<td style="width:29.22%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">Economics</a></p>			</td>			<td style="width:19.1%">			<p>非洲研究</p>			</td>			<td style="width:30.46%">			<p>Africana Studies</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/英语" target="_blank">英语</a></p>			</td>			<td style="width:29.22%">			<p>English</p>			</td>			<td style="width:19.1%">			<p>美国印第安人研究</p>			</td>			<td style="width:30.46%">			<p>American Indian Studies</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/环境科学" target="_blank">环境科学</a>与政策</p>			</td>			<td style="width:29.22%">			<p>Environmental Science and Policy</p>			</td>			<td style="width:19.1%">			<p>美国研究</p>			</td>			<td style="width:30.46%">			<p>American Studies</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/法语" target="_blank">法语</a></p>			</td>			<td style="width:29.22%">			<p>French</p>			</td>			<td style="width:19.1%">			<p>德语</p>			</td>			<td style="width:30.46%">			<p>German</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>地理</p>			</td>			<td style="width:29.22%">			<p><a href="http://www.qianmu.org/地理学" target="_blank">Geography</a></p>			</td>			<td colspan="2" style="width:49.56%">&nbsp;</td>		</tr>	</tbody></table><p>*(2)</p><p>参考资料：</p><p>(1)&nbsp;<a href="http://www.qianmu.org/redirect?code=8rL6TCNTk1JUIszUTTTTTMdwdFkbIFZ0Zj7YyoB_lwxukjI2Ly8kr-_5YEmzy2w1m4wNztV0gyg0dlsEgGhN9fjZ5AaP5jSpvcSfHXt_d7CnM7GYevJtDgGMahIa0qtyIFBg8rcvK6Hqy8sc38ilfl0Efpr8XGaI6wBN4DvusRC0" target="_blank">California State University: Long Beach</a>&nbsp;College Board</p><p>(2)&nbsp;<a href="http://www.qianmu.org/redirect?code=Trq48pWZw9P-FAZ941Ey4e1hcJ_vBkA1U-BHd6fxdbRRVzDAydgRMJzDAVF9uBp2PGVhOXfoOpVMz7r2ezFp1F9fnaNuKXfcu" target="_blank">Degree Information</a>&nbsp;California State University, Long Beach</p><p>(3)<a href="https://www.usnews.com/best-colleges/csulb-1139" target="_blank">Best-Colleges/California-State-University-Long-Beach</a> USNEWS</p><p>(4)<a href="https://www.niche.com/colleges/california-state-university---long-beach/" target="_blank">California-State-University---Long-Beach/</a> Colleges Prowler</p><p>本文数据主要采自College Board、College Prowler、Princeton Review、USNEWS以及加州州立大学长滩分校官网等网站</p><p>&nbsp;</p><h1>研究生申请</h1><h2>文理学院</h2><p>加州州立大学长滩分校文理学院（College of the Arts）研究生阶段开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:32.76%">			<p>专业名称</p>			</td>			<td style="width:56.14%">			<p>专业英文名称</p>			</td>			<td style="width:11.08%">			<p>开设学位</p>			</td>		</tr>		<tr>			<td style="width:32.76%">			<p>艺术（艺术教育方向）</p>			</td>			<td style="width:56.14%">			<p>Art, Concentration in Art Education</p>			</td>			<td style="width:11.08%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:32.76%">			<p>艺术（艺术史方向）</p>			</td>			<td style="width:56.14%">			<p>Art, Concentration in Art History</p>			</td>			<td style="width:11.08%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:32.76%">			<p>艺术（工作室艺术方向）</p>			</td>			<td style="width:56.14%">			<p>Art, Concentration in Studio Art</p>			</td>			<td style="width:11.08%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:32.76%">			<p>艺术（工作室艺术方向）</p>			</td>			<td style="width:56.14%">			<p>Art, Concentration in Studio Art</p>			</td>			<td style="width:11.08%">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:32.76%">			<p>舞蹈</p>			</td>			<td style="width:56.14%">			<p>Dance</p>			</td>			<td style="width:11.08%">			<p>MA、MFA</p>			</td>		</tr>		<tr>			<td style="width:32.76%">			<p>音乐</p>			</td>			<td style="width:56.14%">			<p>Music</p>			</td>			<td style="width:11.08%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:32.76%">			<p>音乐（作曲方向）</p>			</td>			<td style="width:56.14%">			<p>Composition</p>			</td>			<td style="width:11.08%">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:32.76%">			<p>音乐（互动技术作曲方向）</p>			</td>			<td style="width:56.14%">			<p>Composition with Interactive Technology</p>			</td>			<td style="width:11.08%">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:32.76%">			<p>音乐（器乐指挥方向）</p>			</td>			<td style="width:56.14%">			<p>Conducting &ndash; Instrumental</p>			</td>			<td style="width:11.08%">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:32.76%">			<p>音乐（合唱指挥方向）</p>			</td>			<td style="width:56.14%">			<p>Conducting &ndash; Choral</p>			</td>			<td style="width:11.08%">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:32.76%">			<p>音乐（爵士研究方向）</p>			</td>			<td style="width:56.14%">			<p>Jazz Studies</p>			</td>			<td style="width:11.08%">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:32.76%">			<p>音乐（音乐剧表演方向）</p>			</td>			<td style="width:56.14%">			<p>Opera Performance</p>			</td>			<td style="width:11.08%">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:32.76%">			<p>音乐（器乐表演方向）</p>			</td>			<td style="width:56.14%">			<p>Instrumental Performance</p>			</td>			<td style="width:11.08%">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:32.76%">			<p>音乐（钢琴表演方向）</p>			</td>			<td style="width:56.14%">			<p>Piano Performance</p>			</td>			<td style="width:11.08%">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:32.76%">			<p>音乐（声乐表演方向）</p>			</td>			<td style="width:56.14%">			<p>Vocal Performance</p>			</td>			<td style="width:11.08%">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:32.76%">			<p>戏剧艺术信息</p>			</td>			<td style="width:56.14%">			<p>Theatre Arts Information</p>			</td>			<td style="width:11.08%">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:32.76%">			<p>戏剧艺术（表演方向）</p>			</td>			<td style="width:56.14%">			<p>Theatre Arts &ndash; Option in Acting</p>			</td>			<td style="width:11.08%">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:32.76%">			<p>戏剧艺术（戏剧技术/设计方向）</p>			</td>			<td style="width:56.14%">			<p>Theatre Arts &ndash; Option in Technical Theatre/Design</p>			</td>			<td style="width:11.08%">			<p>MFA</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>艺术硕士（工作室艺术）MFA项目设有以下方向（Tracks），分别是：</p><ul>	<li>陶瓷艺术（Ceramics）</li>	<li>绘画与油画艺术（Drawing and Painting）</li>	<li>纺织艺术（Fibers）</li>	<li>插画/动漫（Illustration/Animation）</li>	<li>金工（Metals）</li>	<li>摄影艺术（Photography）</li>	<li>版画艺术（Printmaking）</li>	<li>雕塑艺术/4D（Sculpture/4D）</li>	<li>视觉传播设计（Visual Communication Design）</li>	<li>木艺（Wood）*(2)</li></ul><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=ir67yhfZw9P-FAeeuBThrohiccy1A4wfapiNvSOE18Gq1Pj5KzvjA2Y1BCOO4ev0lzJdtGoUg7DHh5wIBt3lq1jtnK2YRdfb34sq6gpOvCy18ez1dSXkqnZDLOq9em0ls3hUjEihVEUBxNRVM-ymOk9ytDOvJBx8UCR-V3d53o7QEmJFB9eyO5r01V-I1P8xThbrEdFWqTBbGFdz_5VfdIbozw8mzv680ZHc7zqwAjIHuXOq9R" target="_blank">Degrees</a> CSULB</p><p>(2) <a href="http://www.qianmu.org/redirect?code=6ri8veOhk5gArifCAAAAABOvWzmQpSBfnhMk8qKsaYVaWSfOvsHIfg7IukS3GFAyDuQOlDEBxDELxgK6Wk7s8mC1Xk6ZakCB6j24iAncBxyle6j2JRK4fFyazSknOQghPbm4-kMU5aiH" target="_blank">Programs at a Glance</a> College of Arts, CSULB</p><p>&nbsp;</p><h2>商学院</h2><p>加州州立大学长滩分校商学院（College of Business Administration）研究生阶段开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:30.14%">			<p>专业名称</p>			</td>			<td style="width:49.14%">			<p>专业英文名称</p>			</td>			<td style="width:20.72%">			<p>开设学位</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>工商管理</p>			</td>			<td style="width:49.14%">			<p>Business Administration</p>			</td>			<td style="width:20.72%">			<p>MBA</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>会计</p>			</td>			<td style="width:49.14%">			<p>Accountancy</p>			</td>			<td style="width:20.72%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>物流管理</p>			</td>			<td style="width:49.14%">			<p>Supply Chain Management</p>			</td>			<td style="width:20.72%">			<p>MS</p>			</td>		</tr>		<tr>			<td colspan="3" style="width:100.0%">			<p><strong>MBA</strong><strong>项目下设专业方向：</strong></p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>金融</p>			</td>			<td colspan="2" style="width:69.86%">			<p>Finance</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>医疗管理</p>			</td>			<td colspan="2" style="width:69.86%">			<p>Health Care Management</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>卫生科学</p>			</td>			<td colspan="2" style="width:69.86%">			<p>Health Science</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>酒店管理</p>			</td>			<td colspan="2" style="width:69.86%">			<p>Hospitality Management</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>人力资源</p>			</td>			<td colspan="2" style="width:69.86%">			<p>Human Resources Management</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>信息系统</p>			</td>			<td colspan="2" style="width:69.86%">			<p>Information Systems</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>管理</p>			</td>			<td colspan="2" style="width:69.86%">			<p>Management</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>市场营销</p>			</td>			<td colspan="2" style="width:69.86%">			<p>Marketing</p>			</td>		</tr>		<tr>			<td style="width:30.14%">			<p>娱乐与休闲研究</p>			</td>			<td colspan="2" style="width:69.86%">			<p>Recreation and Leisure Studies</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=SrWl9LxBwCpmLkwkIIIIIkrN9cXoHl0-EdRgF6CLI5X6J9ZWTsOeZEit_LGrjHXUGluIiB7rf6HefhDg6mzp7d5tMPhfYhFGutUzuB1YEmvgF6Y0shkIMC0h5-QADpYop-lhDh7VkhxEDpF8whxrMy95Pgsc_oE_Re2cehI2yTYEPXYEM8ZAjFvgDS78DzikwaIcbMY3pYarMHbaR9AUkCvHGok-6tQGi7yGMfVAjl" target="_blank">Degrees</a> CSULB</p><p>(2) <a href="http://www.qianmu.org/redirect?code=rrcuJRYHLdft_3AUHHHHHKt9FkvBQKDAR_LuOn7jIVAEH2kZ_tfO-dJOMUg9F6mrdE7aWYR7gYRwgcYuDCVBHUQ1Ce_9zedRu3cInv-kEs9kPd9ZpubcN0BuYiw7OHpNzehg3FBWOCi" target="_blank">Programs at a Glance</a> College of Business Administration, CSULB</p><p>&nbsp;</p><h2>工程学院</h2><p>加州州立大学长滩分校工程学院（College of Engineering）研究生阶段开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:27.72%">			<p>专业名称</p>			</td>			<td style="width:39.78%">			<p>专业英文名称</p>			</td>			<td style="width:32.5%">			<p>开设学位</p>			</td>		</tr>		<tr>			<td style="width:27.72%">			<p>航空航天工程</p>			</td>			<td style="width:39.78%">			<p>Aerospace Engineering</p>			</td>			<td style="width:32.5%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:27.72%">			<p>土木工程</p>			</td>			<td style="width:39.78%">			<p>Civil Engineering</p>			</td>			<td style="width:32.5%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:27.72%">			<p>计算机科学</p>			</td>			<td style="width:39.78%">			<p>Computer Science</p>			</td>			<td style="width:32.5%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:27.72%">			<p>计算机科学（计算机工程方向）</p>			</td>			<td style="width:39.78%">			<p>Computer Science Option in Computer Engineering</p>			</td>			<td style="width:32.5%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:27.72%">			<p>计算机科学（计算机科学方向）</p>			</td>			<td style="width:39.78%">			<p>Computer Science Option in Computer Science</p>			</td>			<td style="width:32.5%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:27.72%">			<p>电气工程</p>			</td>			<td style="width:39.78%">			<p>Electrical Engineering</p>			</td>			<td style="width:32.5%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:27.72%">			<p>工程（交叉学科）</p>			</td>			<td style="width:39.78%">			<p>Engineering (Interdisciplinary)</p>			</td>			<td style="width:32.5%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:27.72%">			<p>机械工程</p>			</td>			<td style="width:39.78%">			<p>Mechanical Engineering</p>			</td>			<td style="width:32.5%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:27.72%">			<p>工程与工业应用数学</p>			</td>			<td style="width:39.78%">			<p>Engineering and Industrial Applied Mathematics</p>			</td>			<td style="width:32.5%">			<p>PhD（与克莱蒙特研究大学合作开设）</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=qrTydP_7LlbvUg4m99999ml_e7oIzZMkv2lHtUvk_TiGUJlqftYHcJLMNtzEjRLMyi31ftp6ftrAj-N1M52aeIE6IoVCeIVytxn4ExbJtQE6RDV6iWasPXALXE0jibxZiAE1yE0j54MjpYV6iWasPXALXECLpDAjiDAoibF6pmefpCQWKuyzwC2mpBmkPqkIgd2mpq2Zod6APdQNcdF3Pqn" target="_blank">Degrees</a> CSULB</p><p>(2) <a href="http://www.qianmu.org/redirect?code=MrO2caiNkGpktwGAWWWWWXyLpADnBaZTaNYAv_Hwne1OFTgWh2un2qDnHJ3LprljU129-GF6zGFszKgm3CRQbMUvla431a_czO1Qd_sNS6HIjQHjxZftXFjlam85c1ZgsvBfZ3JhbXM" target="_blank">Programs at a Glance</a> College of Engineering, CSULB</p><p>&nbsp;</p><h3>计算机科学</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:17.0%">			<p><a href="http://www.qianmu.org/USNEWS%E6%8E%92%E5%90%8D" target="_blank">USNEWS排名</a></p>			</td>			<td style="width:11.96%">			<p>-</p>			</td>			<td style="width:17.12%">			<p>学费（/学期）</p>			</td>			<td style="width:15.38%">			<p>$4,116</p>			</td>			<td style="width:20.52%">			<p>申请截止日期</p>			</td>			<td style="width:18.02%">			<p>4月15日</p>			</td>		</tr>		<tr>			<td style="width:17.0%">			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td style="width:11.96%">			<p>61</p>			</td>			<td style="width:17.12%">			<p><a href="http://www.qianmu.org/GPA" target="_blank">GPA</a>要求</p>			</td>			<td style="width:15.38%">			<p>2.7</p>			</td>			<td style="width:20.52%">			<p>可申请学期</p>			</td>			<td style="width:18.02%">			<p>秋季、春季</p>			</td>		</tr>		<tr>			<td style="width:17.0%">			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td style="width:11.96%">			<p>5.5</p>			</td>			<td style="width:17.12%">			<p><a href="http://www.qianmu.org/GRE" target="_blank">GRE</a>要求</p>			</td>			<td style="width:15.38%">			<p>Recommend</p>			</td>			<td style="width:20.52%">			<p><a href="http://www.qianmu.org/GRE%20Subject" target="_blank">GRE Subject</a></p>			</td>			<td style="width:18.02%">			<p>Not required</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)</p><p>注：</p><p>（1）此处排名为2015USNEWS美国计算机科学排名，加州州立大学长滩分校未入榜</p><p>（2）此处学杂费针对的是2017-2018学年，以每学期修7+个学分（units）计算，国际学生每学分费用在此基础+$396。需要注意的是，该费用每年会有小幅（一般不超过5%）上涨*(1)</p><p>（3）该项目接受秋季和春季学期入学申请，截止日期分别为4月15日和10月1日*(2)</p><p>（4）加州州立大学长滩分校研究生项目要求TOEFL总分不低于61分，IELTS单项分数均不低于5.5，PTE总分不低于43分，如参加该校美国语言研究所（American Language Institute）的语言课程，须达到4级（Level 4）*(3)</p><p><strong>申请说明</strong></p><p>加州州立大学长滩分校计算机科学硕士（MS in Computer Science）为期1.5-2年，共需修读30个学分，学生可选择毕业考试或撰写研究论文，最近的论文课题涉及虚拟代理、数据挖掘、软件质量保证、演化算法、神经网络和分布式网络计算。该项目要求申请者本科毕业，拥有计算机工程、计算机科学或拥有足够的计算机科学或计算机工程背景，本科最后60个学分（Semester学制）或90个学分（Quarter学制），通常是本科最后2年GPA2.7以上，如GPA不足3.0，则强烈建议递交GRE成绩，不要求推荐信，可授予条件录取。该项目课程覆盖软件工程、网络、网页设计、游戏编程、建模与仿真、计算机架构、人工智能、计算机图形等，设有以下两个Option，分别是：*(4)(5)</p><ul>	<li>计算机工程（Option in Computer Engineering）：主要课程围绕计算机硬件和软件的理论、分析、设计与应用*(6)</li>	<li>计算机科学（Option in Computer Science）：主要课程围绕软件开发与工程、网络、操作系统、分布式计算、人工智能、安全、与算法分析。设有两个方向，分别是高等系统（Advanced Systems）和软件开发（Software Development）*(7)</li></ul><p><strong>前置课程</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:44.32%">			<p><strong>Computer Engineering Option</strong></p>			</td>			<td style="width:55.68%">			<p><strong>Computer Science Option</strong></p>			</td>		</tr>		<tr>			<td style="width:44.32%">			<p>CECS 274 - Programming and Problem Solving II</p>			</td>			<td style="width:55.68%">			<p>CECS 228 - Discrete Structures with Computer Science Applications</p>			</td>		</tr>		<tr>			<td style="width:44.32%">			<p>CECS 301 - Computer Logic Design II</p>			</td>			<td style="width:55.68%">			<p>CECS 274 - Programming and Problem Solving II</p>			</td>		</tr>		<tr>			<td style="width:44.32%">			<p>CECS 325 - Computer Organization and Assembly Language</p>			</td>			<td style="width:55.68%">			<p>CECS 323 - Database Fundamentals</p>			</td>		</tr>		<tr>			<td style="width:44.32%">			<p>CECS 326 - Operating Systems</p>			</td>			<td style="width:55.68%">			<p>CECS 325 - Computer Organization and Assembly Language</p>			</td>		</tr>		<tr>			<td style="width:44.32%">			<p>CECS 346 - Microprocessors and Controllers I</p>			</td>			<td style="width:55.68%">			<p>CECS 326 - Operating Systems</p>			</td>		</tr>		<tr>			<td style="width:44.32%">			<p>CECS 347 - Microprocessors and Controllers II</p>			</td>			<td style="width:55.68%">			<p>CECS 328 - Discrete Structures with Computer Science Applications II</p>			</td>		</tr>		<tr>			<td style="width:44.32%">			<p>CECS 360 - Integrated Circuit Design Software</p>			</td>			<td style="width:55.68%">			<p>CECS 424 - Organization of Programming Languages</p>			</td>		</tr>		<tr>			<td style="width:44.32%">			<p>CECS 440 - Computer Architecture</p>			</td>			<td style="width:55.68%">			<p>CECS 440 - Computer Architecture</p>			</td>		</tr>		<tr>			<td style="width:44.32%">			<p>CECS 443 - Software Engineering</p>			</td>			<td style="width:55.68%">			<p>CECS 443 - Software Engineering</p>			</td>		</tr>		<tr>			<td style="width:44.32%">			<p>MATH 370A - Applied Math 1</p>			</td>			<td style="width:55.68%">			<p>MATH 380 - Probability and Statistics</p>			</td>		</tr>	</tbody></table><p>*(4)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=KruBHN7EwgqXDKS3ez5mWyFQSuWRcmIziLIfXxBxFamRfwGINOIj69I5G6h9gudrHLw1yw41vZ1PdhueC3kYKfUQqTsqDWF_4Q1yjvhdh5po2Xz5hskDUuu0dF0Zi" target="_blank">Tuition and Fees</a> CSULB</p><p>(2) <a href="http://www.qianmu.org/redirect?code=urKrNAmpwOBAjWiNeZxICIhBnPcJjw31MtrovQnjzBtqwWvXEdiCklmTj1hHJrdTi8uO9LfbGuzjBfAZAvl8F1GLA-zMllfR6jdkkvpO97uIHc2phKJX5rj" target="_blank">Graduate Programs and Academic Advisors</a> CSULB</p><p>(3) <a href="https://www.ccpe.csulb.edu/International/about.aspx?pID=10" target="_blank">English Language Requirement</a> CSULB</p><p>(4) <a href="https://www.csulb.edu/college-of-engineering/cecs-graduate-programs" target="_blank">CECS Graduate Programs</a> CSULB</p><p>(5) <a href="http://www.qianmu.org/redirect?code=PrgaXqFhwkcdGu4hvvvvvAyDpAb5PTjHFtyXEMm4GRjEUArd_aZTOCpTXwAXbT8KeSCBhAHXTAHwTZ9XxGrAiprRrXPzeXsOp0SvmgEi0hogGxbnTCYcVdYiXS9NVAXyaFeSu87PuK4RvcMwJe6H8tBoW4LGMPrjlBWjxBgZ9X3G" target="_blank">Master of Science in Computer Science</a> CSULB</p><p>(6) <a href="http://www.qianmu.org/redirect?code=SrWl9LuqkW_gBh-dAo2jPuCKXU1JlidU8Cb6J7pFRU9FS7ETzYJSA5smgKC5E6DipKIR5U1Lw3TDPGCHpXUcj_fQahre4U_oBrRWWMKRaTBfw3QE3Ge7n7LrMRMUk8NRTi_wYMejMhYY1wWFsFn1RkI0K3Za1R55tyw1" target="_blank">Master of Science in Computer Science - Option in Computer Engineering</a> CSULB</p><p>(7) <a href="http://www.qianmu.org/redirect?code=Gr-dDkhwkxAv4NEtOOOOOyDoZ5uSJofRztZcXmlRd_y4N8aolGL8AwT8yc1H2NK1nSm4um3pjm3Cj0i9TdA5lWFAderDTeNnkn6aHVAS2JfB4quPMjj5x8jCbljPCbSj5xLvGhpfUt-T0l526rR_QoZ5us12" target="_blank">Master of Science in Computer Science - Option in Computer Science</a> CSULB</p><p>&nbsp;</p><h3>电气工程</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:17.0%">			<p><a href="http://www.qianmu.org/USNEWS%E6%8E%92%E5%90%8D" target="_blank">USNEWS排名</a></p>			</td>			<td style="width:11.96%">			<p>-</p>			</td>			<td style="width:17.12%">			<p>学费（/学期）</p>			</td>			<td style="width:15.38%">			<p>$4,116</p>			</td>			<td style="width:20.52%">			<p>申请截止日期</p>			</td>			<td style="width:18.02%">			<p>4月15日</p>			</td>		</tr>		<tr>			<td style="width:17.0%">			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td style="width:11.96%">			<p>61</p>			</td>			<td style="width:17.12%">			<p><a href="http://www.qianmu.org/GPA" target="_blank">GPA</a>要求</p>			</td>			<td style="width:15.38%">			<p>无</p>			</td>			<td style="width:20.52%">			<p>可申请学期</p>			</td>			<td style="width:18.02%">			<p>秋季、春季</p>			</td>		</tr>		<tr>			<td style="width:17.0%">			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td style="width:11.96%">			<p>5.5</p>			</td>			<td style="width:17.12%">			<p><a href="http://www.qianmu.org/GRE" target="_blank">GRE</a>要求</p>			</td>			<td style="width:15.38%">			<p>Required</p>			</td>			<td style="width:20.52%">			<p><a href="http://www.qianmu.org/GRE%20Subject" target="_blank">GRE Subject</a></p>			</td>			<td style="width:18.02%">			<p>Not required</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)</p><p>注：</p><p>（1）此处排名为2018USNEWS美国电气与电子工程排名，加州州立大学长滩分校未入榜</p><p>（2）此处学杂费针对的是2017-2018学年，以每学期修7+个学分（units）计算，国际学生每学分费用在此基础+$396。需要注意的是，该费用每年会有小幅（一般不超过5%）上涨*(1)</p><p>（3）该项目接受秋季和春季学期入学申请，截止日期分别为4月15日和10月1日*(2)</p><p>（4）加州州立大学长滩分校研究生项目要求TOEFL总分不低于61分，IELTS单项分数均不低于5.5，PTE总分不低于43分，如参加该校美国语言研究所（American Language Institute）的语言课程，须达到4级（Level 4）*(3)</p><p><strong>申请说明</strong></p><p>加州州立大学长滩分校计算机科学硕士（MS in Computer Science）为期1.5-2年，共需修读30个学分，学生可选择毕业考试或撰写研究论文，要求申请者本科毕业，拥有电气工程、工程、自然科学或其它与之相关背景，本科最后60个学分（Semester学制）或90个学分（Quarter学制），通常是本科最后2年GPA2.8以上，要求递交GRE成绩，但未设定有最低分数要求。该项目允许学生课程围绕以下方向，如通信、数字信号处理与网络、控制系统与机器人、数字系统与计算机、电子与电力，部分学生可获得有限名额的实验室助研和TA奖学金*(4)(5)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=kr53aGRgwEi9XayZuuuuuub701hrS-UYPnpYpYra9npd06oSK3YCBp7WONE4UfSGdWeGEnph7dpQ7HIqcmIF7DobP3Z5G3s2uG4vyTMSSlkwpxks6dbVd" target="_blank">Tuition and Fees</a> CSULB</p><p>(2) <a href="http://www.qianmu.org/redirect?code=zrQ-nHCZk_OdHzCfYYYYYYAcJkgafCTNjZq7SGtbfq2jTvnSF5Fcw9PcXR-kzv79x4Jpqyhz9yhWc6S19eS1KaoZUg81cJR9K5x8GJAzbVPdFfL" target="_blank">Graduate Programs and Academic Advisors</a> CSULB</p><p>(3) <a href="https://www.ccpe.csulb.edu/International/about.aspx?pID=10" target="_blank">English Language Requirement</a> CSULB</p><p>(4) <a href="http://www.qianmu.org/redirect?code=frh1ZEiCwBdbNxIBwwwwwIwMCaAX95RmefjqjqGo0Guo_ZCayYcLNolvn3xEc3eYzG4BCYEFoAhBC98lfXMlXJpGulLG2fyDPa09-U05GpEz5uBUih8CXd8-" target="_blank">EE Graduate Programs</a> CSULB</p><p>(5) <a href="http://www.qianmu.org/redirect?code=JrvWrUcTk1JUIseIQQQQQesoZ5uSJofRyqQ8ypZcKg8rike3dZNPd5cP-0XQN6JlqK37HwSAbwSKbS-3CY_HOnXRCZh93ZAmYl3PEAXggQOlZerczyIsG1W2PyKREgGREJAd7Gt1qjatZfXYdC-5476YU9g7J" target="_blank">Master of Science in Electrical Engineering</a> CSULB</p><p>&nbsp;</p><h2>自然科学与数学学院</h2><p>加州州立大学长滩分校自然科学与数学学院（College of Natural Science and Mathematics）研究生阶段开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:26.6%">			<p>专业名称</p>			</td>			<td style="width:46.8%">			<p>专业英文名称</p>			</td>			<td style="width:26.6%">			<p>开设学位</p>			</td>		</tr>		<tr>			<td style="width:26.6%">			<p>生物化学</p>			</td>			<td style="width:46.8%">			<p>Biochemistry</p>			</td>			<td style="width:26.6%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.6%">			<p>生物</p>			</td>			<td style="width:46.8%">			<p>Biology</p>			</td>			<td style="width:26.6%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.6%">			<p>化学</p>			</td>			<td style="width:46.8%">			<p>Chemistry</p>			</td>			<td style="width:26.6%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.6%">			<p>地质学</p>			</td>			<td style="width:46.8%">			<p>Geology</p>			</td>			<td style="width:26.6%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.6%">			<p>数学</p>			</td>			<td style="width:46.8%">			<p>Mathematics</p>			</td>			<td style="width:26.6%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.6%">			<p>微生物学</p>			</td>			<td style="width:46.8%">			<p>Microbiology</p>			</td>			<td style="width:26.6%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.6%">			<p>物理</p>			</td>			<td style="width:46.8%">			<p>Physics</p>			</td>			<td style="width:26.6%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.6%">			<p>科学教育</p>			</td>			<td style="width:46.8%">			<p>Science Education</p>			</td>			<td style="width:26.6%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.6%">			<p>统计学</p>			</td>			<td style="width:46.8%">			<p>Statistics</p>			</td>			<td style="width:26.6%">			<p>MS</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=WrSJLFTqweEsczd7MGdDzbB6-F7m5-IBCdY5rkiYFRX4WKYyZz49yZAZImhdGGmCjeY1EOPaCAUV1uYYv1oxNdpVCgXGhKdIB8G4ad-ho_o0uwey1klTvFiUOfTFiIAe05fXQ6n1q_0fbUvxTeXUhXaoKpVrYfbLiIAe05d9nSfTPobdI_3fdjkXB8AYNeYSfhowqNrj3OBSBpwrkhdF-trCKv6h1rOp51t9817YPtctUHfTFN" target="_blank">Degrees</a> CSULB</p><p>(2) <a href="http://www.qianmu.org/redirect?code=rrcuJR6Ww_8kIpxGx-iQa-FmCGj-j0h1Tel407dQzSoGg3PPiFfgccCqOfhRo7yRxJU1Tz9kNsvafB6-bSt9bBGmqrps0Kf3D290BBldDo-AY-1_fB6bl0thNfSxP3u23lfS2aZNn9hFfDQ-uLacFfB" target="_blank">Programs at a Glance</a> College of Natural Science and Mathematics, CSULB</p><p>&nbsp;</p><h2>通识教育学院</h2><p>加州州立大学长滩分校通识教育学院（College of Liberal Arts）研究生阶段开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:28.24%">			<p>专业名称</p>			</td>			<td style="width:63.0%">			<p>专业英文名称</p>			</td>			<td style="width:8.76%">			<p>开设学位</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>人类学</p>			</td>			<td style="width:63.0%">			<p>Anthropology</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>亚洲研究</p>			</td>			<td style="width:63.0%">			<p>Asian Studies</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>亚洲研究（中国研究方向）</p>			</td>			<td style="width:63.0%">			<p>Asian Studies - Option in Chinese Studies</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>亚洲研究（日本语言与教学法方向）</p>			</td>			<td style="width:63.0%">			<p>Asian Studies - Option in Japanese Language and Pedagogy (JLP)</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>传播研究</p>			</td>			<td style="width:63.0%">			<p>Communication Studies</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>经济学</p>			</td>			<td style="width:63.0%">			<p>Economics</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>英语</p>			</td>			<td style="width:63.0%">			<p>English</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>创意写作</p>			</td>			<td style="width:63.0%">			<p>Creative Writing</p>			</td>			<td style="width:8.76%">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>法语文化研究</p>			</td>			<td style="width:63.0%">			<p>French and Francophone Studies</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>地理</p>			</td>			<td style="width:63.0%">			<p>Geography</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>地理信息科学</p>			</td>			<td style="width:63.0%">			<p>Geographic Information Science</p>			</td>			<td style="width:8.76%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>德语</p>			</td>			<td style="width:63.0%">			<p>German</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>历史</p>			</td>			<td style="width:63.0%">			<p>History</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>意大利研究</p>			</td>			<td style="width:63.0%">			<p>Italian Studies</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>语言学</p>			</td>			<td style="width:63.0%">			<p>Linguistics</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>语言学（一般研究）</p>			</td>			<td style="width:63.0%">			<p>Linguistics &ndash; Option in General Linguistics</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>语言学（语言与文化方向）</p>			</td>			<td style="width:63.0%">			<p>Linguistics &ndash; Option in Language and Culture</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>语言学（对外英语教学方向）</p>			</td>			<td style="width:63.0%">			<p>Linguistics &ndash; Option in Teaching English to Speakers of Other Languages</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>哲学</p>			</td>			<td style="width:63.0%">			<p>Philosophy</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>政治科学</p>			</td>			<td style="width:63.0%">			<p>Political Science</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>心理学（心理研究方向）</p>			</td>			<td style="width:63.0%">			<p>Psychology - Option in Psychological Research</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>心理学（人因方向）</p>			</td>			<td style="width:63.0%">			<p>Psychology &ndash; Option in Human Factors</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>心理学（工业与组织心理学方向）</p>			</td>			<td style="width:63.0%">			<p>Psychology &ndash; Option in Industrial and Organizational Psychology</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>宗教研究</p>			</td>			<td style="width:63.0%">			<p>Religious Studies</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>应用社会学</p>			</td>			<td style="width:63.0%">			<p>Applied Sociology</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:28.24%">			<p>西班牙语</p>			</td>			<td style="width:63.0%">			<p>Spanish</p>			</td>			<td style="width:8.76%">			<p>MA</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=kr53aGRdwTChv_xwo2nRizOkq2i3nDHfE5rf0JT3fPE8yWAeVz0lhBodvydP8IOeQh9flJtRRbzmhuVFCPdvfO7tWkxJv_dytbQ7iOoO20djjVokdf7yfe-hW18t2dnXjV1NXBVQazzflfrMGbNdBgszz6-wB16q2dnXjVzKlhEWU1LBQTKs68MVfOfryWewgfpXtSRbebdA_ncrmDsh7iOo9cncdwLnlEV_7zGehcA1IW18tg" target="_blank">Degrees</a> CSULB</p><p>(2) <a href="http://www.qianmu.org/redirect?code=srULj0BUL-Fj73QHujcz8TSDAf6s5Viw2vSmhToTaOCd4irBoahCVqirBht9BnmZc9BaY8NKPBB5S32w0XZl1SVGw-VZ2uhctCE9mNjto9-5bcwU" target="_blank">Programs at a Glance</a> College of Liberal Arts, CSULB</p><p>&nbsp;</p><h2>健康与人类服务学院</h2><p>加州州立大学长滩分校健康与人类服务学院（College of Health and Human Services）研究生阶段开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:33.36%">			<p>专业名称</p>			</td>			<td style="width:54.8%">			<p>专业英文名称</p>			</td>			<td style="width:11.84%">			<p>开设学位</p>			</td>		</tr>		<tr>			<td style="width:33.36%">			<p>运动学</p>			</td>			<td style="width:54.8%">			<p>Kinesiology</p>			</td>			<td style="width:11.84%">			<p>MA、MS</p>			</td>		</tr>		<tr>			<td style="width:33.36%">			<p>言语-语言病理学（交际障碍）</p>			</td>			<td style="width:54.8%">			<p>Speech-Language Pathology (Communicative Disorders)</p>			</td>			<td style="width:11.84%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:33.36%">			<p>刑事司法与犯罪学</p>			</td>			<td style="width:54.8%">			<p>Criminal Justice and Criminology</p>			</td>			<td style="width:11.84%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.36%">			<p>紧急服务管理</p>			</td>			<td style="width:54.8%">			<p>Emergency Services Administration</p>			</td>			<td style="width:11.84%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.36%">			<p>老年学</p>			</td>			<td style="width:54.8%">			<p>Gerontology</p>			</td>			<td style="width:11.84%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.36%">			<p>医疗管理</p>			</td>			<td style="width:54.8%">			<p>Health Care Administration</p>			</td>			<td style="width:11.84%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.36%">			<p>卫生科学</p>			</td>			<td style="width:54.8%">			<p>Health Science</p>			</td>			<td style="width:11.84%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.36%">			<p>护理</p>			</td>			<td style="width:54.8%">			<p>Nursing</p>			</td>			<td style="width:11.84%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.36%">			<p>营养科学</p>			</td>			<td style="width:54.8%">			<p>Nutritional Science</p>			</td>			<td style="width:11.84%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.36%">			<p>娱乐管理</p>			</td>			<td style="width:54.8%">			<p>Recreation Administration</p>			</td>			<td style="width:11.84%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:33.36%">			<p>公共管理</p>			</td>			<td style="width:54.8%">			<p>Master of Public Administration</p>			</td>			<td style="width:11.84%">			<p>MPA</p>			</td>		</tr>		<tr>			<td style="width:33.36%">			<p>公共卫生（社区卫生教育）</p>			</td>			<td style="width:54.8%">			<p>Master of Public Health: Community Health Education</p>			</td>			<td style="width:11.84%">			<p>MPH</p>			</td>		</tr>		<tr>			<td style="width:33.36%">			<p>社会工作</p>			</td>			<td style="width:54.8%">			<p>Master of Social Work</p>			</td>			<td style="width:11.84%">			<p>MSW</p>			</td>		</tr>		<tr>			<td style="width:33.36%">			<p>护理实践</p>			</td>			<td style="width:54.8%">			<p>Doctor of Nursing Practice</p>			</td>			<td style="width:11.84%">			<p>DNP</p>			</td>		</tr>		<tr>			<td style="width:33.36%">			<p>物理治疗</p>			</td>			<td style="width:54.8%">			<p>Doctor of Physical Therapy</p>			</td>			<td style="width:11.84%">			<p>DPT</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=jr4AsclmwnkBwmnpXbJ1JmFVZziMtPGh68mMowt8OUz4QDlgqOnzW4Dlg3OGjf8DsKNBvO5fY1Q3OUSDQM-o3BvlGHYCgAOaaRtcRXH1Omzf5I2e1J8mLUv2JOOZfEDsXvz1PrnUlVBfNmW4mEMRODZRvMBSNBvY_pj1j7dq-lKO0l_OaSsKMsgbFWsp3wSNezp1rHYmdlB-IbfOxufd4RTAIcdE1O-RTvYXiBFY5h7mQZOOZ7" target="_blank">Degrees</a> CSULB</p><p>(2) <a href="http://www.qianmu.org/redirect?code=_r75g1qsLWal5BDQnnnnn4G1JbA-H9dlPZF6fDC-PXS6fDFjJYdjyFp15IxLpDelpcMlpIMZycScVBHUc81NHa1nYKR7ok-6Z4K_hz97R19ERLsE6B3_TLKu6BN_w4N6fB8n" target="_blank">Programs at a Glance</a> College of Health and Human Services, CSULB</p><p>&nbsp;</p><h2>教育学院</h2><p>加州州立大学长滩分校健康与人类服务学院（College of Health and Human Services）研究生阶段开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:29.26%">			<p>专业名称</p>			</td>			<td style="width:61.68%">			<p>专业英文名称</p>			</td>			<td style="width:9.06%">			<p>开设学位</p>			</td>		</tr>		<tr>			<td style="width:29.26%">			<p>教育</p>			</td>			<td style="width:61.68%">			<p>Education</p>			</td>			<td style="width:9.06%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:29.26%">			<p>教育学（教育管理方向）</p>			</td>			<td style="width:61.68%">			<p>Education with Option in Educational Administration</p>			</td>			<td style="width:9.06%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:29.26%">			<p>教育学（教育心理学方向）</p>			</td>			<td style="width:61.68%">			<p>Education with Option in Educational Psychology</p>			</td>			<td style="width:9.06%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:29.26%">			<p>教育学（教育技术与媒体领导方向）</p>			</td>			<td style="width:61.68%">			<p>Education with Option in Educational Technology and Media Leadership</p>			</td>			<td style="width:9.06%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:29.26%">			<p>教育学（课程与教学方向）</p>			</td>			<td style="width:61.68%">			<p>Education with Option in Curriculum and Instruction</p>			</td>			<td style="width:9.06%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:29.26%">			<p>教育学（双语开发方向）</p>			</td>			<td style="width:61.68%">			<p>Education with Option in Dual Language Development</p>			</td>			<td style="width:9.06%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:29.26%">			<p>教育学（早期儿童教育方向）</p>			</td>			<td style="width:61.68%">			<p>Education with Option in Early Childhood Education</p>			</td>			<td style="width:9.06%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:29.26%">			<p>教育学（数学教育方向）</p>			</td>			<td style="width:61.68%">			<p>Education with Option in Mathematics Education</p>			</td>			<td style="width:9.06%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:29.26%">			<p>教育学（教育社会与文化分析方向）</p>			</td>			<td style="width:61.68%">			<p>Education with Option in Social and Cultural Analysis of Education</p>			</td>			<td style="width:9.06%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:29.26%">			<p>特殊教育</p>			</td>			<td style="width:61.68%">			<p>Special Education</p>			</td>			<td style="width:9.06%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.26%">			<p>咨询</p>			</td>			<td style="width:61.68%">			<p>Counseling</p>			</td>			<td style="width:9.06%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.26%">			<p>咨询（婚姻与家庭治疗方向）</p>			</td>			<td style="width:61.68%">			<p>Counseling with Options in: Marriage and Family Therapy (MFT)</p>			</td>			<td style="width:9.06%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.26%">			<p>咨询（学校咨询方向）</p>			</td>			<td style="width:61.68%">			<p>Counseling with Options in: School Counseling</p>			</td>			<td style="width:9.06%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.26%">			<p>咨询（高等教育学生发展方向）</p>			</td>			<td style="width:61.68%">			<p>Counseling with Options in: Student Development in Higher Education</p>			</td>			<td style="width:9.06%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:29.26%">			<p>学校心理学</p>			</td>			<td style="width:61.68%">			<p>School Psychology</p>			</td>			<td style="width:9.06%">			<p>Ed.S</p>			</td>		</tr>		<tr>			<td style="width:29.26%">			<p>教育领导</p>			</td>			<td style="width:61.68%">			<p>Educational Leadership</p>			</td>			<td style="width:9.06%">			<p>Ed.D</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=YrwF0vrgLIup47nqDDDDDqZuah5mwno209pR34rm0yfR34pEaToRpCrX4WOgZCrLADtn4U2n4s5EZMtg0h7jBWjGev81VYRyqwLJqduygJhvRdXVx04bKEb17_X9gJXK1mh17_L2zBxcB04Ss_RdA9kACfsrgFkO5Fka5EUZgRe6bLnV5FftbYK6cKX_MXHZgYK6M4NcpFHj2F0SfFiM2XC" target="_blank">Degrees</a> CSULB</p><p>(2) <a href="http://www.qianmu.org/redirect?code=DroIGDyvke4w3VsdNNNNN7M71059d2IHoO9ECd_MNZCzXEiyrgG9ST59f_xK9THGRQ4jJvimSviQSXuFsoON9iypQlf_ilwJILbxYiKrp8wS4OJa4RnuzAWqDmVbZHuNiqcYV7Z_V7w0CZH" target="_blank">Programs at a Glance</a> College of Education, CSULB</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2020-09-25</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1511;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1511' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1511;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

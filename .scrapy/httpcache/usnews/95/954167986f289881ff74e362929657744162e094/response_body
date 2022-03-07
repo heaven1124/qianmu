@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>利物浦-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="利物浦" />
+<meta name="description"  id="description"  content="利物浦:利物浦（Liverpool），是英格兰西北部著名港口城市，是默西赛德都市郡的5个自治市之一，由利物浦市议会治理，2002年市内人口441,477人，而整个默西河畔都市区的人口共有1,362,026人。" />
+
+
+<link href="/r/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css?v=1.2" rel="stylesheet" type="text/css" >
+<link href="/r/css/animate.css" rel="stylesheet">
+<link href="/r/css/style.css" rel="stylesheet">
+<link href="/r/css/colors/default.css" id="theme"  rel="stylesheet">
+<link href="/r/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+<link href="/r/plugins/bower_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/common.css?v=1.2">
+  <link href="/css/comment.css?v=" rel="stylesheet">  
+<link rel="stylesheet" type="text/css" href="/resources/plugins/qianmu/css/qianmu.css?v=1.2">
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico">
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">利物浦 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p>坐标</p>
+			</td>
+			<td>
+			<p>53.4°N 3°W</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>国家</p>
+			</td>
+			<td>
+			<p>英国</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>地区</p>
+			</td>
+			<td>
+			<p><a href="http://www.qianmu.org/英格兰" target="_blank">英格兰</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>昵称</p>
+			</td>
+			<td>
+			<p>生活的天堂、智慧之城、一城现世界</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>人口</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>市区人口</p>
+			</td>
+			<td>
+			<p>466,415（2012）</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>人口密度</p>
+			</td>
+			<td>
+			<p>3,889/km<sup>2</sup></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>面积</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>面积</p>
+			</td>
+			<td>
+			<p>111.84 km<sup>2</sup></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>海拔</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>海拔</p>
+			</td>
+			<td>
+			<p>70m</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>著名学校</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>利物浦大学（University of Liverpool）</p>
+
+			<p>利物浦约翰莫尔斯大学（Liverpool John Moores University）</p>
+
+			<p>利物浦霍普大学（Liverpool Hope University）</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+					<div id="content"><p>利物浦（Liverpool），是<a  href='http://www.qianmu.org/英格兰' target='_blank'>英格兰</a>西北部著名港口城市，是默西赛德都市郡的5个自治市之一，由利物浦市议会治理，2002年市内人口441,477人，而整个默西河畔都市区的人口共有1,362,026人。排名英国第五，前四名是：大<a  href='http://www.qianmu.org/伦敦' target='_blank'>伦敦</a>市，<a  href='http://www.qianmu.org/伯明翰' target='_blank'>伯明翰</a>，<a  href='http://www.qianmu.org/格拉斯哥（苏格兰）' target='_blank'>格拉斯哥</a>，<a  href='http://www.qianmu.org/曼彻斯特' target='_blank'>曼彻斯特</a>。</p>
+
+<p>昔日利物浦市是英国著名的制造业中心，今日该市虽然已经失去了大部分制造业基础，仍是英格兰的核心城市之一，并且有着发达的旅游业。该市最为著名的是<a  href='http://www.qianmu.org/音乐' target='_blank'>音乐</a>（披头士乐队）与足球（有两支参加英超联的球会——利物浦和埃弗顿）。</p>
+
+<h2>历史</h2>
+
+<p>利物浦的名称来源有两个说法，一说利物浦在十二世纪被称为'Liuerpul'，意思是满是泥沙的池塘或小溪；另一个说法则是源于'elverpool'这名称，原因是以前默西河有大量鳗鱼（鳗鱼在<a  href='http://www.qianmu.org/英语' target='_blank'>英语</a>称作eel）。</p>
+
+<p>一般认为利物浦这个城市起源于1207年8月，当时国王约翰下了一道诏令建立利物浦市镇，。但直到16世纪中叶，利物浦还只是一个人口只有500人的小镇。英国内战期间，在1644年，经历了18天的围困。</p>
+
+<p>直到1650年代英国内战后，利物浦的贸易和居民人数才开始缓慢增长。1699年，利物浦成为一个堂区（parish）。同年，利物浦商人的第一艘奴隶船进行非洲航行。踏入十八世纪，同西印度群岛的贸易超过了同爱尔兰和欧洲的贸易，利物浦开始增长。</p>
+
+<p>1715年利物浦建成英国第一个船坞，而奴隶贸易的利润帮助该市迅速繁荣起来。到18世纪末，利物浦控制了欧洲41％，英国80％的奴隶贸易。同时这里也是英国工业革命的主要地区之一。</p>
+
+<p>到十九世纪初，40%的世界贸易通过利物浦船坞。1830年世界上第一条客运铁路在利物浦和曼彻斯特之间开通。利物浦的人口继续快速增加，最终成为英国第二大都市。利物浦有大量主要建筑落成(如圣乔治大厅、菩提树大街车站)，反映其财富。</p>
+
+<p>由于1845-1849的大饥荒，成千的爱尔兰人抵达这里。到1851年，城市几乎25%的人口都是在爱尔兰出生的。在20世纪的上半叶，利物浦的移民来自欧洲各地。二战期间，利物浦遭受了80次空袭，造成2500多人死亡，都会区几乎一半房屋受损。1952年，利物浦与另一个共享过空袭可怕经验的城市德国科隆结为友好城市。战后，城市进行大规模重建，包括住宅和锡福斯码头Seaforth Dock，英国最大的码头工程。</p>
+
+<p>1931年，利物浦的人口达到顶峰，为855688人。1961年下降到610114人，2001年人口进一步下降到439476人。</p>
+
+<p>在20世纪60年代，利物浦成为青年文化的中心。Merseybeat成为披头士等流行乐队的代名词，使该市一跃到流行乐坛的前面。</p>
+
+<p>自从20世纪70年代中期开始，利物浦的船坞和传统制造业急剧衰落。集装箱的来临意味着利物浦的码头成为过时。在20世纪80年代初，利物浦的失业率是英国的大城市中最高的。自90年代中期以来，利物浦的经济已经复苏，增长率高出全国平均水平。</p>
+
+<h2>地理与人口</h2>
+
+<p>利物浦位于英格兰西北部，默西河口的东岸，市中心距离爱尔兰海大约5英里。利物浦的地形起伏不平，穿越一条山脊，最高处是海拔高70米的爱华顿山。</p>
+
+<p><strong>人口</strong></p>
+
+<p>2002年，利物浦市内人口441,477人，而整个默西河畔都市区的人口共有1,362,026人。</p>
+
+<p>2009年，利物浦的人口中，91%是白人；3.0是亚裔人；1.9%是黑人；2.0%是混血；2.1%是华人。</p>
+
+<h2>经济</h2>
+
+<p>利物浦经济已从二次大战后的长期衰落中得到恢复。1995年到2001年已录得全年6.3%的增长。这与其他城市比较会较明显：内伦敦是5.8%，<a  href='http://www.qianmu.org/布里斯托' target='_blank'>布里斯托</a>是5.7%。1998年-2002年职位增长率9.2%，同期全国平均4.9%。</p>
+
+<p>和英国其他城市一样，这里的服务业有了巨大的发展，它拥有数家大型顾客服务中心，而部分港口亦改作通讯设施。</p>
+
+<p>旅游业也是利物浦市经济支柱，配备了大量高品质服务如旅馆、餐厅和俱乐部。利物浦的建筑不仅吸引了游客，还引来了电影制片人到此取景。</p>
+
+<h2>文化与教育</h2>
+
+<p>利物浦拥有多项高品质文化，不论在音乐、绘画、建筑等都有长足成就。2003年，利物浦获推选为利物浦欧洲文化之都2008，确认了利物浦文化之都之地位。</p>
+
+<p>利物浦有三所大学：利物浦大学，利物浦约翰穆尔斯大学，利物浦希望大学。</p>
+
+<h2>旅游名胜</h2>
+
+<p><strong>利物浦唐人街</strong></p>
+
+<p>虽然利物浦的大部分建筑兴建于18世纪中叶以后，但是也有一些建筑修建于此时以前。现存最古老的建筑物之一，是位于城南的都铎式庄园建筑斯皮克堂（Speke Hall），完成于1598年[26]。这是英格兰北部仅存的少数木筋墙都铎式住宅之一，在19世纪中叶增加<a  href='http://www.qianmu.org/维多利亚（英属哥伦比亚）' target='_blank'>维多利亚</a>式的内部。市中心内最古老的建筑是一级登录建筑Bluecoat Chambers，建于1717年到1718年，英国安妮女王式建筑，最初是蓝衣学校所在地，自1908年以来一直用作利物浦艺术中心。利物浦也有欧洲第一中国城，利物浦唐人街很大。</p>
+
+<p><strong>利物浦教堂</strong></p>
+
+<p>利物浦以拥有两个杰出的主教教堂著称。英国国教圣公会的利物浦教堂，建于1904年到1978年，是英国最大的主教教堂，和世界第五大主教教堂。它是哥特式建筑，被认为是20世纪最伟大的建筑物之一，英国桂冠诗人John Betjeman称之为“世界上伟大的建筑之一”。罗马天主教的利物浦基督君王都主教教堂（Liverpool Metropolitan Cathedral）兴建于1962年到1967年，是最早打破打破传统的纵向设计的教堂之一。</p>
+
+<p>近年来，利物浦市中心许多地方发生了多年衰落之后的显著重建和复兴。</p>
+
+<p>在利物浦还有许多其他著名的建筑物，包括艺术装饰主义的机场酒店、利物浦大学维多利亚大厦（“<a  href='http://www.qianmu.org/红砖大学' target='_blank'>红砖大学</a>”的术语由此得名）和阿德尔菲酒店（Adelphi Hotel），过去曾被认为是世界上最好的酒店之一。*(1)</p>
+
+<p>参考资料：</p>
+
+<p>(1)<a  href='http://www.qianmu.org/redirect?code=orDtO5ZokEmsA3nn777777jRtBLNxQShVd4hfkDRV8bumBDqOsSNjNSkV8EpLCieL2OWvcT4Mw3' target='_blank'> Liverpool</a> Wikipedia</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2014-06-20</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+ 
+<script type="text/javascript">
+	var ctx= '';
+	var uId='';
+	var vl='';
+	var et='';
+	var vipendtime="";
+	var wsip = 'ws://192.168.0.7:82/';
+	var ve='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	}   
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="/r/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/r/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="/r/js/jquery.slimscroll.js"></script>
+<script src="/r/plugins/bower_components/sweetalert/sweetalert.min.js"></script>
+<script src="/r/js/waves.js"></script>
+<script src="/r/js/custom.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+<script src="/r/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js"></script>
+<script type="text/javascript" src="/resources/plugins/summernote/summernote.js?v=1.2"></script>
+<script src="/r/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script type="text/javascript" src="/script/ajaxpage.js?v="></script>
+<script type="text/javascript" src="/resource/js/jquery.popdiv.js?v=1.2" ></script> 
+<script type="text/javascript" src="/resource/js/jquery.ads.js?v=1.2" type="text/javascript"></script> 
+<script type="text/javascript" src="/resources/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/plugins/validate/localization/messages_zh_CN.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/jquery.liveSearch.js?v=1.2"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/navliveSearch.js"></script>
+<script type="text/javascript" src="/resource/js/jquery.pop.js?v=1.2" ></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/pre.js?v=1.2"></script>
+<script type="text/javascript" src="/script/comments.js?v="></script>
+<script src="/r/js/qianmu.js"></script>
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1049;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1049' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1049;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>
